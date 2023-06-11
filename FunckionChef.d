@@ -26,6 +26,7 @@
  <Zarzad jednostek zegarow i licznikow elektroniycznych >
  <Zarzad higieny personalnej i obiektu>
  <Zarzad ekonomii nikotyny>
+<Zarząd struktury finansowej>!Christian Barwanietz WÜRZBURG Hubland
  <Zarzad gospodarki zywieniowej>
  <zarzad struktury finansowej> 
  <zarzad zdrowia personalnego Niezalezny pracownik + BHP>
