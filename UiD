@@ -59,7 +59,7 @@ Else if
 Else if !stay to 100>7Days[werifikation place to stay] to upgrade rang
 {
 {"$5MODIFY"[Query]  _!IN-REAL.TIME SSC+.JS+Html+Source+!console.developer
-{ "$6.SiteSourceCode">["Google.Microsoft/google/a@mazon.Valve.Apple.Samsung."][!Global "@dmin"] +suit "@Wlasciciel" 
+{ "$6.SiteSourceCode">["@Shakira/Google.Microsoft/google/a@mazon.Valve.Apple.Samsung."][!Global "@dmin"] +suit "@Wlasciciel" 
 {!do !Edit !dateEdit.(sql) !managementsql !Access
 <processRecrutation>{@<Gi<@W<!verify.Acess<@Query<@HeadAdmin<@J@*JuniorAdmin<@GlobalModerator<@Moderator<User   
 {
