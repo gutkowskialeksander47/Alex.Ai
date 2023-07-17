@@ -332,7 +332,7 @@ Orzeczenie odpowiedzialnosci karnej za dzialania na szkode polski i jej obywatel
 1.1 = 2.1     1  2   3  4  \"@HeadAdmin" AudiAdministrator 6 1   <Jezyk powielania bitowego, marketing, sponsor > {[]=Zarzad Orlenu}
 			    			V
 1.1 = 2.1     1  2   3  4  5BmwAdministrator 6 1 <IT , Marketing>
-1.1 = 2.1     1  2   3  4  5 6 7ABWdministrator 6v2 1v2  <Bezpieczenstwo>
+1.1 = 2.1     1  2   3  4  5 6 7ABWdministrator<MSWiA> 6v2 1v2  <Bezpieczenstwo>
 1.1 = 2.1     1  2   3  4  5ZollAdministrator 6 1     <Sicher>
 1.1 = 2.1     1  2   3  4  5InterPolAdministrator 6 1  <Wsparcie it,Hr>
 1.1 = 2.1     1  2   3  4  5PoliceAdministrator 6 1    >Copywrith<>prawa autorskie<
