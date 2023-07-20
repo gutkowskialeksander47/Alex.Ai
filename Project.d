@@ -64,7 +64,7 @@ Else if !stay to 100>7Days[werifikation place to stay] to upgrade rang
 <processRecrutation>{@<Gi<@W<!verify.Acess<@Query<@HeadAdmin<@J@*JuniorAdmin<@GlobalModerator<@Moderator<User   
 {
 [Zapytanie Cmd_%Text%]
-!_yes_*_no_;"Men"=<"Nichtalex.SandraAlex".>/ask
+!_yes_*_no_;"Men"=<"Nichtalex.NataliaAlex".>/ask
 ;<<1 1200  /GM-Root  _$$$_3 ,"System punktacji awansu" >>
 IRC QueryUiD<name> 192.168.3.102 <adress> 6697<port>                                                                              
 {Ssl/Tls  <;Pass;530377267
