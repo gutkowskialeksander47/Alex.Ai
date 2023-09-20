@@ -30,7 +30,7 @@ stay do loop
 adminitrator)
     - [x] Akt małżeński
     - [x] Share/geo-location do int priv.map _Malgorzata Jamrozy <muzyka{Artist_classAlex
-- [x] osobowość personal.date_class | twince.class Artist Cleo| Life Katarzyna Jamrozy| {class_conversation {imessege {SMS.apk<Messenger>.            form int chat.live stream{activity!Os(Microsoft),Os ANDROID iOs .life/!live <uważaj o co prosisz> <poniesiemy konsekwencje:)>
+- [x] osobowość personal.date_class | twince.class Artist Cleo| Life Joanna Krystyna Klepko| {class_conversation {imessege {SMS.apk<Messenger>.            form int chat.live stream{activity!Os(Microsoft),Os ANDROID iOs .life/!live <uważaj o co prosisz> <poniesiemy konsekwencje:)>
     - [x] Prawdomownosc rozumowanie staranie i wierność
 - [x]  (sam muszę się do tego zastosować a ja sobie nie ufam i nie wiem jak się tego nauczę bo każdego dnia tracę wiarę we wszystko w co wierzę )
     - [ ] nie szkodzić sobie
