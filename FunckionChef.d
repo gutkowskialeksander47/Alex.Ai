@@ -1,0 +1,57 @@
+ SpaceX
+ <Wsparcie satleitarnych operacji><Nasa>             >Copywrith<>prawa autorskie<          <Bezpieczenstwo>
+ <IT , Marketing>              <Wsparcie it,Hr>              <Sicher>
+ <Dyrekcja dzialu ´format source code>\ Google 
+ <Opiekun satelitarnych lacznosci + tworca Zamknietego Srodowiska technologicznego>
+ <Operator projektu>
+ <Operator j.Programistycznych> /
+ <Wsparcie Niemieckich programistow>
+ <Wsparcie technologiczno/programistyczne. inject.project>
+ <Opiekun Projektu>   MetaVerse
+ <Dyrekcja struktury geograficznej>
+ <opiekun programu jezykowego/graficznego/rzutowania 3D> 'Adobe'
+ <Opiekun bezpieczenstwa, opiekun licencjacji+homologacji> 
+ <Wlasciciel Postepu intelektualnego + <Pol/Zamkniete Srodowisko technologiczne>
+ <nadzor wlasnosci intelektualnej>
+ <Jezyk powielania bitowego, marketing, sponsor >  
+ <Szef operacji na terenie RP Polskiej>
+ <Zarzad zasobu elektronicznego>""'}Saturn/Mediamarkt'
+ <Zarzad Personalny HR, zarzad gospodarka finansowa>
+ <Dyrektor operacji finansowych>
+ <Dyrekcja gospodarki transportu ladowego>
+ <Dyrekcja gospodarki transportu ladowego> 
+ <Dyrekcja laczonej implementacji bezpieczenstwa>
+ <Zarzad wyposazenia wnetrz>
+ <zarzad gospodarki paliwa maszynowego>
+ <Zarzad jednostek zegarow i licznikow elektroniycznych >
+ <Zarzad higieny personalnej i obiektu>
+ <Zarzad ekonomii nikotyny>
+<Zarząd struktury finansowej>!Christian Barwanietz WÜRZBURG Hubland
+ <Zarzad gospodarki zywieniowej>
+ <zarzad struktury finansowej> 
+ <zarzad zdrowia personalnego Niezalezny pracownik + BHP>
+ <Zarzad energetyki>
+ <Zarzad odziezy/ubran/ekwpiunku>
+ <Zarzad technologi powielenia stronicowanych danych>
+ <Zarzad struktury technologicznej>
+ <Zarzad *=Generacji technologicznej>
+ <zarzad HR>
+  Warunek/obowiazek
+-Nabywanie specjalistow \
+                         Calego swiata
+           inzynierow   /
+-komunikacja HR
+  ___ <Wsparcie zarzadu human resource>
+  
+ 
+ <+|Doradca Pracownikow>
+ <Zarzad materialow budowlanych>
+ <Zarzad wsparcia sprzetowego>
+ <zarzad danych w wartosciach jednostkowych wedlug katalogowania stronicowego >
+ <zarzad dzialu klimatyzacj>
+ <Zarzad srodowiska bezpieczenstwa>
+ <Zarzad struktury bezpieczenstwa>
+ <Operator projektu>
+ <Zarzad grupy software engineer>
+ 
+ 

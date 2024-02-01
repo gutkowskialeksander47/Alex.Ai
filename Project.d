@@ -1,9 +1,9 @@
-  //Upowaznienie Google.inc do dostepu mentalnej wlasnosci intelektualnej oraz zastrzezenie praw prywatnosci przez kontrole wzgledem pracu postepu i osiagniec
+   //Upowaznienie Google.inc do dostepu mentalnej wlasnosci intelektualnej oraz zastrzezenie praw prywatnosci przez kontrole wzgledem pracu postepu i osiagniec
 ; =href!Google.com
 { google.@GlobalAdministrator !Authorify[a,b...xyz flags]
 {
 "@ignoreallunpermission" "W" '@Wszystko*'" Google  "<Generacja><zarzad konstruktywnego wdrazania projektow wedlug| szczebla kolejnosci| !priority |1 ... 10| +!workplace+test+version.official
--*=kontrola G'eneracji' Technologi<Generacja>+!<Intel>                                                                       info      crash      
+-*=kontrola G'eneracji' Technologi<Generacja>                                                                       info      crash      
 '@query' Girl+Google+"https://www.google.Com/acp")
 		 _  GoodGame  _
 ;"Vl"       GoodGirl
@@ -59,13 +59,13 @@ Else if
 Else if !stay to 100>7Days[werifikation place to stay] to upgrade rang
 {
 {"$5MODIFY"[Query]  _!IN-REAL.TIME SSC+.JS+Html+Source+!console.developer
-{ "$6.SiteSourceCode">["@Shakira/Google.Microsoft/google/a@mazon.Valve.Apple.Samsung."][!Global "@dmin"] +suit "@Wlasciciel" 
+{ "$6.SiteSourceCode">["Google.Microsoft/google/a@mazon.Valve.Apple.Samsung Meta"][!Global "@dmin"] +suit "@Wlasciciel" 
 {!do !Edit !dateEdit.(sql) !managementsql !Access
 <processRecrutation>{@<Gi<@W<!verify.Acess<@Query<@HeadAdmin<@J@*JuniorAdmin<@GlobalModerator<@Moderator<User   
 {
 [Zapytanie Cmd_%Text%]
-!_yes"+"_*_no"-"_;"Men"=<"Nichtalex.NataliaAlex".>/ask !ans +
-;<<1 1200  /GM-Root(Globalny moderator - Root  _$$$_3 ,"System punktacji awansu" >>//Administracji
+!_yes_*_no_;"Men"=<"Nichtalex.NataliaAlex".>/ask
+;<<1 1200  /GM-Root  _$$$_3 ,"System punktacji awansu" >>
 IRC QueryUiD<name> 192.168.3.102 <adress> 6697<port>                                                                              
 {Ssl/Tls  <;Pass;530377267
 {auth; UserName with password {sasl}
@@ -278,7 +278,6 @@ S4OdinS5odinS6odinS7-S8Odin-s9-sX-s...'Samsung'+'Kingston'  <Wlasciciel Postepu 
 17.08.1998 Aleksander Rajca "@R"root'SpaceX' <Opiekun satelitarnych lacznosci + tworca Zamknietego Srodowiska technologicznego>
 {Ma}"@H+Qimmunitet"'Bosch' <zarzad dzialu klimatyzacj><Praca w warunkach zamknietych> do imitacji reaktora atomowego/kinetycznego... 7 zrodel energi w projektach Xeona
 1pasazgrunwaldzki2galeria_dominikanska3magnoliapark"@H" '{"'Q(doswiadczenie na rynku struktury technologicznej/technicznej)"'}Saturn/Mediamarkt < Zarzad zasobu elektronicznego>"
-ArtystaKombinatorSentymentalnieKrimeStory ;"@H"'Empik';Dystrybucja;Ksiazki;plyty ;wideo {Ma}
 1MesSapCaesarExcelipBoardHtmlcss"@Query"'SAP'      <zarzad danych w wartosciach jednostkowych wedlug katalogowania stronicowego >
 "H@" 'Q' %"Adidas*running%" <Zarzad treningu personalnego>   //%_%=FreeSpaceMoreexperience 
 80000/2/0000/iso 40001	Ul.11/4 Ul.19/17  "@Q" 'Nvidia'   <Zarzad wsparcia sprzetowego>
@@ -299,8 +298,6 @@ ArtystaKombinatorSentymentalnieKrimeStory ;"@H"'Empik';Dystrybucja;Ksiazki;plyty
 4378181102"@H"+advertisment'Nike' <Zarzad odziezy/ubran/ekwpiunku>
 10/8Kv 240/480/560/amper"@H"'Tauron'       <Zamkniete Srodowisko technologiczne>  <Zarzad energetyki>
 1CzasSlonecznyPolozeniegeograficznedolinanizina"@H"'Geolodzy'        <Zamkniete Srodowisko technologiczne>     <Dyrekcja struktury geograficznej>
-ArtystaKombinatorSentymentalnieKrimeStory ;"@H"'Empik';Dystrybucja;Ksiazki;plyty ;wideo {Ma}
-;
 Orzeczenie odpowiedzialnosci karnej za dzialania na szkode polski i jej obywateli.
 !Kasa wspolnoty mieszkalnej obywateli
 <zus/nfz/kasa chorych>
@@ -334,7 +331,7 @@ Orzeczenie odpowiedzialnosci karnej za dzialania na szkode polski i jej obywatel
 1.1 = 2.1     1  2   3  4  \"@HeadAdmin" AudiAdministrator 6 1   <Jezyk powielania bitowego, marketing, sponsor > {[]=Zarzad Orlenu}
 			    			V
 1.1 = 2.1     1  2   3  4  5BmwAdministrator 6 1 <IT , Marketing>
-1.1 = 2.1     1  2   3  4  5 6 7ABWdministrator<MSWiA> 6v2 1v2  <Bezpieczenstwo>
+1.1 = 2.1     1  2   3  4  5 6 7ABWdministrator 6v2 1v2  <Bezpieczenstwo>
 1.1 = 2.1     1  2   3  4  5ZollAdministrator 6 1     <Sicher>
 1.1 = 2.1     1  2   3  4  5InterPolAdministrator 6 1  <Wsparcie it,Hr>
 1.1 = 2.1     1  2   3  4  5PoliceAdministrator 6 1    >Copywrith<>prawa autorskie<
