@@ -4,7 +4,7 @@
 "System punktacji awansu" >>
  <function !Edit </edycja wzoru projektu uzytkownika> = +1pkt+VerifyAuthor+2pkt
  function !ReportUser <zgloszenie niestosownej intonacji projektu/profilu> +1pkt+Verify<@M>=true=1+2pkt
- function !reportCode <Zgloszenie szkodliwych linijek> 2pkt+V@=2+2pkt
+ function !reportCode <Zgloszenie szkodliwych linijek> 2pkt+V@verify=2+2pkt
  function !BugReports <System ticketow zgloszenie Bledow> 5pkt+V@+3pkt
  function !InjectMe <Wdrozenie swojej osoby do projektu> 7pkt+[ativity100History*]+1action=1pkt
  function !InjectIdea <wdrozenie pomyslu do projektu> 8pkt+ 10do3/1pkt<max33Pkt for this category)
