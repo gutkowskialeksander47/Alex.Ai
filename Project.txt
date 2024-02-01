@@ -64,10 +64,10 @@ Else if !stay to 100>7Days[werifikation place to stay] to upgrade rang
 <processRecrutation>{@<Gi<@W<!verify.Acess<@Query<@HeadAdmin<@J@*JuniorAdmin<@GlobalModerator<@Moderator<User   
 {
 [Zapytanie Cmd_%Text%]
-!_yes_*_no_;"Men"=<"Nichtalex.SandraAlex".>/ask
+!_yes_*_no_;"Men"=<"Nichtalex.AmelieAlex".>/ask
 ;<<1 1200  /GM-Root(Globalny moderator - Root  _$$$_3 ,"System punktacji awansu" >>//Administracji
 IRC QueryUiD<name> 192.168.3.102 <adress> 6697<port>                                                                              
-{Ssl/Tls  <;Pass;530377267
+{Ssl/Tls  <;Pass;lepszy świat@admin.pass wspólny brzegi user.pass
 {auth; UserName with password {sasl}
 {user:%pseudonim% {alex1947Pl
 <safe password>{pass:%1litera duza imie mala nazwisko ruza literq partnerki male litery nazwiska partnerki dopisac sentymentalny rok i znak specjalny naszej duszy%
@@ -81,7 +81,7 @@ IRC QueryUiD<name> 192.168.3.102 <adress> 6697<port>
 {ftp://192.168.178.74:18581//s23
 {ftp://192.168.178.20:60446//Note10s
 {ftp://192.168.178.71:50490//A33                                                                                                                
-{'J@'='Epis'
+{'J@'='Epis' wszyscy czytają jak pisze program w czasie rzeczywistym 
 ;'$1WIEV' 
 <{-sysclock -datepersonal.value -!transfer[save to txt] -loop}}}<Stay do !save _valueDefault !lock=$6/8>>>
 {En_$$$       $$$_Pl
