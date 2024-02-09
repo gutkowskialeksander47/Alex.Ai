@@ -18,7 +18,10 @@
  function <0.0=Green 0.1 Green 0.2 Green 0.3 Green> !FullFreeWork 
  function <0.4=orange 0.5 Orange 0.6 Orange> !FullWork !Stay.control.activity <!without:_verification>
  function <0.7 orange/red !control !verifikation 0.8 Red/orange !control !verifikation !lock _workplace/v/test
- function <0.9<LockProgress> 1.0=BanStatus RED>  Echo
+ function <0.9<LockProgress> 1.0=BanStatus RED>  
+$1>UiD=.!ViP/{UserU1200pkt} www.Fb.com
+ten licznik jest mądrzejszy ode mnie musi przejść przez konwerter żeby dzielić na punktację.
+Echo
  function porozumienie \  madrosc rozum   /     konwersacja
  function          /\    /\    /\    /\          /
  function         /  \  /  \  /  \  /  \        /
