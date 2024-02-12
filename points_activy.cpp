@@ -35,6 +35,7 @@
 <787>=Lines Polizei Aleksander
 {«2004BonusRpk='®ajCa'
 
+@Ar=Artysta rozwój tylko przez doświadczenie IT
  !planProject @M @GM @D,@J,@H,@W,@GA,@Q,@D {@Ma} = Marketing zone
 "@D"'Apple'       <safly/security source \code \>     <Zamkniete Srodowisko technologiczne>
 
