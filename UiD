@@ -8,7 +8,7 @@
 		 _  GoodGame  _
 ;"Vl"       GoodGirl
 		GlobalAdministrator
-{"Q*Tylko dla praworzadnych ludzi nie czlonkow rzadu"'J@'.gov.pl
+{"Q*Tylko dla praworzadnych ludzi nie czlonkow rzadu"'Query@'.gov.pl
 Nazwa pospolita (CN)	gov.pl
 Organizacja (O)	Kancelaria Prezesa Rady Ministrów
 ;"*"=Wedlug.Potrzeby
@@ -16,10 +16,15 @@ html.txt=Open.www.google.project     (This source code) (Verify personal date Al
 Com.GoogleServices.queryMode
 ;com.androidinsert.apk 
 ;G+suit/notification
-;[;/pass="txt-lock"
-!verify 
+!verify
+pass="wspolne jutro" administrator-moderator
+else {pass:Wspolny Brzeg=permision "@D+zarzadca uprawnien verify" "TrustFactor" Green Orange Red
+else if {pass:Lepszy Swiat=permission "€+A_flag"
+flaga user nie upowaznia awansu tylko flaga "A"
+else {pass:admin=Read@ciekawy {guest.api !stay.do.refresh.close.with.tab{delete guest.id with dissconect+ option "zapamietaj mnie"=stay.with.refresh
+{show.login.menu<check.logon status/accode
 ;chrome/setting://flag
-®AuthorRajc@//
+®AuthorRajc@// Autor Rajca
 !Connection            Echo
 $1
 {  !AutorifyRoot/computeroutput
@@ -30,12 +35,11 @@ $1
    IPv4 Address. . . . . . . . . . . : 192.168.178.76
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : fe80::1eed:6fff:fe97:1e32%9
-   $;1.7version full license source                                   192.168.178.1
-;'@Aleksandra'ER_On_Hel<plan>									   
+   $;1.7version full license source                                   192.168.178.1				   
 {kazdy kod zrodlowy ma XXX bledow
 {[UniaNarodowZjednoczonych
 {*<"USA America north west Europa Asia Africa"
-{"australia canada korea north west china ZEA Antarktyda" 12=<195></2037/microbiologie/2040 april 40° /2050 slowly not more climat to live 2150 earth ist stars fire //tha's this why Me Jahwe comming now on world. because in plan 15 years later i have not where comme!<Alex time for progress autobiograpjy ist in plan 2040 not 2025!>
+{"australia canada korea north west china ZEA Antarktyda" 12=<195></2037/microbiologie/2040 april 40° /2050 slowly not more climat to live 2150 earth ist stars fire //tha's this why Me Jahwe comming now on world. because in plan 15 years later i have not where comme!<Alex time for progress autobiography ist in plan 2040 not 2025!>
 <marketing><"https://cbddreamshop.de/">
 Aleksander mówi:
 „!!! now 18 % Grenlandia 2025 in 2 years10-8% < 30 % !13 month timework machine!>”
@@ -98,7 +102,7 @@ IRC QueryUiD<name> 192.168.3.102 <adress> 6697<port>
 {                {
 .Ask-User {      <zapytanie o wspieranie nas>                               
 ;cmd.exe !_choose wybiorcze_  ans1_Offline ans2_Online           
-<<else 
+;else 
 { !ans1[<No,Nie,Nicht,Het,Nope]
 {!Stay _DefaultIdentification _systemId//Domyslny klucz identyfikujacy
 { !Create _local%data% _create _dane lokalne//user
@@ -149,7 +153,7 @@ Port: 22 %_namedate%
 {-l _loop !never_fits {'!Id/=!id'
 {
 {
-!generate _id :) === Value ID Valve
+!generate _id :) === Value ID Valve 
 {
 {scale 1-100-true 100-1-false
 { %Cmd_Text%!Write }[Id _report _ticket
