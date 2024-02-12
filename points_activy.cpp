@@ -71,6 +71,7 @@ UK"@Ar"Administrator <Wsparcie wiedzy i int plan.project>
 Usa"@Ar"Administrator <Wsparcie wiedzy i int plan.project>
 
 Asia"@Ar"Administrator <Wsparcie wiedzy i int plan.project>
+
 Americax2[north,south]"@Ar"Administrator 
 <Wsparcie wiedzy i int plan.project>
 
@@ -81,13 +82,13 @@ Australia"@Ar"Administrator <Wsparcie wiedzy i int plan.project>
 Microsoft Administrator
 <Operator j.Programistycznych>
 
-"SAP"+BigPointAdministrator<Wsparcie Niemieckich programistow>
+"SAP"+BigPoint Administrator<Wsparcie Niemieckich programistow>
 
-AppleAdministrator <Wsparcie technologiczno/programistyczne. inject.project>
+Apple Administrator <Wsparcie technologiczno/programistyczne. inject.project>
 
-SpaceXAdministrator <Zarzad Personalny HR, zarzad gospodarka finansowa>
+SpaceX Administrator <Zarzad Personalny HR, zarzad gospodarka finansowa>
 
-NasaAdministrator<Wsparcie satleitarnych operacji>
+Nasa Administrator<Wsparcie satleitarnych operacji>
 "@Ma",'@GM''Ikea'<Zamkniete Srodowisko technologiczne>   
 
 Audi Administrator<Jezyk powielania bitowego, marketing, sponsor >
