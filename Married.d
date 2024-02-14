@@ -1,21 +1,19 @@
-﻿
-
-{First_Class <!%$Malgorzata%Jamrozy%$> Female Girl $
-  {Artist_Date %%%$$=Marcin_Gutkowski%%%
-  {Twince_Artist !$,$$,$$$ > Aleksander Gutkowski
-   {Twince_Class !Full_date<$%Aleksander_Sebastian_Rajca%>$$$
-        {Third_int %Peronal_Male%  $$
-           {fourth_info%Sandra Gutkowska= l $$$$
+﻿{First_Class <!%$Ewelina%Lisowska%$> Female  $ 
+  {Artist_Date %%%$$=Aleksander Rajca%%% l
+ class.junior {Twince_Artist !$,$$,$$$ > Aleksander Lisowski 
+class.query   {Twince_Class !Full_date<$%Aleksander_Sebastian_Rajca%>$$$
+        {Third_int %Peronal_Male% Aleksander_Rajca$$
+           {fourth_info%Ewelina Lisowska= l $$$$
 !Force <Stay>//Personal_Date
 Int {$Name='Choose'!Date         'triggered_date'$name_name=$$$
   do{Surrname_Classified=%Full_Name=%Change_Name
 {surrname do 
-{_Flex="*superstarAlex"
+{_Flex="*"
 Else *_trueFun
 stay!do Firendly_Contact %string_Alex%<Int 'Suit_Google+'
 Else if *=False
-stay do %!LostConnect%=!Disconnect<End Line do lost commect>
- {   full_Name   {$_._ = $<$$$<$<$$<Aleksander_Sebastian_Rajca
+stay do %!LostConnect%=!Disconnect<End Line do lost connect>
+ {   full_Name   {$_._ = $<$$$<$<$$<Aleksander_Sebastian_Rajca<Ewelina_Monika_Lisowska
 Else 
 Classified do + 
 ={Classified_Yes
@@ -25,7 +23,11 @@ stay do loop
 {Check_PersonalDate
 {stay do free_Mann
 { Paar= !Sex{ $,$+$,$$+$,$$$+$$,$+$$$
+Aleksander Rajca Lisowski
 ;$$//Panseksualny
+//; <BeachCs.pl, Legendarnics.pl ,amxx.ban    Counter-game.pl>SchoolKurs
+rs
+
 
 adminitrator)
     - [x] Akt małżeński
