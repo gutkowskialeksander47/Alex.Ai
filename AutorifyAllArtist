@@ -1,7 +1,9 @@
-Host 1.0 = 2.0.    1  1   2  2  Amelia Kollek"@W" 1  9. <Wife Aleksander Rajca> 
-1.1 = 2.1     1  2   3  4  1Europa"@Ar"Administrator 6 1 <Dozor danych out,in-WorldCybernetick><ignore For Poland>
-1.1 = 2.1     1  2   3  4  Slowianie"@Ar"Administrator 6 1 <Wsparcie wiedzy i int plan.project> <ignore Poland>
-1.1 = 2.1     1  2   3  4  Balkany"@Ar"Administrator 6 1  <Wsparcie wiedzy i int plan.project> <ignore Poland>
+;"administracja"= 192.43 <localhost> dev.fb.com Host 2.0
+Host 2.0 = 2.0.    1.1  1.2   2.1  2.2 
+<Aleksander Rajca> 
+1.1 = 2.1     1  2   3  4  1Europa"@Ar"Administrator 6 1 <Dozor danych out,in-WorldCybernetick>
+1.1 = 2.1     1  2   3  4  Slowianie"@Ar"Administrator 6 1 <Wsparcie wiedzy i int plan.project> 
+1.1 = 2.1     1  2   3  4  Balkany"@Ar"Administrator 6 1  <Wsparcie wiedzy i int plan.project> 
 1.1 = 2.1     1  2   3  4  Granica szengen"@Ar"Administrator 6 1  <Wsparcie wiedzy i int plan.project> <ignore Poland>
 1.1 = 2.1     1  2   3  4  UK"@Ar"Administrator 6 1    <Wsparcie wiedzy i int plan.project>
 1.1 = 2.1     1  2   3  4  Usa"@Ar"Administrator 6 1    <Wsparcie wiedzy i int plan.project>
