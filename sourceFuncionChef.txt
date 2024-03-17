@@ -8,6 +8,14 @@
 -Szyfrowanie na poziomie peerTopeer
 -kodowanie wszelkiej naszej dzialalnosci
 
+; "CS"="Ciemna Strefa"(Bonus RPK)
+-Me To Us - Us to Me
+-kontakt przyjacielski
+-promocja
+-Dozor danych out,in
+-muzyka
+-@Artist
+
 
 ;"ZBK"="Zabka S.A."
 -Me To You You to Me
