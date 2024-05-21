@@ -10,15 +10,16 @@
  function !EditReadySource_and_inject_Him <Edycja+wdrozenie> =@M<[...] 
  function !InjectYourVersion +VerifyValid +class pass =J@  >
  function !scale Point
-    function <1/14  * 14/28 ** 28/42 *** 42/56 **** 56/70 ***** 70/84 ****** 84/98 *******
+    function <1/14  * 14/28 ** 28/42 *** {42/56 **** 56/70 ***** 70/84 ****** 84/98 *******
 			  User    User > @M         @M           @GM         @GM           @GM<J@
-!class awansu 3/42     42/84   84/126   126/168     168/210     210/252      252/294			
+!class awansu 3/42     42/84   84/126   126/168     168/210     210/252      252/294		
+                          @H >  @Query > @Root > @GA  >     @IA    >      @D   > @CEO     +Marketing Zone
  function !Penalty_points =2senil od 11senil= Retourn 1loop
- function !trustfactor  100-10=0.1 90-10=0.2 80-10=0.3 70-10=0.4  60-10=0.5 50-10=0.6 40-10=0.7 30-10=0.8 20-10=FlooderStatus (Limitation of activity opportunities) 10-10=Ban 72hour
- function <0.0=Green 0.1 Green 0.2 Green 0.3 Green> !FullFreeWork 
- function <0.4=orange 0.5 Orange 0.6 Orange> !FullWork !Stay.control.activity <!without:_verification>
- function <0.7 orange/red !control !verifikation 0.8 Red/orange !control !verifikation !lock _workplace/v/test
- function <0.9<LockProgress> 1.0=BanStatus RED>  Echo
+ function !trustfactor  100-10=1 90-10=2 80-10=3 70-10=4  60-10=5 50-10=6 40-10=7 30-10=8 20-10=FlooderStatus (Limitation of activity opportunities) 10-10=Ban 72hour
+ function <0.0=Green 1 Green 2 Green 3 Green> !FullFreeWork  // dostep do pelnej funcji praca {workspace/workplace}
+ function <4=orange 5 Orange 6 Orange> !FullWork !Stay.control.activity <!without:_verification>//pelen dosep workspace zachowaj historie aktywnosci<bez weryfikacji>
+ function <7 orange/red !control !verifikation 8 Red/orange !control !verifikation !lock _workplace/v/test //kontrola aktywnosci weryfikacja dzialan + autoryzacja @J wzwyz /blokada dostepu workspace/workplace
+ function <9<LockProgress> 10=BanStatus RED>  Echo
  function porozumienie \  madrosc rozum   /     konwersacja
  function          /\    /\    /\    /\          /
  function         /  \  /  \  /  \  /  \        /
