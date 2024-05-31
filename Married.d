@@ -44,7 +44,7 @@ adminitrator)
     - [x] prezencja wygląd charakter, dopasowanie, inicjatywy zobowiązania przywileje i jej słodkość 
     - [x] postawa {Query}(uprawnienia korzenia podstawy sieci) !trust 1<100=one more from 
 - [x] odwaga organizacja prezencji class_Alex=index.html [on system]{Creativ.class_Girl(G-suit GoodGirl)                                                {int flags BtoZ-€(user).open_world int personal.progress(Jej sukcesy i kariery ), kwiaty KW3(Masz mi dawać kwiaty)(weed) kwiaty weed flower 
-        - [x] >nie zmienia jej fejm/flex/zasieg kasa do {Q} immunitetFederal (będziemy razem służbę mieli)
+        - [CLEO] >nie zmienia jej fejm/flex/zasieg kasa do {Q} immunitetFederal (będziemy razem służbę mieli)
     - [x] {Int new.container boss(baby-kochanie) zabawna {fun.php} <organizacja jest .7days 
     - [x] pewność siebie {!Apple int ios !movement _ground <step.style/marriages and {Informatik-spiritual guide xD
 
