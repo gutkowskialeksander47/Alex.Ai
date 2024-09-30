@@ -1,7 +1,7 @@
-D=!lost
-!<save;#save
+D=!lost&found
+!<save;#save//zapisz lokalnie
 
-{Święta Pamięć}
+{Santo subito} Gutkowska Sandra
 
 
 {[Ftp;!$1
