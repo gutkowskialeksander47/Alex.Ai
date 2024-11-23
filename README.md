@@ -4,143 +4,86 @@
 
 ---
 
-**Polityka prywatności**
+**Polityka Prywatności alex.ai**
 
-Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z systemem alex.ai ( nasze metody autoryzacji dostępu :
+---
 
-Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
+**Polityka Prywatności**
 
-1. **Autoryzacja IMEI (imei authorify)** -
-2. **google authenticator**
+Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z systemem alex.ai. Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
+
+1. **Autoryzacja IMEI (imei authorify)**
+2. **Google Authenticator**
 3. **Logon** generator kodu dostępu 
-4. **Klucz aktywacyjny windows**
-5. **Szyfrowanie** - MTY-YTM aha 256 certyfikat CA author : certyfikat europejski "CA" 
+4. **Klucz aktywacyjny Windows**
+5. **Szyfrowanie** - MTY-YTM SHA 256 certyfikat CA (Certyfikat europejski "CA") 
 6. **PESEL ID (dla Polska)**
 7. **IP authorify** 
 8. **Bank 1€ Verify**
 9. **Klucz Dostępu od innego użytkownika**
+10. **Adres E-mail**
 
-użytkownik musi wybrać minimum dwie z wymienionych metod autoryzacji .
-
-
-
-Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
-
- Chcemy, abyś wiedział, że Twoja prywatność jest dla nas bardzo ważna. W celu zapewnienia transparentności i ochrony Twoich danych osobowych, przygotowaliśmy niniejszą politykę prywatności.
+Użytkownik musi wybrać minimum dwie z wymienionych metod autoryzacji. Te metody autoryzacji zapewniają bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. 
 
 **1. Zbieranie danych osobowych**
 
-Zbieramy dane osobowe, aby świadczyć nasze usługi na najwyższym poziomie. Dane te mogą obejmować:
+Zbieramy dane osobowe w celu świadczenia usług na najwyższym poziomie. Dane te mogą obejmować:
 - Numer telefonu
 - Imię i nazwisko
 - Adres e-mail
-- Numer telefonu
-- Informacje dotyczące korzystania z naszych usług
 - Numer IMEI
 - Klucz aktywacyjny Windows
 - Numer IP
 
-Wszystkie zbierane dane osobowe są szyfrowane przed zapisem w bazie danych
+Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych.
 
-**1.2 Zbieranie danych osobistych**
+**1.2 Zgoda na Przetwarzanie IMEI**
 
+Użytkownik zgadza się na przetwarzanie numeru IMEI przez alex.ai w celach autoryzacji i zabezpieczeń. Wycofanie zgody ogranicza niektóre funkcje i dostępność usług.
 
+**2. Zgoda na Przetwarzanie Klucza Aktywacyjnego Windows**
 
-**Zgoda na Przetwarzanie IMEI**
+Ja, [%user.data%], wyrażam zgodę na przetwarzanie mojego klucza aktywacyjnego Windows przez Microsoft Corporation oraz alex.ai w celach licencyjnych i wsparcia technicznego. 
 
-Użytkownik, wyrażając zgodę na integrację urządzenia z Alex.ai, zgadza się również na przetwarzanie numeru IMEI urządzenia przez nasz system. Numer IMEI będzie wykorzystywany wyłącznie do celów autoryzacji i zabezpieczeń, aby zapewnić najwyższy poziom ochrony danych osobowych.
-
-W każdej chwili użytkownik ma prawo wycofać zgodę na przetwarzanie IMEI, kontaktując się z naszym działem wsparcia technicznego. Wycofanie zgody może jednak ograniczyć niektóre funkcje i dostępność usług oferowanych przez Alex.ai.
-
----
-
-**ZGODA NA PRZETWARZANIE KLUCZA AKTYWACYJNEGO WINDOWS**
-
-Ja, [%user.data%], niniejszym wyrażam zgodę na przetwarzanie mojego klucza aktywacyjnego Windows przez firmę Microsoft Corporation (adres: One Microsoft Way, Redmond, WA 98052, USA) oraz przez aplikację Alex.apk/Alex.ai, w celu zapewnienia zgodności licencyjnej oraz wsparcia technicznego.
-
-**Cele przetwarzania danych:**
-1. Weryfikacja legalności używanego oprogramowania.
-2. Aktywacja i rejestracja oprogramowania Windows.
-3. Zapewnienie wsparcia technicznego i usług związanych z oprogramowaniem "alex.ai" w systemie Windows.
-4. Poprawa jakości i bezpieczeństwa produktów i usług Microsoft.
-
-**Zakres przetwarzanych danych:**
-- Klucz aktywacyjny Windows.
-- Dane identyfikacyjne urządzenia (np. numer seryjny, model).
-- Informacje techniczne dotyczące oprogramowania i sprzętu.
-
-**Podstawa prawna przetwarzania danych:**
-Podstawą prawną przetwarzania danych osobowych jest zgoda użytkownika oraz konieczność wykonania umowy licencyjnej dotyczącej oprogramowania Windows_alex.
-
-**Okres przechowywania danych:**
-Dane będą przechowywane przez okres niezbędny do realizacji celów przetwarzania oraz zgodnie z obowiązującymi przepisami prawa.
-
-**Prawa użytkownika:**
-Użytkownik ma prawo do:
-1. Dostępu do swoich danych osobowych.
-2. Sprostowania nieprawidłowych danych.
-3. Usunięcia danych (prawo do bycia zapomnianym).
-4. Ograniczenia przetwarzania danych.
-5. Przenoszenia danych do innego administratora.
-6. Wniesienia sprzeciwu wobec przetwarzania danych.
-7. Wycofania zgody na przetwarzanie danych w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
-
-Aby skorzystać ze swoich praw, użytkownik może skontaktować się z Microsoft poprzez adres e-mail: privacy@microsoft.com, lub poprzez formularz kontaktowy dostępny na stronie internetowej Microsoft.
-
-Podpis:
-_________________________
-
-Data:
-_________________________
-
----
-
-**2. Wykorzystanie danych osobowych**
+**3. Wykorzystanie danych osobowych**
 
 Twoje dane osobowe są wykorzystywane w celu:
-- Świadczenia usług i wsparcia technicznego.
-- Personalizacji treści i doświadczeń użytkownika.
-- Komunikacji z Tobą w sprawach związanych z naszymi usługami.
-- Analizy i udoskonalania naszych usług.
+- Świadczenia usług i wsparcia technicznego
+- Personalizacji treści
+- Komunikacji związanej z usługami
+- Analizy i udoskonalania usług
 
-**3. Udostępnianie danych osobowych**
+**4. Udostępnianie danych osobowych**
 
-Twoje dane osobowe mogą być udostępniane wyłącznie w następujących przypadkach:
-- Za zgodą użytkownika.
-- Wymogi prawne.
-- Ochrona praw, własności i bezpieczeństwa naszej firmy oraz naszych użytkowników. UiD S.A.
+Dane mogą być udostępniane za zgodą użytkownika, w przypadkach wymaganych prawem oraz dla ochrony naszej firmy i użytkowników.
 
-**4. Bezpieczeństwo danych**
+**4.1 Bezpieczeństwo danych**
 
-Dbamy o bezpieczeństwo Twoich danych osobowych, stosując odpowiednie środki techniczne i organizacyjne w celu ochrony przed nieautoryzowanym dostępem, utratą, zmianą lub zniszczeniem danych.
-
-**4.1. szyfrowanie
-Nazwy i funkcje baz danych sa ogolnie dostepne dla uzytkownika.
- bazy danych Alex.ai/alex.apk:
-;>[MySQL]=User from SUID="ViP" acess !managment SQL
- [sql rca]=Rajca[sql zuck]=Zuckerberg [isql]=Apple [XSQL spaceX] MarketingZoneDB [sqlmz] 
-wszystkie dane w bazie danych sa szyfrowane
+Dbamy o bezpieczeństwo Twoich danych osobowych. Wszystkie dane są szyfrowane i zabezpieczone odpowiednimi środkami technicznymi i organizacyjnymi.
 
 **5. Pliki cookie**
 
-Nasza strona internetowa może używać plików cookie w celu poprawy doświadczeń użytkownika. Pliki cookie są małymi plikami tekstowymi przechowywanymi na Twoim urządzeniu, które pomagają nam analizować ruch na stronie i personalizować treści.
+Nasza strona internetowa może używać plików cookie do analizy ruchu i personalizacji treści.
+
+--- 
+
+
+
+**6. Twoje prawa**
 
 **6. Twoje prawa**
 
 Masz prawo do:
-- Dostępu do swoich danych osobowych.
-- Poprawiania swoich danych osobowych.
-- Usuwania swoich danych osobowych.
-- Ograniczania przetwarzania swoich danych osobowych.
-- Wycofywania zgody na przetwarzanie danych osobowych.
+- Dostępu, poprawiania, usuwania, ograniczania przetwarzania swoich danych osobowych.
+- Wycofania zgody na przetwarzanie danych osobowych.
 
 **7. Zmiany w polityce prywatności**
 
-Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej polityce prywatności. Wszelkie zmiany zostaną opublikowane na naszej stronie internetowej oraz przesłane do Ciebie drogą e-mailową.
+Zmiany będą publikowane na naszej stronie internetowej i przesyłane drogą e-mailową.
 
 **8. Kontakt**
 
-Jeśli masz jakiekolwiek pytania dotyczące naszej polityki prywatności, skontaktuj się z nami pod adresem e-mail: aleksander@rajca.info.
+Pytania dotyczące polityki prywatności: aleksander@rajca.info.
 
 **Specjalne zgody:**
 
@@ -150,29 +93,51 @@ Jeśli masz jakiekolwiek pytania dotyczące naszej polityki prywatności, skonta
 
 **1. Informacje o Przetwarzaniu Numeru PESEL**
 
-W ramach korzystania z naszych usług, możemy zbierać i przetwarzać informacje dotyczące numeru PESEL (Powszechny Elektroniczny System Ewidencji Ludności) użytkowników w celu weryfikacji tożsamości i zapewnienia bezpieczeństwa naszych usług.
+Zbieramy i przetwarzamy numer PESEL użytkowników w celu weryfikacji tożsamości i zapewnienia bezpieczeństwa.
 
 **2. Cele Przetwarzania**
 
-Numer PESEL może być przetwarzany w następujących celach:
-- **Weryfikacja tożsamości:** Potwierdzenie tożsamości użytkownika w celu zapewnienia zgodności z przepisami prawa oraz ochrony przed oszustwami.
-- **Zapewnienie bezpieczeństwa:** Ochrona przed nieautoryzowanym dostępem do usług i danych osobowych użytkowników.
-- **Świadczenie usług:** Umożliwienie korzystania z naszych usług wymagających autoryzacji tożsamości użytkownika.
+Numer PESEL przetwarzany jest do weryfikacji tożsamości, zapewnienia bezpieczeństwa i świadczenia usług.
 
 **3. Zakres Przetwarzanych Danych**
 
-Podczas korzystania z naszych usług możemy zbierać następujące informacje:
-- Numer PESEL użytkownika.
-- Dane identyfikacyjne, takie jak imię, nazwisko, data urodzenia, adres zamieszkania.
+Zbieramy numer PESEL, imię, nazwisko, datę urodzenia i adres zamieszkania.
 
 **4. Podstawa Prawna Przetwarzania**
 
-Przetwarzanie numeru PESEL odbywa się na podstawie:
-- Zgody użytkownika (art. 6 ust. 1 lit. a RODO) – w przypadku, gdy wymagane jest udzielenie zgody na przetwarzanie danych.
-- Realizacji umowy (art. 6 ust. 1 lit. b RODO) – gdy przetwarzanie jest niezbędne do wykonania umowy z użytkownikiem.
-- Prawnie uzasadnionego interesu administratora (art. 6 ust. 1 lit. f RODO) – gdy przetwarzanie jest niezbędne do zapewnienia bezpieczeństwa i optymalizacji naszych usług.
+Zgoda użytkownika, realizacja umowy, prawnie uzasadniony interes administratora.
 
 **5. Okres Przechowywania Danych**
+
+Numer PESEL przechowywany jest przez okres niezbędny do realizacji celów przetwarzania.
+
+**6. Prawa Użytkownika**
+
+Masz prawo do dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia danych, sprzeciwu i wycofania zgody na przetwarzanie danych.
+
+---
+
+**Polityka Prywatności dla Przetwarzania Adresów IP**
+
+**1. Informacje o Przetwarzaniu Adresów IP**
+
+Zbieramy i przetwarzamy adresy IP użytkowników.
+
+**2. Cele Przetwarzania**
+
+Adresy IP przetwarzane są w celu zapewnienia bezpieczeństwa, personalizacji usług, analizy i zgodności z przepisami prawa.
+
+**3. Zakres Przetwarzanych Danych**
+
+Zbieramy adres IP, informacje o lokalizacji oraz czasie i dacie połączenia.
+
+**4. Podstawa Prawna Przetwarzania**
+
+Zgoda użytkownika, realizacja umowy, prawnie uzasadniony interes administratora.
+
+**5. Okres Przechowywania Danych**
+
+Adresy IP przechowywane są przez okres niezbędny do realizacji celów przetwarzania.
 
 Numer PESEL będzie przechowywany przez okres niezbędny do realizacji celów przetwarzania, zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
 
