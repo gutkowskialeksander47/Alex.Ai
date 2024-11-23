@@ -6,7 +6,23 @@
 
 **Polityka prywatności**
 
-Dziękujemy za korzystanie z naszych usług. Chcemy, abyś wiedział, że Twoja prywatność jest dla nas bardzo ważna. W celu zapewnienia transparentności i ochrony Twoich danych osobowych, przygotowaliśmy niniejszą politykę prywatności.
+Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z systemem alex.ai ( nasze metody autoryzacji dostępu :
+
+Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
+
+1. **Autoryzacja IMEI (imei authorify)** -
+2. **google authenticator **
+3. ** Logon ** generator kodu dostępu 
+4. ** Klucz aktywacyjny windows **
+5. **Szyfrowanie** - MTY-YTM aha 256 
+6. **PESEL ID (dla Pl)
+7. ** IP authorify ** 
+
+Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
+
+Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
+
+ Chcemy, abyś wiedział, że Twoja prywatność jest dla nas bardzo ważna. W celu zapewnienia transparentności i ochrony Twoich danych osobowych, przygotowaliśmy niniejszą politykę prywatności.
 
 **1. Zbieranie danych osobowych**
 
