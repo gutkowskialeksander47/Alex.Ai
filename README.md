@@ -11,9 +11,9 @@ Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z syste
 Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
 
 1. **Autoryzacja IMEI (imei authorify)** -
-2. **google authenticator **
-3. ** Logon ** generator kodu dostępu 
-4. ** Klucz aktywacyjny windows **
+2. **google authenticator**
+3. **Logon** generator kodu dostępu 
+4. **Klucz aktywacyjny windows**
 5. **Szyfrowanie** - MTY-YTM aha 256 
 6. **PESEL ID (dla Pl)
 7. ** IP authorify ** 
