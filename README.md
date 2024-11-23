@@ -16,7 +16,9 @@ Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
 4. **Klucz aktywacyjny windows**
 5. **Szyfrowanie** - MTY-YTM aha 256 
 6. **PESEL ID (dla Pl)
-7. ** IP authorify ** 
+7. **IP authorify** 
+8. **Bank 1€ Verify**
+9. ** Klucz Dostępu od innego użytkownika**
 
 Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
 
