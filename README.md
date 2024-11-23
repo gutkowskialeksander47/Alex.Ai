@@ -14,13 +14,15 @@ Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
 2. **google authenticator**
 3. **Logon** generator kodu dostępu 
 4. **Klucz aktywacyjny windows**
-5. **Szyfrowanie** - MTY-YTM aha 256 
-6. **PESEL ID (dla Pl)
+5. **Szyfrowanie** - MTY-YTM aha 256 certyfikat CA author : certyfikat europejski "CA" 
+6. **PESEL ID (dla Polska)**
 7. **IP authorify** 
 8. **Bank 1€ Verify**
-9. ** Klucz Dostępu od innego użytkownika**
+9. **Klucz Dostępu od innego użytkownika**
 
-Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
+użytkownik musi wybrać minimum dwie z wymienionych metod autoryzacji .
+
+
 
 Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
 
@@ -29,6 +31,7 @@ Te metody autoryzacji zostały zaprogramowane, aby zapewnić bezpieczeństwo i l
 **1. Zbieranie danych osobowych**
 
 Zbieramy dane osobowe, aby świadczyć nasze usługi na najwyższym poziomie. Dane te mogą obejmować:
+- Numer telefonu
 - Imię i nazwisko
 - Adres e-mail
 - Numer telefonu
@@ -37,9 +40,11 @@ Zbieramy dane osobowe, aby świadczyć nasze usługi na najwyższym poziomie. Da
 - Klucz aktywacyjny Windows
 - Numer IP
 
+Wszystkie zbierane dane osobowe są szyfrowane przed zapisem w bazie danych
+
 **1.2 Zbieranie danych osobistych**
 
-### Aktualizacja Polityki Prywatności (14.11.2024)
+
 
 **Zgoda na Przetwarzanie IMEI**
 
