@@ -42,6 +42,39 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 
 ---
 
+## **Program**
+
+### Struktura Plików
+Program składa się z różnych typów plików, w tym:
+- `.d`
+- `.cpp`
+- `.txt`
+- `.html`
+- `.js`
+
+### Opis Programu
+Nasz program stanowi źródło, z którego zarządzasz zawartością za pomocą interfejsu użytkownika z podziałem na dostępy, funkcje i hasła. Cały program został zaprojektowany z myślą o ideologii forum, gdzie użytkownicy mogą łatwo współpracować, wymieniać się pomysłami i zarządzać danymi.
+
+### Kluczowe Funkcje
+- **Zarządzanie Zawartością**: Możliwość dodawania, edytowania i usuwania zawartości za pomocą intuicyjnego interfejsu użytkownika.
+- **Podział Dostępów**: System uprawnień, który pozwala na przypisywanie różnych poziomów dostępu do poszczególnych funkcji programu.
+- **Funkcjonalność**: Wiele wbudowanych funkcji, które ułatwiają zarządzanie danymi oraz komunikację między użytkownikami.
+- **Bezpieczeństwo**: Mechanizmy zabezpieczające, takie jak hasła i szyfrowanie, aby chronić dane użytkowników.
+
+### Strona Internetowa
+Program jest dostępny pod adresem: [rajcawroclaw.pl](http://rajcawroclaw.pl). Strona ta stanowi centrum wszystkich operacji i interakcji użytkowników, umożliwiając łatwy dostęp do wszystkich funkcji i zasobów programu.
+
+### Ideologia Forum
+Cały program został oparty na ideologii forum, co oznacza, że stawia na:
+- **Współpracę**: Użytkownicy mogą wspólnie pracować nad projektami i dzielić się wiedzą.
+- **Konsultacje**: Możliwość zadawania pytań i uzyskiwania odpowiedzi od innych użytkowników.
+- **Społeczność**: Tworzenie silnych więzi między użytkownikami poprzez aktywne uczestnictwo w dyskusjach.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
+---
+
 ## **Superstar System**
 
 Superstar to zaawansowany moduł w ramach platformy Alex AI, który umożliwia użytkownikom interakcję na najwyższym poziomie personalizacji i zaawansowania. Dzięki niemu użytkownicy mogą korzystać z unikalnych funkcji i zasobów, które nie są dostępne w standardowych ustawieniach.
