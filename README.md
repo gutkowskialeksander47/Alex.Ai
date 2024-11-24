@@ -35,7 +35,7 @@
 14. [UprawnieniaAi](#UprawnieniaAi)
 15. [Rangi](#Rangi)
 16. [GlownaRanga](#GlownaRanga)
-17. [MTY](MTY)
+17. [MTYEncryption](#MTYEncryption)
 
 ---
 
@@ -53,15 +53,10 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
  szczegółowe instrukcje instalacji dla Alex AI:
 
 
-szyfrowanie
 
 ---
 
-Oczywiście! Oto przykładowy fragment README dotyczący Twojego algorytmu szyfrowania MTY-YTM, zawierający instrukcję obsługi oraz wyjaśnienie zasady działania:
-
----
-
-## MTY-YTM Encryption
+## MTYEncryption
 
 MTY-YTM to zaawansowany algorytm szyfrowania, który zapewnia wysoki poziom bezpieczeństwa danych poprzez kombinację technik szyfrowania symetrycznego i asymetrycznego. Poniżej znajdziesz instrukcję obsługi oraz wyjaśnienie zasady działania tego algorytmu.
 
