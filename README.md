@@ -30,7 +30,7 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk
----
+--- 
 # Poziomy Uprawnień w Alex AI
 
 Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. Oto krótki opis każdego poziomu uprawnień:
@@ -142,7 +142,7 @@ System Alex AI umożliwia uruchamianie aplikacji Notepad++ oraz automatyczne otw
 
 Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do systemu. Proces ten jest prosty i przejrzysty, co pozwala na skuteczne zarządzanie użytkownikami i ich uprawnieniami. Aby zaprosić użytkownika poleć mu Alex.ai udostępniając klucz Dostępu do alex.apk 
 
----
+
 ## **Polityka Prywatności**
  
 
@@ -155,14 +155,25 @@ Zbieramy dane osobowe w celu świadczenia usług na najwyższym poziomie. Dane t
 - Numer IMEI
 - Klucz aktywacyjny Windows
 - Numer IP
+- Numer PESEL 
 
-1. Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych.
+1. Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych. Nazwy baz danych są ogólnie dostępne dla użytkownika:
+[MySQL]=User from SUID="ViP" 
+[sql rca]=Rajca
+[sql zuck]=Zuckerberg 
+[isql]=Apple+"iquery"
+[XSQL spaceX]
+[sqlmz] MarketingZoneDB 
+[SAP SQL] SAP 
 
 2. Ja, [%user.data%], wyrażam zgodę na przetwarzanie mojego klucza aktywacyjnego Windows przez Microsoft Corporation oraz alex.ai w celach licencyjnych i wsparcia technicznego. 
+
+2.1 Ja, [%user.data%] wyrażam zgodę na przetwarzanie mojego adresu IP w celu autoryzacji dostępu do alex.ai 
 
 **3. Wykorzystanie danych osobowych**
 
 Twoje dane osobowe są wykorzystywane w celu:
+- Rozwoju przedsięwzięcia UiD
 - Świadczenia usług i wsparcia technicznego
 - Personalizacji treści
 - Komunikacji związanej z usługami
@@ -170,7 +181,7 @@ Twoje dane osobowe są wykorzystywane w celu:
 
 **4. Udostępnianie danych osobowych**
 
-Dane mogą być udostępniane za zgodą użytkownika, w przypadkach wymaganych prawem oraz dla ochrony naszej firmy i użytkowników.
+Dane mogą być udostępniane za zgodą użytkownika, w przypadkach wymaganych prawem oraz dla ochrony naszej firmy i użytkowników. Tylko po autoryzacji Zuck dane z SQL mogą być odszyfrowane więc nie ma na to wpływu administracja
 
 **4.1 Bezpieczeństwo danych**
 
@@ -180,10 +191,12 @@ Dbamy o bezpieczeństwo Twoich danych osobowych. Wszystkie dane są szyfrowane i
 
 Nasza strona internetowa może używać plików cookie do analizy ruchu i personalizacji treści.
 
+**5.1** nasza aplikacja może wykorzystywać historię ostatnich stu czynności kursorem i historię edycja tekstu
 
 Masz prawo do:
 - Dostępu, poprawiania, usuwania, ograniczania przetwarzania swoich danych osobowych.
 - Wycofania zgody na przetwarzanie danych osobowych.
+-zawieszenia swoich danych(na 30 dni będą one nie widoczne również dla Ciebie
 
 **7. Zmiany w polityce prywatności**
 
