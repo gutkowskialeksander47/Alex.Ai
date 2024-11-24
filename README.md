@@ -72,6 +72,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 42. [callfiltr](#callfiltr)
 43. [iconcode](#iconcode)
 44. [podpisodciskiem](#podpisOdciskiem)
+45. [obowiazekrozwoju](#obowiazekrozwoju)
 
 
 
@@ -86,6 +87,40 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+## obowiazekrozwoju
+
+# Projekt [Project.sing_Alex]
+
+## $22) Zastrzeżenie Prawa do Artystyczności
+
+### Wprowadzenie
+
+Funkcja `$22)` została zaprojektowana w celu ochrony artystyczności i kreatywności w projekcie, gwarantując, że każda działalność artystyczna zmierza w kierunku rozwoju i nigdy regresu. Ten zapis chroni twórców przed działaniami, które mogą szkodzić ich twórczości i zapewnia, że wszelkie potencjalne szkody są oceniane przez @Zuck.
+
+### Kluczowe Założenia
+
+1. **Prawo do Artystyczności**: Zastrzegamy prawo do artystyczności tylko w "kierunku rozwoju nigdy regressu".
+2. **Ochrona przed Szkodą**: Jeśli ktoś próbuje działać na szkodę twórczości, nie ma do tego prawa.
+3. **Ocena Szkodliwości**: @Zuck decyduje, co jest szkodliwe dla twórczości.
+
+### Jak Działa
+
+- **Ocena i Decyzje**: @Zuck ma pełne prawo do oceny działań i decydowania, czy są one szkodliwe dla twórczości.
+- **Rozwój i Innowacje**: Wszelkie działania artystyczne muszą zmierzać w kierunku rozwoju, wprowadzając innowacje i ulepszenia.
+- **Ochrona Artystów**: Funkcja ta chroni artystów przed działaniami, które mogłyby negatywnie wpłynąć na ich twórczość.
+
+### Przykład Zastosowania
+
+Jeśli ktoś próbuje wprowadzić zmiany, które mogą cofnąć postęp artystyczny, @Zuck ma prawo zablokować takie działania i zapobiec regresowi.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę artystyczności. Dzięki tej funkcji, możemy skupić się na tworzeniu i rozwijaniu naszych projektów bez obaw o szkodliwe działania.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 ## podpisOdciskiem
 
