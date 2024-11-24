@@ -52,6 +52,20 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+## Misja Alex.ai
+** Oto główne dziesięć zadań programu alex.ai**
+
+Bezpieczeństwo Danych: Ochrona danych użytkowników jest priorytetem, dlatego stosujemy zaawansowane metody szyfrowania i autoryzacji.
+Elastyczność: System musi być elastyczny, aby łatwo dostosowywać się do różnych potrzeb i wymagań użytkowników.
+Wieloplatformowość: Możliwość integracji z różnymi systemami i urządzeniami, co zapewnia wszechstronność zastosowań.
+Łatwość Użycia: Intuicyjny interfejs użytkownika, który umożliwia łatwe zarządzanie bez potrzeby zaawansowanej wiedzy technicznej.
+Innowacyjność: Stale wprowadzanie nowych funkcji i usprawnień, aby nadążać za szybko zmieniającym się światem technologii.
+Zarządzanie Użytkownikami: Skuteczne zarządzanie użytkownikami i ich uprawnieniami, co zapewnia płynne działanie systemu.
+Wydajność: Optymalizacja działania, aby zapewnić szybkie i niezawodne działanie systemu.
+Zgodność z Prawem: Przestrzeganie przepisów prawnych i standardów bezpieczeństwa, co zwiększa zaufanie użytkowników.
+Wsparcie Techniczne: Zapewnienie użytkownikom dostępu do pomocy i wsparcia technicznego.
+Rozwój Społeczności: Budowanie społeczności użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
  szczegółowe instrukcje instalacji dla Alex AI:
 
 ## funkcjonalnosc
