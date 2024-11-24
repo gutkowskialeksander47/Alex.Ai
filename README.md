@@ -28,7 +28,7 @@
    - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 9. [PrivacyPolicy](#PrivacyPolicy)
-10. [8. Kontakt](#8. Kontakt)
+10. [Kontakt](#Kontakt)
 11. [Program](#program)
 12. [Strona Internetowa](#strona-internetowa)
 13. [Uniwersal Identification Direct (UID)](#uid)
