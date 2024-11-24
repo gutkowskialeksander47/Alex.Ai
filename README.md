@@ -68,7 +68,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 38. [Netflix](#Netflix)
 39. [ArmiaBog](#ArmiaBog)
 40. [whatsappChefUiD](#whatsappchefUiD)
-
+41. [Huawei](#Huawei)
 
  Skrypt.cpp
 
@@ -97,6 +97,32 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 8. **Zgodność z Prawem**: Przestrzegamy wszystkich przepisów prawnych i standardów bezpieczeństwa, co zwiększa Twoje zaufanie do naszego programu.
 9. **Wsparcie Techniczne**: Zapewniamy użytkownikom dostęp do pomocy i wsparcia technicznego, aby rozwiązać wszelkie problemy.
 10. **Rozwój Społeczności**: Budujemy społeczność użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
+
+## Huawei
+# TeamHuawei 2004=original
+
+## Certyfikat Autentyczności
+
+### Wprowadzenie
+
+Jesteśmy dumni z naszego zespołu TeamHuawei 2004, który nosi nazwę "Rajca". Nasz zespół wyróżnia się zaangażowaniem i pasją do technologii, a każde z naszych osiągnięć jest potwierdzone przez certyfikaty autentyczności, które gwarantują jakość i niezawodność naszych produktów i usług.
+
+### Certyfikat Autentyczności
+
+Certyfikat autentyczności potwierdza, że wszystkie nasze produkty i usługi są zgodne z najwyższymi standardami jakości i bezpieczeństwa. Nasz zespół "Rajca" dba o każdy szczegół, aby zapewnić niezawodność i satysfakcję naszych klientów.
+
+### Kluczowe Informacje
+
+- **Nazwa Zespołu**: TeamHuawei 2004
+- **Nazwa Projektu**: Rajca
+- **Rok Założenia**: 2004
+- **Certyfikat**: Autentyczność i zgodność z najwyższymi standardami
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom zespołu TeamHuawei 2004 za ich nieustanne zaangażowanie i pasję. Dzięki Wam możemy dostarczać produkty i usługi najwyższej jakości, które spełniają oczekiwania naszych klientów.
+
+
 
  ##  whatsappChefUiD
 
