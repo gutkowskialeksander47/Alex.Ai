@@ -1,5 +1,3 @@
-
-
 from datetime import datetime, timedelta #day zero
 'miejsce na komentarz dla informatykow' nie umiem zrobic sam biblioteki pip plyer dlatego chce zeby ona byla instalowana zdalnie przy polaczeniu z serwerem alex.ai 
 pip install mysql-connector-python(Acess Zuck SQL)
@@ -104,7 +102,7 @@ Oto zaktualizowana wersja:
 [DEFAULT]
 # Ogolne ustawienia aplikacji
 app_name = alex.apk
-version = 1.5.7
+version =  1.6.6
 debug = True  # debugowanie dla programisty i dewelopera
 
 [API_KEYS]
@@ -281,7 +279,7 @@ class Organization: #Rangi_zrodlo_szef
 # Tworzenie organizacji i przypisywanie rang
 organizations = [
     Organization("Anonymous", "query"),
-    Organization("Loombard", "Head_Administrator"),
+    Organization("Loomard", "Head_Administrator"),
     Organization("Decathlon", "Head_Administrator"),
     Organization("Gov.pl", "Global_Administrator"),
     Organization("Biedronka", "Junior_Administrator"),
@@ -293,7 +291,7 @@ organizations = [
     Organization("DHL", "Query"),
     Organization("Xiaomi", "Head_Administrator"),
     Organization("CAT", "Junior_Administrator"),
-    Organization("Koenig und Bauer", "Internal_Administrator"),
+    Organization("Koenig und Bauer", "zdegradowany"),
     Organization("Iran", "Junior_Administrator"),
     Organization("Facebook", "Wlasciciel"),
     Organization("Apple", "Developer_Query"),
@@ -1472,8 +1470,8 @@ class Community:
     def access_netflix(self, username, password):
         login_url = "https://api.netflix.com/login"
         login_data = {
-            "username": username,
-            "password": password
+            "username": gutkowskialeksander47@gmail.com,
+            "password": Wksslask1947!
         }
         response = requests.post(login_url, data=login_data)
         if response.status_code == 200:
@@ -2259,11 +2257,29 @@ content2 = "This content contains explicit material."
 filter.filter_content(content1)
 filter.filter_content(content2)
 
-def display_uid_in_languages(uid):  #multi language road_translate Poland<Deutschland<England<USA
+def display_uid_in_languages(uid):  # multi-language road_translate Poland < Deutschland < England < USA < etc.
     translations = {
         "PL": "Identyfikator użytkownika: ",
-        "De": "Benutzerkennung: ",
-        "en": "User ID: "
+        "DE": "Benutzerkennung: ",
+        "EN": "User ID: ",
+        "FR": "Identifiant utilisateur : ",
+        "ES": "Identificación de usuario: ",
+        "IT": "ID utente: ",
+        "RU": "Идентификатор пользователя: ",
+        "JP": "ユーザーID: ",
+        "CN": "用户ID：",
+        "KR": "사용자 ID: ",
+        "PT": "ID de usuário: ",
+        "NL": "Gebruikers-ID: ",
+        "TR": "Kullanıcı Kimliği: ",
+        "AR": "معرف المستخدم: "
+    }
+
+    for lang, translation in translations.items():
+        print(f"{translation}{uid}")
+
+# Przykładowe użycie
+display_uid_in_languages("12345")
     }
 
     for lang, translation in translations.items():
@@ -4244,7 +4260,7 @@ if __name__ == "__main__":
     # Powielanie jezyka bitowego
     def replicate_bit_language(self, language_name, details):
         replication_entry = {
-            "language": language_name,
+            "language": alex.ai,
             "details": details
         }
         self.bit_language_replications.append(replication_entry)
@@ -7867,3 +7883,295 @@ if __name__ == '__main__':
     curl -X POST http://localhost:5000/login -H "Content-Type: application/json" -d '{"imei":"123456789012345"}'
     curl -X POST http://localhost:5000/logout -H "Content-Type: application/json" -d '{"imei":"123456789012345"}'
     curl http://localhost:5000/status/123456789012345
+    
+    class AuthorizationManager: #usuniecie KBA z UiD alex.ai/alex.apk
+    def __init__(self, company_name):
+        self.company_name = company_name
+        self.access_granted = True
+    
+    def revoke_access(self):
+        if self.access_granted:
+            self.access_granted = False
+            return f"Access for company {self.company_name} has been revoked."
+        else:
+            return f"Access for company {self.company_name} is already revoked."
+    
+    def privacy_policy(self):
+        policy = """
+        **Polityka Prywatności**
+
+        1. **Dane Osobowe:**
+        Zbieramy tylko niezbędne dane osobowe w celu świadczenia naszych usług.
+        
+        2. **Użycie Danych:**
+        Dane są wykorzystywane wyłącznie w celach związanych z obsługą i zarządzaniem dostępem użytkowników oraz zgodnie z obowiązującymi przepisami prawa.
+        
+        3. **Udostępnianie Danych:**
+        Dane osobowe nie są udostępniane osobom trzecim bez zgody użytkownika, z wyjątkiem sytuacji wymaganych przez prawo.
+        
+        4. **Bezpieczeństwo Danych:**
+        Stosujemy odpowiednie środki techniczne i organizacyjne w celu ochrony danych osobowych przed nieautoryzowanym dostępem, utratą lub uszkodzeniem.
+        
+        5. **Prawa Użytkownika:**
+        Użytkownicy mają prawo do dostępu do swoich danych, ich poprawiania, usuwania oraz ograniczenia przetwarzania.
+        
+        6. **Zmiany w Polityce:**
+        Polityka Prywatności może ulegać zmianom, o których użytkownicy będą informowani na bieżąco.
+        
+        7. **Kontakt:**
+        W przypadku pytań dotyczących polityki prywatności, prosimy o kontakt na adres: aleksander@rajca.info
+        """
+        return policy
+
+# Przykładowe użycie
+auth_manager = AuthorizationManager("König und Bauer")
+print(auth_manager.revoke_access())
+print(auth_manager.privacy_policy())
+
+class ResourceManagement: #apple zarzad HR w UiD
+    def __init__(self, creator_management, host):
+        self.creator_management = creator_management
+        self.host = host
+        self.progress_steps = []
+
+    def add_progress_step(self, step):
+        self.progress_steps.append(step)
+        print(f"Step added: {step}")
+
+    def save_progress(self):
+        # Zakładamy, że zapis do hosta Apple odbywa się przez zapis do pliku
+        file_name = "progress_alexCA.txt"
+        try:
+            with open(file_name, 'w') as file:
+                file.write(f"Creator Management: {self.creator_management}\n")
+                file.write(f"Host: {self.host}\n")
+                file.write("Progress Steps:\n")
+                for step in self.progress_steps:
+                    file.write(f"- {step}\n")
+            print(f"Progress saved to {file_name}")
+        except Exception as e:
+            print(f"An error occurred while saving progress: {e}")
+
+# Przykładowe użycie
+creator_management = "zarząd zasobem ludzkim przez Aleksander Rajca"
+host = "internal.host{apple.com}"
+
+manager = ResourceManagement(creator_management, host)
+manager.add_progress_step("Initial setup completed")
+manager.add_progress_step("Data migration started")
+manager.save_progress()
+
+class RankManager: #sortowanie dostepu dla apple
+    def __init__(self, ranks):
+        self.ranks = ranks
+
+    def sort_ranks(self, order):
+        """
+        Sort ranks according to the provided order.
+        :param order: List of ranks in the desired order.
+        :return: Sorted list of ranks.
+        """
+        rank_order = {rank: i for i, rank in enumerate(order)}
+        sorted_ranks = sorted(self.ranks, key=lambda rank: rank_order.get(rank, float('inf')))
+        return sorted_ranks
+
+# Przykładowe rangi i kolejność
+ranks = ["Senior Developer", "Junior Developer", "Manager", "CEO", "Intern"]
+order = ["Intern", "Junior Developer", "Senior Developer", "Manager", "CEO"]
+
+# Inicjalizacja i sortowanie
+rank_manager = RankManager(ranks)
+sorted_ranks = rank_manager.sort_ranks(order)
+
+print("Sorted Ranks: ", sorted_ranks)
+RANKS = { #posortuj wedlug lini 233
+
+class Config: #konfiguracja lokalnego/wirtualnego serwera + host apple
+    def __init__(self):
+        self.settings = {}
+
+    def add_setting(self, key, value):
+        self.settings[key] = value
+        print(f"Setting added: {key} -> {value}")
+
+# Przykładowe użycie
+config = Config()
+config.add_setting("Host_work_aleksander +local@apple.com+internal.server 'apple.com'", "<lokalny serwer w postaci fizycznej>// isql IphoneSQL")
+
+# Wydrukuj wszystkie ustawienia
+for key, value in config.settings.items():
+    print(f"{key}: {value}")
+
+class SiteSourceCode: # edycja strony www+ uprawnienia innych do tego 
+    def __init__(self):
+        self.permissions = {}
+
+    def add_permission(self, key, rank):
+        self.permissions[key] = rank
+        print(f"Permission added: {key} -> {rank}")
+
+    def check_permission(self, key, user_rank):
+        required_rank = self.permissions.get(key)
+        if required_rank and user_rank == required_rank:
+            return True
+        return False
+
+# Przykładowe użycie
+site_source_code = SiteSourceCode()
+site_source_code.add_permission("$6.SiteSourceCode", "Globalny_administrator")
+
+# Sprawdzenie uprawnień
+user_rank = "Globalny_administrator"
+has_permission = site_source_code.check_permission("$6.SiteSourceCode", user_rank)
+
+if has_permission:
+    print("User has permission to edit the site source code.")
+else:
+    print("User does NOT have permission to edit the site source code.")
+    
+    import subprocess
+
+class ExecutableGenerator: #uprawnienia dla apple do wykonania .apk .exe .ai
+    def __init__(self, file_name, author, platform, voice_assistant, query):
+        self.file_name = file_name
+        self.author = author
+        self.platform = platform
+        self.voice_assistant = voice_assistant
+        self.query = query
+
+    def create_executable(self):
+        try:
+            with open(f"{self.file_name}.sh", "w") as script_file:
+                script_file.write(f"#!/bin/bash\n")
+                script_file.write(f"# Author: {self.author}\n")
+                script_file.write(f"# Platform: {self.platform}\n")
+                script_file.write(f"# Voice Assistant: {self.voice_assistant}\n")
+                script_file.write(f"# Query: {self.query}\n\n")
+                script_file.write(f"echo 'Running {self.query} on {self.platform} with {self.voice_assistant}'\n")
+                script_file.write(f"isql -i {self.query}\n")
+            subprocess.run(["chmod", "+x", f"{self.file_name}.sh"])
+            print(f"Executable {self.file_name}.sh created successfully.")
+        except Exception as e:
+            print(f"An error occurred while creating the executable: {e}")
+
+# Przykładowe użycie
+file_name = "iphone/isql"
+author = "Rajca Aleksander"
+platform = "iOS"
+voice_assistant = "Siri"
+query = "Apple Query"
+
+generator = ExecutableGenerator(file_name, author, platform, voice_assistant, query)
+generator.create_executable()
+
+import hashlib
+
+def encrypt_sha256(data):
+    """
+    Function to encrypt data using SHA-256 algorithm.
+    :param data: string to be encrypted
+    :return: encrypted data in hexadecimal format
+    """
+    sha256_hash = hashlib.sha256(data.encode()).hexdigest()
+    return sha256_hash
+
+# Przykładowe użycie
+data_to_encrypt = "<$www$> apple.com"
+encrypted_data = encrypt_sha256(data_to_encrypt)
+print(f"Original data: {data_to_encrypt}")
+print(f"Encrypted data: {encrypted_data}")
+
+# Przykład z wymianą danych "rajcawroclaw.pl->apple.com"
+data_exchange = "rajcawroclaw.pl->apple.com"
+encrypted_exchange = encrypt_sha256(data_exchange)
+print(f"Original data exchange: {data_exchange}")
+print(f"Encrypted data exchange: {encrypted_exchange}")
+
+# Dodatkowe dane dostepu szyfrowania uid/alex.ai/alex.apk/fb.exe
+additional_data = [
+    "Android",
+    "Samsung",
+    "Microsoft",
+    "Apple",
+    "Audi"
+]
+
+# Szyfrowanie dodatkowych danych
+for data in additional_data:
+    encrypted_data = encrypt_sha256(data)
+    print(f"Original data: {data}")
+    print(f"Encrypted data
+    
+    import zipfile #Wersja S alex.apk 
+import os
+
+def update_apk_version(apk_path, version):
+    # Sprawdź, czy plik APK istnieje
+    if not os.path.isfile(apk_path):
+        print(f"Plik {apk_path} nie istnieje.")
+        return
+    
+    # Utwórz nową nazwę pliku APK z wersją
+    base_name, ext = os.path.splitext(apk_path)
+    new_apk_path = f"{alex.apk}_V{version_S}{ext}"
+    
+    try:
+        # Skopiuj zawartość oryginalnego pliku APK do nowego pliku APK
+        with zipfile.ZipFile(apk_path, 'r') as original_apk:
+            with zipfile.ZipFile(new_apk_path, 'w') as new_apk:
+                for item in original_apk.infolist():
+                    data = original_apk.read(item.filename)
+                    new_apk.writestr(item, data)
+        
+        print(f"Plik APK został podpisany nową wersją: {new_apk_path}")
+    except Exception as e:
+        print(f"Wystąpił błąd podczas aktualizacji wersji pliku APK: {e}")
+
+# Przykładowe użycie
+apk_path = "alex.apk
+
+class IntellectualPropertyManager: #zablokowanie kba dostepu do programu
+    def __init__(self):
+        self.access_permissions = {}
+
+    def grant_access(self, organization, access):
+        self.access_permissions[organization] = access
+        print(f"Access granted to {organization}: {access}")
+
+    def revoke_access(self, organization):
+        if organization in self.access_permissions:
+            self.access_permissions[organization] = False
+            print(f"Access revoked for {organization}")
+        else:
+            print(f"No access found for {organization}")
+
+    def check_access(self, organization):
+        return self.access_permissions.get(organization, False)
+
+# Przykładowe użycie
+ip_manager = IntellectualPropertyManager()
+ip_manager.grant_access("Koenig und Bauer", True)
+print(f"Access for Koenig und Bauer: {ip_manager.check_access('Koenig und Bauer')}")
+ip_manager.revoke_access("Koenig und Bauer")
+print(f"Access for Koenig und Bauer: {ip_manager.check_access('Koenig und Bauer')}")
+
+import hashlib #MTY-YTM
+
+def encrypt_message(message, key):
+    return hashlib.sha256((message + key).encode()).hexdigest()
+
+def decrypt_message(encrypted_message, key):
+    # Logika deszyfrowania tutaj
+    alex : 'nick/artist' {crypted value } recipient {encrypted value}
+    example Alex to Kali(Marcin Gutkowski} ** messege** _send return answer 1 No 2 Yes +Online 
+** crypted value ** Assoziationen Poczta Polska Bezpieczenstwo szyfrowanej i wymienianej komunikacji 
+    pass
+
+# Przykład użycia
+message = "Cześć, to jest bezpieczna wiadomość."
+key = "98information0817
+98i0817=i=i=information(informator dla przyjaciol) #rzeczpospolita Gosc edukacyjny z priorytetem dla MSWiA "
+@CopyRight'66c86bf10158720b4cc08cef8815202b'
+encrypted_message = encrypt_message(message, key)
+
+print("Zaszyfrowana wiadomość:", encrypted_message)
