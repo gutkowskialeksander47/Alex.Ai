@@ -1,5 +1,5 @@
 
-
+Ocena Ai https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/top%20ten%20features%20of%20alex.ai
 
 # README dla Alex AI
 
