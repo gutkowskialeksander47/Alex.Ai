@@ -40,7 +40,7 @@
 
 ---
 
-Daj znać, jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji!
+
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
