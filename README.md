@@ -59,6 +59,9 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 29. [Artist](#Artist)
 30. [Sponsor](#sponsor)
 31. [oflagowanieAlexai](#oflagowanieAlexai)
+32. [współpracownik](#współpracownik)
+
+
  Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -232,6 +235,28 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź n
 ## Licencja
 
 Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
+
+## współpracownik
+
+
+# Projekt [Alex.ai]
+
+## Organizacje, z którymi współpracujemy
+
+W ramach naszego projektu mamy przyjemność współpracować z wieloma organizacjami, które wspierają nas w realizacji naszych celów i misji. Poniżej znajduje się lista naszych partnerów i współpracowników:
+
+1. **Google**: Współpracujemy z Google w zakresie integracji technologii i narzędzi, które wspierają nasze innowacyjne rozwiązania.
+2. **Microsoft**: Dzięki współpracy z Microsoft korzystamy z zaawansowanych rozwiązań chmurowych i narzędzi analitycznych, które pomagają nam w rozwoju projektu.
+3. **Dropbox**: Integracja z Dropbox umożliwia naszym użytkownikom łatwe zarządzanie danymi i dokumentami w chmurze.
+4. **YouTube**: Współpracujemy z YouTube w zakresie streamowania treści wideo i promowania naszych działań.
+5. **Facebook**: Partnerstwo z Facebook pozwala nam na skuteczniejsze dotarcie do szerszej publiczności i budowanie społeczności wokół naszego projektu.
+6. **AWS (Amazon Web Services)**: Korzystamy z usług AWS, aby zapewnić niezawodność i skalowalność naszych rozwiązań technologicznych.
+7. **IBM**: Współpracujemy z IBM w zakresie wykorzystania zaawansowanych technologii AI i analizy danych.
+8. **Paluch**: Współpraca z Paluchem wspiera nas w realizacji celów artystycznych i kulturalnych.
+9. **Cleo**: Partnerstwo z Cleo pozwala na promocję i rozwój projektów związanych z muzyką i sztuką.
+10. **Sanah**: Dzięki współpracy z Sanah promujemy różnorodność artystyczną i innowacyjne podejścia w twórczości.
+
+Dzięki tym partnerstwom jesteśmy w stanie dostarczać naszym użytkownikom wysokiej jakości rozwiązania i wspierać różnorodne inicjatywy. Dziękujemy wszystkim naszym partnerom za ich wsparcie i zaufanie.
 
 
 ## ""SUiD**
