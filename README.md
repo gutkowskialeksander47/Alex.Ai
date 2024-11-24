@@ -252,7 +252,7 @@ System Alex AI umożliwia uruchamianie aplikacji Notepad++ oraz automatyczne otw
 Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do systemu. Proces ten jest prosty i przejrzysty, co pozwala na skuteczne zarządzanie użytkownikami i ich uprawnieniami. Aby zaprosić użytkownika poleć mu Alex.ai udostępniając klucz Dostępu do alex.apk 
 
 
-## ** PrivacyPolicy **
+## PrivacyPolicy 
  
 
 **1. Zbieranie danych osobowych**
