@@ -22,11 +22,8 @@
 4. [Wymagania](#wymagania)
 5. [InstalacjaAi](#InstalacjaAi)
 6.
-7. [Metody Autoryzacji](#metody-autoryzacji)
-   - [Wybór Metod Autoryzacji](#wybór-metod-autoryzacji)
-8. [Przykłady](#przykłady)
-   - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
-   - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
+7. 
+8.
 9. [PrivacyPolicy](#PrivacyPolicy)
 10. [Kontakt](#Kontakt)
 11. [Program](#program)
