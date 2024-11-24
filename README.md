@@ -22,7 +22,7 @@
 4. [Wymagania](#wymagania)
 5. [InstalacjaAi](#InstalacjaAi)
 6. [PABI](#PABI)
-7. 
+7. [SUiD](#SUiD)
 8.
 9. [PrivacyPolicy](#PrivacyPolicy)
 10. [Kontakt](#Kontakt)
@@ -66,8 +66,34 @@ married nieaktualny
 
 
 
+## ""SUiD**
 
----
+SUiD to zaawansowana wersja systemu Uniwersal Identification Direct (UiD), oferująca ekskluzywne funkcje dla użytkowników VIP. Ten moduł jest przeznaczony dla użytkowników, którzy wymagają wyższego poziomu dostępu i dodatkowych uprawnień.
+
+### Kluczowe Funkcje SUiD
+- **Zaawansowane Uprawnienia**: Użytkownicy SUiD mają dostęp do wszystkich funkcji i zasobów systemu, w tym do specjalistycznych narzędzi i paneli administracyjnych.
+- **Ekskluzywne Narzędzia**: Dodatkowe narzędzia i funkcje dostępne tylko dla użytkowników VIP, takie jak zaawansowane raportowanie i analizy danych.
+- **Wyższy Poziom Bezpieczeństwa**: Rozszerzone opcje bezpieczeństwa, w tym wielopoziomowe metody uwierzytelniania i zaawansowane protokoły szyfrowania.
+- **Priorytetowe Wsparcie**: Dedykowane wsparcie techniczne z priorytetowym dostępem do pomocy.
+
+### Jak Działa SUiD?
+SUiD działa na podobnej zasadzie jak standardowy system UiD, ale z dodatkowymi warstwami uprawnień i funkcji. Numer odznaki SUiD identyfikuje użytkowników jako VIP i umożliwia im dostęp do ekskluzywnych zasobów systemu. 
+
+#### Proces Nadawania Numeru Odznaki SUiD
+1. **Weryfikacja Kwalifikacji**: Kandydaci na użytkowników SUiD są poddawani szczegółowej weryfikacji kwalifikacji i doświadczenia.
+2. **Nadanie Numeru Odznaki**: Po pozytywnej weryfikacji, użytkownik otrzymuje unikalny numer odznaki SUiD, który identyfikuje go jako użytkownika VIP.
+3. **Aktywacja Uprawnień**: Numer odznaki jest używany do aktywacji zaawansowanych uprawnień i dostępu do ekskluzywnych funkcji.
+
+### Przykład Numeru Odznaki SUiD
+- **Numer Odznaki**: Steam_id 2
+- **Imię i Nazwisko**: Monika Lewczuk
+
+Monika Lewczuk dołączyła do grona użytkowników VIP UiD ze względu na jej wyjątkowe osiągnięcia w dziedzinie motywacji i iskry technologii. Jej nowy status pozwala jej na pełne korzystanie z zaawansowanych funkcji i narzędzi systemu SUiD.
+
+### Kontakt
+Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: aleksander@rajca.info
+
+
 
 ## MTYEncryption
 
