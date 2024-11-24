@@ -246,11 +246,11 @@ Masz prawo do dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, pr
 ---
 
 
-
+**IP config**
 
 W ramach korzystania z naszych usług, możemy zbierać i przetwarzać informacje dotyczące adresu IP (Internet Protocol) użytkownika. Adres IP jest unikalnym identyfikatorem, który pozwala nam na dostarczanie spersonalizowanych usług oraz zapewnienie bezpieczeństwa i integralności naszych systemów.
 
-**2. Cele Przetwarzania**
+**1. Cele Przetwarzania**
 
 Zbierane adresy IP mogą być przetwarzane w następujących celach:
 - **Zapewnienie bezpieczeństwa:** Monitorowanie i ochrona przed nieautoryzowanym dostępem oraz wykrywaniem potencjalnych zagrożeń bezpieczeństwa.
@@ -259,25 +259,25 @@ Zbierane adresy IP mogą być przetwarzane w następujących celach:
 - **Zgodność z przepisami prawa:** Spełnienie wymogów prawnych dotyczących prowadzenia działalności oraz współpraca z organami ścigania w razie potrzeby.
 -** Dostep do uslug:** Niektore z naszych uslug wymagaja zabezpieczenia dostepu "IP authorify"
 
-**3. Zakres Przetwarzanych Danych**
+**2. Zakres Przetwarzanych Danych**
 
 Podczas korzystania z naszych usług możemy zbierać następujące informacje:
 - Adres IP użytkownika.
 - Informacje o lokalizacji (na podstawie adresu IP).
 - Informacje o czasie i dacie połączenia.
 
-**4. Podstawa Prawna Przetwarzania**
+**3. Podstawa Prawna Przetwarzania**
 
 Przetwarzanie adresów IP odbywa się na podstawie:
 - Zgody użytkownika (art. 6 ust. 1 lit. a RODO) – w przypadku, gdy wymagane jest udzielenie zgody na przetwarzanie danych.
 - Realizacji umowy (art. 6 ust. 1 lit. b RODO) – gdy przetwarzanie jest niezbędne do wykonania umowy z użytkownikiem.
 - Prawnie uzasadnionego interesu administratora (art. 6 ust. 1 lit. f RODO) – gdy przetwarzanie jest niezbędne do zapewnienia bezpieczeństwa i optymalizacji naszych usług.
 
-**5. Okres Przechowywania Danych**
+**4. Okres Przechowywania Danych**
 
 Adresy IP będą przechowywane przez okres niezbędny do realizacji celów przetwarzania, zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
 
-**6. Prawa Użytkownika**
+**5. Prawa Użytkownika**
 
 Użytkownik ma prawo do:
 - Dostępu do swoich danych osobowych.
