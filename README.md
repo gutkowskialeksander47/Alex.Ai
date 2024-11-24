@@ -28,7 +28,7 @@
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt) 
 
-**Misja alex.ai na końcu pliku Readme**
+Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
 
