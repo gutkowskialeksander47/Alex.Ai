@@ -10,8 +10,6 @@
 # README dla Alex AI
 
 
----
-
 ## Spis Treści
 
 1. [Wprowadzenie](#wprowadzenie)
