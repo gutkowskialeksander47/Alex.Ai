@@ -35,6 +35,8 @@
 
 12.[UiD](#UiD)
 
+13. [Uprawnienia_alex_ai](#Uprawnienia_alex_ai)
+
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
@@ -113,7 +115,7 @@ Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup u
 Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użytkownika, co umożliwia skuteczne zarządzanie różnorodnymi potrzebami użytkowników w systemie Alex AI.
 
 --- 
-# Poziomy Uprawnień w Alex AI
+## Uprawnienia_alex_ai
 
 Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. nikt poza mną nie i Zuck nie może ingerować w poziom uprawnień. Skoro w label UiD Sandra ma poz.3 a Marcin 1 to tak ma być.
 Oto krótki opis każdego poziomu uprawnień:
