@@ -21,9 +21,7 @@
 3. [Superstars System](#superstars-system)
 4. [Wymagania](#wymagania)
 5. [InstalacjaAi](#InstalacjaAi)
-6. [Konfiguracja Serwerów](#konfiguracja-serwerów)
-   - [Lokalny Serwer](#lokalny-serwer)
-   - [Wirtualny Serwer](#wirtualny-serwer)
+6.
 7. [Metody Autoryzacji](#metody-autoryzacji)
    - [Wybór Metod Autoryzacji](#wybór-metod-autoryzacji)
 8. [Przykłady](#przykłady)
