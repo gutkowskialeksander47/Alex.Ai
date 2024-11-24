@@ -101,15 +101,6 @@ Struktura rang pozwala na:
 
 **Uwaga:** Hierarchia rang i przypisane uprawnienia mogą być dostosowane w zależności od specyficznych potrzeb i polityk organizacji. Aby uzyskać więcej informacji na temat zarządzania rangami i uprawnieniami, zapoznaj się z pełną dokumentacją systemu.
 
----
-
-Jeśli masz jakiekolwiek pytania lub potrzebujesz dalszej pomocy, skontaktuj się z administratorem systemu.
-
----
-
-Ten fragment README pomoże użytkownikom zrozumieć, jak działa system rang w Alex AI i jakie korzyści przynosi hierarchiczna struktura uprawnień. Jeśli potrzebujesz dodatkowych informacji lub modyfikacji, daj znać!
-
-
 
 ## Wymagania
 
