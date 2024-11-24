@@ -12,6 +12,8 @@
 
 Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z systemem alex.ai. Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
 
+
+
 1. **Autoryzacja IMEI (imei authorify)**
 2. **Google Authenticator**
 3. **Logon** generator kodu dostępu 
@@ -22,6 +24,8 @@ Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z syste
 8. **Bank 1€ Verify**
 9. **Klucz Dostępu od innego użytkownika**
 10. **Adres E-mail**
+
+
 
 Użytkownik musi wybrać minimum dwie z wymienionych metod autoryzacji. Te metody autoryzacji zapewniają bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. 
 
