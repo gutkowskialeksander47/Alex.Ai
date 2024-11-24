@@ -1,3 +1,9 @@
+
+
+
+
+
+
 **Misja alex.ai na końcu pliku Readme**
 
 
