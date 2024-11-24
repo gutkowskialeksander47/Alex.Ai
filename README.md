@@ -215,13 +215,13 @@ Alex.ai została zaprojektowana z myślą o artystach, którzy cenią sobie woln
 
 ## Jak Rozpocząć?
 
-1. **Zarejestruj się**: Utwórz konto na naszej stronie i zaloguj się do Alex.ai.
+1. **Zarejestruj się**: Utwórz konto na naszej stronie i zaloguj się do Alex.ai rajcawroclaw.pl
 2. **Eksploruj Narzędzia**: Zapoznaj się z naszymi narzędziami i funkcjami, które są dostępne dla artystów.
 3. **Twórz i Dziel się**: Zacznij tworzyć swoje dzieła sztuki i dziel się nimi z naszą społecznością twórców.
 
 ## Dokumentacja
 
-Pełna dokumentacja Alex.ai dostępna jest pod adresem [link do dokumentacji].
+cała znajduje się w tym pliku
 
 ## Wsparcie
 
@@ -229,11 +229,7 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź n
 
 ## Licencja
 
-Alex.ai jest licencjonowany na zasadach [typ licencji], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
-
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
 
 
 ## ""SUiD**
