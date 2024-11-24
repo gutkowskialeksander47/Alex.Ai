@@ -119,7 +119,7 @@ Jeśli ktoś próbuje wprowadzić zmiany, które mogą cofnąć postęp artystyc
 
 Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę artystyczności. Dzięki tej funkcji, możemy skupić się na tworzeniu i rozwijaniu naszych projektów bez obaw o szkodliwe działania.
 
-## twince bliźniacza autoryzacja
+## twince
 
 
 # Projekt Alex.ai
