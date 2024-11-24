@@ -11,35 +11,36 @@
 
 # README dla Alex AI
 
+
+---
+
 ## Spis Treści
 
 1. [Wprowadzenie](#wprowadzenie)
-2. [Opis Projektu](#opis-projektu) 
-3. [Superstars](#superstars-system)
-3. [Wymagania](#wymagania)
-4. [Instalacja](#instalacja)
-5. [Konfiguracja Serwerów](#konfiguracja-serwerów)
+2. [Opis Projektu](#opis-projektu)
+3. [Superstars System](#superstars-system)
+4. [Wymagania](#wymagania)
+5. [Instalacja](#instalacja)
+6. [Konfiguracja Serwerów](#konfiguracja-serwerów)
    - [Lokalny Serwer](#lokalny-serwer)
    - [Wirtualny Serwer](#wirtualny-serwer)
-6. [Metody Autoryzacji](#metody-autoryzacji)
+7. [Metody Autoryzacji](#metody-autoryzacji)
    - [Wybór Metod Autoryzacji](#wybór-metod-autoryzacji)
-7. [Przykłady](#przykłady)
+8. [Przykłady](#przykłady)
    - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
-8. [Polityka Prywatności](#polityka-prywatności)
-9. [Kontakt](#kontakt)
+9. [Polityka Prywatności](#polityka-prywatności)
+10. [Kontakt](#kontakt)
+11. [Program](#program)
+12. [Strona Internetowa](#strona-internetowa)
+13. [Uniwersal Identification Direct (UID)](#uid)
+14. [Uprawnienia Alex AI](#uprawnienia-alex-ai)
+15. [System Ranks in Alex AI](#system-ranks-in-alex-ai)
+16. [Kluczowe Rangi w Systemie](#kluczowe-rangi-w-systemie)
 
-10.[program](#program)
+---
 
-11.[Strona Internetowa](#strona-internetowa)
-
-12.[UiD](#UiD)
-
-13. [Uprawnienia_alex_ai](#Uprawnienia_alex_ai)
-
-14.[System_Ranks_in_Alex_AI](#System_Ranks_in_Alex_AI)
-
-15. [Kluczowe_Rangi_w_Systemie](#Kluczowe_Rangi_w_Systemie)
+Daj znać, jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji!
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
