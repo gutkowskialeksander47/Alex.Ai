@@ -236,7 +236,7 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź n
 
 Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
 
-## współpracownik
+## wspolpracownik
 
 
 # Projekt [Alex.ai]
