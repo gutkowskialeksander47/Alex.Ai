@@ -39,7 +39,7 @@
 23. [funkcjonalnosc](#funkcjonalnosc)
 24. [ zgodanaintegracjezalexai](zgodanaintegracjezalexai
 )
-
+25. [opieka troska](#opiekaitroska)
 ---
 
 
@@ -326,7 +326,23 @@ W notatce "label UiD" wymieniłem osoby, które chcemy zwerbować do naszej agen
 Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do naszego zespołu, skontaktuj się z nami pod adresem:
 support@pabi.gov
 
+
+## opiekaitroska
+
+#### Opieka
+- **Keyword**: `opieka`
+- **Zastosowanie**: Dla wszystkich artystów
+- **Przykład**: ;keyword<"opieka">(@Artist)
+- **Opis**: W kontekście Alex.ai, słowo "opieka" odnosi się do wsparcia i troski, jaką system zapewnia artystom w zakresie ich działań twórczych i artystycznych.
+
+#### Troska
+- **Keyword**: `troska`
+- **Zastosowanie**: Dla każdego dewelopera
+- **Przykład**: ;keyword<"troska"><(deweloper)
+- **Opis**: W kontekście Alex.ai, słowo "troska" odnosi się do wsparcia i uwagi, jakie system zapewnia deweloperom w ich codziennej pracy i rozwoju oprogramowania.
+
 ---
+
 
 
 
