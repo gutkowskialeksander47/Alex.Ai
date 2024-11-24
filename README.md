@@ -69,7 +69,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 39. [ArmiaBog](#ArmiaBog)
 40. [whatsappChefUiD](#whatsappchefUiD)
 41. [Huawei](#Huawei)
-
+42. [callfiltr](#callfiltr)
 
  Skrypt.cpp
 
@@ -113,6 +113,50 @@ Ostateczna ocena przydatności Alex.ai zależy od specyficznych potrzeb i celów
 8. **Zgodność z Prawem**: Przestrzegamy wszystkich przepisów prawnych i standardów bezpieczeństwa, co zwiększa Twoje zaufanie do naszego programu.
 9. **Wsparcie Techniczne**: Zapewniamy użytkownikom dostęp do pomocy i wsparcia technicznego, aby rozwiązać wszelkie problemy.
 10. **Rozwój Społeczności**: Budujemy społeczność użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
+
+
+## callfiltr
+
+
+
+# Projekt Alex.apk
+
+## Funkcja Wykrywania Niechcianych Połączeń w Czasie Rzeczywistym
+
+### Wprowadzenie
+
+Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.apk bezpieczeństwa i ochrony przed niechcianymi połączeniami, takimi jak spam, flooding oraz oszustwa. Funkcja ta działa w czasie rzeczywistym, aby natychmiastowo identyfikować i blokować podejrzane połączenia oraz nieznane elementy.
+
+### Kluczowe Funkcje
+
+- **Wykrywanie Spamu**: Funkcja identyfikuje i blokuje połączenia o charakterze spamowym, chroniąc użytkowników przed niechcianymi wiadomościami.
+- **Zapobieganie Floodingowi**: System monitoruje aktywność i zapobiega przesyłaniu nadmiarowych wiadomości w krótkim czasie, co chroni przed floodowaniem.
+- **Identyfikacja Oszustów**: Algorytmy wykrywają potencjalnych oszustów i blokują ich połączenia, zapewniając użytkownikom bezpieczeństwo.
+- **Identyfikacja Nieznanych Elementów**: Funkcja analizuje i identyfikuje nieznane elementy w aplikacji, oznaczając je do dalszej analizy i weryfikacji.
+
+### Jak to Działa
+
+1. **Monitorowanie Połączeń**: System nieustannie monitoruje wszystkie przychodzące połączenia w czasie rzeczywistym.
+2. **Analiza Danych**: Zaawansowane algorytmy analizują dane, aby wykrywać wzorce charakterystyczne dla spamu, floodingu i oszustw.
+3. **Blokowanie Zagrożeń**: Wykryte zagrożenia są natychmiastowo blokowane, a użytkownicy są informowani o podejrzanej aktywności.
+4. **Weryfikacja Nieznanych Elementów**: Funkcja identyfikuje nieznane elementy i przesyła je do dalszej analizy w celu oceny ryzyka.
+
+### Korzyści
+
+- **Zwiększone Bezpieczeństwo**: Użytkownicy są chronieni przed różnymi typami zagrożeń w czasie rzeczywistym.
+- **Lepsza Wydajność**: System zapobiega floodowaniu, co zwiększa wydajność aplikacji.
+- **Spokój Użytkowników**: Użytkownicy mogą korzystać z aplikacji bez obaw o niechciane połączenia i oszustwa.
+- **Wiarygodność Aplikacji**: Dzięki zaawansowanej ochronie, Alex.apk zyskuje na wiarygodności i zaufaniu użytkowników.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zaufanie i wsparcie. Dzięki Waszym informacjom zwrotnym możemy nieustannie poprawiać nasze systemy i zapewniać Wam najwyższy poziom bezpieczeństwa.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
+
 
 ## Huawei
 # TeamHuawei 2004=original
