@@ -181,44 +181,12 @@ Blizniacza autoryzacja polega na połączeniu dwóch różnych metod uwierzyteln
 3. **Druga Autoryzacja**: Po pomyślnej weryfikacji logowania, użytkownik musi przejść drugą metodę autoryzacji (np. skan linii papilarnych).
 4. **Uzyskanie Dostępu**: Po pomyślnej weryfikacji drugiej metody, użytkownik uzyskuje dostęp do ekranu i pełnej funkcjonalności systemu Alex.ai.
 
-### Przykład Użycia
 
-```python
-# Przykład procesu blizniaczej autoryzacji
-def twin_authentication(username, password, secondary_auth):
-    if verify_login(username, password):
-        if verify_secondary_auth(secondary_auth):
-            print("Autoryzacja pomyślna. Uzyskano dostęp do systemu.")
-        else:
-            print("Druga autoryzacja nieudana. Dostęp zablokowany.")
-    else:
-        print("Logowanie nieudane. Spróbuj ponownie.")
 
-# Funkcje weryfikacyjne (przykładowe)
-def verify_login(username, password):
-    # Logika weryfikacji logowania
-    return True
-
-def verify_secondary_auth(secondary_auth):
-    # Logika weryfikacji drugiej metody uwierzytelniania
-    return True
-
-# Przykładowe dane
-username = "user"
-password = "password"
-secondary_auth = "fingerprint"
-
-# Proces autoryzacji
-twin_authentication(username, password, secondary_auth)
-```
 
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja blizniaczej autoryzacji została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i ochrony danych.
-
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 
 
@@ -272,7 +240,7 @@ print(f"Podpis cyfrowy: {signature}")
 
 ### Podziękowania
 
-Dziękujemy wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja `$061(!;"FingerScannerRootCommerial"` została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i wygody w autoryzacji i podpisach cyfrowych.
+Dziękujemy wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja `$061(!;"FingerScannerRootCommerial"` została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i wygody w autoryzacji i podpisach cyfrowych. Dziękujemy Samsung za możliwość pracy przy uprawnieniach komercyjnych root.
 
 ## potrzebaAi **alex.ai**
 
