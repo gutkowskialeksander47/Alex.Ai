@@ -30,6 +30,58 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai 
+---
+# Poziomy Uprawnień w Alex AI
+
+Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. Oto krótki opis każdego poziomu uprawnień:
+
+### Poziom $1
+**Podstawowy dostęp:**
+- Podgląd danych i zasobów.
+- Wykonywanie podstawowych operacji, takich jak przeglądanie i pobieranie informacji.
+
+### Poziom $2
+**Rozszerzony dostęp:**
+- Edytowanie i aktualizowanie danych.
+- Tworzenie i zarządzanie zadaniami oraz projektami.
+
+### Poziom $3
+**Zaawansowane funkcje:**
+- Dostęp do zaawansowanych narzędzi analitycznych i raportowania.
+- Udzielanie wsparcia technicznego innym użytkownikom.
+
+### Poziom $4
+**Administracja:**
+- Zarządzanie użytkownikami i ich uprawnieniami.
+- Wprowadzanie zmian w konfiguracji systemu.
+
+### Poziom $5
+**Zarządzanie projektami:**
+- Monitorowanie i zarządzanie wieloma projektami.
+- Nadzór nad zespołami projektowymi i przypisywanie zadań.
+
+### Poziom $6
+**Pełna administracja:**
+- Zarządzanie wszystkimi aspektami systemu, w tym bezpieczeństwem danych.
+- Pełny dostęp do narzędzi administracyjnych i technologicznych.
+
+### Poziom $7
+**Superuser:**
+- Pełny dostęp do wszystkich funkcji i zasobów systemu.
+- Możliwość modyfikowania oraz usuwania danych i konfiguracji systemu.
+- Nadzór nad całym systemem i jego działaniem.
+
+**Uwaga:** Uprawnienia mogą być dostosowywane w zależności od specyficznych potrzeb i polityk organizacji. Aby uzyskać więcej informacji na temat zarządzania uprawnieniami, zapoznaj się z dokumentacją systemu.
+
+---
+
+Jeśli masz jakiekolwiek pytania lub potrzebujesz dalszej pomocy, skontaktuj się z administratorem systemu.
+
+---
+
+Ten fragment README pomoże użytkownikom zrozumieć, jakie są poziomy uprawnień w programie Alex AI i jakie możliwości oferują. Jeśli potrzebujesz dodatkowych informacji lub modyfikacji, daj znać!
+
+
 Dzięki Alex AI użytkownicy mogą korzystać z następujących możliwości:
 
 1. **Zarządzanie Użytkownikami**: Skuteczne narzędzia do zarządzania dostępem i uprawnieniami użytkowników, co zapewnia płynne działanie systemu.
