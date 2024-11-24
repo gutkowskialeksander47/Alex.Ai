@@ -65,6 +65,9 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 35. [RzadUNZ](#RzadUNZ)
 36. [ABW](#ABW)
 37. [info_facebook_com](#info_facebook_com)
+38. [Netflix](#Netflix)
+
+
  Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -197,6 +200,40 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z na
 ## Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim służbom specjalnym i mundurowym za ich zaangażowanie i poświęcenie. Wasza praca jest nieoceniona, a my jesteśmy dumni, że możemy Was wspierać w realizacji Waszych misji.
+
+
+## **Netflix**
+
+
+
+# Projekt [Film Alex]
+
+## Współpraca z Netflix
+
+### Wprowadzenie
+
+Z przyjemnością informujemy, że nawiązaliśmy współpracę z Netflix, która umożliwi nakręcenie filmu dokumentalnego o naszej pracy nad projektem UiD (User Identification and Data). Film ten będzie dokumentować nasze innowacyjne podejście do identyfikacji użytkowników oraz zarządzania danymi, a także przedstawiać kulisy naszej pracy.
+
+### Cel Filmu
+
+Celem filmu dokumentalnego jest ukazanie procesu tworzenia nowoczesnych rozwiązań technologicznych oraz wpływu naszej pracy na społeczność i branżę. Film ma na celu edukację widzów na temat znaczenia bezpieczeństwa danych i zaawansowanych technologii w codziennym życiu.
+
+### Zakres Nagrywania
+
+Nagrania będą realizowane w naszej lokalizacji oraz w okolicznych miejscach, aby uchwycić pełen kontekst naszej pracy i otoczenia. Będą obejmować:
+
+- Wywiady z członkami zespołu projektowego
+- Prezentacje technologii i narzędzi wykorzystywanych w projekcie
+- Sceny z codziennej pracy nad projektem UiD
+- Interakcje z lokalną społecznością i partnerami
+
+### Zgoda na Nagrywanie
+
+Pragniemy uzyskać zgodę na realizację nagrań w okolicy, aby umożliwić pełne i autentyczne przedstawienie naszego projektu. Współpraca z Netflix jest dla nas wyjątkową okazją do pokazania naszej pracy szerszej publiczności i zademonstrowania naszych osiągnięć.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim za wsparcie i zrozumienie. Wasza zgoda i pomoc w realizacji tego filmu są kluczowe dla sukcesu projektu. Wierzymy, że wspólnie stworzymy inspirujący i edukacyjny materiał, który zainteresuje widzów na całym świecie.
 
 
 
