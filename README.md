@@ -97,42 +97,6 @@ Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, proje
 
 ### Implementacja
 
-Poniżej znajduje się przykładowy kod HTML i JavaScript do implementacji tej funkcji:
-
-```html
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <title>Alex.ai Logowanie</title>
-    <script>
-        function detectLocationAndRedirect() {
-            // Przykład wykrywania lokalizacji (można użyć bardziej zaawansowanego rozwiązania)
-            const userLocation = getUserLocation(); // Funkcja zwracająca lokalizację użytkownika
-
-            if (userLocation !== 'Polska') {
-                window.location.href = 'https://translate.alex.ai?lang=' + getUserLanguage();
-            }
-        }
-
-        function getUserLocation() {
-            // Logika wykrywania lokalizacji (np. za pomocą API geolokalizacji)
-            return 'USA'; // Przykład zwracającej lokalizację
-        }
-
-        function getUserLanguage() {
-            // Logika wykrywania preferowanego języka użytkownika
-            return 'en'; // Przykład zwracającej język
-        }
-    </script>
-</head>
-<body onload="detectLocationAndRedirect()">
-    <h1>Logowanie do Alex.ai</h1>
-    <!-- Formularz logowania -->
-</body>
-</html>
-```
-
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z Alex.ai. Dzięki tej funkcji, użytkownicy spoza Polski mogą łatwo zrozumieć i korzystać z naszej platformy w swoim języku.
