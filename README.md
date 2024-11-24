@@ -29,13 +29,8 @@
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
 10.[program](#program)
-
 11.[Strona Internetowa](#strona-internetowa)
-
-12. [Uniwersal Identification Direct (UID)]
-(#Uniwersal-Identification-Direct-(UID))
-
-13.[UiD](#UiD)
+12.[UiD](#UiD)
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
