@@ -191,15 +191,9 @@ Zbieramy dane osobowe w celu świadczenia usług na najwyższym poziomie. Dane t
 - Klucz aktywacyjny Windows
 - Numer IP
 
-Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych.
+1. Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych.
 
-**1.2 Zgoda na Przetwarzanie IMEI**
-
-Użytkownik zgadza się na przetwarzanie numeru IMEI przez alex.ai w celach autoryzacji i zabezpieczeń. Wycofanie zgody ogranicza niektóre funkcje i dostępność usług.
-
-**2. Zgoda na Przetwarzanie Klucza Aktywacyjnego Windows**
-
-Ja, [%user.data%], wyrażam zgodę na przetwarzanie mojego klucza aktywacyjnego Windows przez Microsoft Corporation oraz alex.ai w celach licencyjnych i wsparcia technicznego. 
+2. Ja, [%user.data%], wyrażam zgodę na przetwarzanie mojego klucza aktywacyjnego Windows przez Microsoft Corporation oraz alex.ai w celach licencyjnych i wsparcia technicznego. 
 
 **3. Wykorzystanie danych osobowych**
 
@@ -221,13 +215,6 @@ Dbamy o bezpieczeństwo Twoich danych osobowych. Wszystkie dane są szyfrowane i
 
 Nasza strona internetowa może używać plików cookie do analizy ruchu i personalizacji treści.
 
---- 
-
-
-
-**6. Twoje prawa**
-
-**6. Twoje prawa**
 
 Masz prawo do:
 - Dostępu, poprawiania, usuwania, ograniczania przetwarzania swoich danych osobowych.
