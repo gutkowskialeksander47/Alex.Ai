@@ -23,7 +23,7 @@
 5. [InstalacjaAi](#InstalacjaAi)
 6. [PABI](#PABI)
 7. [SUiD](#SUiD)
-8. [PowstanieUiD](#Powstanie UiD)
+8. [PowstanieUiD](#PowstanieUiD)
 9. [PrivacyPolicy](#PrivacyPolicy)
 10. [Kontakt](#Kontakt)
 11. [Program](#program)
