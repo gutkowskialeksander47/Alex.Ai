@@ -36,7 +36,33 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 ## Opis Projektu
 
-Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk
+Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+
+
+---
+
+## Uniwersal Identification Direct (UID)
+
+Alex AI wykorzystuje system **Uniwersal Identification Direct (UID)** do bezpośredniej identyfikacji użytkowników. System ten opiera się na używaniu flag literowych do oznaczania różnych cech użytkowników. Przykładem może być flaga "K2", która oznacza użytkownika płci żeńskiej. Na podstawie tych flag system decyduje jakie kroki podjąć czy jak się zachować.
+
+### Klasy, Kategorie i Grupy
+Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup użytkowników, co pozwala na precyzyjne zarządzanie dostępem i uprawnieniami. Na przykład:
+
+- **K1**: Użytkownik męski
+- **K2**: Użytkownik żeński
+- **A1**: Administrator
+- **M1**: Moderator
+- **U1**: Użytkownik podstawowy
+
+Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użytkownika, co umożliwia skuteczne zarządzanie różnorodnymi potrzebami użytkowników w systemie Alex AI.
+
+
+
+
+Jeśli potrzebujesz dodatkowych informacji lub poprawek, daj znać!
+
+
 --- 
 # Poziomy Uprawnień w Alex AI
 
