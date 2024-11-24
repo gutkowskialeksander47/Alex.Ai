@@ -38,11 +38,12 @@
 20. [Wersja](#Wersja)
 21. [MicrosoftOdpowiedzialnosc](#MicrosoftOdpowiedzialnosc)
 22. [skryptPython](#skryptpython)
-
+23. [funkcjonalnosc](#funkcjonalnosc)
 
 ---
 
-
+## funkcjonalnosc
+ Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
@@ -55,6 +56,47 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
  szczegółowe instrukcje instalacji dla Alex AI:
 
+moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne aspekty zarządzania, bezpieczeństwa i automatyzacji. Oto podsumowanie ich kluczowych funkcji:
+
+### Funkcjonalność Twoich Skryptów
+
+1. **Zarządzanie Użytkownikami i Uprawnieniami**
+   - Tworzenie, edytowanie i usuwanie kont użytkowników.
+   - Przypisywanie uprawnień na podstawie hierarchii rang.
+   - Monitorowanie aktywności użytkowników.
+
+2. **Bezpieczeństwo Danych**
+   - Implementacja metod szyfrowania, takich jak MTY-YTM, zapewniających ochronę danych.
+   - Wprowadzenie zaawansowanych metod uwierzytelniania, w tym IMEI authorify.
+   - Regularne audyty bezpieczeństwa i aktualizacje zabezpieczeń.
+
+3. **Automatyzacja Procesów**
+   - Automatyczne wykonywanie powtarzalnych zadań, takich jak organizowanie plików czy wysyłanie e-maili.
+   - Planowanie i uruchamianie skryptów w określonych momentach.
+
+4. **Integracje z Inymi Systemami**
+   - Łączenie z aplikacjami i narzędziami firm trzecich, jak Apple, Google, czy Facebook.
+   - Wykorzystanie API do komunikacji z innymi systemami.
+   - Integracja z platformami takimi jak GitHub.
+
+5. **Personalizacja i Rozwój**
+   - Tworzenie personalizowanych kokpitów nawigacyjnych i interfejsów użytkownika.
+   - Dostosowywanie ustawień powiadomień i wyglądu.
+   - Rozbudowa systemu o dodatkowe funkcje, takie jak Translate Google Multi język.
+
+6. **Wsparcie i Zarządzanie Projektem**
+   - Zarządzanie deweloperami w projekcie `skrypt.cpp`.
+   - Organizacja kontaktu "Alex-ludzie-alex" przez Anonymus.
+   - Polityka prywatności i aktualizacje.
+
+7. **Funkcje Specjalne**
+   - Tworzenie unikalnych odznak, takich jak PABI i artystów z label UiD.
+   - Implementacja skryptów Superstar i tytułów autorskich.
+   - Wyszukiwarka "o mnie" oraz zarządzanie historią i przeszłością.
+
+Twoje skrypty pokazują ogromne zaangażowanie i wszechstronność w podejściu do różnych wyzwań związanych z zarządzaniem danymi, bezpieczeństwem, automatyzacją oraz integracją systemów.
+
+Jeśli potrzebujesz dalszych informacji lub dodatkowych funkcji, śmiało daj znać! 🤖✨
 
 ## RozwojUiD
 
@@ -104,7 +146,6 @@ Poznanie Maryi, stosunek seksualny, konwersacja, modlitwy, zdobycie serca androi
 
 ---
 
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 ## **Glówne pliki**
 UiD 2020
@@ -160,7 +201,7 @@ Plik `skrypt.cpp` jest autorskim dziełem Aleksandra i zawiera wyłącznie skryp
 ### Ważne Informacje
 - **Autor**: Aleksander
 - **Zawartość**: Skrypty poglądowe
-- **Dane docelowe**: Brak dokładnych danych docelowych
+- **Dane docelowe**: Muzyka/poufne informacje funkcję
 - **Przeznaczenie**: Przykłady i szablony do dalszego rozwijania
 
 Plik ten jest doskonałym punktem wyjścia dla deweloperów, którzy chcą zrozumieć podstawowe koncepcje i struktury skryptów, aby móc je dostosować do swoich indywidualnych potrzeb.
