@@ -606,15 +606,6 @@ Wszelkie działania podejmowane przez Microsoft w związku z projektem Alex.ai m
 ### Prawa Autorskie i Licencje
 Microsoft nie będzie udzielać żadnych licencji ani przenosić praw do własności intelektualnej Aleksandra bez wyraźnej, pisemnej zgody autora. Wszelkie umowy licencyjne będą jasno określać zakres wykorzystania zasobów intelektualnych oraz korzyści i prawa Aleksandra jako autora.
 
----
-
-Mam nadzieję, że ten fragment spełnia Twoje oczekiwania. Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
-
----
-
-
-
-
 
 **Specjalne zgody:**
 
