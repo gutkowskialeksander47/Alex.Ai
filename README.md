@@ -7,8 +7,6 @@
 
 
 
-
-
 # README dla Alex AI
 
 
@@ -39,6 +37,8 @@
 21. [MicrosoftOdpowiedzialnosc](#MicrosoftOdpowiedzialnosc)
 22. [skryptPython](#skryptpython)
 23. [funkcjonalnosc](#funkcjonalnosc)
+24. [ zgodanaintegracjezalexai](zgodanaintegracjezalexai
+)
 
 ---
 
@@ -270,6 +270,32 @@ Przed rozpoczęciem instalacji upewnij się, że spełnione są następujące wy
    /add %nick% 
    
 
+## zgodanaintegracjezalexai
+
+## Wyrażanie Zgody na Integrację Urządzenia z Systemem Alex.ai
+
+Aby zintegrować swoje urządzenie z systemem Alex.ai, należy wyrazić zgodę na jeden z poniższych sposobów:
+
+### Sposoby Wyrażania Zgody
+
+1. **Głosowe Potwierdzenie**
+   - Powiedz głośno, że znasz Aleksandra i chcesz zintegrować swoje urządzenie z systemem Alex.ai. Na przykład: "Znam Aleksandra i chcę zintegrować swoje urządzenie z Alex.ai."
+
+2. **Upoważnienie w Notesie w Telefonie**
+   - Napisz upoważnienie w notesie w telefonie, w którym wyrażasz zgodę na integrację. Na przykład: "Upoważniam system Alex.ai do integracji mojego urządzenia. [Twoje imię i nazwisko]"
+
+3. **Otrzymanie Zaproszenia**
+   - Odbierz zaproszenie do integracji z systemem Alex.ai, które możesz otrzymać poprzez e-mail, wiadomość tekstową lub inne metody komunikacji. Postępuj zgodnie z instrukcjami zawartymi w zaproszeniu, aby sfinalizować proces integracji.
+
+### Kroki Po Wyrażeniu Zgody
+1. Potwierdź zgodę na integrację w aplikacji Alex.ai lub poprzez wybrany kanał komunikacji.
+2. Postępuj zgodnie z instrukcjami w celu zakończenia procesu integracji.
+
+Wyrażenie zgody na integrację urządzenia z systemem Alex.ai pozwala na pełne korzystanie z funkcji i możliwości oferowanych przez ten zaawansowany system.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 
 ---
