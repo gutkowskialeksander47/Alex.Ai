@@ -39,6 +39,8 @@
 
 14.[System_Ranks_in_Alex_AI](#System_Ranks_in_Alex_AI)
 
+15. [Kluczowe Rangi w Systemie](#Kluczowe Rangi w Systemie)
+
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
