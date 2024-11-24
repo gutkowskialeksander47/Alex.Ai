@@ -312,7 +312,7 @@ Masz prawo do:
 
 Zmiany będą publikowane na naszej stronie internetowej i przesyłane drogą e-mailową.
 
-**8. Kontakt**
+## **Kontakt**
 
 Pytania dotyczące polityki prywatności: aleksander@rajca.info.
 
