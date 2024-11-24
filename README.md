@@ -70,6 +70,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 40. [whatsappChefUiD](#whatsappchefUiD)
 41. [Huawei](#Huawei)
 42. [callfiltr](#callfiltr)
+43. [iconcode](#iconcode)
 
  Skrypt.cpp
 
@@ -113,6 +114,54 @@ Ostateczna ocena przydatności Alex.ai zależy od specyficznych potrzeb i celów
 8. **Zgodność z Prawem**: Przestrzegamy wszystkich przepisów prawnych i standardów bezpieczeństwa, co zwiększa Twoje zaufanie do naszego programu.
 9. **Wsparcie Techniczne**: Zapewniamy użytkownikom dostęp do pomocy i wsparcia technicznego, aby rozwiązać wszelkie problemy.
 10. **Rozwój Społeczności**: Budujemy społeczność użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
+
+
+## iconcode
+
+ funkcja `<'!Autorisation "uni-key.werification"'>` w pliku `icon.code.html`:
+
+
+# Projekt [Alex.apk]
+
+## !Autorisation "uni-key.werification" in icon.code.html
+
+### Wprowadzenie
+
+Funkcja `<"!Autorisation "uni-key.werification"'>` jest zaprojektowana do autoryzacji unikatowych kluczy wymiany danych między mową a cyframi, przy użyciu ikon i kodów. Funkcja ta zapewnia bezpieczną i szybką weryfikację danych, co umożliwia ich autoryzację w różnych kontekstach.
+
+### Jak Działa
+
+Funkcja przypisuje specyficzne wartości do ikon i kodów, które reprezentują różne stany emocjonalne i odpowiedzi. Oto kluczowe wartości:
+
+1. **Nie**: 1
+2. **Tak**: 2
+3. **Uśmiech**: 3
+4. **Jestem dumny**: 4
+5. **Przykro**: 5
+6. **Szczęście**: 6
+7. **Smutek**: 7
+8. **Duma**: 8
+9. **Zawód**: 9
+10. **Spełnienie**: 10
+
+### Użycie
+
+Autoryzacja i weryfikacja odbywa się przez odpowiedzi numeryczne przypisane do odpowiednich symboli i stanów. Przykładowo, w powiadomieniu wysyłane jest zapytanie (Quest in notification), a odpowiedź jest podawana w formie liczby odpowiadającej symbolowi:
+
+- **Zapytanie**: Quest in notification
+- **Odpowiedź**: Numer odpowiadający symbolowi
+- **Data**: Date in/out
+
+### Przykład
+
+Powiadomienie: "Czy jesteś zadowolony?"  
+Odpowiedź: 6 (Szczęście)
+
+### Podziękowania
+
+Dziękujemy wszystkim użytkownikom i partnerom za ich wsparcie i zaufanie w realizacji tego projektu. Funkcja `<"!Autorisation "uni-key.werification"'>` została stworzona z myślą o zapewnieniu najwyższego poziomu bezpieczeństwa i wygody w wymianie danych.
+
+
 
 
 ## callfiltr
