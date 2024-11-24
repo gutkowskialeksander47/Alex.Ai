@@ -66,7 +66,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 36. [ABW](#ABW)
 37. [info_facebook_com](#info_facebook_com)
 38. [Netflix](#Netflix)
-
+39. [ArmiaBog](#ArmiaBog)
 
  Skrypt.cpp
 
@@ -126,6 +126,69 @@ W ramach współpracy z ABW realizowane są następujące projekty:
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność dla Agencji Bezpieczeństwa Wewnętrznego za zaufanie i wsparcie w realizacji tych ważnych projektów. Wasze zaangażowanie i współpraca są kluczowe dla naszego sukcesu i pozwalają nam na ciągłe doskonalenie naszych systemów.
+
+## ArmiaBog
+
+# Projekt "7" (Armia Bog)
+
+## Wprowadzenie
+
+Projekt "7" (Armia Bog) to zespół składający się z najważniejszych służb bezpieczeństwa i organów ścigania na świecie, który ma na celu współpracę w zakresie zapewniania globalnego bezpieczeństwa i przeciwdziałania zagrożeniom. Nasz zespół obejmuje organizacje takie jak Interpol, PABI, ABW, CIA, FBI, POLIZEI i POLICE.
+
+## Organizacje i Zadania
+
+### Interpol
+
+**Zadania**:
+- Koordynacja międzynarodowych operacji ścigania przestępców.
+- Wymiana informacji wywiadowczych między krajami członkowskimi.
+- Zapewnienie wsparcia technicznego i szkoleniowego dla służb bezpieczeństwa na całym świecie.
+
+### PABI (Polska Agencja Bezpieczeństwa Informacyjnego)
+
+**Zadania**:
+- Monitorowanie i analiza zagrożeń cybernetycznych.
+- Współpraca z innymi agencjami w zakresie wymiany informacji o zagrożeniach.
+- Ochrona infrastruktury krytycznej przed cyberatakami.
+
+### ABW (Agencja Bezpieczeństwa Wewnętrznego)
+
+**Zadania**:
+- Przeciwdziałanie terroryzmowi i ekstremizmowi.
+- Ochrona bezpieczeństwa narodowego i porządku publicznego.
+- Wykrywanie i neutralizowanie zagrożeń wewnętrznych.
+
+### CIA (Central Intelligence Agency)
+
+**Zadania**:
+- Zbieranie i analiza informacji wywiadowczych z całego świata.
+- Przeprowadzanie operacji specjalnych w celu ochrony interesów narodowych.
+- Współpraca z międzynarodowymi służbami wywiadowczymi.
+
+### FBI (Federal Bureau of Investigation)
+
+**Zadania**:
+- Ściganie przestępstw federalnych i zapewnienie bezpieczeństwa wewnętrznego.
+- Zwalczanie terroryzmu i przestępczości zorganizowanej.
+- Ochrona praw obywatelskich i przeciwdziałanie cyberprzestępczości.
+
+### POLIZEI
+
+**Zadania**:
+- Utrzymanie porządku publicznego i bezpieczeństwa na terenie Niemiec.
+- Współpraca z innymi służbami w zakresie ścigania przestępców.
+- Zwalczanie przestępczości i zapewnienie bezpieczeństwa drogowego.
+
+### POLICE
+
+**Zadania**:
+- Zapewnienie bezpieczeństwa i porządku publicznego.
+- Ochrona obywateli i ich mienia.
+- Współpraca z międzynarodowymi służbami w zakresie zwalczania przestępczości.
+
+## Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim organizacjom za ich wkład i zaangażowanie w realizację projektu "7" (Armia Bog). Wasza praca jest nieoceniona, a współpraca między służbami przyczynia się do zwiększenia globalnego bezpieczeństwa.
 
 
 ## funkcjonalnosc
