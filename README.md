@@ -74,10 +74,69 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 44. [podpisodciskiem](#podpisOdciskiem)
 45. [obowiazekrozwoju](#obowiazekrozwoju)
 46. [twince](#twince)
+47.[translate](#translate)
+
+## **Translate**
 
 
+# Projekt Alex.ai
 
- Skrypt.cpp
+## Przekierowanie do Tłumaczenia Strony
+
+### Wprowadzenie
+
+Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, projekt Alex.ai zawiera funkcję automatycznego przekierowania do tłumaczenia strony przy logowaniu z zagranicy. Ta funkcja ma na celu zwiększenie wygody i zrozumiałości dla międzynarodowych użytkowników.
+
+### Jak Działa
+
+1. **Wykrywanie Lokalizacji**: System Alex.ai wykrywa lokalizację użytkownika podczas logowania.
+2. **Sprawdzenie Lokalizacji**: Jeśli użytkownik loguje się spoza Polski, następuje automatyczne przekierowanie do strony tłumaczenia.
+3. **Przekierowanie**: Użytkownik jest przekierowywany do odpowiedniej wersji językowej strony, aby zapewnić dostęp do treści w jego języku.
+
+### Implementacja
+
+Poniżej znajduje się przykładowy kod HTML i JavaScript do implementacji tej funkcji:
+
+```html
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Alex.ai Logowanie</title>
+    <script>
+        function detectLocationAndRedirect() {
+            // Przykład wykrywania lokalizacji (można użyć bardziej zaawansowanego rozwiązania)
+            const userLocation = getUserLocation(); // Funkcja zwracająca lokalizację użytkownika
+
+            if (userLocation !== 'Polska') {
+                window.location.href = 'https://translate.alex.ai?lang=' + getUserLanguage();
+            }
+        }
+
+        function getUserLocation() {
+            // Logika wykrywania lokalizacji (np. za pomocą API geolokalizacji)
+            return 'USA'; // Przykład zwracającej lokalizację
+        }
+
+        function getUserLanguage() {
+            // Logika wykrywania preferowanego języka użytkownika
+            return 'en'; // Przykład zwracającej język
+        }
+    </script>
+</head>
+<body onload="detectLocationAndRedirect()">
+    <h1>Logowanie do Alex.ai</h1>
+    <!-- Formularz logowania -->
+</body>
+</html>
+```
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z Alex.ai. Dzięki tej funkcji, użytkownicy spoza Polski mogą łatwo zrozumieć i korzystać z naszej platformy w swoim języku.
+
+
+ 
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
