@@ -63,7 +63,9 @@ project.d 2023
 label.html 2023/2024
 
 ## **Głowne moduły**
-master query root live/live xqbj String mainstream MTY-YTM
+master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex
+
+married nieaktualny 
 
 
 ---
