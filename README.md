@@ -14,8 +14,7 @@
 ## Spis Treści
 
 1. [Wprowadzenie](#wprowadzenie)
-2. [Opis Projektu](#opis-projektu)
-2.1 [program](#program)
+2. [Opis Projektu](#opis-projektu) 
 3. [Superstars](#superstars-system)
 3. [Wymagania](#wymagania)
 4. [Instalacja](#instalacja)
@@ -30,6 +29,7 @@
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
 10. [superstars system][#superstars-system)
+11. [program](#program)
 
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
