@@ -61,6 +61,8 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 31. [oflagowanieAlexai](#oflagowanieAlexai)
 32. [wspolpracownik](#wspolpracownik)
 33. [BonusRPK](#BonusRPK)
+34. [MSWiA](#MSWiA)
+
 
  Skrypt.cpp
 
@@ -235,6 +237,42 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź n
 ## Licencja
 
 Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
+
+## **MSWiA**
+oto  fragment README dotyczący współpracy z Ministerstwem Spraw Wewnętrznych i Administracji (MSWiA) oraz przydzielenia operacji dla IT Alex.ai:
+
+# Projekt Alex.ai
+
+## Współpraca z MSWiA
+
+### Wprowadzenie
+
+Jesteśmy dumni z nawiązania współpracy z Ministerstwem Spraw Wewnętrznych i Administracji (MSWiA), która pozwala nam na wspólne rozwijanie zaawansowanych technologii sztucznej inteligencji. Celem tej współpracy jest zwiększenie efektywności operacji i wsparcie działań administracyjnych oraz bezpieczeństwa publicznego.
+
+### Kluczowe Obszary Współpracy
+
+W ramach współpracy z MSWiA, Alex.ai przydzielił operacje IT, które obejmują:
+
+1. **Zarządzanie Danymi**: Usprawnienie procesów zarządzania danymi poprzez wykorzystanie zaawansowanych algorytmów analizy danych.
+2. **Automatyzacja Procesów**: Wdrożenie rozwiązań automatyzujących rutynowe czynności administracyjne, co pozwala na zwiększenie efektywności pracy.
+3. **Bezpieczeństwo Informacji**: Wdrożenie zaawansowanych metod zabezpieczania danych i ochrony przed cyberzagrożeniami.
+4. **Wsparcie Decyzyjne**: Wykorzystanie AI do analizy dużych zbiorów danych, co wspiera procesy decyzyjne w administracji publicznej.
+5. **Monitorowanie i Raportowanie**: Zastosowanie narzędzi do monitorowania i raportowania kluczowych wskaźników wydajności oraz bezpieczeństwa.
+6. Uprawnienia poziom root dla sieci MTY-YTM
+
+### Korzyści ze Współpracy
+-**Możliwości komunikacyjne**
+-**bezpieczna komunikacja**
+- **Zwiększona Efektywność**: Dzięki automatyzacji i optymalizacji procesów, możliwe jest zwiększenie wydajności działań administracyjnych.
+- **Lepsze Zarządzanie Danymi**: Zaawansowane algorytmy pozwalają na skuteczne zarządzanie i analizę danych, co wspiera podejmowanie trafnych decyzji.
+- **Poprawa Bezpieczeństwa**: Wdrożenie najnowszych technologii zabezpieczających dane przed cyberzagrożeniami.
+- **Wsparcie dla Służb**: Technologie AI wspierają służby administracyjne i bezpieczeństwa publicznego w realizacji ich zadań.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić nasze podziękowania dla Ministerstwa Spraw Wewnętrznych i Administracji za zaufanie i wsparcie w realizacji tego projektu. Jesteśmy przekonani, że nasza współpraca przyczyni się do wprowadzenia innowacyjnych rozwiązań, które będą miały pozytywny wpływ na administrację publiczną i bezpieczeństwo publiczne. 
+
+
 
 ## wspolpracownik
 
