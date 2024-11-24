@@ -118,10 +118,6 @@ Jeśli ktoś próbuje wprowadzić zmiany, które mogą cofnąć postęp artystyc
 
 Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę artystyczności. Dzięki tej funkcji, możemy skupić się na tworzeniu i rozwijaniu naszych projektów bez obaw o szkodliwe działania.
 
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
-
 ## podpisOdciskiem
 
 # Projekt Alex.ai
