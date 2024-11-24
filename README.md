@@ -15,6 +15,7 @@
 
 1. [Wprowadzenie](#wprowadzenie)
 2. [Opis Projektu](#opis-projektu)
+3. [Superstars](#superstars-system)
 3. [Wymagania](#wymagania)
 4. [Instalacja](#instalacja)
 5. [Konfiguracja Serwerów](#konfiguracja-serwerów)
