@@ -1,3 +1,6 @@
+
+
+
 # README dla Alex AI
 
 ## Spis Treści
