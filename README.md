@@ -33,7 +33,7 @@
 12. [Strona Internetowa](#strona-internetowa)
 13. [Uniwersal Identification Direct (UID)](#uid)
 14. [UprawnieniaAi](#UprawnieniaAi)
-15. [System Ranks in Alex AI](#system-ranks-in-alex-ai)
+15. [Rangi](#Rangi)
 16. [Kluczowe_Rangi_w_Systemie](#kluczowe-rangi-w-systemie)
 
 ---
@@ -185,7 +185,7 @@ Oto krótki opis każdego poziomu uprawnień:
 
 Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach. alex.ai służy do interesu, do zabawy czy rozwoju. 
 
-## System_Ranks_in_Alex_AI
+## Rangi
 
 System Alex AI korzysta z hierarchicznej struktury rang (ranks), aby efektywnie zarządzać uprawnieniami i dostępem użytkowników do różnych funkcji i zasobów systemu. Oto kluczowe informacje dotyczące struktur rang w Alex AI:
 
