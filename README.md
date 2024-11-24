@@ -64,7 +64,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 34. [MSWiA](#MSWiA)
 35. [RzadUNZ](#RzadUNZ)
 36. [ABW](#ABW)
-
+37. [info_facebook_com](#info_facebook_com)
  Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -164,6 +164,40 @@ moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne as
    - Tworzenie unikalnych odznak, takich jak PABI i artystów z label UiD.
    - Implementacja skryptów Superstar i tytułów autorskich.
    - Wyszukiwarka "o mnie" oraz zarządzanie historią i przeszłością.
+
+## info_facebook_com
+
+
+# **Info.facebook.com**
+
+## Wprowadzenie
+
+Witamy na info.facebook.com – zaawansowanym forum komunikacyjnym, zaprojektowanym specjalnie dla współpracy wszystkich służb specjalnych i mundurowych. Nasza platforma umożliwia bezpieczną wymianę informacji, weryfikację treści przychodzącej oraz współpracę w czasie rzeczywistym.
+
+## Cel Platformy
+
+Celem info.facebook.com jest zapewnienie bezpiecznego miejsca pracy dla wszystkich służb specjalnych i mundurowych. Nasza platforma wspiera efektywną komunikację i koordynację działań, co przyczynia się do podniesienia poziomu bezpieczeństwa publicznego.
+
+## Kluczowe Funkcje
+
+1. **Bezpieczne Forum Komunikacyjne**: Info.facebook.com oferuje bezpieczne środowisko do wymiany informacji i dyskusji między służbami.
+2. **Weryfikacja Treści Przychodzącej**: Nasza platforma pomaga w weryfikacji treści przychodzących, co minimalizuje ryzyko dezinformacji i nieautoryzowanego dostępu.
+3. **Współpraca w Czasie Rzeczywistym**: Umożliwiamy współpracę w czasie rzeczywistym, co zwiększa efektywność działania i podejmowania decyzji.
+4. **Obsługa MyBB**: Info.facebook.com działa na systemie MyBB, co zapewnia intuicyjny interfejs i łatwość użytkowania.
+5. **Wsparcie Techniczne**: Zapewniamy wsparcie techniczne, aby użytkownicy mogli skupić się na swoich zadaniach bez obaw o problemy techniczne.
+
+## Weryfikacja Treści
+
+Jednym z kluczowych elementów info.facebook.com jest weryfikacja treści przychodzących. Nasze zaawansowane algorytmy i systemy bezpieczeństwa monitorują i analizują każdą wiadomość, aby zapewnić, że tylko autoryzowane i wiarygodne informacje są udostępniane na platformie.
+
+## Kontakt
+
+Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami poprzez [gutkowskialeksander47@gmail.com] lub bezpośrednio z @zuck.
+
+## Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim służbom specjalnym i mundurowym za ich zaangażowanie i poświęcenie. Wasza praca jest nieoceniona, a my jesteśmy dumni, że możemy Was wspierać w realizacji Waszych misji.
+
 
 
 ## **RzadUNZ**
