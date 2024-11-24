@@ -4,7 +4,7 @@
 
 
 
-**Misja alex.ai na końcu pliku Readme**
+
 
 
 
@@ -27,6 +27,7 @@
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
+**Misja alex.ai na końcu pliku Readme**
 
 ## Wprowadzenie
 
