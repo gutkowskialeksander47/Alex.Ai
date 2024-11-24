@@ -59,7 +59,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 29. [Artist](#Artist)
 30. [Sponsor](#sponsor)
 31. [oflagowanieAlexai](#oflagowanieAlexai)
-32. [współpracownik](#współpracownik)
+32. [wspolpracownik](#wspolpracownik)
 
 
  Skrypt.cpp
