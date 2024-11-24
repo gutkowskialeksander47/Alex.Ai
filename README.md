@@ -142,42 +142,7 @@ System Alex AI umożliwia uruchamianie aplikacji Notepad++ oraz automatyczne otw
 
 Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do systemu. Proces ten jest prosty i przejrzysty, co pozwala na skuteczne zarządzanie użytkownikami i ich uprawnieniami. Aby zaprosić użytkownika poleć mu Alex.ai udostępniając klucz Dostępu do alex.apk 
 
-## Polityka Prywatności
 
-
-### Zbieranie danych osobowych
-
-Zbieramy dane osobowe, takie jak numer telefonu, imię, nazwisko, adres e-mail, numer IMEI, klucz aktywacyjny Windows i numer IP. Dane są szyfrowane przed zapisem, aby zapewnić ich bezpieczeństwo.
-
-### Zgoda na Przetwarzanie IMEI
-
-Użytkownik zgadza się na przetwarzanie numeru IMEI przez alex.ai w celach autoryzacji i zabezpieczeń. Wycofanie zgody może ograniczyć niektóre funkcje i dostępność usług.
-
-### Zgoda na Przetwarzanie Klucza Aktywacyjnego Windows
-
-Użytkownik zgadza się na przetwarzanie klucza aktywacyjnego Windows przez Microsoft oraz alex.ai.
-
-### Wykorzystanie danych osobowych
-
-Dane osobowe są wykorzystywane w celu świadczenia usług, personalizacji treści, komunikacji z użytkownikami oraz analizy i doskonalenia naszych usług.
-
-### Udostępnianie danych osobowych
-
-Dane osobowe mogą być udostępniane za zgodą użytkownika, w przypadkach wymaganych prawem oraz w celu ochrony naszej firmy i użytkowników.
-
-### Bezpieczeństwo danych
-
-Dbamy o bezpieczeństwo danych osobowych, stosując odpowiednie środki techniczne i organizacyjne. Wszystkie dane są szyfrowane w celu ochrony przed nieautoryzowanym dostępem.
-
-### Pliki cookie
-
-Nasza strona internetowa może używać plików cookie do analizy ruchu i personalizacji treści.
-
-## Kontakt
-
-Jeśli masz jakiekolwiek pytania dotyczące projektu, skontaktuj się z nami pod adresem e-mail: aleksander@rajca.info.
-
----
 
  
 
