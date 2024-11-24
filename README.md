@@ -29,7 +29,7 @@
 8. [Przykłady](#przykłady)
    - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
-9. [Polityka Prywatności](#polityka-prywatności)
+9. ['Polityka Prywatności'](#polityka-prywatności)
 10. [Kontakt](#kontakt)
 11. [Program](#program)
 12. [Strona Internetowa](#strona-internetowa)
