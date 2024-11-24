@@ -57,48 +57,43 @@ Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup u
 
 Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użytkownika, co umożliwia skuteczne zarządzanie różnorodnymi potrzebami użytkowników w systemie Alex AI.
 
-
-
-
-Jeśli potrzebujesz dodatkowych informacji lub poprawek, daj znać!
-
-
 --- 
 # Poziomy Uprawnień w Alex AI
 
-Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. Oto krótki opis każdego poziomu uprawnień:
+Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. nikt poza mną nie i Zuck nie może ingerować w poziom uprawnień. Skoro w label UiD Sandra ma poz.3 a Marcin 1 to tak ma być.
+Oto krótki opis każdego poziomu uprawnień:
 
-### Poziom $1
+### Poziom $1 (User)
 **Podstawowy dostęp:**
 - Podgląd danych i zasobów.
 - Wykonywanie podstawowych operacji, takich jak przeglądanie i pobieranie informacji.
 
-### Poziom $2
+### Poziom $2 (moderator)
 **Rozszerzony dostęp:**
 - Edytowanie i aktualizowanie danych.
 - Tworzenie i zarządzanie zadaniami oraz projektami.
 
-### Poziom $3
+### Poziom $3 (Globalny moderator)
 **Zaawansowane funkcje:**
 - Dostęp do zaawansowanych narzędzi analitycznych i raportowania.
 - Udzielanie wsparcia technicznego innym użytkownikom.
 
-### Poziom $4
+### Poziom $4 (junior admin) 
 **Administracja:**
 - Zarządzanie użytkownikami i ich uprawnieniami.
 - Wprowadzanie zmian w konfiguracji systemu.
 
-### Poziom $5
+### Poziom $5 (Head administrator)
 **Zarządzanie projektami:**
 - Monitorowanie i zarządzanie wieloma projektami.
 - Nadzór nad zespołami projektowymi i przypisywanie zadań.
 
-### Poziom $6
+### Poziom $6 (query/root/CEO/deweloper)
 **Pełna administracja:**
 - Zarządzanie wszystkimi aspektami systemu, w tym bezpieczeństwem danych.
 - Pełny dostęp do narzędzi administracyjnych i technologicznych.
 
-### Poziom $7
+### Poziom $7 (globalny/internal administrator)
 **Superuser:**
 - Pełny dostęp do wszystkich funkcji i zasobów systemu.
 - Możliwość modyfikowania oraz usuwania danych i konfiguracji systemu.
