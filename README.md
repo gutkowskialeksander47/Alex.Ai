@@ -34,7 +34,11 @@
 16. [GlownaRanga](#GlownaRanga)
 17. [MTYEncryption](#MTYEncryption)
 18. [RUiDv2](#RUiDv2)
-19. [RozwójUiD](#RozwójUiD)
+19. [RozwojUiD](#RozwojUiD)
+
+
+
+
 ---
 
 
@@ -51,7 +55,7 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
  szczegółowe instrukcje instalacji dla Alex AI:
 
 
-## RozwójUiD
+## RozwojUiD
 
 Projekt **Universal Identification Direct (UiD)** i jego rozwinięte wersje, takie jak RUiDv2 i SUiD, stanowią kluczowe elementy mojej wizji wirtualnej przestrzeni, w której użytkownicy mogą czuć się komfortowo i bezpiecznie. Poniżej znajduje się szczegółowy opis różnych modułów i aspektów projektu.
 
