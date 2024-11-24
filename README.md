@@ -70,11 +70,6 @@ Cały program został oparty na ideologii forum, co oznacza, że stawia na:
 - **Konsultacje**: Możliwość zadawania pytań i uzyskiwania odpowiedzi od innych użytkowników.
 - **Społeczność**: Tworzenie silnych więzi między użytkownikami poprzez aktywne uczestnictwo w dyskusjach.
 
----
-
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
----
-
 ## **Superstar System**
 
 Superstar to zaawansowany moduł w ramach platformy Alex AI, który umożliwia użytkownikom interakcję na najwyższym poziomie personalizacji i zaawansowania. Dzięki niemu użytkownicy mogą korzystać z unikalnych funkcji i zasobów, które nie są dostępne w standardowych ustawieniach.
