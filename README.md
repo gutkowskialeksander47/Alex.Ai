@@ -20,7 +20,7 @@
 2. [Opis Projektu](#opis-projektu)
 3. [Superstars System](#superstars-system)
 4. [Wymagania](#wymagania)
-5. [Instalacja](#instalacja)
+5. [InstalacjaAi](#InstalacjaAi)
 6. [Konfiguracja Serwerów](#konfiguracja-serwerów)
    - [Lokalny Serwer](#lokalny-serwer)
    - [Wirtualny Serwer](#wirtualny-serwer)
@@ -51,7 +51,76 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+ szczegółowe instrukcje instalacji dla Alex AI:
 
+---
+
+## InstalacjaAi
+
+### Wymagania
+Przed rozpoczęciem instalacji upewnij się, że spełnione są następujące wymagania:
+- Python 3.8 lub nowszy
+- Dostęp do internetu
+- Serwer z systemem Linux lub Windows
+- Git
+
+### Krok 1: Pobranie Projektu
+1. Skopiuj repozytorium Alex AI z GitHuba na swoje lokalne urządzenie:
+   ```sh
+   git clone https://github.com/gutkowskialeksander47/MasterUiD.project.git
+   ```
+2. Przejdź do katalogu projektu:
+   ```sh
+   cd MasterUiD.project
+   ```
+
+### Krok 2: Instalacja Wymaganych Bibliotek
+1. Zainstaluj wymagane biblioteki używając pliku `requirements.txt`:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+### Krok 3: Konfiguracja Środowiska
+1. Skonfiguruj plik `config.yaml` w katalogu projektu. Wprowadź wymagane ustawienia, takie jak połączenia baz danych, klucze API oraz preferencje systemowe.
+
+### Krok 4: Uruchomienie Lokalnego Serwera
+1. Aby uruchomić serwer lokalny, użyj poniższego polecenia:
+   ```sh
+   python manage.py runserver
+   ```
+2. Twój lokalny serwer powinien być dostępny pod adresem:
+   ```sh
+   http://127.0.0.1:8000
+   ```
+
+### Krok 5: Konfiguracja Wirtualnego Serwera
+1. Jeśli używasz wirtualnego serwera, postępuj zgodnie z dokumentacją dostarczoną przez dostawcę usług chmurowych, aby skonfigurować środowisko.
+2. Przenieś pliki projektu na wirtualny serwer za pomocą protokołu SFTP lub narzędzia do zarządzania plikami dostarczonego przez dostawcę usług chmurowych.
+3. Uruchom serwer na wirtualnej maszynie, korzystając z podobnych poleceń jak w przypadku lokalnego serwera.
+
+### Krok 6: Metody Autoryzacji
+1. Alex AI obsługuje różne metody autoryzacji, takie jak Google Authenticator, IMEI oraz numer PESEL.
+2. Wybierz odpowiednią metodę autoryzacji i edytuj ustawienia w pliku `auth_config.yaml`.
+
+### Krok 7: Testowanie Instalacji
+1. Sprawdź, czy wszystkie komponenty działają poprawnie, uruchamiając testy:
+   ```sh
+   python manage.py test
+   ```
+
+### Krok 8: Dodawanie Nowych Użytkowników
+1. Aby dodać nowych użytkowników, użyj polecenia:
+   ```sh
+   python manage.py createuser --username=<nazwa> --email=<email>
+   ```
+
+---
+
+Gratulacje! Udało Ci się zainstalować Alex AI. Jeśli masz jakiekolwiek pytania lub napotkasz problemy, skontaktuj się z zespołem wsparcia pod adresem support@alexai.com.
+
+---
+
+Mam nadzieję, że te instrukcje są jasne i pomocne. Jeśli potrzebujesz dodatkowych wyjaśnień lub napotkasz problemy podczas instalacji, daj znać!
 
 ---
 
