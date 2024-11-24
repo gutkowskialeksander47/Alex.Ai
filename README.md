@@ -16,6 +16,7 @@
 1. [Wprowadzenie](#wprowadzenie)
 2. [Opis Projektu](#opis-projektu)
 3. [Superstars](#superstars-system)
+2.1 [program](#program)
 3. [Wymagania](#wymagania)
 4. [Instalacja](#instalacja)
 5. [Konfiguracja Serwerów](#konfiguracja-serwerów)
@@ -28,7 +29,6 @@
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
-10.[program](#program) 
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
