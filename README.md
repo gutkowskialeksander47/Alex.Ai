@@ -28,8 +28,11 @@
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
+
 10.[program](#program)
+
 11.[Strona Internetowa](#strona-internetowa)
+
 12.[UiD](#UiD)
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
