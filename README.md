@@ -29,7 +29,7 @@
 8. [Przykłady](#przykłady)
    - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
-9. [Polityka_Prywatnosci](#polityka-prywatnosci)
+9. [PrivacyPolicy](#PrivacyPolicy)
 10. [Kontakt](#kontakt)
 11. [Program](#program)
 12. [Strona Internetowa](#strona-internetowa)
@@ -254,7 +254,7 @@ System Alex AI umożliwia uruchamianie aplikacji Notepad++ oraz automatyczne otw
 Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do systemu. Proces ten jest prosty i przejrzysty, co pozwala na skuteczne zarządzanie użytkownikami i ich uprawnieniami. Aby zaprosić użytkownika poleć mu Alex.ai udostępniając klucz Dostępu do alex.apk 
 
 
-## **Polityka_Prywatnosci**
+## ** PrivacyPolicy **
  
 
 **1. Zbieranie danych osobowych**
