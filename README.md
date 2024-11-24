@@ -5,7 +5,7 @@ Oczywiście! Oto poprawiona wersja README z aktywnym linkiem do polityki prywatn
 # README dla Alex AI
 
 ## Spis Treści
-- Wprowadzenie(#Wprowadzenie)
+- Wprowadzenie (#Wprowadzenie)
 - Opis Projektu
 - Wymagania
 - Instalacja
