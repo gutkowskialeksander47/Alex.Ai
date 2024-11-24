@@ -51,6 +51,44 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
  szczegółowe instrukcje instalacji dla Alex AI:
 
+
+szyfrowanie
+
+---
+
+## **MTY-YTM** # Encryption
+
+MTY-YTM to zaawansowany algorytm szyfrowania, który zapewnia wysoki poziom bezpieczeństwa danych poprzez kombinację technik szyfrowania symetrycznego i asymetrycznego. Poniżej znajdziesz instrukcję obsługi oraz wyjaśnienie zasady działania tego algorytmu.
+
+### Spis Treści
+1. [Wprowadzenie](#wprowadzenie)
+2. [Opis Algorytmu](#opis-algorytmu)
+3. [Wymagania](#wymagania)
+4. [Instrukcja Obsługi](#instrukcja-obsługi)
+   - [Szyfrowanie Danych](#szyfrowanie-danych)
+   - [Deszyfrowanie Danych](#deszyfrowanie-danych)
+5. [Przykłady](#przykłady)
+6. [Kontakt](#kontakt)
+
+### Wprowadzenie
+Algorytm MTY-YTM został stworzony w celu zapewnienia wysokiego poziomu ochrony danych. Łączy on metody szyfrowania symetrycznego (takie jak AES) z asymetrycznym (takie jak RSA), co umożliwia bezpieczne przesyłanie i przechowywanie informacji.
+
+### Opis Algorytmu
+MTY-YTM działa na zasadzie dwuetapowego procesu szyfrowania:
+1. **Szyfrowanie Symetryczne**: Dane są najpierw szyfrowane za pomocą klucza symetrycznego (np. AES), który jest szybki i efektywny do przetwarzania dużych ilości danych.
+2. **Szyfrowanie Asymetryczne**: Klucz symetryczny używany do szyfrowania danych jest następnie szyfrowany za pomocą klucza publicznego (np. RSA), co zapewnia bezpieczną dystrybucję klucza.
+
+### Wymagania
+- Python 3.8 lub nowszy
+- Biblioteki: `pycryptodome`, `rsa`
+
+
+
+### Kontakt
+Jeśli masz jakiekolwiek pytania lub napotkasz problemy, skontaktuj się z nami pod adresem support@alexai.com.
+
+---
+
 ---
 
 ## **InstalacjaAi**
