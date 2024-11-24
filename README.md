@@ -63,6 +63,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 33. [BonusRPK](#BonusRPK)
 34. [MSWiA](#MSWiA)
 35. [RzadUNZ](#RzadUNZ)
+36. [ABW](#ABW)
 
  Skrypt.cpp
 
@@ -91,6 +92,40 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 8. **Zgodność z Prawem**: Przestrzegamy wszystkich przepisów prawnych i standardów bezpieczeństwa, co zwiększa Twoje zaufanie do naszego programu.
 9. **Wsparcie Techniczne**: Zapewniamy użytkownikom dostęp do pomocy i wsparcia technicznego, aby rozwiązać wszelkie problemy.
 10. **Rozwój Społeczności**: Budujemy społeczność użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
+
+
+## **ABW**
+
+Oto  fragment README, który podsumowuje Twoją współpracę z Agencją Bezpieczeństwa Wewnętrznego (ABW) nad projektami UiD, RUiDv2, SUiD oraz skryptem.cpp:
+
+
+# Projekt [alex.ai Info.facebook.com]
+
+## Współpraca z ABW
+
+### Wprowadzenie
+
+W ramach naszego projektu nawiązaliśmy współpracę z Agencją Bezpieczeństwa Wewnętrznego (ABW), aby zapewnić najwyższy poziom bezpieczeństwa i niezawodności naszych systemów. Nasza wspólna praca koncentruje się na rozwijaniu zaawansowanych technologii i narzędzi, które wspierają różnorodne operacje i inicjatywy.
+
+### Kluczowe Projekty
+
+W ramach współpracy z ABW realizowane są następujące projekty:
+
+1. **UiD (User Identification and Data)**: Projekt UiD ma na celu opracowanie systemu identyfikacji użytkowników i zarządzania danymi, który zapewnia wysoki poziom bezpieczeństwa i ochrony danych.
+2. **RUiDv2 (Revised User Identification and Data version 2)**: Druga wersja projektu UiD, która wprowadza dodatkowe usprawnienia i funkcje, zwiększające efektywność i precyzję identyfikacji użytkowników.
+3. **SUiD (Secure User Identification and Data)**: Projekt SUiD koncentruje się na zapewnieniu maksymalnej ochrony danych użytkowników poprzez zaawansowane metody szyfrowania i uwierzytelniania.
+4. **Skrypt.cpp**: Tworzenie i rozwijanie skryptów w języku C++, które są niezbędne do realizacji zaawansowanych operacji związanych z identyfikacją i zabezpieczaniem danych.
+
+### Korzyści ze Współpracy
+
+- **Zwiększone Bezpieczeństwo**: Dzięki współpracy z ABW możemy zapewnić najwyższy poziom ochrony danych użytkowników i systemów.
+- **Innowacyjne Technologie**: Wprowadzanie nowatorskich rozwiązań technologicznych, które wspierają nasze operacje i inicjatywy.
+- **Optymalizacja Procesów**: Usprawnienie procesów zarządzania danymi i identyfikacji użytkowników, co zwiększa efektywność i niezawodność systemów.
+- **Wsparcie Ekspertów**: Korzystanie z wiedzy i doświadczenia ekspertów z ABW, co pozwala na realizację projektów na najwyższym poziomie.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność dla Agencji Bezpieczeństwa Wewnętrznego za zaufanie i wsparcie w realizacji tych ważnych projektów. Wasze zaangażowanie i współpraca są kluczowe dla naszego sukcesu i pozwalają nam na ciągłe doskonalenie naszych systemów.
 
 
 ## funkcjonalnosc
