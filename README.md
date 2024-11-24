@@ -30,6 +30,8 @@
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
 10. [superstars][#superstars-system)
+
+
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
