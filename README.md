@@ -76,6 +76,41 @@ Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytk
 
 Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach. alex.ai służy do interesu, do zabawy czy rozwoju. 
 
+# System Ranks w Alex AI
+
+System Alex AI korzysta z hierarchicznej struktury rang (ranks), aby efektywnie zarządzać uprawnieniami i dostępem użytkowników do różnych funkcji i zasobów systemu. Oto kluczowe informacje dotyczące struktur rang w Alex AI:
+
+## Hierarchia Rang
+
+System Alex AI opiera się na hierarchii rang, która określa poziomy dostępu i uprawnień użytkowników. Każda ranga reprezentuje określony poziom odpowiedzialności i dostępności w systemie. Hierarchia rang zapewnia, że użytkownicy mają odpowiednie uprawnienia do wykonywania swoich zadań i operacji.
+
+### Kluczowe Rangi w Systemie
+- **Użytkownik Podstawowy**: Ma podstawowy dostęp do danych i zasobów, może przeglądać i pobierać informacje.
+- **Użytkownik Zaawansowany**: Posiada rozszerzone uprawnienia, takie jak edytowanie i aktualizowanie danych oraz zarządzanie zadaniami.
+- **Moderator**: Odpowiedzialny za monitorowanie aktywności użytkowników oraz wspieranie ich w rozwiązywaniu problemów.
+- **Administrator**: Zarządza użytkownikami i ich uprawnieniami, może wprowadzać zmiany w konfiguracji systemu.
+- **Menadżer Projektu**: Nadzoruje wiele projektów, zarządza zespołami projektowymi i przypisuje zadania.
+- **Administrator Główny**: Odpowiada za zarządzanie wszystkimi aspektami systemu, w tym bezpieczeństwem danych i zarządzaniem zasobami.
+- **Superuser**: Posiada pełny dostęp do wszystkich funkcji i zasobów systemu, nadzoruje całe działanie systemu oraz może modyfikować konfigurację i usunąć dane.
+
+## Dlaczego Używamy Ranks?
+Struktura rang pozwala na:
+- **Kontrolę Dostępu**: Zapewnia, że użytkownicy mają dostęp tylko do tych funkcji i zasobów, które są niezbędne do wykonywania ich zadań.
+- **Bezpieczeństwo**: Chroni dane i zasoby systemowe poprzez ograniczenie dostępu na podstawie rangi użytkownika.
+- **Efektywność Zarządzania**: Ułatwia zarządzanie uprawnieniami użytkowników i umożliwia efektywne administrowanie systemem.
+
+**Uwaga:** Hierarchia rang i przypisane uprawnienia mogą być dostosowane w zależności od specyficznych potrzeb i polityk organizacji. Aby uzyskać więcej informacji na temat zarządzania rangami i uprawnieniami, zapoznaj się z pełną dokumentacją systemu.
+
+---
+
+Jeśli masz jakiekolwiek pytania lub potrzebujesz dalszej pomocy, skontaktuj się z administratorem systemu.
+
+---
+
+Ten fragment README pomoże użytkownikom zrozumieć, jak działa system rang w Alex AI i jakie korzyści przynosi hierarchiczna struktura uprawnień. Jeśli potrzebujesz dodatkowych informacji lub modyfikacji, daj znać!
+
+
+
 ## Wymagania
 
 Aby korzystać z Alex AI, potrzebujesz:
