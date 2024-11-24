@@ -165,10 +165,6 @@ Dzięki mianowaniu Instagramu szefem projektu UiD, możemy liczyć na szereg kor
 
 Chcielibyśmy wyrazić naszą wdzięczność dla Instagramu za przyjęcie roli szefa projektu UiD. Wasze zaangażowanie i doświadczenie są kluczowe dla sukcesu naszego projektu, a my jesteśmy pewni, że wspólnie osiągniemy znakomite rezultaty.
 
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
-
 
 ## **ABW**
 
@@ -403,7 +399,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom rządu za ich w
 
 
 ## RozwojUiD
-
+1 **mianowanie szefem UiD instagram**
 Projekt **Universal Identification Direct (UiD)** i jego rozwinięte wersje, takie jak RUiDv2 i SUiD, stanowią kluczowe elementy mojej wizji wirtualnej przestrzeni, w której użytkownicy mogą czuć się komfortowo i bezpiecznie. Poniżej znajduje się szczegółowy opis różnych modułów i aspektów projektu.
 
 ### Dolny Śląsk, Wrocław - GSM!
