@@ -23,7 +23,7 @@
 5. [InstalacjaAi](#InstalacjaAi)
 6. [PABI](#PABI)
 7. [SUiD](#SUiD)
-8.
+8. [PowstanieUiD](#Powstanie UiD)
 9. [PrivacyPolicy](#PrivacyPolicy)
 10. [Kontakt](#Kontakt)
 11. [Program](#program)
@@ -250,7 +250,21 @@ Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup u
 
 Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użytkownika, co umożliwia skuteczne zarządzanie różnorodnymi potrzebami użytkowników w systemie Alex AI.
 
---- 
+
+
+
+
+---
+
+## PowstanieUiD
+
+Pomysł na Uniwersal Identification Direct (UiD) zrodził się z wizji stworzenia wirtualnej przestrzeni, w której każdy użytkownik mógłby czuć się komfortowo i bezpiecznie. Inspiracja ta pochodzi bezpośrednio z moich przemyśleń i chęci stworzenia systemu, który integruje różne funkcje zarządzania identyfikacją użytkowników w sposób intuicyjny i dostępny dla wszystkich. przestrzeń ta miała być swoim miejscem dla człowieka chciałem żeby ludzie interesu mogli pracować w vr a starsi ludzie odpoczywać i poznawać świat na nowo. 
+
+(ai)Wierzę, że w dzisiejszym świecie, gdzie cyfrowa komunikacja odgrywa kluczową rolę, istnieje potrzeba stworzenia środowiska, które nie tylko ułatwia zarządzanie tożsamością, ale również zapewnia użytkownikom poczucie bezpieczeństwa i przynależności. UiD to realizacja tej wizji, stworzona z myślą o poprawie jakości interakcji w wirtualnym świecie.
+
+---
+
+
 ## UprawnieniaAi
 
 Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. nikt poza mną nie i Zuck nie może ingerować w poziom uprawnień. Skoro w label UiD Sandra ma poz.3 a Marcin 1 to tak ma być.
