@@ -296,7 +296,7 @@ Przetwarzanie adresów IP odbywa się na podstawie:
 
 **4. Okres Przechowywania Danych**
 
-Adresy IP będą przechowywane przez okres niezbędny do realizacji celów przetwarzania, zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
+Adresy IP będą przechowywane przez okres niezbędny do realizacji celów przetwarzania(30 dni) zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
 
 **5. Prawa Użytkownika**
 
