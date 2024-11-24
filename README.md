@@ -35,6 +35,8 @@
 12. [Uniwersal Identification Direct (UID)]
 (#Uniwersal-Identification-Direct-(UID))
 
+13.[UiD](#UiD)
+
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
@@ -97,7 +99,7 @@ Aby stać się użytkownikiem Superstar, należy spełnić określone kryteria l
 - **Dostęp do Najnowszych Technologii**: Korzystanie z najnowszych i najbardziej innowacyjnych rozwiązań dostępnych na rynku.
 
 
-## Uniwersal Identification Direct (UID)
+## UiD
 
 Alex AI wykorzystuje system **Uniwersal Identification Direct (UID)** do bezpośredniej identyfikacji użytkowników. System ten opiera się na używaniu flag literowych do oznaczania różnych cech użytkowników. Przykładem może być flaga "K2", która oznacza użytkownika płci żeńskiej. Na podstawie tych flag system decyduje jakie kroki podjąć czy jak się zachować.
 
