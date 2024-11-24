@@ -33,6 +33,7 @@
 15. [Rangi](#Rangi)
 16. [GlownaRanga](#GlownaRanga)
 17. [MTYEncryption](#MTYEncryption)
+18. [RUiDv2](#RUiDv2)
 
 ---
 
@@ -213,6 +214,39 @@ Cały program został oparty na ideologii forum, co oznacza, że stawia na:
 - **Współpracę**: Użytkownicy mogą wspólnie pracować nad projektami i dzielić się wiedzą.
 - **Konsultacje**: Możliwość zadawania pytań i uzyskiwania odpowiedzi od innych użytkowników.
 - **Społeczność**: Tworzenie silnych więzi między użytkownikami poprzez aktywne uczestnictwo w dyskusjach.
+
+RUiDv2
+
+
+---
+
+## RUiDv2
+
+### Opis Projektu
+RUiDv2, pierwotnie planowane jako wersja V2 systemu Uniwersal Identification Direct (UiD), ewoluowało w kierunku bardziej złożonego systemu. Pomimo że początkowym celem była identyfikacja użytkowników, rozwój projektu skierował nas do stworzenia wszechstronnego narzędzia, które oferuje znacznie więcej funkcji.
+
+### Główne Cechy
+- **Wielofunkcyjność**: RUiDv2 zawiera wiele modułów, które przekraczają prostą identyfikację użytkowników, obejmując zarządzanie danymi, automatyzację procesów oraz analizy.
+- **Rozbudowany Kod**: Projekt składa się z około 1200 linii kodu, co świadczy o jego złożoności i możliwości dostosowania do różnych potrzeb użytkowników.
+- **Zaawansowana Automatyzacja**: Wprowadzono zaawansowane funkcje automatyzacji, które pomagają w optymalizacji i zarządzaniu różnorodnymi procesami.
+- **Analiza Danych**: RUiDv2 oferuje narzędzia do analizy danych, umożliwiając użytkownikom uzyskiwanie cennych informacji z przetwarzanych zbiorów danych.
+
+### Zastosowania
+RUiDv2 został zaprojektowany do obsługi wielu zastosowań, od zarządzania tożsamością użytkowników po zaawansowane analizy danych i automatyzację procesów. Dzięki swojej wszechstronności, system może być wykorzystywany w różnych kontekstach, takich jak korporacje, instytucje rządowe oraz organizacje non-profit.
+
+### Przyszłe Rozszerzenia
+Choć RUiDv2 przeszedł daleko od swojej pierwotnej koncepcji, planujemy dalszy rozwój i integrację nowych funkcji, aby sprostać zmieniającym się potrzebom użytkowników. Naszym celem jest ciągłe doskonalenie systemu i dodawanie nowych, wartościowych funkcji.
+
+### Instalacja
+Aby zainstalować RUiDv2, postępuj zgodnie z instrukcjami zawartymi w sekcji [Instrukcja Instalacji](#instrukcja-instalacji). Upewnij się, że spełniasz wszystkie wymagania systemowe i posiadasz odpowiednie uprawnienia.
+
+### Kontakt
+Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem support@alexai.com.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
+
 
 ## **superstars system**
 
