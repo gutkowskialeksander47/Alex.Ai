@@ -57,6 +57,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 27. [MTYBussines](#MTYBussines)
 28. [Samsungnotes](#samsungnotes)
 29. [Artist](#Artist)
+30. [Sponsor](#sponsor)
  Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -409,7 +410,31 @@ support@pabi.gov
 
 ---
 
+## sponsor
 
+
+---
+
+## Projekt [Alex.ai]
+
+## Podziękowania dla Sponsorów
+
+Serdecznie dziękujemy wszystkim naszym sponsorom za ich hojność i wsparcie. Bez Waszej pomocy ten projekt nie byłby możliwy. Szczególne podziękowania kierujemy do sponsorów na poziomie uprawnień $4.
+
+## Poziom Uprawnień $4 - Sponsorzy
+
+Sponsorzy na poziomie $4 otrzymują następujące korzyści:
+
+1. **Wzmianka na Stronie Projektu**: Nazwa i logo sponsora zostaną umieszczone na głównej stronie projektu, w sekcji podziękowań dla sponsorów.
+2. **Dostęp do Wersji Beta**: Sponsorzy otrzymają wcześniejszy dostęp do wersji beta naszego oprogramowania, umożliwiając im testowanie nowych funkcji przed oficjalnym wydaniem.
+3. **Ekskluzywne Aktualizacje**: Sponsorzy będą regularnie informowani o postępach projektu i będą otrzymywać ekskluzywne aktualizacje dotyczące nowych funkcji i przyszłych planów.
+4. **Wsparcie Priorytetowe**: Sponsorzy mają priorytetowy dostęp do naszego zespołu wsparcia technicznego, zapewniając szybsze odpowiedzi na pytania i pomoc w rozwiązywaniu problemów.
+
+Dziękujemy za Wasze wsparcie i zaufanie. Wasza hojność pozwala nam rozwijać ten projekt i wprowadzać nowe innowacyjne rozwiązania.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny dla Twoich sponsorów. Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 
 ## **Program**
