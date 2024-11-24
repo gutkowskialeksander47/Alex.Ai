@@ -241,7 +241,7 @@ support@pabi.gov
 
 ---
 
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
+
 
 ## **Program**
 
@@ -397,7 +397,6 @@ alex.apk/alex.ai
 
 ---
 
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 
 ---
@@ -525,7 +524,9 @@ Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do system
 
 
 ## PrivacyPolicy 
- 
+
+ polityka dla użytkowników 2020/2028 alex.ai 
+https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/PrivacyPolicy.d
 
 **1. Zbieranie danych osobowych**
 
