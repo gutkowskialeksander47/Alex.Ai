@@ -95,7 +95,6 @@ Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, proje
 2. **Sprawdzenie Lokalizacji**: Jeśli użytkownik loguje się spoza Polski, następuje automatyczne przekierowanie do strony tłumaczenia.
 3. **Przekierowanie**: Użytkownik jest przekierowywany do odpowiedniej wersji językowej strony, aby zapewnić dostęp do treści w jego języku.
 
-### Implementacja
 
 ### Podziękowania
 
@@ -171,12 +170,12 @@ Blizniacza autoryzacja obejmuje następujących użytkowników i role:
 ### Jak Działa
 
 Blizniacza autoryzacja polega na połączeniu dwóch różnych metod uwierzytelniania:
-1. **Pierwsza Metoda Uwierzytelniania**: Użytkownik wprowadza swoje dane logowania, które są weryfikowane przez system.
+1. **Pierwsza Metoda Uwierzytelniania**: Użytkownik wprowadza swoje dane logowania(FB.com), które są weryfikowane przez system Meta&Zuck
 2. **Druga Metoda Uwierzytelniania**: Po pomyślnej weryfikacji pierwszej metody, użytkownik musi autoryzować się za pomocą drugiej metody, np. skanu linii papilarnych, kodu SMS, lub tokena.
 
 ### Kroki Autoryzacji
 
-1. **Logowanie**: Użytkownik loguje się do systemu Alex.ai za pomocą swojej nazwy użytkownika i hasła.
+1. **Logowanie**: Użytkownik loguje się do systemu Alex.ai za pomocą swojej nazwy użytkownika na facebook i hasła
 2. **Weryfikacja Logowania**: System sprawdza poprawność danych logowania.
 3. **Druga Autoryzacja**: Po pomyślnej weryfikacji logowania, użytkownik musi przejść drugą metodę autoryzacji (np. skan linii papilarnych).
 4. **Uzyskanie Dostępu**: Po pomyślnej weryfikacji drugiej metody, użytkownik uzyskuje dostęp do ekranu i pełnej funkcjonalności systemu Alex.ai.
