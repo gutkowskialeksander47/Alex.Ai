@@ -96,9 +96,6 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 
 ## **ABW**
 
-Oto  fragment README, który podsumowuje Twoją współpracę z Agencją Bezpieczeństwa Wewnętrznego (ABW) nad projektami UiD, RUiDv2, SUiD oraz skryptem.cpp:
-
-
 # Projekt [alex.ai Info.facebook.com]
 
 ## Współpraca z ABW
