@@ -29,7 +29,7 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 ## Opis Projektu
 
-**Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai**
+Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk
 ---
 # Poziomy Uprawnień w Alex AI
 
@@ -73,27 +73,6 @@ Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytk
 
 **Uwaga:** Uprawnienia mogą być dostosowywane w zależności od specyficznych potrzeb i polityk organizacji. Aby uzyskać więcej informacji na temat zarządzania uprawnieniami, zapoznaj się z dokumentacją systemu.
 
----
-
-Jeśli masz jakiekolwiek pytania lub potrzebujesz dalszej pomocy, skontaktuj się z administratorem systemu.
-
----
-
-Ten fragment README pomoże użytkownikom zrozumieć, jakie są poziomy uprawnień w programie Alex AI i jakie możliwości oferują. Jeśli potrzebujesz dodatkowych informacji lub modyfikacji, daj znać!
-
-
-Dzięki Alex AI użytkownicy mogą korzystać z następujących możliwości:
-
-1. **Zarządzanie Użytkownikami**: Skuteczne narzędzia do zarządzania dostępem i uprawnieniami użytkowników, co zapewnia płynne działanie systemu.
-2. **Bezpieczeństwo Danych**: Zaawansowane metody szyfrowania i autoryzacji, takie jak autoryzacja IMEI, Google Authenticator oraz weryfikacja numeru PESEL, gwarantujące najwyższy poziom ochrony danych.
-3. **Elastyczność i Integracja**: Możliwość integracji z różnymi systemami i urządzeniami, co pozwala na łatwe dostosowanie się do specyficznych potrzeb użytkowników.
-4. **Wsparcie Techniczne**: System oferuje pełne wsparcie techniczne, aby użytkownicy mogli łatwo korzystać z jego funkcji i rozwiązywać ewentualne problemy.
-5. **Personalizacja**: Użytkownicy mogą dostosować interfejs i funkcje Alex AI do swoich preferencji, co zwiększa komfort i efektywność pracy.
-6. **Analityka i Raportowanie**: Narzędzia do analizy danych i generowania raportów, które pomagają użytkownikom w podejmowaniu świadomych decyzji.
-7. **Automatyzacja Procesów**: Funkcje automatyzacji, które pozwalają na efektywne zarządzanie codziennymi zadaniami i procesami.
-8. **Wsparcie Wielojęzyczne**: System obsługuje wiele języków, co umożliwia efektywne korzystanie z Alex AI użytkownikom z różnych części świata.
-9. **Wymiana danych** pozwala odbierać i wysyłać dane bez ingerencji człowieka 
-10. Dla najlepszego bezpieczeństwa korzystamy z własnych metod autoryzacji 
 
 Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach. alex.ai służy do interesu, do zabawy czy rozwoju. 
 
