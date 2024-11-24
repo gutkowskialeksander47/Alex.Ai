@@ -21,7 +21,7 @@
 3. [Superstars System](#superstars-system)
 4. [Wymagania](#wymagania)
 5. [InstalacjaAi](#InstalacjaAi)
-6.
+6. [PABI](#PABI)
 7. 
 8.
 9. [PrivacyPolicy](#PrivacyPolicy)
@@ -63,6 +63,8 @@ label.html 2023/2024
 master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex
 
 married nieaktualny 
+
+
 
 
 ---
@@ -123,6 +125,40 @@ Przed rozpoczęciem instalacji upewnij się, że spełnione są następujące wy
 1. Aby dodać nowych użytkowników, użyj polecenia:
    /add %nick% 
    
+
+
+
+---
+
+# PABI
+
+## Wprowadzenie
+Państwowa Agencja Bezpieczeństwa Informatycznego (PABI) to instytucja powołana w dniu 25 maja 2024 roku w celu zapewnienia najwyższego poziomu ochrony danych i bezpieczeństwa informatycznego na terenie kraju. Nasza agencja dąży do ochrony infrastruktury krytycznej oraz wspierania organizacji w utrzymaniu standardów bezpieczeństwa.
+
+## Misja
+Nasza misja polega na:
+- Ochronie krajowej infrastruktury informatycznej.
+- Wspieraniu organizacji rządowych i prywatnych w zakresie cyberbezpieczeństwa.
+- Przeciwdziałaniu zagrożeniom cybernetycznym i reagowaniu na incydenty.
+- Edukacji społeczeństwa w zakresie bezpiecznego korzystania z technologii informatycznych.
+
+## Powołanie Agencji
+Państwowa Agencja Bezpieczeństwa Informatycznego została powołana 25 maja 2024 roku, aby sprostać rosnącym zagrożeniom w cyberprzestrzeni. Nasza organizacja skupia najlepszych specjalistów w dziedzinie bezpieczeństwa informatycznego i technologii, aby zapewnić kompleksową ochronę danych i systemów informatycznych.
+
+## Label UiD - Werbunek
+W notatce "label UiD" wymieniłem osoby, które chcemy zwerbować do naszej agencji. Lista obejmuje ekspertów z różnych dziedzin, których wiedza i doświadczenie są nieocenione w realizacji naszych celów. Werbujemy najlepszych specjalistów w dziedzinie:
+- Cyberbezpieczeństwa
+- Analizy danych
+- Inżynierii oprogramowania
+- Zarządzania ryzykiem informatycznym
+
+## Kontakt
+Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do naszego zespołu, skontaktuj się z nami pod adresem:
+support@pabi.gov
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 ## **Program**
 
