@@ -40,7 +40,7 @@
 24. [ zgodanaintegracjezalexai](zgodanaintegracjezalexai
 )
 25. [opieka troska](#opiekaitroska)
-26. [Regulaminosobowy](#Regulaminosobowy)
+
 
 
  Skrypt.cpp
