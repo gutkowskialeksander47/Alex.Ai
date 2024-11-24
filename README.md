@@ -26,7 +26,8 @@
    - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
-9. [Kontakt](#kontakt)
+9. [Kontakt](#kontakt) 
+
 **Misja alex.ai na końcu pliku Readme**
 
 ## Wprowadzenie
