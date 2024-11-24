@@ -360,12 +360,6 @@ Aby zintegrować swoje urządzenie z systemem Alex.ai, należy wyrazić zgodę n
 
 Wyrażenie zgody na integrację urządzenia z systemem Alex.ai pozwala na pełne korzystanie z funkcji i możliwości oferowanych przez ten zaawansowany system.
 
----
-
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
-
-
----
 
 # PABI
 
@@ -431,10 +425,6 @@ Sponsorzy na poziomie $4 otrzymują następujące korzyści:
 4. **Wsparcie Priorytetowe**: Sponsorzy mają priorytetowy dostęp do naszego zespołu wsparcia technicznego, zapewniając szybsze odpowiedzi na pytania i pomoc w rozwiązywaniu problemów.
 
 Dziękujemy za Wasze wsparcie i zaufanie. Wasza hojność pozwala nam rozwijać ten projekt i wprowadzać nowe innowacyjne rozwiązania.
-
----
-
-Mam nadzieję, że ten fragment README będzie przydatny dla Twoich sponsorów. Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 
 ## **Program**
