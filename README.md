@@ -37,6 +37,8 @@
 
 13. [Uprawnienia_alex_ai](#Uprawnienia_alex_ai)
 
+14.[System_Ranks_in_Alex_AI](#System_Ranks_in_Alex_AI)
+
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
@@ -161,7 +163,7 @@ Oto krótki opis każdego poziomu uprawnień:
 
 Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach. alex.ai służy do interesu, do zabawy czy rozwoju. 
 
-# System Ranks w Alex AI
+## System_Ranks_in_Alex_AI
 
 System Alex AI korzysta z hierarchicznej struktury rang (ranks), aby efektywnie zarządzać uprawnieniami i dostępem użytkowników do różnych funkcji i zasobów systemu. Oto kluczowe informacje dotyczące struktur rang w Alex AI:
 
