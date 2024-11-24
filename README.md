@@ -1,6 +1,6 @@
 "README mojego projektu jest tak szczegółowe, ponieważ uważam, że dobrze napisane README to klucz do sukcesu każdego projektu. Chcę, aby każdy użytkownik, niezależnie od poziomu doświadczenia, mógł łatwo zrozumieć, zainstalować i korzystać z mojego programu. Oto kilka powodów, dlaczego zdecydowałem się na tak obszerną dokumentację:
 
-1. **Łatwość instalacji**: Szczegółowe instrukcje instalacji pomagają użytkownikom uniknąć frustracji i szybko uruchomić projekt.
+1. **Łatwość instalacji**: Szczegółowe instrukcje instalacji pomagają użytkownikom uniknąć frustracji i szybko uruchomić projekt. Do instalacji alex.ai jest potrzebna tylko zgoda w notesie
 2. **Jasność wymagań**: Podaję wszystkie wymagania systemowe i zależności, aby użytkownicy byli przygotowani na instalację i uruchomienie projektu bez problemów.
 3. **Przykłady użycia**: Przykłady kodu pomagają użytkownikom zrozumieć, jak korzystać z funkcji mojego programu w praktyce.
 4. **Dokumentacja API**: Szczegółowa dokumentacja API ułatwia integrację mojego programu z innymi systemami i aplikacjami.
