@@ -29,7 +29,7 @@
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
-
+10. [superstars][#superstars-system)
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
 ## Wprowadzenie
@@ -71,7 +71,7 @@ Cały program został oparty na ideologii forum, co oznacza, że stawia na:
 - **Konsultacje**: Możliwość zadawania pytań i uzyskiwania odpowiedzi od innych użytkowników.
 - **Społeczność**: Tworzenie silnych więzi między użytkownikami poprzez aktywne uczestnictwo w dyskusjach.
 
-## **Superstar System**
+## **superstars system**
 
 Superstar to zaawansowany moduł w ramach platformy Alex AI, który umożliwia użytkownikom interakcję na najwyższym poziomie personalizacji i zaawansowania. Dzięki niemu użytkownicy mogą korzystać z unikalnych funkcji i zasobów, które nie są dostępne w standardowych ustawieniach.
 
