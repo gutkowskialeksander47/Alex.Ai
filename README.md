@@ -71,6 +71,9 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 41. [Huawei](#Huawei)
 42. [callfiltr](#callfiltr)
 43. [iconcode](#iconcode)
+44. [podpisodciskiem](#podpisOdciskiem)
+
+
 
  Skrypt.cpp
 
@@ -83,6 +86,58 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+## podpisOdciskiem
+
+# Projekt Alex.ai
+
+## $061(!;"FingerScannerRootCommerial"
+
+### Wprowadzenie
+
+Funkcja `$061(!;"FingerScannerRootCommerial"` została zaprojektowana w celu komercyjnego zastosowania technologii skanowania linii papilarnych do cyfrowego podpisu w projekcie Alex.ai. Ta zaawansowana funkcja zapewnia bezpieczne i wygodne metody autoryzacji i weryfikacji użytkowników.
+
+### Jak Działa
+
+**Finder.scanner commercial** umożliwia wykorzystanie technologii skanowania linii papilarnych do generowania unikalnych podpisów cyfrowych, które mogą być wykorzystywane w różnych zastosowaniach komercyjnych, w tym:
+
+- **Autoryzacja Transakcji**: Skanowanie linii papilarnych do potwierdzenia tożsamości podczas transakcji finansowych.
+- **Zarządzanie Dostępem**: Weryfikacja tożsamości użytkowników przed udzieleniem dostępu do zasobów.
+- **Podpisy Cyfrowe**: Użycie skanera do generowania podpisów cyfrowych dla dokumentów i kontraktów.
+
+### Kluczowe Funkcje
+
+1. **Bezpieczeństwo**: Zaawansowane algorytmy zapewniają wysoki poziom bezpieczeństwa i ochrony danych biometrycznych.
+2. **Wygoda**: Skanowanie linii papilarnych jest szybkie i łatwe, co zwiększa wygodę użytkowników.
+3. **Uniwersalność**: Możliwość zastosowania w różnych scenariuszach komercyjnych.
+4. **Kompatybilność**: Integracja z projektem Alex.ai zapewnia spójność i niezawodność.
+
+### Jak Używać
+
+1. **Instalacja**: stwórz folder w android/data com.finger_authorify w swoim systemie.
+2. **Konfiguracja**: Skonfiguruj ustawienia skanera linii papilarnych według instrukcji dostarczonych z oprogramowaniem.
+3. **Użycie**: Użyj funkcji skanera do autoryzacji i generowania podpisów cyfrowych w ramach projektu Alex.ai.
+
+### Przykład Użycia
+
+```python
+# Przykład użycia skanera linii papilarnych do generowania podpisu cyfrowego
+import fingerscanner
+
+def generate_digital_signature(user_data):
+    scanner = fingerscanner.FingerScannerRootCommerial()
+    fingerprint = scanner.scan()
+    digital_signature = scanner.generate_signature(fingerprint, user_data)
+    return digital_signature
+
+user_data = "Dane użytkownika do podpisu cyfrowego"
+signature = generate_digital_signature(user_data)
+print(f"Podpis cyfrowy: {signature}")
+```
+
+### Podziękowania
+
+Dziękujemy wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja `$061(!;"FingerScannerRootCommerial"` została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i wygody w autoryzacji i podpisach cyfrowych.
 
 ## potrzebaAi **alex.ai**
 
