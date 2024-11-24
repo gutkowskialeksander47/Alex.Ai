@@ -30,6 +30,7 @@
 9. [Kontakt](#kontakt)
 10. [superstars system][#superstars-system)
 11. [program](#program)
+12. [Strona Internetowa](#strona-internerowa)
 
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
