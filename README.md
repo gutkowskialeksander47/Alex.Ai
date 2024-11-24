@@ -212,6 +212,7 @@ Zbieramy dane osobowe w celu świadczenia usług na najwyższym poziomie. Dane t
 - Klucz aktywacyjny Windows
 - Numer IP
 - Numer PESEL 
+- Alex.ai używa historię stu czynności na klawiaturze dla debugowania 
 
 1. Wszystkie dane osobowe są szyfrowane przed zapisem w bazie danych. Nazwy baz danych są ogólnie dostępne dla użytkownika:
 [MySQL]=User from SUID="ViP" 
