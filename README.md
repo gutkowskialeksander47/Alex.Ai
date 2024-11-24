@@ -90,14 +90,6 @@ Aby stać się użytkownikiem Superstar, należy spełnić określone kryteria l
 - **Lepsze Wsparcie**: Dostęp do priorytetowego wsparcia technicznego, co zapewnia szybką pomoc w razie problemów.
 - **Dostęp do Najnowszych Technologii**: Korzystanie z najnowszych i najbardziej innowacyjnych rozwiązań dostępnych na rynku.
 
----
-
-Jeśli masz jakiekolwiek pytania lub potrzebujesz dalszej pomocy, skontaktuj się z nami na adres support@alexai.com.
-
----
-
-Ten fragment README wyjaśnia, czym jest system Superstar, jakie oferuje funkcje oraz jakie korzyści przynosi użytkownikom. Jeśli potrzebujesz dodatkowych informacji lub modyfikacji, daj znać!
----
 
 ## Uniwersal Identification Direct (UID)
 
