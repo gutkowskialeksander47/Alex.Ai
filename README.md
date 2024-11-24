@@ -341,7 +341,9 @@ Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użyt
 
 ---
 
-## Wersja alex.apk/alex.ai
+## Wersja 
+
+alex.apk/alex.ai
 
 ### V 1.3.0
 - Będzie dostępna po ukończeniu źródła przez szefa.
