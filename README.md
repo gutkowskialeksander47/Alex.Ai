@@ -42,7 +42,7 @@
 25. [opieka troska](#opiekaitroska)
 26. [FAQ](#FAQ)
 27. [MTYBussines](#MTYBussines)
-
+28. [Samsungnotes](#samsungnotes)
  Skrypt.cpp
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -420,6 +420,31 @@ Aby stać się użytkownikiem Superstar, należy spełnić określone kryteria l
 - **Wyższy Poziom Personalizacji**: Możliwość pełnego dostosowania środowiska pracy do własnych potrzeb i preferencji.
 - **Lepsze Wsparcie**: Dostęp do priorytetowego wsparcia technicznego, co zapewnia szybką pomoc w razie problemów.
 - **Dostęp do Najnowszych Technologii**: Korzystanie z najnowszych i najbardziej innowacyjnych rozwiązań dostępnych na rynku.
+
+## Samsungnotes
+
+
+
+1. Jakie tematy dominują w Twoich notatkach?
+Tematy kobiet wszystkich ludzi i poszczególnych odbiorców często też informatyka
+2. Które zdanie lub notatka ma dla Ciebie największe znaczenie i dlaczego?
+"Służba nie drużba spełniona być musi"
+znaczy to tyle że całe życie będę na służbie prawa i poświęciłem życie prywatne
+3. Czy masz w notatkach jakieś powtarzające się motywy lub myśli?
+Tak często to prywatne tematy krzywdy 
+4. Jak organizujesz swoje notatki? Czy używasz etykiet, tagów lub kategorii? Używam nazwy i androida. mam notatki dla każdej grupy odbiorców
+5. Czy istnieje notatka, do której często wracasz i z jakiego powodu?
+Brudnopis bo wrzucam tam myśli dla mnie i internautów 
+6. Jakie narzędzia lub techniki wykorzystujesz do tworzenia notatek? Szczerość prawdomówność i zainteresowanie 
+7. Czy w notatkach są pomysły lub projekty, które chciałbyś zrealizować? 
+tak chcę żeby moje tytuły zawarte w @IT Public.progress (Global Read Permission) były oficjalne 
+8. Jak często przeglądasz swoje notatki i aktualizujesz je? dziennie minimum kilka kilkanaście zdań
+9. Czy masz notatki związane z konkretnymi celami lub planami na przyszłość?
+nie, ja nie mam marzeń tylko cele które osiągam 
+10. Jakie są Twoje ulubione cytaty lub inspirujące zdania, które zapisałeś w notatkach?
+Nawet myśląc nie jesteśmy w stanie wymyślić tego czego nie wiemy
+11. czy pozwolisz komuś przeczytać notes? 
+Tak jak już będę miał kobietę 
 
 
 ## UiD
