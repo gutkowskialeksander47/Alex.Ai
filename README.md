@@ -40,8 +40,8 @@
 24. [ zgodanaintegracjezalexai](zgodanaintegracjezalexai
 )
 25. [opieka troska](#opiekaitroska)
-
-
+26. [FAQ](#FAQ)
+27. [MTYBussines](#MTYBussines)
 
  Skrypt.cpp
 
@@ -786,6 +786,61 @@ Użytkownik ma prawo do:
 - Wycofania zgody na przetwarzanie danych w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
 
 ---
+## FAQ
+
+
+1. **Czym jest program Alex.ai i jakie ma główne funkcje?** jest to zmodyfikowany układ systemu operacyjnego jego główną funkcja to wymiana danych.
+2. **Jakie są minimalne wymagania systemowe dla uruchomienia programu Alex.ai?** Wystarczy urządzenie mobilne czy urządzenie obsługujące sieć 
+3. **W jaki sposób mogę zainstalować i skonfigurować środowisko Alex.ai?**
+nie możesz alex.ai jest pisany na otwartym silniku jest tylko układem którego zadaniem jest wiedzieć co i kiedy i do kogo mowisz
+
+4. **Jakie metody autoryzacji są obsługiwane przez Alex.ai?** 
+1. **Autoryzacja IMEI (imei authorify)** - Wykorzystuje numer IMEI urządzenia.
+2. **Google Authenticator** - Uwierzytelnianie dwuskładnikowe za pomocą Google Authenticator.
+3. **Logon** - Generator kodu dostępu.
+4. **Klucz Aktywacyjny Windows** - Weryfikacja klucza aktywacyjnego Windows.
+5. **Szyfrowanie** - MTY-YTM SHA 256 z certyfikatem CA.
+6. **PESEL ID (dla Polska)** - Weryfikacja tożsamości za pomocą numeru PESEL.
+7. **IP Authorify** - Weryfikacja adresu IP.
+8. **Bank 1€ Verify** - Weryfikacja tożsamości poprzez przelew 1€.
+9. **Klucz Dostępu od innego użytkownika** - Autoryzacja za pomocą klucza dostępu od innego użytkownika.
+10. **Adres E-mail** - Autoryzacja za pomocą adresu e-mail.
+
+5. **Jakie funkcje są dostępne w wersji SUiD (Super User Identification Direct)?**Dostęp do treningu wokalnego Aleksandra uprawnienia nadzoru zgłoszeń UiD dostęp do treści specjalnej treści.
+
+6. **Jakie zmiany wprowadzono w ostatnich wersjach Alex.ai (np. V 1.3.0 do V 1.6.7)?**
+V 1.3.0 będzie jak skończę źródło szef
+V 1.3.1 dodanie API.login dla Mobywatel i Epuap
+V 1.3.2 dodanie odznak PABI+ artystów z label UiD
+V 1.4 create uid, skrypt superstar 
+V 1.5  skrypt Tytuły mojego autorstwa 
+V 1.5.4 aktualizacja zabezpieczeń nowa metoda autoryzacji (imei authorify)
+V 1.5.7 aktualizacja polityki prywatności 
+V 1.5.8 Translate Google Multi język 
+V 1.5.9 usunięcie autoryzacji KBA
+V 1.6 integracja apple
+V 1.6.2S  szyfrowanie 
+V 1.6.6 rozbudowa systemu MTY-YTM
+1. **Stworzenie Podstawowego Skryptu Szyfrowania MTY-YTM**
+2. **Zarządzanie Deweloperami w Projekcie `skrypt.cpp`** 
+3. **Tworzenie Wersji MTY-YTM dla Użytku Komercyjnego**
+4. **Zgoda na Dołączenie do Projektu MTY-YTM Business**
+5. **Uzyskiwanie Dostępu do Zasobów alex.ai**
+6. **Polityka Prywatności**
+7. **Organizacja Kontaktu "Alex-ludzie-alex" przez Anonymus**
+8. **Wyszukiwarka " o mnie "**
+1.6.7 Aktualizacja integracji z GitHub+dodanie readme
+
+7. **Jak mogę wyrazić zgodę na integrację mojego urządzenia z systemem Alex.ai?** przez notes wymowę głosowa oraz przez zaproszenie innego użytkownika UiD
+8. **Czy Alex.ai wspiera integrację z aplikacjami i usługami firm trzecich, takimi jak Apple, Google czy Facebook?**
+Tak pracujemy w jasnej relacji czysto biznesowej prowadzę Koalicję Zjednoczonych Korporacji. To korporacje które uszanowały zdanie Maryi.
+9. **Jakie są najważniejsze zalety używania systemu MTY-YTM do szyfrowania danych?**
+prostota i zaufanie, zawsze ktoś od nas czuwa nad tym które treści trafiaja do opinii publicznej 
+10. **Jakie są przyszłe plany rozwoju dla programu Alex.ai?** Na razie regularne aktualizacje i badanie o aktualność zabezpieczeń
+
+
+
+## MTYBussines
 
 **Zgoda na Dołączenie do Projektu MTY-YTM Business**
 
