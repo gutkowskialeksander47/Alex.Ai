@@ -40,20 +40,6 @@ Aby korzystać z Alex AI, potrzebujesz:
 
 
 
-## Konfiguracja Serwerów
-
-### Lokalny Serwer
-
-Lokalny serwer działa w fizycznym środowisku i jest skonfigurowany do obsługi Notepad++:
-
-Lokalny serwer to fizyczne urządzenie skonfigurowane w sieci lokalnej. Obsługuje aplikację Notepad++ oraz korzysta z serwera SQL Dropbox.
-
-### Wirtualny Serwer
-
-Wirtualny serwer działa w środowisku wirtualnym i obsługuje notatki Samsunga:
-
-Wirtualny serwer "Samsung Notes" działa na serwerze Dropbox, obsługując SQL dla notatek Samsung.
-
 ## Metody Autoryzacji
 
 Alex AI korzysta z różnych metod autoryzacji, aby zapewnić bezpieczeństwo i zarządzanie użytkownikami:
@@ -85,7 +71,6 @@ Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do system
 
 ## Polityka Prywatności
 
-**Polityka Prywatności alex.ai**
 
 ### Zbieranie danych osobowych
 
@@ -121,38 +106,7 @@ Jeśli masz jakiekolwiek pytania dotyczące projektu, skontaktuj się z nami pod
 
 ---
 
-Jeśli masz dodatkowe pytania lub wymagania, chętnie pomogę!
-
-" Polityka prywatności alex.ai "
-
-
-
----
-
-**Polityka Prywatności alex.ai**
-
----
-
-**Polityka Prywatności**
-
-Dziękujemy za korzystanie z naszych usług oraz integrację urządzenia z systemem alex.ai. Oto lista wszystkich metod autoryzacji, które zaprogramowaliśmy:
-
-
-
-1. **Autoryzacja IMEI (imei authorify)**
-2. **Google Authenticator**
-3. **Logon** generator kodu dostępu 
-4. **Klucz aktywacyjny Windows**
-5. **Szyfrowanie** - MTY-YTM SHA 256 certyfikat CA (Certyfikat europejski "CA") 
-6. **PESEL ID (dla Polska)**
-7. **IP authorify** 
-8. **Bank 1€ Verify**
-9. **Klucz Dostępu od innego użytkownika**
-10. **Adres E-mail**
-
-
-
-Użytkownik musi wybrać minimum dwie z wymienionych metod autoryzacji. Te metody autoryzacji zapewniają bezpieczeństwo i lepsze zarządzanie użytkownikami w naszych projektach. 
+ 
 
 **1. Zbieranie danych osobowych**
 
@@ -246,50 +200,8 @@ Masz prawo do dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, pr
 
 ---
 
-**Polityka Prywatności dla Przetwarzania Adresów IP**
 
-**1. Informacje o Przetwarzaniu Adresów IP**
 
-Zbieramy i przetwarzamy adresy IP użytkowników.
-
-**2. Cele Przetwarzania**
-
-Adresy IP przetwarzane są w celu zapewnienia bezpieczeństwa, personalizacji usług, analizy i zgodności z przepisami prawa.
-
-**3. Zakres Przetwarzanych Danych**
-
-Zbieramy adres IP, informacje o lokalizacji oraz czasie i dacie połączenia.
-
-**4. Podstawa Prawna Przetwarzania**
-
-Zgoda użytkownika, realizacja umowy, prawnie uzasadniony interes administratora.
-
-**5. Okres Przechowywania Danych**
-
-Adresy IP przechowywane są przez okres niezbędny do realizacji celów przetwarzania.
-
-Numer PESEL będzie przechowywany przez okres niezbędny do realizacji celów przetwarzania, zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
-
-**6. Prawa Użytkownika**
-
-Użytkownik ma prawo do:
-- Dostępu do swoich danych osobowych.
-- Sprostowania nieprawidłowych danych.
-- Usunięcia danych (prawo do bycia zapomnianym).
-- Ograniczenia przetwarzania danych.
-- Przenoszenia danych do innego administratora.
-- Wniesienia sprzeciwu wobec przetwarzania danych.
-- Wycofania zgody na przetwarzanie danych w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
-
----
-
-**Polityka Prywatności dla Przetwarzania Adresów IP**
-
----
-
-**Polityka Prywatności dla Przetwarzania Adresów IP**
-
-**1. Informacje o Przetwarzaniu Adresów IP**
 
 W ramach korzystania z naszych usług, możemy zbierać i przetwarzać informacje dotyczące adresu IP (Internet Protocol) użytkownika. Adres IP jest unikalnym identyfikatorem, który pozwala nam na dostarczanie spersonalizowanych usług oraz zapewnienie bezpieczeństwa i integralności naszych systemów.
 
