@@ -297,11 +297,7 @@ Choć RUiDv2 przeszedł daleko od swojej pierwotnej koncepcji, planujemy dalszy 
 Aby zainstalować RUiDv2, postępuj zgodnie z instrukcjami zawartymi w sekcji [Instrukcja Instalacji](#instrukcja-instalacji). Upewnij się, że spełniasz wszystkie wymagania systemowe i posiadasz odpowiednie uprawnienia.
 
 ### Kontakt
-Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem support@alexai.com.
-
----
-
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
+Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem aleksander@rajca.info
 
 
 ## **superstars system**
