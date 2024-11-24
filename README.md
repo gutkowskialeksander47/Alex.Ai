@@ -35,6 +35,7 @@
 14. [UprawnieniaAi](#UprawnieniaAi)
 15. [Rangi](#Rangi)
 16. [GlownaRanga](#GlownaRanga)
+17. [MTY](MTY)
 
 ---
 
@@ -56,10 +57,15 @@ szyfrowanie
 
 ---
 
-## **MTY-YTM** # Encryption
+Oczywiście! Oto przykładowy fragment README dotyczący Twojego algorytmu szyfrowania MTY-YTM, zawierający instrukcję obsługi oraz wyjaśnienie zasady działania:
+
+---
+
+## MTY-YTM Encryption
 
 MTY-YTM to zaawansowany algorytm szyfrowania, który zapewnia wysoki poziom bezpieczeństwa danych poprzez kombinację technik szyfrowania symetrycznego i asymetrycznego. Poniżej znajdziesz instrukcję obsługi oraz wyjaśnienie zasady działania tego algorytmu.
 
+## **MTY**
 ### Spis Treści
 1. [Wprowadzenie](#wprowadzenie)
 2. [Opis Algorytmu](#opis-algorytmu)
