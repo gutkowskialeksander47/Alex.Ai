@@ -26,7 +26,7 @@ https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/top_10_frie
 ## Wprowadzenie
 
 Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu zarządzania użytkownikami i autoryzacji, który zapewnia wysoki poziom bezpieczeństwa i integracji z różnymi systemami i serwerami. Projekt obejmuje szereg narzędzi i metod, które umożliwiają zarządzanie serwerami, użytkownikami oraz autoryzacją dostępu.
-
+---
 ## Opis Projektu
 ---
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai 
