@@ -35,6 +35,7 @@
 17. [MTYEncryption](#MTYEncryption)
 18. [RUiDv2](#RUiDv2)
 19. [RozwojUiD](#RozwojUiD)
+20. [Wersja](#Wersja)
 
 
 
@@ -341,6 +342,64 @@ Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użyt
 
 
 
+
+---
+
+## Wersja alex.apk/alex.ai
+
+### V 1.3.0
+- Będzie dostępna po ukończeniu źródła przez szefa.
+
+### V 1.3.1
+- Dodanie API.login dla Mobywatel i Epuap.
+
+### V 1.3.2
+- Dodanie odznak PABI oraz artystów z label UiD.
+
+### V 1.4
+- Utworzenie UiD .
+- Skrypt Superstar.
+
+### V 1.5
+- Skrypt Tytuły mojego autorstwa.
+
+### V 1.5.4
+- Aktualizacja zabezpieczeń.
+- Nowa metoda autoryzacji (imei authorify).
+
+### V 1.5.7
+- Aktualizacja polityki prywatności.
+
+### V 1.5.8
+- Translate Google Multi język.
+
+### V 1.5.9
+- Usunięcie autoryzacji KBA.
+
+### V 1.6
+- Integracja z Apple.
+
+### V 1.6.2S
+- Szyfrowanie.
+
+### V 1.6.6
+- Rozbudowa systemu MTY-YTM:
+  1. Stworzenie Podstawowego Skryptu Szyfrowania MTY-YTM.
+  2. Zarządzanie Deweloperami w Projekcie `skrypt.cpp`.
+  3. Tworzenie Wersji MTY-YTM dla Użytku Komercyjnego.
+  4. Zgoda na Dołączenie do Projektu MTY-YTM Business.
+  5. Uzyskiwanie Dostępu do Zasobów alex.ai.
+  6. Polityka Prywatności.
+  7. Organizacja Kontaktu "Alex-ludzie-alex" przez Anonymus.
+  8. Wyszukiwarka "o mnie".
+
+### V 1.6.7
+- Aktualizacja integracji z GitHub.
+- Dodanie README.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 
 ---
