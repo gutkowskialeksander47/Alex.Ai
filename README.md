@@ -42,7 +42,7 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 
 ---
 
-## Superstar System
+## **Superstar System**
 
 Superstar to zaawansowany moduł w ramach platformy Alex AI, który umożliwia użytkownikom interakcję na najwyższym poziomie personalizacji i zaawansowania. Dzięki niemu użytkownicy mogą korzystać z unikalnych funkcji i zasobów, które nie są dostępne w standardowych ustawieniach.
 
