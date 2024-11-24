@@ -32,7 +32,7 @@
 
 11.[Strona Internetowa](#strona-internetowa)
 
-12 [Uniwersal Identification Direct (UID)]
+12. [Uniwersal Identification Direct (UID)]
 (#Uniwersal-Identification-Direct-(UID))
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
