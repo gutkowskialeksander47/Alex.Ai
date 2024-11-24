@@ -34,7 +34,7 @@
 13. [Uniwersal Identification Direct (UID)](#uid)
 14. [UprawnieniaAi](#UprawnieniaAi)
 15. [Rangi](#Rangi)
-16. [Kluczowe_Rangi_w_Systemie](#kluczowe-rangi-w-systemie)
+16. [GlownaRanga](#GlownaRanga)
 
 ---
 
@@ -193,7 +193,7 @@ System Alex AI korzysta z hierarchicznej struktury rang (ranks), aby efektywnie 
 
 System Alex AI opiera się na hierarchii rang, która określa poziomy dostępu i uprawnień użytkowników. Każda ranga reprezentuje określony poziom odpowiedzialności i dostępności w systemie. Hierarchia rang zapewnia, że użytkownicy mają odpowiednie uprawnienia do wykonywania swoich zadań i operacji.
 
-### Kluczowe_Rangi_w_Systemie
+### GlownaRanga
 - **Użytkownik Podstawowy**: Ma podstawowy dostęp do danych i zasobów, może przeglądać i pobierać informacje.
 - **Użytkownik Zaawansowany**: Posiada rozszerzone uprawnienia, takie jak edytowanie i aktualizowanie danych oraz zarządzanie zadaniami.
 - **Moderator**: Odpowiedzialny za monitorowanie aktywności użytkowników oraz wspieranie ich w rozwiązywaniu problemów.
