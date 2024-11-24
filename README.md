@@ -28,9 +28,9 @@
    - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
 8. [Polityka Prywatności](#polityka-prywatności)
 9. [Kontakt](#kontakt)
-10. [superstars system][#superstars-system)
-11. [program](#program)
-12. [Strona Internetowa](#strona-internetowa)
+10.[superstars system][#superstars-system)
+11.[program](#program)
+12.[Strona Internetowa](#strona-internetowa)
 
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
