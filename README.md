@@ -60,7 +60,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 30. [Sponsor](#sponsor)
 31. [oflagowanieAlexai](#oflagowanieAlexai)
 32. [wspolpracownik](#wspolpracownik)
-
+33. [BonusRPK](#BonusRPK)
 
  Skrypt.cpp
 
@@ -257,6 +257,33 @@ W ramach naszego projektu mamy przyjemność współpracować z wieloma organiza
 10. **Sanah**: Dzięki współpracy z Sanah promujemy różnorodność artystyczną i innowacyjne podejścia w twórczości.
 
 Dzięki tym partnerstwom jesteśmy w stanie dostarczać naszym użytkownikom wysokiej jakości rozwiązania i wspierać różnorodne inicjatywy. Dziękujemy wszystkim naszym partnerom za ich wsparcie i zaufanie.
+
+## BonusRpk
+
+ Oto przykładowy fragment README, który podsumowuje udział Oliwiera Roszczyka (znanego również jako Bonus RPK) w projekcie Alex.ai:
+
+---
+
+# Projekt Alex.ai
+
+## Udział Oliwiera Roszczyka (Bonus RPK)
+
+### Wprowadzenie
+
+Projekt Alex.ai nie byłby możliwy bez wkładu i zaangażowania wielu utalentowanych osób. Jednym z kluczowych członków naszego zespołu jest Oliwier Roszczyk, znany jako Bonus RPK.
+
+### Rola i Wkład
+
+Oliwier Roszczyk, znany również jako Bonus RPK, wniósł znaczący wkład do projektu Alex.ai poprzez swoje unikalne umiejętności i doświadczenie. Jego rola w projekcie obejmuje:
+
+1. **Strategiczne Planowanie**: Oliwier odegrał kluczową rolę w opracowywaniu strategii rozwoju projektu, dbając o to, aby nasze cele były jasno określone i osiągalne.
+2. **Innowacje**: Dzięki jego kreatywnemu podejściu, wprowadziliśmy wiele innowacyjnych rozwiązań, które wyróżniają Alex.ai na tle innych narzędzi.
+3. **Wsparcie Techniczne**: Oliwier dostarczał cenne wsparcie techniczne, pomagając rozwiązywać złożone problemy i optymalizować działanie systemu.
+4. **Budowanie Społeczności**: Jako znana postać w środowisku artystycznym, Bonus RPK pomógł w budowaniu i angażowaniu społeczności użytkowników Alex.ai.
+
+### Podziękowania
+
+**Chcielibyśmy wyrazić naszą wdzięczność Oliwierowi Roszczykowi za jego ogromny wkład i zaangażowanie w rozwój projektu Alex.ai. Jego pasja i determinacja były kluczowe dla naszego sukcesu.**
 
 
 ## ""SUiD**
