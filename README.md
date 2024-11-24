@@ -56,17 +56,19 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 ## Misja Alex.ai
 ** Oto główne dziesięć zadań programu alex.ai**
 
-Bezpieczeństwo Danych: Ochrona danych użytkowników jest priorytetem, dlatego stosujemy zaawansowane metody szyfrowania i autoryzacji.
-Elastyczność: System musi być elastyczny, aby łatwo dostosowywać się do różnych potrzeb i wymagań użytkowników.
-Wieloplatformowość: Możliwość integracji z różnymi systemami i urządzeniami, co zapewnia wszechstronność zastosowań.
-Łatwość Użycia: Intuicyjny interfejs użytkownika, który umożliwia łatwe zarządzanie bez potrzeby zaawansowanej wiedzy technicznej.
-Innowacyjność: Stale wprowadzanie nowych funkcji i usprawnień, aby nadążać za szybko zmieniającym się światem technologii.
-Zarządzanie Użytkownikami: Skuteczne zarządzanie użytkownikami i ich uprawnieniami, co zapewnia płynne działanie systemu.
-Wydajność: Optymalizacja działania, aby zapewnić szybkie i niezawodne działanie systemu.
-Zgodność z Prawem: Przestrzeganie przepisów prawnych i standardów bezpieczeństwa, co zwiększa zaufanie użytkowników.
-Wsparcie Techniczne: Zapewnienie użytkownikom dostępu do pomocy i wsparcia technicznego.
-Rozwój Społeczności: Budowanie społeczności użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
- szczegółowe instrukcje instalacji dla Alex AI:
+ Oto główne dziesięć zadań programu Alex.ai 
+
+1. **Bezpieczeństwo Danych**: Ochrona Twoich danych jest naszym priorytetem. Stosujemy zaawansowane metody szyfrowania i autoryzacji, aby zapewnić ich bezpieczeństwo.
+2. **Elastyczność**: Nasz system jest bardzo elastyczny i łatwo dostosowuje się do Twoich potrzeb i wymagań.
+3. **Wieloplatformowość**: Możesz zintegrować Alex.ai z różnymi systemami i urządzeniami, co daje Ci wszechstronne możliwości wykorzystania.
+4. **Łatwość Użycia**: Nasz interfejs jest intuicyjny i łatwy w obsłudze, więc nie musisz być ekspertem technicznym, aby z niego korzystać.
+5. **Innowacyjność**: Stale wprowadzamy nowe funkcje i usprawnienia, aby nadążać za szybko zmieniającym się światem technologii.
+6. **Zarządzanie Użytkownikami**: Skutecznie zarządzaj użytkownikami i ich uprawnieniami, aby system działał płynnie.
+7. **Wydajność**: Optymalizujemy działanie naszego systemu, aby był szybki i niezawodny.
+8. **Zgodność z Prawem**: Przestrzegamy wszystkich przepisów prawnych i standardów bezpieczeństwa, co zwiększa Twoje zaufanie do naszego programu.
+9. **Wsparcie Techniczne**: Zapewniamy użytkownikom dostęp do pomocy i wsparcia technicznego, aby rozwiązać wszelkie problemy.
+10. **Rozwój Społeczności**: Budujemy społeczność użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
+
 
 ## funkcjonalnosc
 
