@@ -73,7 +73,9 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 43. [iconcode](#iconcode)
 44. [podpisodciskiem](#podpisOdciskiem)
 45. [obowiazekrozwoju](#obowiazekrozwoju)
+
 46. [twince](#twince)
+
 47.[translate](#translate)
 
 ## **Translate**
