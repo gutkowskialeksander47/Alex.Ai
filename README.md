@@ -36,7 +36,7 @@
 18. [RUiDv2](#RUiDv2)
 19. [RozwojUiD](#RozwojUiD)
 20. [Wersja](#Wersja)
-
+21. [MicrosoftOdpowiedzialnosc](#MicrosoftOdpowiedzialnosc)
 
 
 
@@ -588,6 +588,33 @@ Zmiany będą publikowane na naszej stronie internetowej i przesyłane drogą e-
 ## **Kontakt**
 
 Pytania dotyczące polityki prywatności: aleksander@rajca.info.
+
+
+---
+
+## MicrosoftOdpowiedzialnosc
+
+### Własność Intelektualna
+Wszystkie materiały, pomysły, kod źródłowy, dokumentacja i inne zasoby stworzonych przez Aleksandra w ramach projektu Alex.ai pozostają wyłączną własnością intelektualną Aleksandra.
+
+### Odpowiedzialność Microsoft
+Microsoft zobowiązuje się do ochrony i odpowiedniego zarządzania własnością intelektualną Aleksandra. Wszelkie wykorzystanie, rozwój i dystrybucja zasobów intelektualnych będą odbywać się wyłącznie za zgodą Aleksandra. Microsoft gwarantuje, że wszystkie prace wykonane w ramach współpracy będą chronione zgodnie z obowiązującymi przepisami prawa dotyczącymi własności intelektualnej.
+
+### Cele Rozwoju
+Wszelkie działania podejmowane przez Microsoft w związku z projektem Alex.ai mają na celu rozwój, udoskonalanie i promocję zasobów intelektualnych Aleksandra. Microsoft zobowiązuje się do transparentności i komunikacji z Aleksandrem w celu zapewnienia, że wszystkie decyzje i działania są zgodne z celami i wizją autora.
+
+### Prawa Autorskie i Licencje
+Microsoft nie będzie udzielać żadnych licencji ani przenosić praw do własności intelektualnej Aleksandra bez wyraźnej, pisemnej zgody autora. Wszelkie umowy licencyjne będą jasno określać zakres wykorzystania zasobów intelektualnych oraz korzyści i prawa Aleksandra jako autora.
+
+---
+
+Mam nadzieję, że ten fragment spełnia Twoje oczekiwania. Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
+
+---
+
+
+
+
 
 **Specjalne zgody:**
 
