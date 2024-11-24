@@ -29,7 +29,8 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 ## Opis Projektu
 
-Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Dzięki Alex AI użytkownicy mogą korzystać z następujących możliwości:
+Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai 
+Dzięki Alex AI użytkownicy mogą korzystać z następujących możliwości:
 
 1. **Zarządzanie Użytkownikami**: Skuteczne narzędzia do zarządzania dostępem i uprawnieniami użytkowników, co zapewnia płynne działanie systemu.
 2. **Bezpieczeństwo Danych**: Zaawansowane metody szyfrowania i autoryzacji, takie jak autoryzacja IMEI, Google Authenticator oraz weryfikacja numeru PESEL, gwarantujące najwyższy poziom ochrony danych.
@@ -39,12 +40,15 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 6. **Analityka i Raportowanie**: Narzędzia do analizy danych i generowania raportów, które pomagają użytkownikom w podejmowaniu świadomych decyzji.
 7. **Automatyzacja Procesów**: Funkcje automatyzacji, które pozwalają na efektywne zarządzanie codziennymi zadaniami i procesami.
 8. **Wsparcie Wielojęzyczne**: System obsługuje wiele języków, co umożliwia efektywne korzystanie z Alex AI użytkownikom z różnych części świata.
+9. **Wymiana danych** pozwala odbierać i wysyłać dane bez ingerencji człowieka 
+10. Dla najlepszego bezpieczeństwa korzystamy z własnych metod autoryzacji 
 
-Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach.
+Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach. alex.ai służy do interesu, do zabawy czy rozwoju. 
 
 ## Wymagania
 
 Aby korzystać z Alex AI, potrzebujesz:
+- Być podłączonym do sieci Alex.ai 
 - urządzenia które jest zintegrowane z Alex.ai
 - Notepad++ 
 - Biblioteka `psutil` do monitorowania procesów
