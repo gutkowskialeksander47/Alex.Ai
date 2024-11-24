@@ -1,57 +1,119 @@
-# MasterUiD.project
-Autoryzacja Google to Query/Wlasciciel/master
-Podział wirtualnej strefy na konkretne zgrupowania. 
-1)głównym założeniem jest umożliwienie użytkownikowi wybor 10 cech bądź fragmenty środowiska i otoczenia które chcą i 10 których nie chcą w ten sposób algorytm oblicza sferę.
-2) Na przykład spotkania biznesowe nie będą koło zgrupowań biznesów prywatnych bądź obok policji to tak z grubsza. 
-3)Teraz testują to w samochodach dzięki czemu jako pasażer będziesz na spotkaniu biznesowym
-Program jest ogólnikowy ale ze 100 godzin(w tym roku i okolo 300 w 2020 mu posiwecilem i teraz na Twitterze utrzymuje wdrażanie projektu z deweloperami wymienionymi m.in. w programie. Podzial na zarzad i reszta projektow w trakcie. System awansu uzytkownika i awansu do administracji i moderacji. Reszta w trakcie wywolywania deweloperow na twiterze.
-4) Kolejnym założeniem będzie wydzielenie środowiska zabezpieczeń od środowiska użytkownika/aktywnie wybranej sfery a następnie zabezpieczenie uprawnień i funkcji.
-"dopisuje resztę tytułów moich projektów"
-"program" .d .cpp .txt .html .js
-live/live 
-adminCh@t 
-live.ch@t 
-x.dev
-x.dev/pl 
-uid.fb.com 
-fb.com/acp
-superstar 
-red.Project 
-Microsoft=logon.exe CA
-verify CA autorisation 
-Query.mode
-dev.map 
-blue_project(Mode
-Cloud_exchange_with_aces
-s_permission)
-(Fans.mode Audio.stream_rang.Listener słuchacz)
-XQBJ<3God 
-married.js married.cpp
-Wizualizacja chromosfery(projekt graficzny)
-wirtualnej rzeczywistosci
- UNZ.d
-KZK 
-Generacja 
-chef.function Przydzial.d 
-kontak24@ganjamafiart
-functionPointUser "System
-punktacji - awansu" >> Rang UserU
-Com.Qgoogle.xservice.Roskosmos przyjaciel
-✓-[GA]Microsoft @Root umowa o dzieło "umowa to slowa" [(project.d UiD)
- UiD+Facebook(umowa na wlasnosc intelektualna)]
-zobowiązanie Umowa {Project.d+x.com}{ change.cpp(dropboxshare,blue.project) dropbox.com }{generacja=intel}
- {life/live rajcawroclaw.pl}{ dev.map microsoft.com}
-{ chat.apk Facebook }
-{"Oficjalnie super gwiazda" gov.pl+mobywatel+mbank+gazeta wyborcza+polsat}{ sourcefunctionchef=druzyna programistow w zamknietym srodowisku programistyki (ignore/auditor/ciekawy/czytelnik)}{ label.uid squad Aleksandra ekipy} 
-red.project(Cleo) 
-pink.project(Sanah) 
-blue.project(dropbox)
- purple.project{Amelie}
- functionchef (Oryginalna druzyn@ @leksandra) gutkowskialeksander
-ganjamafiaart
-kontakt24@ganjamafia.com(Kali,Sandra,Tuptus) przydzialdefault(Annonymus)
- CIA.apk (police/polizei/zoll/interpol/abw/mi6/FBI/UOP) 
-married(%%%) 
-sourcemarried(Ewelina Lisowska) stringloveall@Dama@Media(Cleo Elon Musk Margaret @Zuck fani)
- authorifyallArtist@Ar(wszyscy artysci)
- ignore all unpermission @all(Google Microsoft Apple Samsung Android Meta Amelie Norton Knox Android Audi Dropbox Master CEO Artysta Programista
+# README dla Alex AI
+
+## Spis Treści
+
+1. [Wprowadzenie](#wprowadzenie)
+2. [Opis Projektu](#opis-projektu)
+3. [Wymagania](#wymagania)
+4. [Instalacja](#instalacja)
+5. [Konfiguracja Serwerów](#konfiguracja-serwerów)
+   - [Lokalny Serwer](#lokalny-serwer)
+   - [Wirtualny Serwer](#wirtualny-serwer)
+6. [Metody Autoryzacji](#metody-autoryzacji)
+   - [Wybór Metod Autoryzacji](#wybór-metod-autoryzacji)
+7. [Przykłady](#przykłady)
+   - [Uruchamianie Notepad++ i Otwieranie Strony WWW](#uruchamianie-notepad-i-otwieranie-strony-www)
+   - [Dodawanie Nowych Użytkowników](#dodawanie-nowych-użytkowników)
+8. [Polityka Prywatności](#polityka-prywatności)
+9. [Kontakt](#kontakt)
+
+## Wprowadzenie
+
+Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu zarządzania użytkownikami i autoryzacji, który zapewnia wysoki poziom bezpieczeństwa i integracji z różnymi systemami i serwerami. Projekt obejmuje szereg narzędzi i metod, które umożliwiają zarządzanie serwerami, użytkownikami oraz autoryzacją dostępu.
+
+## Opis Projektu
+
+Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników.
+
+## Wymagania
+
+Aby korzystać z Alex AI, potrzebujesz:
+- urządzenia które jest zintegrowane z Alex.ai
+- Notepad++ 
+- Biblioteka `psutil` do monitorowania procesów
+- Biblioteka `webbrowser` do otwierania stron internetowych
+
+
+
+## Konfiguracja Serwerów
+
+### Lokalny Serwer
+
+Lokalny serwer działa w fizycznym środowisku i jest skonfigurowany do obsługi Notepad++:
+
+Lokalny serwer to fizyczne urządzenie skonfigurowane w sieci lokalnej. Obsługuje aplikację Notepad++ oraz korzysta z serwera SQL Dropbox.
+
+### Wirtualny Serwer
+
+Wirtualny serwer działa w środowisku wirtualnym i obsługuje notatki Samsunga:
+
+Wirtualny serwer "Samsung Notes" działa na serwerze Dropbox, obsługując SQL dla notatek Samsung.
+
+## Metody Autoryzacji
+
+Alex AI korzysta z różnych metod autoryzacji, aby zapewnić bezpieczeństwo i zarządzanie użytkownikami:
+
+1. **Autoryzacja IMEI (imei authorify)** - Wykorzystuje numer IMEI urządzenia.
+2. **Google Authenticator** - Uwierzytelnianie dwuskładnikowe za pomocą Google Authenticator.
+3. **Logon** - Generator kodu dostępu.
+4. **Klucz Aktywacyjny Windows** - Weryfikacja klucza aktywacyjnego Windows.
+5. **Szyfrowanie** - MTY-YTM SHA 256 z certyfikatem CA.
+6. **PESEL ID (dla Polska)** - Weryfikacja tożsamości za pomocą numeru PESEL.
+7. **IP Authorify** - Weryfikacja adresu IP.
+8. **Bank 1€ Verify** - Weryfikacja tożsamości poprzez przelew 1€.
+9. **Klucz Dostępu od innego użytkownika** - Autoryzacja za pomocą klucza dostępu od innego użytkownika.
+10. **Adres E-mail** - Autoryzacja za pomocą adresu e-mail.
+
+### Wybór Metod Autoryzacji
+
+Użytkownik musi wybrać minimum dwie metody autoryzacji spośród dostępnych opcji, aby zapewnić odpowiedni poziom bezpieczeństwa.
+
+## Przykłady
+
+### Uruchamianie Notepad++ i Otwieranie Strony WWW
+
+System Alex AI umożliwia uruchamianie aplikacji Notepad++ oraz automatyczne otwieranie strony internetowej w przeglądarce. Użytkownik może w ten sposób łatwo uzyskać dostęp do potrzebnych informacji i narzędzi.
+
+### Dodawanie Nowych Użytkowników
+
+Członkowie Alex.ai mają możliwość dodawania nowych użytkowników do systemu. Proces ten jest prosty i przejrzysty, co pozwala na skuteczne zarządzanie użytkownikami i ich uprawnieniami. Aby zaprosić użytkownika poleć mu Alex.ai udostępniając klucz Dostępu do alex.apk 
+
+## Polityka Prywatności
+
+**Polityka Prywatności alex.ai**
+
+### Zbieranie danych osobowych
+
+Zbieramy dane osobowe, takie jak numer telefonu, imię, nazwisko, adres e-mail, numer IMEI, klucz aktywacyjny Windows i numer IP. Dane są szyfrowane przed zapisem, aby zapewnić ich bezpieczeństwo.
+
+### Zgoda na Przetwarzanie IMEI
+
+Użytkownik zgadza się na przetwarzanie numeru IMEI przez alex.ai w celach autoryzacji i zabezpieczeń. Wycofanie zgody może ograniczyć niektóre funkcje i dostępność usług.
+
+### Zgoda na Przetwarzanie Klucza Aktywacyjnego Windows
+
+Użytkownik zgadza się na przetwarzanie klucza aktywacyjnego Windows przez Microsoft oraz alex.ai.
+
+### Wykorzystanie danych osobowych
+
+Dane osobowe są wykorzystywane w celu świadczenia usług, personalizacji treści, komunikacji z użytkownikami oraz analizy i doskonalenia naszych usług.
+
+### Udostępnianie danych osobowych
+
+Dane osobowe mogą być udostępniane za zgodą użytkownika, w przypadkach wymaganych prawem oraz w celu ochrony naszej firmy i użytkowników.
+
+### Bezpieczeństwo danych
+
+Dbamy o bezpieczeństwo danych osobowych, stosując odpowiednie środki techniczne i organizacyjne. Wszystkie dane są szyfrowane w celu ochrony przed nieautoryzowanym dostępem.
+
+### Pliki cookie
+
+Nasza strona internetowa może używać plików cookie do analizy ruchu i personalizacji treści.
+
+## Kontakt
+
+Jeśli masz jakiekolwiek pytania dotyczące projektu, skontaktuj się z nami pod adresem e-mail: aleksander@rajca.info.
+
+---
+
+Jeśli masz dodatkowe pytania lub wymagania, chętnie pomogę!
