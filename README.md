@@ -69,7 +69,6 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 39. [ArmiaBog](#ArmiaBog)
 40. [whatsappChefUiD](#whatsappchefUiD)
 41. [Huawei](#Huawei)
-42. [potrzebaAi](#potrzebaAi)
 
 
  Skrypt.cpp
