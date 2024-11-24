@@ -73,6 +73,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 43. [iconcode](#iconcode)
 44. [podpisodciskiem](#podpisOdciskiem)
 45. [obowiazekrozwoju](#obowiazekrozwoju)
+46. [twince](#twince)
 
 
 
@@ -117,6 +118,84 @@ Jeśli ktoś próbuje wprowadzić zmiany, które mogą cofnąć postęp artystyc
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę artystyczności. Dzięki tej funkcji, możemy skupić się na tworzeniu i rozwijaniu naszych projektów bez obaw o szkodliwe działania.
+
+## twince bliźniacza autoryzacja
+
+
+# Projekt Alex.ai
+
+## Blizniacza Autoryzacja (Twince Authorisation)
+
+### Wprowadzenie
+
+Funkcja blizniaczej autoryzacji została zaprojektowana w celu zapewnienia dodatkowego poziomu bezpieczeństwa podczas uzyskiwania dostępu do ekranu i autoryzacji w systemie Alex.ai. Dzięki niej możliwe jest połączenie dwóch metod uwierzytelniania, aby zapewnić najwyższy poziom ochrony i integralności danych.
+
+### Użytkownicy i Role
+
+Blizniacza autoryzacja obejmuje następujących użytkowników i role:
+- **@J**
+- **@DJ**
+- **@H**
+- **@D**
+- **@CEO**
+- **@Q**
+- **@R**
+- **@GA**
+- **@IA**
+
+### Jak Działa
+
+Blizniacza autoryzacja polega na połączeniu dwóch różnych metod uwierzytelniania:
+1. **Pierwsza Metoda Uwierzytelniania**: Użytkownik wprowadza swoje dane logowania, które są weryfikowane przez system.
+2. **Druga Metoda Uwierzytelniania**: Po pomyślnej weryfikacji pierwszej metody, użytkownik musi autoryzować się za pomocą drugiej metody, np. skanu linii papilarnych, kodu SMS, lub tokena.
+
+### Kroki Autoryzacji
+
+1. **Logowanie**: Użytkownik loguje się do systemu Alex.ai za pomocą swojej nazwy użytkownika i hasła.
+2. **Weryfikacja Logowania**: System sprawdza poprawność danych logowania.
+3. **Druga Autoryzacja**: Po pomyślnej weryfikacji logowania, użytkownik musi przejść drugą metodę autoryzacji (np. skan linii papilarnych).
+4. **Uzyskanie Dostępu**: Po pomyślnej weryfikacji drugiej metody, użytkownik uzyskuje dostęp do ekranu i pełnej funkcjonalności systemu Alex.ai.
+
+### Przykład Użycia
+
+```python
+# Przykład procesu blizniaczej autoryzacji
+def twin_authentication(username, password, secondary_auth):
+    if verify_login(username, password):
+        if verify_secondary_auth(secondary_auth):
+            print("Autoryzacja pomyślna. Uzyskano dostęp do systemu.")
+        else:
+            print("Druga autoryzacja nieudana. Dostęp zablokowany.")
+    else:
+        print("Logowanie nieudane. Spróbuj ponownie.")
+
+# Funkcje weryfikacyjne (przykładowe)
+def verify_login(username, password):
+    # Logika weryfikacji logowania
+    return True
+
+def verify_secondary_auth(secondary_auth):
+    # Logika weryfikacji drugiej metody uwierzytelniania
+    return True
+
+# Przykładowe dane
+username = "user"
+password = "password"
+secondary_auth = "fingerprint"
+
+# Proces autoryzacji
+twin_authentication(username, password, secondary_auth)
+```
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja blizniaczej autoryzacji została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i ochrony danych.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
+
 
 ## podpisOdciskiem
 
