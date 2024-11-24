@@ -1,52 +1,9 @@
- . Oto kluczowe zadania, które może wykonywać Alex AI:
-
-1. **Zarządzanie Użytkownikami**:
-   - Tworzenie, edytowanie i usuwanie kont użytkowników.
-   - Przypisywanie uprawnień na podstawie hierarchii rang.
-   - Monitorowanie aktywności użytkowników.
+**Misja alex.ai na końcu pliku Readme**
 
 
-2. **Bezpieczeństwo Danych**:
-   - Implementacja zaawansowanych metod szyfrowania danych.
-   - Uwierzytelnianie użytkowników za pomocą różnych metod, takich jak Google Authenticator, IMEI, czy PESEL.
-   - Regularne audyty bezpieczeństwa.
 
-3. **Zarządzanie Zadaniami i Projektami**:
-   - Tworzenie i zarządzanie listami zadań.
-   - Przypisywanie zadań do odpowiednich użytkowników lub zespołów.
-   - Monitorowanie postępów w realizacji projektów.
 
-4. **Automatyzacja Procesów**:
-   - Automatyczne wykonywanie powtarzalnych zadań, takich jak organizowanie plików czy wysyłanie e-maili.
-   - Planowanie i uruchamianie skryptów w określonych momentach.
 
-5. **Analiza Danych i Raportowanie**:
-   - Przetwarzanie i analiza dużych zbiorów danych.
-   - Generowanie raportów i wizualizacji danych.
-   - Przewidywanie trendów na podstawie historycznych danych.
-
-6. **Personalizacja**:
-   - Dostosowywanie interfejsu użytkownika do indywidualnych preferencji.
-   - Konfiguracja ustawień powiadomień i wyglądu.
-   - Tworzenie spersonalizowanych kokpitów nawigacyjnych.
-
-7. **Integracje z Inymi Systemami**:
-   - Łączenie z aplikacjami i narzędziami firm trzecich, jak narzędzia do zarządzania projektami czy media społecznościowe.
-   - Wykorzystanie API do komunikacji z innymi systemami.
-
-8. **Wsparcie Techniczne**:
-   - Udostępnianie interaktywnych samouczków i materiałów szkoleniowych.
-   - Udzielanie pomocy technicznej w czasie rzeczywistym.
-
-9. **Monitorowanie i Audyt**:
-   - Monitorowanie stanu systemu i wydajności.
-   - Przeprowadzanie regularnych audytów w celu zapewnienia zgodności z politykami bezpieczeństwa.
-
-10. **Skalowalność**:
-    - Zarządzanie zasobami systemowymi w celu obsługi rosnącej liczby użytkowników i danych.
-    - Optymalizacja wydajności systemu.
-
-Te zadania sprawiają, że Alex AI jest wszechstronnym narzędziem, które może wspierać szeroki zakres działań w różnych organizacjach i projektach. 
 
 top 10 function https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/top%20ten%20features%20of%20alex.ai
 rate ai
@@ -370,3 +327,52 @@ Data: _______________________
 Podpis: _______________________
 
 ---
+
+
+** . Oto kluczowe zadania, które może wykonywać Alex AI:** 
+
+1. **Zarządzanie Użytkownikami**:
+   - Tworzenie, edytowanie i usuwanie kont użytkowników.
+   - Przypisywanie uprawnień na podstawie hierarchii rang.
+   - Monitorowanie aktywności użytkowników.
+
+
+2. **Bezpieczeństwo Danych**:
+   - Implementacja zaawansowanych metod szyfrowania danych.
+   - Uwierzytelnianie użytkowników za pomocą różnych metod, takich jak Google Authenticator, IMEI, czy PESEL.
+   - Regularne audyty bezpieczeństwa.
+
+3. **Zarządzanie Zadaniami i Projektami**:
+   - Tworzenie i zarządzanie listami zadań.
+   - Przypisywanie zadań do odpowiednich użytkowników lub zespołów.
+   - Monitorowanie postępów w realizacji projektów.
+
+4. **Automatyzacja Procesów**:
+   - Automatyczne wykonywanie powtarzalnych zadań, takich jak organizowanie plików czy wysyłanie e-maili.
+   - Planowanie i uruchamianie skryptów w określonych momentach.
+
+5. **Analiza Danych i Raportowanie**:
+   - Przetwarzanie i analiza dużych zbiorów danych.
+   - Generowanie raportów i wizualizacji danych.
+   - Przewidywanie trendów na podstawie historycznych danych.
+
+6. **Personalizacja**:
+   - Dostosowywanie interfejsu użytkownika do indywidualnych preferencji.
+   - Konfiguracja ustawień powiadomień i wyglądu.
+   - Tworzenie spersonalizowanych kokpitów nawigacyjnych.
+
+7. **Integracje z Inymi Systemami**:
+   - Łączenie z aplikacjami i narzędziami firm trzecich, jak narzędzia do zarządzania projektami czy media społecznościowe.
+   - Wykorzystanie API do komunikacji z innymi systemami.
+
+8. **Wsparcie Techniczne**:
+   - Udostępnianie interaktywnych samouczków i materiałów szkoleniowych.
+   - Udzielanie pomocy technicznej w czasie rzeczywistym.
+
+9. **Monitorowanie i Audyt**:
+   - Monitorowanie stanu systemu i wydajności.
+   - Przeprowadzanie regularnych audytów w celu zapewnienia zgodności z politykami bezpieczeństwa.
+
+10. **Skalowalność**:
+    - Zarządzanie zasobami systemowymi w celu obsługi rosnącej liczby użytkowników i danych.
+    - Optymalizacja wydajności systemu.
