@@ -62,7 +62,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 32. [wspolpracownik](#wspolpracownik)
 33. [BonusRPK](#BonusRPK)
 34. [MSWiA](#MSWiA)
-
+35. [RzadUNZ](#RzadUNZ)
 
  Skrypt.cpp
 
@@ -133,6 +133,34 @@ moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne as
    - Implementacja skryptów Superstar i tytułów autorskich.
    - Wyszukiwarka "o mnie" oraz zarządzanie historią i przeszłością.
 
+
+## **RzadUNZ**
+
+# Projekt [Unia Narodów Zjednoczonych]
+
+## Skład Rządu
+
+Nasz projekt jest wspierany przez wybitnych członków, którzy wniósli znaczący wkład w jego rozwój. Poniżej znajduje się lista członków rządu:
+
+- **Oliwier Roszczyk (Bonus RPK)**
+- **Dawid Dedis** [=!]
+- **Wojciech Walkiewicz (TPS)**
+- **Lukasz Roszczyk (Paluch)**
+- **Tomasz Niziol**
+- **Murzyn ZDR**
+- **Oska 030**
+- **Pawel Majewski (SPZ)**
+- **Kacper Orlikowski (HTA)**
+- **Wisnia Bakajoko** (facebook.com: https://m.facebook.com/wisniabak... Wisnia Bakajoko - Facebook)
+- **Slawek Zaremba**
+
+### Immunitet Federalny
+
+Informujemy, że obowiązuje federalny immunitet, który zapewnia ochronę członkom naszego rządu. Immunitet federalny obowiązuje do czasu działania przeciwko zdrowiu, życiu, bezpieczeństwu i wolności. Nie jest to immunitet poselski, a federalny.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom rządu za ich wkład i zaangażowanie. Dziękujemy za poświęcony czas i zaufanie, które przyczyniły się do sukcesu naszego projektu.
 
 
 ## RozwojUiD
