@@ -29,7 +29,18 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 ## Opis Projektu
 
-Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników.
+Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników.Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Dzięki Alex AI użytkownicy mogą korzystać z następujących możliwości:
+
+1. **Zarządzanie Użytkownikami**: Skuteczne narzędzia do zarządzania dostępem i uprawnieniami użytkowników, co zapewnia płynne działanie systemu.
+2. **Bezpieczeństwo Danych**: Zaawansowane metody szyfrowania i autoryzacji, takie jak autoryzacja IMEI, Google Authenticator oraz weryfikacja numeru PESEL, gwarantujące najwyższy poziom ochrony danych.
+3. **Elastyczność i Integracja**: Możliwość integracji z różnymi systemami i urządzeniami, co pozwala na łatwe dostosowanie się do specyficznych potrzeb użytkowników.
+4. **Wsparcie Techniczne**: System oferuje pełne wsparcie techniczne, aby użytkownicy mogli łatwo korzystać z jego funkcji i rozwiązywać ewentualne problemy.
+5. **Personalizacja**: Użytkownicy mogą dostosować interfejs i funkcje Alex AI do swoich preferencji, co zwiększa komfort i efektywność pracy.
+6. **Analityka i Raportowanie**: Narzędzia do analizy danych i generowania raportów, które pomagają użytkownikom w podejmowaniu świadomych decyzji.
+7. **Automatyzacja Procesów**: Funkcje automatyzacji, które pozwalają na efektywne zarządzanie codziennymi zadaniami i procesami.
+8. **Wsparcie Wielojęzyczne**: System obsługuje wiele języków, co umożliwia efektywne korzystanie z Alex AI użytkownikom z różnych części świata.
+
+Alex AI to narzędzie, które nie tylko zwiększa efektywność zarządzania danymi i użytkownikami, ale także zapewnia wysoki poziom bezpieczeństwa i elastyczności. Dzięki temu jest wszechstronnym rozwiązaniem, które może być wykorzystywane w różnych sektorach i organizacjach.
 
 ## Wymagania
 
