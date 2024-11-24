@@ -1,3 +1,5 @@
+
+
 from datetime import datetime, timedelta #day zero
 'miejsce na komentarz dla informatykow' nie umiem zrobic sam biblioteki pip plyer dlatego chce zeby ona byla instalowana zdalnie przy polaczeniu z serwerem alex.ai 
 pip install mysql-connector-python(Acess Zuck SQL)
