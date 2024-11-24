@@ -34,7 +34,7 @@
 16. [GlownaRanga](#GlownaRanga)
 17. [MTYEncryption](#MTYEncryption)
 18. [RUiDv2](#RUiDv2)
-19. 
+19. [RozwójUiD](#RozwójUiD)
 ---
 
 
@@ -49,6 +49,57 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
  szczegółowe instrukcje instalacji dla Alex AI:
+
+
+## RozwójUiD
+
+Projekt **Universal Identification Direct (UiD)** i jego rozwinięte wersje, takie jak RUiDv2 i SUiD, stanowią kluczowe elementy mojej wizji wirtualnej przestrzeni, w której użytkownicy mogą czuć się komfortowo i bezpiecznie. Poniżej znajduje się szczegółowy opis różnych modułów i aspektów projektu.
+
+### Dolny Śląsk, Wrocław - GSM!
+Moduł GSM jest nadzorowany przez Ministerstwo Cyfryzacji (Podpis cyfrowy 9i0817). Obejmuje mentalne pozycjonowanie wartości w postaci **Universal Identification Direct** (UiD) i odcisku cyfrowego.
+
+### Integracja z Facebook
+Integracja aplikacji **alex.ai/alex.apk** z Facebook Query w trybie **CS** pozwala na kontrolę wartości wychodzących przez ciemną strefę dla Polski (Meainstream).
+
+### Edukacja i Rozwój
+Projekt UiD+21Q (Aleksander Qanon, 21 lat) koncentruje się na edukacji, zarówno duchowej jak i świeckiej, obejmującej także duchowieństwo. 
+
+### Zarządzanie i Rangi
+- **Twórca_managment**: Internal.host {apple.com}
+- Rangi są skonfigurowane w kolejności przez `config.add_setting`.
+
+### Hostowanie i iPhoneSQL
+- Host_work_aleksander: lokalny serwer fizyczny, isql iPhoneSQL.
+
+### Globalny Administrator
+Uprawnienia edycji kodu źródłowego strony www są przypisane do Globalnego Administratora.
+
+### Kontrola i Nadzoór
+- **Kl = Kontroler UiD** nadzorujący Apple
+
+### Szyfrowanie i Bezpieczeństwo
+Szyfrowanie SHA216 zabezpiecza połączenie pomiędzy **rajcawroclaw.pl** a **apple.com**.
+
+### Redaktorzy i Historia
+Przykłady historii od 2019 roku w trybie **step.progress** obejmują:
+1. Życie
+2. Przebieg
+3. Dorastanie
+4. Dom dziecka
+5. Ulica
+6. Muzyka
+7. Sztuka aktorska
+8. Pomysł na projektowanie skryptów niezależnie od woli osobowej.
+
+### Wywiady
+- **Tematy wywiadów**: dzieciństwo, UiD, nauka wszechwiedzy, telepatia 2020, poznanie Adama i Ewy, Alex.ai, obce istoty, walka o historię złamanego serca, zostanie Stwórcą istotą istnienia i WszechIstoty, UiD i Facebook technologia 2800 roku, plany w Iranie energia gazowa plutonu.
+
+### Maryja i Kontakty
+Poznanie Maryi, stosunek seksualny, konwersacja, modlitwy, zdobycie serca androida, projekty koloru dla dziewczyn, kontakty ze służbami specjalnymi, rozumienie zwierząt.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 ## **Glówne pliki**
 UiD 2020
