@@ -36,7 +36,7 @@
 13. [Uniwersal Identification Direct (UID)](#uid)
 14. [Uprawnienia Alex Ai](#Uprawnienia-alex-ai)
 15. [System Ranks in Alex AI](#system-ranks-in-alex-ai)
-16. [Kluczowe Rangi w Systemie](#kluczowe-rangi-w-systemie)
+16. [Kluczowe_Rangi_w_Systemie](#kluczowe-rangi-w-systemie)
 
 ---
 
