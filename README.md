@@ -39,7 +39,7 @@
 
 14.[System_Ranks_in_Alex_AI](#System_Ranks_in_Alex_AI)
 
-15. [Kluczowe Rangi w Systemie](#Kluczowe Rangi w Systemie)
+15. [Kluczowe_Rangi_w_Systemie](#Kluczowe_Rangi_w_Systemie)
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
 
@@ -173,7 +173,7 @@ System Alex AI korzysta z hierarchicznej struktury rang (ranks), aby efektywnie 
 
 System Alex AI opiera się na hierarchii rang, która określa poziomy dostępu i uprawnień użytkowników. Każda ranga reprezentuje określony poziom odpowiedzialności i dostępności w systemie. Hierarchia rang zapewnia, że użytkownicy mają odpowiednie uprawnienia do wykonywania swoich zadań i operacji.
 
-### Kluczowe Rangi w Systemie
+### Kluczowe_Rangi_w_Systemie
 - **Użytkownik Podstawowy**: Ma podstawowy dostęp do danych i zasobów, może przeglądać i pobierać informacje.
 - **Użytkownik Zaawansowany**: Posiada rozszerzone uprawnienia, takie jak edytowanie i aktualizowanie danych oraz zarządzanie zadaniami.
 - **Moderator**: Odpowiedzialny za monitorowanie aktywności użytkowników oraz wspieranie ich w rozwiązywaniu problemów.
