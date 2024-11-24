@@ -37,7 +37,7 @@
 19. [RozwojUiD](#RozwojUiD)
 20. [Wersja](#Wersja)
 21. [MicrosoftOdpowiedzialnosc](#MicrosoftOdpowiedzialnosc)
-
+22. [skryptPython](#skryptpython)
 
 
 ---
@@ -150,6 +150,24 @@ Monika Lewczuk dołączyła do grona użytkowników VIP UiD ze względu na jej w
 ### Kontakt
 Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: aleksander@rajca.info
 
+## skryptPython
+---
+
+## Skrypt.cpp
+
+Plik `skrypt.cpp` jest autorskim dziełem Aleksandra i zawiera wyłącznie skrypty poglądowe. Warto zaznaczyć, że skrypty te nie zawierają dokładnych danych docelowych i służą jedynie jako przykłady oraz szablony do dalszego rozwijania. Mają one na celu dostarczenie podstawowych struktur i logiki, które mogą być dostosowane do konkretnych potrzeb użytkowników.
+
+### Ważne Informacje
+- **Autor**: Aleksander
+- **Zawartość**: Skrypty poglądowe
+- **Dane docelowe**: Brak dokładnych danych docelowych
+- **Przeznaczenie**: Przykłady i szablony do dalszego rozwijania
+
+Plik ten jest doskonałym punktem wyjścia dla deweloperów, którzy chcą zrozumieć podstawowe koncepcje i struktury skryptów, aby móc je dostosować do swoich indywidualnych potrzeb.
+
+---
+
+Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 
 ## MTYEncryption
