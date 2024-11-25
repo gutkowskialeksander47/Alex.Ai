@@ -81,7 +81,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 51. [KosciolSUiD](#KosciolSUiD)
 52. [meainstream](#meainstream)
 53. [480](#480)
-
+54. [NaukaUiD](#NaukaUiD)
 
 
 
