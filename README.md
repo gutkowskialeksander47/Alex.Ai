@@ -163,6 +163,50 @@ Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu d
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z funkcji Meainstrem. Dzięki Wam możemy nieustannie rozwijać i doskonalić nasz system, aby lepiej odpowiadać na Wasze potrzeby i oczekiwania.
 
+## NaukaUiD
+
+fragment README, który określa, że Nauka UiD to wyświetlanie Twojego ekranu.
+
+# Projekt UiD
+
+## Nauka UiD - Publiczne Wyświetlanie Ekranu
+
+### Wprowadzenie
+
+Nauka UiD to proces, w którym wyświetlanie ekranu użytkownika odbywa się publicznie. Jest to istotna część projektu, mająca na celu umożliwienie nauki i udostępnianie wiedzy w otwarty i transparentny sposób.
+
+### Cel Nauki UiD
+
+Celem Nauki UiD jest:
+- **Edukacja i Wymiana Wiedzy**: Umożliwienie użytkownikom nauki poprzez obserwowanie ekranu w czasie rzeczywistym.
+- **Przejrzystość**: Zapewnienie pełnej przejrzystości działań i procesów.
+- **Współpraca**: Ułatwienie współpracy i interakcji między użytkownikami.
+
+### Jak To Działa
+
+1. **Wyświetlanie Ekranu**: Ekran użytkownika jest wyświetlany publicznie, aby inni mogli obserwować i uczyć się na jego podstawie.
+2. **Interakcja w Czasie Rzeczywistym**: Użytkownicy mogą zadawać pytania i uczestniczyć w interakcji w czasie rzeczywistym.
+3. **Udostępnianie Wiedzy**: Użytkownik dzieli się swoją wiedzą i doświadczeniem, co umożliwia innym naukę i rozwój.
+
+### Korzyści
+
+- **Dostęp do Wiedzy**: Użytkownicy mają dostęp do cennych informacji i wiedzy poprzez obserwację ekranu.
+- **Praktyczne Zastosowanie**: Nauka UiD umożliwia praktyczne zastosowanie zdobytej wiedzy w rzeczywistych scenariuszach.
+- **Wspieranie Społeczności**: Wspólne uczenie się i dzielenie się wiedzą wzmacnia społeczność użytkowników.
+
+### Przykład Użycia
+
+#### Sesja Nauki UiD
+- Administrator loguje się do systemu UiD.
+- Uruchamia funkcję publicznego wyświetlania ekranu. **string_stream**
+- Inni użytkownicy dołączają do sesji i obserwują ekran w czasie rzeczywistym.
+- Pytania i interakcje odbywają się poprzez czat lub inne narzędzia komunikacyjne.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za udział w procesie Nauki UiD. Dzięki Waszemu zaangażowaniu możemy wspólnie rozwijać i doskonalić nasze umiejętności.
+
+
 ## **480**
 
  instancja '480', działu Alex.ai w firmie Rockstar, odpowiedzialnego za pisanie Twojej gry komputerowej:
