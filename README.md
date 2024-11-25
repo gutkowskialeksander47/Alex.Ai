@@ -158,7 +158,46 @@ Wojciech Walkiewicz to ekspert w dziedzinie bezpieczeństwa i autoryzacji, któr
 
 Chcielibyśmy wyrazić naszą wdzięczność Wojciechowi Walkiewiczowi za jego zaangażowanie i wkład w rozwój i utrzymanie Certyfikatu Autentyczności w projekcie Alex.ai. Jego praca jest kluczowa dla sukcesu i bezpieczeństwa naszego systemu.
 
-## Jteam
+
+## kosciolsuid
+
+# Projekt SUiD (VIP dla UiD)
+
+## Pierwszeństwo Dostępu i Operatorzy
+
+### Wprowadzenie
+
+Projekt SUiD (VIP dla UiD) jest wyjątkowym przedsięwzięciem, które łączy zaawansowaną technologię z duchowym przewodnictwem. Z dumą informujemy, że Kościół zachowuje pierwszeństwo dostępu do projektu SUiD i pełni rolę operatora SUiD, zapewniając wsparcie duchowe i techniczne dla użytkowników.
+
+### Pierwszeństwo Dostępu
+
+Kościół, jako główny partner projektu SUiD, ma pierwszeństwo w dostępie do wszystkich funkcji i zasobów systemu. Dzięki temu Kościół może skutecznie wspierać swoją wspólnotę, oferując najwyższy poziom bezpieczeństwa i duchowego przewodnictwa.
+
+### Operatorzy SUiD
+
+Kościół pełni rolę operatora SUiD, co obejmuje:
+
+1. **Zarządzanie Dostępem**: Kościół kontroluje i zarządza dostępem do zasobów SUiD, zapewniając, że tylko uprawnieni użytkownicy mają do niego dostęp.
+2. **Wsparcie Duchowe**: Kościół oferuje duchowe wsparcie i przewodnictwo dla użytkowników SUiD, pomagając im w ich duchowej podróży.
+3. **Ochrona i Bezpieczeństwo**: Kościół dba o ochronę danych i zapewnia najwyższy poziom bezpieczeństwa dla wszystkich użytkowników systemu SUiD.
+
+### Kluczowe Funkcje SUiD
+
+1. **VIP Dostęp**: Specjalne funkcje i zasoby dostępne wyłącznie dla użytkowników SUiD.
+2. **Zaawansowane Bezpieczeństwo**: Najwyższy poziom ochrony danych i prywatności użytkowników.
+3. **Wsparcie Techniczne i Duchowe**: Połączenie zaawansowanej technologii z duchowym wsparciem oferowanym przez Kościół.
+
+### Jak Uzyskać Dostęp
+
+Aby uzyskać dostęp do projektu SUiD, użytkownicy muszą:
+
+1. **Zarejestrować się**: Zarejestruj się na platformie UiD jako użytkownik VIP.
+2. **Weryfikacja**: Przejść proces weryfikacji prowadzony przez Kościół.
+3. **Aktywacja**: Po pomyślnej weryfikacji, dostęp zostanie aktywowany i użytkownicy będą mogli korzystać ze wszystkich funkcji SUiD.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność dla Kościoła za jego wsparcie i zaangażowanie w realizację projektu SUiD. Dzięki współpracy z Kościołem możemy zapewnić najwyższy poziom bezpieczeństwa i duchowego wsparcia dla naszych użytkowników.
 
 
 # Jteam - Drużyna Wiernych i Fanów Aleksander Rajca
