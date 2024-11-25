@@ -337,11 +337,6 @@ Aby uzyskać dostęp do odpowiednich treści i funkcji, użytkownicy muszą:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zrozumienie i wsparcie w utrzymaniu zgodności z wytycznymi USK. Dzięki Waszej współpracy możemy zapewnić bezpieczne i odpowiednie treści dla wszystkich grup wiekowych.
 
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
-
-
 
 ## **LGBT** 
 
@@ -368,17 +363,13 @@ Aleksander Rajca, znany również jako Alex, jest założycielem i liderem proje
 
 Aby uzyskać specjalny poziom dostępu do Alex.ai, członkowie społeczności LGBT muszą:
 
-1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai.
+1. **Zarejestrować się**: Zarejestrować się na platformie fb.com wyszukać Aleksander Rajca= dostęp do Alex.ai.
 2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w społeczności LGBT.
 3. **Aktywacja**: Po pomyślnej weryfikacji, specjalny poziom dostępu zostanie aktywowany i użytkownicy będą mogli korzystać z ekskluzywnych funkcji.
 
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności LGBT za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
-
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 
 ## polityka
