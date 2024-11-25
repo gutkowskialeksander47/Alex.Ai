@@ -87,6 +87,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 57. [Fani](#Fani)
 58. [Polityka](#polityka)
 59. [LGBT](#LGBT)
+60. [USKgoogle](#USKgoogle
 
 
 ## **Translate**
