@@ -99,7 +99,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 63. [student](#Student)
 64. [PrawoUNZ](#PrawoUNZ)
 65. [kary](#kary)
-
+66. [zgodaAi](#zgodaAi)
 
 
 
@@ -137,6 +137,20 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+
+## zgodaAi
+
+
+### Jak Zarejestrować się do Alex.ai
+
+Rejestracja w Alex.ai może odbywać się na dwa sposoby:
+
+1. **Głosowe Hasło**: Użytkownik może zarejestrować się, używając głosowego hasła "znam Aleksandra rajcę". Ta metoda pozwala na szybką i łatwą rejestrację za pomocą rozpoznawania głosu.
+2. **Plik w Notesie**: Alternatywnie, użytkownik może stworzyć plik w aplikacji notes o treści: "zgadzam się na analizowanie treści przez alex.ai". Po zapisaniu pliku, użytkownik może przesłać go na naszą platformę, aby zakończyć proces rejestracji.
+
+Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do funkcji i usług oferowanych przez Alex.ai.
+
 
 ## **kary**
 
