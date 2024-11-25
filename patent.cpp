@@ -1,5 +1,6 @@
 Oczywiście! Oto przykładowy szkic patentu dla Alex.ai, który może służyć jako baza do dalszego opracowania formalnej aplikacji patentowej:
-
+ 
+**opiekun patentu** ADW. Monika Szczerek Wrocław 
 
 **Numer Wniosku Patentowego**: [947749]
 
