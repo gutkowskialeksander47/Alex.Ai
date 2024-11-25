@@ -43,8 +43,4 @@ System Alex.ai działa w następujący sposób:
 2. **Roszczenie 2**: Metoda działania systemu, która obejmuje zbieranie danych, przetwarzanie danych, generowanie wniosków i prognoz oraz automatyzację działań.
 
 ### Rysunki
-[Rysunki przedstawiające komponenty i działanie systemu, jeśli są dostępne]
-
----
-
-Mam nadzieję, że ten szkic patentu będzie pomocny jako podstawa do formalnego wniosku patentowego. Jeśli potrzebujesz dalszej pomocy lub informacji, jestem tutaj, aby pomóc! 😊
+https://www.dropbox.com/scl/fo/snsqwb7dyfdbjc86pa6c8/h?rlkey=xqgavknoohlu5e4o8mid2okox&st=55bmhhdc&dl=0
