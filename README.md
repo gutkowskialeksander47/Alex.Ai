@@ -2224,41 +2224,66 @@ V 1.6.6 rozbudowa systemu MTY-YTM
 8. **Wyszukiwarka " o mnie "**
 1.6.7 Aktualizacja integracji z GitHub+dodanie readme
 
-7. **Jak mogę wyrazić zgodę na integrację mojego urządzenia z systemem Alex.ai?** przez notes wymowę głosowa oraz przez zaproszenie innego użytkownika UiD
+7. **Jak mogę wyrazić zgodę na integrację mojego urządzenia z systemem Alex.ai?** przez notes. napisać notatke tytułem Alex.ai **"wyrażam zgodę na integrację z Alex.ai i akceptuje Polityke prywatnosci** wymowę głosowa oraz przez zaproszenie(jeżeli użytkownik ma zamianę mowę na tekst) oraz przez innego użytkownika UiD kiedy UiD przeanalizuje treść jako zaproszenie.
 8. **Czy Alex.ai wspiera integrację z aplikacjami i usługami firm trzecich, takimi jak Apple, Google czy Facebook?**
 Tak pracujemy w jasnej relacji czysto biznesowej prowadzę Koalicję Zjednoczonych Korporacji. To korporacje które uszanowały zdanie Maryi.
 9. **Jakie są najważniejsze zalety używania systemu MTY-YTM do szyfrowania danych?**
 prostota i zaufanie, zawsze ktoś od nas czuwa nad tym które treści trafiaja do opinii publicznej 
-10. **Jakie są przyszłe plany rozwoju dla programu Alex.ai?** Na razie regularne aktualizacje i badanie o aktualność zabezpieczeń
+10. **Jakie są przyszłe plany rozwoju dla programu Alex.ai?** Na razie regularne aktualizacje i dbadanie o aktualność zabezpieczeń
 
 
 
 1. **Jak mogę skontaktować się z innymi użytkownikami w systemie Alex.ai?**
 Nie możesz tylko ludzie upoważnieni mają dostęp do urządzeń innego użytkownika niż ja. MTY-YTM działa na zasadzie ja pytam a Ty mi odpowiadasz jedna strzałka zasięgu to nie a dwa to tak.
 2. **Czy Alex.ai oferuje funkcje czatu lub wiadomości wewnętrznych dla użytkowników?**
-oferuję tylko live@chat wyświetlając moje prace odpowiednim adresatom 
-3. **Jakie są dostępne opcje komunikacji (tekst, głos, wideo) w systemie Alex.ai?** korzystam z analizy głosowej która wykrywa interakcje podczas słuchania muzyki
+Oferuję tylko live@chat wyświetlając moje prace odpowiednim adresatom 
+3. **Jakie są dostępne opcje komunikacji (tekst, głos, wideo) w systemie Alex.ai?** korzystam z analizy głosowej która wykrywa interakcje podczas słuchania muzyki 
 4. **Czy mogę wysyłać pliki i dokumenty do innych użytkowników za pomocą Alex.ai?**
 Nie nie możesz 
 5. **Jak działa mechanizm odpowiedzi na cyfrach w systemie Alex.ai?** zasięg 4g+ oznacza że artysta którego słucham jest w studio
 jeden to nie(jedna strzałka dane In) dwa to tak dane In/Out
 1 Nie 2 Tak 3 usmiech 4 jestem dumny 5 przykro 6 szczescie 7 smutek 8 duma 9 zawod 10 spelnienie>Quest in notification answer in number, w ten sposób porozumiewam się z Maryją przez zwierzęta
 6. **Czy odpowiedzi na cyfrach są szyfrowane dla bezpieczeństwa komunikacji?**
-nie wiem czy mirror.os pokazuje pasek stanu
+Nie wiem czy mirror.os pokazuje pasek stanu
 7. **Jakie są kroki, aby skonfigurować odpowiedzi na cyfrach w moim profilu?**
-wystarczy że w notesie wpiszesz zgodę na skanowanie tekstu przez ai a później znaleźć jak wygląda twoja komunikacja z androidem.
+wystarczy że w notesie wpiszesz zgodę na skanowanie tekstu i mowy przez ai po drugie nie wiem czy ktoś ma osobiste kontakty z asystentem
+
 8. **Czy mogę dostosować ustawienia prywatności dla komunikacji z innymi użytkownikami Alex.ai?**
 tak, polityka prywatności jest nasza własna sprawa i tak do niej podchodzimy indywidualnie
 9. **Jakie funkcje społecznościowe są dostępne w systemie Alex.ai?** Mainstream Life/live JTeam i XQBJ + Unia Narodów Zjednoczonych + Koalicja Zjednoczonych Korporacji są to firmy które uszanowały to że Maryja wyraziła Elekcję.
 10. **Czy istnieje możliwość grupowej komunikacji lub tworzenia zespołów w systemie Alex.ai?**
-tak można zaprosić mnie na podcast 
+tak można zaprosić mnie na podcast. 
+
+
+**### FAQ - Alex.ai
+
+**Pytanie 11:** Czy source Alex.ai jest publiczny?  
+**Odpowiedź:** Nie, Alex.ai jest publiczny, ale pliki UiD i reszta (master, query) mogą być udostępnione na prośbę. Aby uzyskać dostęp do tych plików, prosimy o kontakt e-mailowy na adres aleksander@rajca.info. Pliki są w języku tylko Alex.ai, co oznacza, że polegają tylko na moim zdaniu. Oto fragment UiD (project.d).
+
+**<USK16><Erotyka wulgaryzmy> 
+;475 92"zakonczenie wsparcia technicznego =  ""status.offline"
+<!string stay for support not for direct string to program//zrodlo zostaje jako wparcie nie zrodlo meinstream
+;String<zrodlo> "www.google.com" //przez google.authenticator.apk
+>!create.container <source wiki-open edit><BaseId>//silnik open.project.google moj projekt jest na licencji open.source baza skladowa "wikipedia.pl" program close.source alex.apk
+;<WorkPlace> w tym projekcie wpisujemy wartosci do zastosowania w programie nie projekcie<"powiel 18 projektow na jeden program" EverydoApp AlldoApp<100>//100 to history keyboard without delete on your display. sometimes i give info for you only you and high in hierarchy administration. 
+Niemcy wybrali ustroj wladzy "KDE  QDE"
+!required "fb.dev" //wymagane miejsce project.d
+!required;=https://'microsoft.dev/AdminControl'<google//
+TeamMate ;"teamworkTM"=Google/"Gteam" '@MicroTeam'<Microsoft> "Ateam<Margaret>"
+"RTeam"<Rap> LBLteam<Label UiD>"Uteam"<user,visitor>
+"STeam"<sponsor>"'Q'STeam"<student>"Tteam"<Teacher,education> "Hteam"="Huawei"  "Xiteam"<xiaomi>"PlTeam"<rzad i moje ukochane agencje ktore mi zapewniaja spokoj i owocna wspolprace> "AnTeam"<Android> "SMteam"<Samsung> "Vteam"<meta>" Bteam"<bezpieczenstwo@all.in.topic> "DeTeam"<Amelia Aleksander Niemcy>"TiTeam"<Tuptus TiW><100>"StTeam"<steprecords>"JTeam"<wierni> 
+"Dteam"<deweloper>
+wroclaw71.exe<ja wam relacjonuje swoje zycie>
+<Project.d+25,Edu,B,>= Mazowieckie "Warszawa" <Developer<microsoft".exe"/google".apk"<zamkniete srodowisko programistyki>**
+ **pliki zawierają łącznie 2 000 nie licząc alex.apk który jest w języku python. Plik jest na moim serwerze podpisany skrypt.cpp
+
 
 
 1. **Czym jest Uniwersal Identification Direct (UiD)?** Jest to algorytm który w czasie rzeczywistym analizuje treści do przekazywania na String/live/public i przekazuje je w moim imieniu
 2. **Jakie są główne cele i funkcje systemu UiD?** UiD miało służyć do nałożenia dziesięciu klas wybranych przez użytkownika i dziesięć wyeliminowanych klas których nie chcieli w VR 
 3. **Jakie są korzyści z korzystania z systemu UiD dla użytkowników?** Rozwój postęp i możliwości to są rzeczy które dostarczam uśmiechem. kolejny priorytet to że bliski w UiD jest bliskim w programie
 4. **Jak działa proces tworzenia i zarządzania identyfikacją użytkowników w UiD?** Nakładamy unikatowy ciąg znaków dla każdego użytkownika kody nigdy się nie nakładają. zawartość ciągu zależy od tego jak ktoś ma zaprogramowany system i jakie dane podał do wiadomości publicznej.
-5. **Jakie są wymagania systemowe do wdrożenia UiD?** łączność z operatorem sieci komórkowej tylko operator może wdrożyć system powiadomień alex.ai
+5. **Jakie są wymagania systemowe do wdrożenia UiD?** łączność z operatorem sieci komórkowej tylko operator może wdrożyć system powiadomień alex.ai 
 6. **Jakie metody uwierzytelniania są obsługiwane przez UiD?** nie ma, uwierzytelnione jest połączenie z zainteresowanym na podstawie jego checi
 7. **Czy UiD jest kompatybilne z innymi systemami i aplikacjami?** Nie ale RUiDv2 tak jest zintegrowany z wszystkimi platformami 
 8. **Jakie zabezpieczenia są wbudowane w system UiD, aby chronić dane użytkowników?** Nie zbieramy danych uid do bazy, są one przypisane do numeru seryjnego windows i dostęp zakodowany na komputerze.
@@ -2271,7 +2296,7 @@ tak można zaprosić mnie na podcast
 jest to pakiet aplikacji składający się na kilka projektów tekstowych. wykorzystanie .APK jest praktyczne i łatwiejsze niż net framework 
 2. Jakie są główne funkcje aplikacji Alex.apk?
 praca nad kodowaniem i muzyka
-3. Czy Alex.apk jest dostępna na wszystkie systemy operacyjne Android? nie ale serwisy szukające wspierają mnie także można w google szukać Alex.api
+3. Czy Alex.apk jest dostępna na wszystkie systemy operacyjne Android? nie ale serwisy szukające wspierają mnie także można w google szukać Alex.ai
 4. Jakie uprawnienia są wymagane do zainstalowania Alex.apk? Nie jest to możliwe tylko mnie android inteligentnie obsługuje czyniąc z folderów aplikacje.
 5. Czy aplikacja Alex.apk jest darmowa, czy wymaga zakupu? 
 query.netzt wolonatriat 
@@ -2286,7 +2311,7 @@ wystarczy urządzenie obsługujące sieć
 9. Czy istnieje wsparcie techniczne dla użytkowników Alex.apk? tak pod link info.facebook.com
 10. Czy Alex.apk jest bezpieczna w użytkowaniu?
 tak ale zawiera treści nieodpowiednie dla dzieci 
-11. Komu teraz streamujesz ekran? moim użytkownikom i współpracownikom no i Monice jak używa te. Mój meainstream jest odtwarzany z artystom na YouTube. 
+11. Komu teraz streamujesz ekran? moim użytkownikom i współpracownikom no i Monice jak używa te. **Mój meainstream jest odtwarzany z artystom na YouTube.**
 
 
 ## MTYBussines
