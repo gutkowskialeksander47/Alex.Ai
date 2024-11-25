@@ -202,9 +202,6 @@ W ramach naszego zaangażowania w edukację i rozwój umiejętności, z radości
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim studentom za ich wkład i zaangażowanie. Wasza praca i wsparcie są kluczowe dla sukcesu naszych projektów, a Wasz status 'Nauczyciel' jest dowodem na Wasze zaangażowanie i umiejętności.
 
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
 
 ## **inwalida**
 
