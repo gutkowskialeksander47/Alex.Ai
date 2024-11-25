@@ -73,17 +73,11 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 43. [iconcode](#iconcode)
 44. [podpisodciskiem](#podpisOdciskiem)
 45. [obowiazekrozwoju](#obowiazekrozwoju)
-
 46. [twince](#twince)
-
 47.[translate](#translate)
-
 48.[JTeam](#Jteam)
-
 49. [XQBJ](#XQBJ)
-
 50. [Prawaautorskie](#PrawaAutorskie)
-
 51. [KosciolSUiD](#KosciolSUiD)
 
 
