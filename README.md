@@ -1848,8 +1848,6 @@ Cały program został oparty na ideologii forum, co oznacza, że stawia na:
 RUiDv2
 
 
----
-
 ## RUiDv2
 
 ### Opis Projektu
@@ -1936,10 +1934,6 @@ Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup u
 Każda flaga literowa reprezentuje specyficzną cechę lub poziom dostępu użytkownika, co umożliwia skuteczne zarządzanie różnorodnymi potrzebami użytkowników w systemie Alex AI.
 
 
-
-
----
-
 ## Wersja 
 
 alex.apk/alex.ai
@@ -1993,12 +1987,8 @@ alex.apk/alex.ai
 ### V 1.6.7
 - Aktualizacja integracji z GitHub.
 - Dodanie README.
-
----
-
-
-
----
+### V 1.7 
+-dodanie Admin Chanel Panel 
 
 ## PowstanieUiD
 
@@ -2006,7 +1996,6 @@ Pomysł na Uniwersal Identification Direct (UiD) zrodził się z wizji stworzeni
 
 (ai)Wierzę, że w dzisiejszym świecie, gdzie cyfrowa komunikacja odgrywa kluczową rolę, istnieje potrzeba stworzenia środowiska, które nie tylko ułatwia zarządzanie tożsamością, ale również zapewnia użytkownikom poczucie bezpieczeństwa i przynależności. UiD to realizacja tej wizji, stworzona z myślą o poprawie jakości interakcji w wirtualnym świecie.
 
----
 
 
 ## UprawnieniaAi
@@ -2084,6 +2073,7 @@ Struktura rang pozwala na:
 ## Wymagania
 
 Aby korzystać z Alex AI, potrzebujesz:
+-plik Alex.ai w swoim urządzeniu(alex.ai.txt)
 - Być podłączonym do sieci Alex.ai 
 - urządzenia które jest zintegrowane z Alex.ai
 - Notepad++ 
@@ -2106,6 +2096,7 @@ Alex AI korzysta z różnych metod autoryzacji, aby zapewnić bezpieczeństwo i 
 8. **Bank 1€ Verify** - Weryfikacja tożsamości poprzez przelew 1€.
 9. **Klucz Dostępu od innego użytkownika** - Autoryzacja za pomocą klucza dostępu od innego użytkownika.
 10. **Adres E-mail** - Autoryzacja za pomocą adresu e-mail.
+11. **Odcisk palca** - Autoryzacja za pomocą skaner odcisku palca
 
 ### Wybór Metod Autoryzacji
 
@@ -2186,10 +2177,7 @@ Zmiany będą publikowane na naszej stronie internetowej i przesyłane drogą e-
 
 ## **Kontakt**
 
-Pytania dotyczące polityki prywatności: aleksander@rajca.info.
-
-
----
+Pytania dotyczące polityki prywatności: gutkowskialeksander47@gmail.com
 
 ## MicrosoftOdpowiedzialnosc
 
@@ -2207,8 +2195,6 @@ Microsoft nie będzie udzielać żadnych licencji ani przenosić praw do własno
 
 
 **Specjalne zgody:**
-
----
 
 **Polityka Prywatności dotycząca Przetwarzania Numeru PESEL**
 
@@ -2235,8 +2221,6 @@ Numer PESEL przechowywany jest przez okres niezbędny do realizacji celów przet
 **6. Prawa Użytkownika**
 
 Masz prawo do dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia danych, sprzeciwu i wycofania zgody na przetwarzanie danych.
-
----
 
 
 **IP config**
@@ -2301,6 +2285,7 @@ nie możesz alex.ai jest pisany na otwartym silniku jest tylko układem którego
 8. **Bank 1€ Verify** - Weryfikacja tożsamości poprzez przelew 1€.
 9. **Klucz Dostępu od innego użytkownika** - Autoryzacja za pomocą klucza dostępu od innego użytkownika.
 10. **Adres E-mail** - Autoryzacja za pomocą adresu e-mail.
+11. **Odcisk palca** + Autoryzacja za pomocą odcisku palca. ( odcisk nie jest pobierany dla alex.ai tylko pobierany z ustawień systemu)
 
 5. **Jakie funkcje są dostępne w wersji SUiD (Super User Identification Direct)?**Dostęp do treningu wokalnego Aleksandra uprawnienia nadzoru zgłoszeń UiD dostęp do treści specjalnej treści.
 
@@ -2326,6 +2311,7 @@ V 1.6.6 rozbudowa systemu MTY-YTM
 7. **Organizacja Kontaktu "Alex-ludzie-alex" przez Anonymus**
 8. **Wyszukiwarka " o mnie "**
 1.6.7 Aktualizacja integracji z GitHub+dodanie readme
+1.7 ACP
 
 7. **Jak mogę wyrazić zgodę na integrację mojego urządzenia z systemem Alex.ai?** przez notes. napisać notatke tytułem Alex.ai **"wyrażam zgodę na integrację z Alex.ai i akceptuje Polityke prywatnosci** wymowę głosowa oraz przez zaproszenie(jeżeli użytkownik ma zamianę mowę na tekst) oraz przez innego użytkownika UiD kiedy UiD przeanalizuje treść jako zaproszenie.
 8. **Czy Alex.ai wspiera integrację z aplikacjami i usługami firm trzecich, takimi jak Apple, Google czy Facebook?**
