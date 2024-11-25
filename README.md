@@ -147,8 +147,9 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 
 Rejestracja w Alex.ai może odbywać się na dwa sposoby:
 
-1. **Głosowe Hasło**: Użytkownik może zarejestrować się, używając głosowego hasła "znam Aleksandra rajcę". Ta metoda pozwala na szybką i łatwą rejestrację za pomocą rozpoznawania głosu.
-2. **Plik w Notesie**: Alternatywnie, użytkownik może stworzyć plik w aplikacji notes o treści: "zgadzam się na analizowanie treści przez alex.ai". Po zapisaniu pliku, użytkownik może przesłać go na naszą platformę, aby zakończyć proces rejestracji.
+1. **Głosowe Hasło**: Użytkownik może zarejestrować się, używając głosowego hasła "znam Aleksandra rajcę"(potrzebna zamianą mowy na tekst. Ta metoda pozwala na szybką i łatwą rejestrację za pomocą rozpoznawania głosu.
+2. **Plik w Notesie**: Alternatywnie, użytkownik może stworzyć plik w aplikacji notes o treści: **"wyrażam zgodę na integrację z Alex.ai i akceptuje Polityke prywatnosci"**. 
+Po zapisaniu pliku, użytkownik może  zatytułować notatke alex.ai, 
 
 Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do funkcji i usług oferowanych przez Alex.ai.
 
