@@ -86,6 +86,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 56. [AlexRU](#AlexRU)
 57. [Fani](#Fani)
 58. [Polityka](#polityka)
+59. [LGBT](#LGBT)
 
 
 ## **Translate**
