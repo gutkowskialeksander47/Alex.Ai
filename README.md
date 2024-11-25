@@ -301,10 +301,6 @@ Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Meainstream. W ra
 
 Chcielibyśmy wyrazić naszą wdzięczność Wiśnia Bakajoko za jego zaangażowanie i wkład w rozwój oraz nadzór nad systemem mikrofonu Meainstream. Jego praca jest kluczowa dla zapewnienia najwyższej jakości usług dla naszych użytkowników.
 
----
-
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
-
 
 ## **USKgoogle**
 
