@@ -122,6 +122,42 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+## PrawaautorskieTPS
+
+
+
+# Projekt Alex.ai
+
+## Certyfikat Autentyczności (CA)
+
+### Wprowadzenie
+
+Certyfikat Autentyczności (CA) w projekcie Alex.ai jest kluczowym elementem zapewniającym wiarygodność i integralność systemu. Odpowiedzialny za CA jest Wojciech Walkiewicz, który nadzoruje i koordynuje wszystkie działania związane z autoryzacją i weryfikacją danych.
+
+### Kim Jest Wojciech Walkiewicz
+
+Wojciech Walkiewicz to ekspert w dziedzinie bezpieczeństwa i autoryzacji, który pełni rolę głównego koordynatora Certyfikatu Autentyczności w projekcie Alex.ai. Jego główne zadania obejmują:
+
+- **Nadzór nad Procesami Autoryzacji**: Wojciech zapewnia, że wszystkie procesy związane z autoryzacją danych są zgodne z najwyższymi standardami bezpieczeństwa.
+- **Weryfikacja Danych**: Odpowiada za dokładną weryfikację danych w systemie, aby zapewnić ich autentyczność i integralność.
+- **Koordynacja Zespołu**: Zarządza zespołem odpowiedzialnym za utrzymanie i rozwój systemu certyfikacji autentyczności.
+
+### Kluczowe Funkcje CA
+
+1. **Bezpieczeństwo i Integralność**: Certyfikat Autentyczności gwarantuje, że wszystkie dane w systemie są autoryzowane i bezpieczne.
+2. **Transparentność**: Zapewnia przejrzystość procesów autoryzacji, co zwiększa zaufanie użytkowników do systemu.
+3. **Ochrona Przed Fałszerstwem**: Chroni przed nieautoryzowanym dostępem i fałszerstwami danych, co jest kluczowe dla utrzymania wiarygodności systemu.
+
+### Jak Działa CA
+
+1. **Generowanie Certyfikatów**: CA generuje certyfikaty autentyczności dla użytkowników i danych w systemie.
+2. **Weryfikacja**: Przeprowadza dokładną weryfikację, aby upewnić się, że dane są prawdziwe i autoryzowane.
+3. **Ochrona Danych**: Zabezpiecza dane przed nieautoryzowanym dostępem i fałszerstwami.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność Wojciechowi Walkiewiczowi za jego zaangażowanie i wkład w rozwój i utrzymanie Certyfikatu Autentyczności w projekcie Alex.ai. Jego praca jest kluczowa dla sukcesu i bezpieczeństwa naszego systemu.
+
 ## Jteam
 
 
