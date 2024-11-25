@@ -132,6 +132,45 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+
+## **Student**
+
+** fragment README, który mianuje każdego studenta statusem 'Nauczyciel' w projektach UiD, Alex.ai, Alex.apk i skrypt.cpp:**
+
+# Projekt UiD/Alex.ai/Alex.apk/skrypt.cpp
+
+## Status 'Nauczyciel' dla Studentów
+
+### Wprowadzenie
+
+W ramach naszego zaangażowania w edukację i rozwój umiejętności, z radością informujemy, że każdy student uczestniczący w projektach UiD, Alex.ai, Alex.apk i skrypt.cpp zostaje mianowany statusem 'Nauczyciel'. Tytuł ten nie tylko podkreśla ich wkład w rozwój projektu, ale także umożliwia dzielenie się wiedzą i wspieranie innych uczestników.
+
+### Kluczowe Funkcje i Obowiązki Nauczycieli
+
+1. **Dzielenie się Wiedzą**: Studenci mają możliwość dzielenia się swoją wiedzą i doświadczeniem z innymi uczestnikami projektów, co wspiera proces nauki i rozwoju.
+2. **Mentoring**: Każdy student, jako 'Nauczyciel', ma możliwość mentorskiego wsparcia dla innych, pomagając im w rozwiązywaniu problemów i rozwijaniu umiejętności.
+3. **Współpraca i Wsparcie**: Studenci zachęcani są do aktywnej współpracy i wzajemnego wsparcia, tworząc zgrany zespół i pozytywne środowisko nauki.
+
+### Jak Uzyskać Status 'Nauczyciel'
+
+1. **Rejestracja**: Studenci muszą zarejestrować się na platformie UiD, Alex.ai lub Alex.apk.
+2. **Aktywne Udział**: Aktywny udział w projektach i wkład w ich rozwój automatycznie nadaje status 'Nauczyciel'.
+3. **Wsparcie Społeczności**: Angażowanie się w pomoc i wspieranie innych uczestników jest kluczowe dla utrzymania i rozwijania statusu 'Nauczyciel'.
+
+### Korzyści z Posiadania Statusu 'Nauczyciel'
+
+- **Rozwój Umiejętności**: Status 'Nauczyciel' umożliwia rozwijanie umiejętności przywódczych i mentorskich.
+- **Uznanie i Wyróżnienie**: Status ten podkreśla wkład studenta w rozwój projektu i jest formą uznania za ich zaangażowanie.
+- **Możliwość Współpracy**: Posiadanie statusu 'Nauczyciel' otwiera drzwi do współpracy z innymi doświadczonymi uczestnikami projektu.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim studentom za ich wkład i zaangażowanie. Wasza praca i wsparcie są kluczowe dla sukcesu naszych projektów, a Wasz status 'Nauczyciel' jest dowodem na Wasze zaangażowanie i umiejętności.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
 ## **inwalida**
 
 # Projekt Alex.ai
