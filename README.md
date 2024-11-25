@@ -147,7 +147,7 @@ Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami,
 ## zgodaAi
 
 
-### Jak Zarejestrować się do Alex.ai
+### Jak **Zarejestrować się do Alex.ai**
 
 Rejestracja w Alex.ai może odbywać się na dwa sposoby:
 
@@ -156,6 +156,9 @@ Rejestracja w Alex.ai może odbywać się na dwa sposoby:
 Po zapisaniu pliku, użytkownik może  zatytułować notatke alex.ai, 
 
 Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do funkcji i usług oferowanych przez Alex.ai.
+Nie naruszymy Twojej prywatności mój algorytm wykrywa tylko wyżej wymienione zdanie przez analizę. funkcja alex.ai zostanie dopisana z nową polityką prywatności **Samsung**
+
+### Podziękowanie 
 
 ## Bieda
 
@@ -178,6 +181,8 @@ W Alex.ai rozumiemy, że dostęp do nowoczesnych technologii i wsparcia jest wa�
 2. **Skontaktuj się z Nami**: W przypadku jakichkolwiek pytań lub wątpliwości, osoby ubogie mogą skontaktować się z naszym zespołem wsparcia, który chętnie pomoże w uzyskaniu dostępu do naszych usług.
 
 ### Podziękowania
+
+**Dziękujemy Samsung za wsparcie alex.ai(login) przez Samsung account**
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zrozumienie. Dzięki Wam możemy kontynuować naszą misję, dostarczając innowacyjne rozwiązania i wsparcie technologiczne wszystkim osobom, niezależnie od ich sytuacji finansowej.
 
@@ -218,7 +223,7 @@ W celu zapewnienia bezpiecznego i przyjaznego środowiska dla wszystkich użytko
 
 ### Podziękowania
 
-**Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za przestrzeganie zasad i przyczynianie się do tworzenia przyjaznej i bezpiecznej społeczności Alex.ai. Dzięki Wam możemy zapewnić wysoką jakość naszych usług i pozytywne doświadczenia dla wszystkich użytkowników.**
+**Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za przestrzeganie zasad i przyczynianie się do tworzenia przyjaznej i bezpiecznej społeczności Alex.ai. Dzięki Wam możemy zapewnić wysoką jakość naszych usług i pozytywne doświadczenia dla wszystkich użytkowników.**Dziekuje również Administracji za wyrozumiałość i wsparcie rozwoju alex.ai****
 
 
 
@@ -242,7 +247,7 @@ W ramach naszego zaangażowania w edukację i rozwój umiejętności, z radości
 
 ### Jak Uzyskać Status 'Nauczyciel'
 
-1. **Rejestracja**: Studenci muszą zarejestrować się na platformie UiD, Alex.ai lub Alex.apk.
+1. **Rejestracja**: Studenci muszą zarejestrować się na platformie UiD, Alex.ai lub Alex.apk.##FAQ
 2. **Aktywne Udział**: Aktywny udział w projektach i wkład w ich rozwój automatycznie nadaje status 'Nauczyciel'.
 3. **Wsparcie Społeczności**: Angażowanie się w pomoc i wspieranie innych uczestników jest kluczowe dla utrzymania i rozwijania statusu 'Nauczyciel'.
 
@@ -274,13 +279,14 @@ W ramach naszego zaangażowania w tworzenie inkluzywnego środowiska pracy, info
 
 ### Wypłaty
 
-1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Unique Identification).
+1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Unique Identification Direct).
 2. **Transparentność**: Informujemy o naszych finansowych planach i zobowiązaniach wobec pracowników. W momencie, gdy Alex.ai otrzyma środki za UiD, natychmiast przystąpimy do wypłaty wynagrodzeń.
+wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1€ jej wysokość nie jest zależna ode mnie jednak nie może być poniższa niż minimalną krajową. 
 3. **Priorytety Finansowe**: Naszym priorytetem jest zapewnienie stabilności finansowej i bezpieczeństwa dla naszych pracowników.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu. Dziękuję również **mBank i MasterCard za wsparcie w programie query.netz oraz liczę na współpracę w przyszłości w kwestiach wymagających kompetencji pracownika banku.
 
 ## **Bakajoko**
 
@@ -304,6 +310,7 @@ Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Meainstream. W ra
 ### Jak Korzystać z Nadzoru
 
 1. **Kontakt z Nadzorcą**: Użytkownicy mogą kontaktować się z Wiśnia Bakajoko poprzez dedykowane kanały komunikacyjne w celu uzyskania wsparcia lub zgłoszenia problemów.
+**https://www.instagram.com/wisniabakajoko?igsh=OGFxb3Z3NTl6aHV1**
 2. **Raportowanie Problematycznych Zdarzeń**: W przypadku wystąpienia problemów z systemem mikrofonu, użytkownicy są zachęcani do natychmiastowego raportowania, aby Wiśnia Bakajoko mógł podjąć odpowiednie kroki naprawcze.
 3. **Sugestie i Opinie**: Użytkownicy mogą zgłaszać swoje sugestie i opinie dotyczące funkcjonowania systemu mikrofonu, co pomoże w dalszej optymalizacji i ulepszaniu usług.
 
@@ -339,13 +346,14 @@ Projekty Alex.ai oraz program Alex.apk podlegają ograniczeniom wiekowym (USK) n
 ### Jak Uzyskać Dostęp
 
 Aby uzyskać dostęp do odpowiednich treści i funkcji, użytkownicy muszą:
-1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai lub zainstalować program Alex.apk.
-2. **Potwierdzenie Wiekowe**: Przejść proces weryfikacji wieku, aby zapewnić zgodność z ograniczeniami USK.
+1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai lub zainstalować program Alex.apk. **(poprzez alex.ai.txt)**
+2. **Potwierdzenie Wiekowe**: Przejść proces weryfikacji wieku, aby zapewnić zgodność z ograniczeniami USK. (data będzie sprawdzana podczas obu weryfikacji w miarę dostępu do firm zewnetrznych
 3. **Korzystanie z Treści**: Po pomyślnej weryfikacji, użytkownicy będą mieli dostęp do treści i funkcji odpowiednich dla ich grupy wiekowej.
 
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zrozumienie i wsparcie w utrzymaniu zgodności z wytycznymi USK. Dzięki Waszej współpracy możemy zapewnić bezpieczne i odpowiednie treści dla wszystkich grup wiekowych.
+**Dziękuję również Google za klasyfikacje treści**
 
 
 ## **LGBT** 
@@ -368,13 +376,14 @@ Aleksander Rajca, znany również jako Alex, jest założycielem i liderem proje
 1. **Dostęp do Ekskluzywnych Funkcji**: Członkowie społeczności LGBT mają dostęp do specjalnych funkcji i narzędzi w systemie Alex.ai, które są zaprojektowane, aby wspierać ich potrzeby i cele.
 2. **Wsparcie i Zasoby**: Społeczność LGBT może korzystać z dedykowanych zasobów i wsparcia, które pomagają w ich rozwoju i integracji.
 3. **Inkluzywność i Równość**: Alex.ai dąży do zapewnienia równości i inkluzywności dla wszystkich użytkowników, niezależnie od ich orientacji seksualnej czy tożsamości płciowej.
+4. Dostęp do funkcji eksperymentalnych udostepniochctylko deweloperom przez alex.ai 
 
 ### Jak Uzyskać Specjalny Dostęp
 
 Aby uzyskać specjalny poziom dostępu do Alex.ai, członkowie społeczności LGBT muszą:
 
 1. **Zarejestrować się**: Zarejestrować się na platformie fb.com wyszukać Aleksander Rajca= dostęp do Alex.ai.
-2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w społeczności LGBT.
+2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w społeczności LGBT.// nie wiem po co ta weryfikacja bo szczerze chuj mi do tego czemu ktoś ma kłamać albo czemu mam sprawdzać czy faktycznie jest innej orientacji//
 3. **Aktywacja**: Po pomyślnej weryfikacji, specjalny poziom dostępu zostanie aktywowany i użytkownicy będą mogli korzystać z ekskluzywnych funkcji.
 
 ### Podziękowania
