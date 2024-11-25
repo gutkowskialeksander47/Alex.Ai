@@ -77,7 +77,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 47. [translate](#translate)
 48. [JTeam](#Jteam)
 49. [XQBJ](#XQBJ)
-50. [Prawaautorskie](#PrawaAutorskie)
+50. [PrawaautorskieTPS](#PrawaAutorskieTPS)
 51. [KosciolSUiD](#KosciolSUiD)
 52. [meainstream](#meainstream)
 53. [480](#480)
