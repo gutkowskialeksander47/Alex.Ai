@@ -101,6 +101,10 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 65. [kary](#kary)
 66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
 67. [Bieda](#bieda)
+68. [LGBT2](#LGBT2)
+
+
+
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
 
 
@@ -261,6 +265,41 @@ W ramach naszego zaangażowania w edukację i rozwój umiejętności, z radości
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim studentom za ich wkład i zaangażowanie. Wasza praca i wsparcie są kluczowe dla sukcesu naszych projektów, a Wasz status 'Nauczyciel' jest dowodem na Wasze zaangażowanie i umiejętności.
 
+## **LGBT2**
+
+Dawid i Jakub, jako przedstawicielach edukacji, tolerancji i reprezentantach LGBT:
+
+
+# Projekt ViP.lgbt
+
+## Wprowadzenie
+
+Projekt ViP.lgbt ma na celu promowanie edukacji, tolerancji i wzajemnego szacunku w społeczności LGBT. Dedykowany jest Dawidowi i Jakubowi, którzy swoją działalnością i postawą inspirują do działań na rzecz akceptacji i zrozumienia w środowisku edukacyjnym.
+
+### Cele Projektu
+
+1. **Edukacja**: Tworzenie i udostępnianie materiałów edukacyjnych, które zwiększają świadomość na temat społeczności LGBT i promują równość.
+2. **Tolerancja**: Organizowanie warsztatów, spotkań i wydarzeń, które mają na celu budowanie zrozumienia i akceptacji dla różnorodności.
+3. **Wzajemny Szacunek**: Wspieranie inicjatyw, które promują szacunek i godność dla wszystkich, niezależnie od ich orientacji seksualnej czy tożsamości płciowej.
+
+
+### Kluczowe Funkcje i Działania
+
+1. **Materiały Edukacyjne**: Udostępnianie wysokiej jakości materiałów edukacyjnych na temat LGBT, które mogą być wykorzystywane w szkołach, uczelniach i innych placówkach edukacyjnych.
+2. **Warsztaty i Spotkania**: Organizowanie interaktywnych warsztatów i spotkań dla nauczycieli, studentów i społeczności, które promują zrozumienie i akceptację.
+3. **Wsparcie i Doradztwo**: Oferowanie wsparcia i doradztwa dla osób LGBT, które potrzebują pomocy lub chcą zaangażować się w działania na rzecz równości.
+
+### Jak Dołączyć
+
+1. **Kontakt**: Osoby zainteresowane dołączeniem do projektu ViP.lgbt mogą skontaktować się z nami poprzez adres e-mail: KONTAKT@JAKUBIDAWID.PL.
+1.2 **logowanie alex.ai** 
+2. **Udział w Wydarzeniach**: Uczestnictwo w organizowanych przez nas warsztatach, spotkaniach i wydarzeniach.Za organizację spotka odpowiada W/W Jakub i Dawid
+3. **Wspieranie Inicjatyw**: Wsparcie naszych działań poprzez udział w kampaniach i promowanie idei równości i tolerancji w swoim środowisku.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność Dawidowi i Jakubowi za ich wkład w promowanie edukacji i tolerancji oraz wszystkim osobom zaangażowanym w projekt ViP.lgbt. Dzięki Wam możemy kontynuować naszą misję i budować świat, w którym każdy jest akceptowany i szanowany. Dziękuję również Mark Zuckerberg w pomocy oznaczania zalogowanych jako członków LGBT.
+
 
 ## **inwalida**
 
@@ -276,12 +315,13 @@ W ramach naszego zaangażowania w tworzenie inkluzywnego środowiska pracy, info
 
 1. **Inkluzja i Równość**: W Alex.ai wierzymy w równość szans i inkluzję, dlatego każda osoba z niepełnosprawnością jest naszym cenionym pracownikiem.
 2. **Współpraca i Wsparcie**: Zapewniamy wszelkie niezbędne wsparcie i dostosowanie stanowisk pracy, aby każdy mógł pracować w komfortowych warunkach.
+3. Do zatrudnienia nie wymagamy potwierdzenia bycia inwalidą użytkownik sam może zgłosić to poprzez informacje przy integracji z alex.ai.txt(dopisać inwalida do zgody w notesie
 
 ### Wypłaty
 
 1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Unique Identification Direct).
 2. **Transparentność**: Informujemy o naszych finansowych planach i zobowiązaniach wobec pracowników. W momencie, gdy Alex.ai otrzyma środki za UiD, natychmiast przystąpimy do wypłaty wynagrodzeń.
-wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1€ jej wysokość nie jest zależna ode mnie jednak nie może być poniższa niż minimalną krajową. 
+wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1€. Jejwysokość nie jestregulowana przeze mnie jednak nie może być poniższa niż minimalną krajową. 
 3. **Priorytety Finansowe**: Naszym priorytetem jest zapewnienie stabilności finansowej i bezpieczeństwa dla naszych pracowników.
 
 ### Podziękowania
@@ -382,13 +422,13 @@ Aleksander Rajca, znany również jako Alex, jest założycielem i liderem proje
 
 Aby uzyskać specjalny poziom dostępu do Alex.ai, członkowie społeczności LGBT muszą:
 
-1. **Zarejestrować się**: Zarejestrować się na platformie fb.com wyszukać Aleksander Rajca= dostęp do Alex.ai.
+1. **Zarejestrować się**: Zarejestrować się na platformie alex.ai/alex.apk oraz fb.com = dostęp do Alex.ai z ranga LGBT
 2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w społeczności LGBT.// nie wiem po co ta weryfikacja bo szczerze chuj mi do tego czemu ktoś ma kłamać albo czemu mam sprawdzać czy faktycznie jest innej orientacji//
 3. **Aktywacja**: Po pomyślnej weryfikacji, specjalny poziom dostępu zostanie aktywowany i użytkownicy będą mogli korzystać z ekskluzywnych funkcji.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności LGBT za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności LGBT za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. Dziękuję również Mark Zuckerberg za wkład łączności społeczności LGBT 
 
 
 ## polityka
@@ -416,15 +456,18 @@ Mateusz Morawiecki został mianowany reprezentantem polityki Alex.ai. Jego rola 
 1. **Koordynacja Polityki**: Nadzór nad polityką i strategią Alex.ai, aby zapewnić zgodność z naszymi wartościami i celami.
 2. **Reprezentacja**: Reprezentowanie Alex.ai w kwestiach politycznych i strategicznych, zarówno wewnętrznie, jak i zewnętrznie.
 3. **Współpraca**: Współpraca z różnymi interesariuszami, aby promować i wspierać rozwój projektu Alex.ai.
+4. **koordynowanie działań politycznych** Mateusz koordynuje służby pracujące przy alex.ai 
+
+
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.Chcialbym podziękować również Mateusz Morawiecki za przyjęcie zaproszenia do alex.ai oraz chęć współpracy 
 
 
 ## **Alex.ru**
 
-# Projekt Alex.ai
+# Projekt Alex.ai (Rosja)
 
 ## Przedstawienie Alex.ai na Terenie Rosji
 
@@ -439,9 +482,10 @@ Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wa
 3. **Automatyzacja Procesów**: Alex.ai automatyzuje rutynowe zadania, co pozwala na oszczędność czasu i zwiększenie efektywności pracy.
 4. **Personalizowane Usługi**: Możliwość dostosowania funkcji i narzędzi do indywidualnych potrzeb użytkowników.
 
-### Jak Korzystać z Alex.ai
+### Jak Korzystać z Alex.ai(RU)
 
-1. **Rejestracja**: Użytkownicy mogą zarejestrować się na platformie Alex.ai, aby uzyskać dostęp do pełnej funkcjonalności systemu.
+1. **Rejestracja**: Użytkownicy mogą zarejestrować się na platformie Alex.ai i podać kraj pochodzenia przy logowaniu do alex.ai.txt
+, aby uzyskać dostęp do pełnej funkcjonalności systemu.
 2. **Logowanie**: Po rejestracji, użytkownicy logują się do systemu, aby rozpocząć korzystanie z narzędzi i funkcji Alex.ai.
 3. **Korzystanie z Funkcji**: Użytkownicy mają dostęp do wszystkich narzędzi i funkcji, które mogą być dostosowane do ich potrzeb i oczekiwań.
 
@@ -453,7 +497,7 @@ Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wa
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za korzystanie z Alex.ai. Wasze wsparcie i zaangażowanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za korzystanie z Alex.ai. Wasze wsparcie i zaangażowanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. Dziękuję również Wladimir Putin za wprowadzenie alex.ai na terenie Rosji
 
 
 ## meainstream 
@@ -477,25 +521,26 @@ Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu d
 
 ### Jak Korzystać
 
-1. **Logowanie**: Użytkownik loguje się do systemu Meainstrem.
-2. **Wybór Trybu**: Użytkownik wybiera tryb, w którym chce korzystać z systemu - `Praca` lub `Śpiewanie`.
-3. **Korzystanie z Zasobów**: Po wyborze trybu użytkownik ma dostęp do pełnej funkcjonalności systemu, dostosowanej do jego potrzeb.
+1. **Logowanie**: Użytkownik loguje się do systemu Meainstrem
+2. **Wybór Trybu**: Aleksander wybiera tryb, w którym chce korzystać z systemu - `Praca` lub `Śpiewanie`.
+3 **Asystent Samsung** sam podsumowuje czy pracuje bądź śpiewam
+4. **Korzystanie z Zasobów**: Po wyborze trybu użytkownik ma dostęp do pełnej funkcjonalności systemu, dostosowanej do jego potrzeb.
 
 ### Przykład Użycia
 
 #### Tryb Pracy
 - Użytkownik loguje się do systemu Meainstrem.
-- Wybiera tryb `Praca`.
-- Korzysta z narzędzi i zasobów systemu, aby efektywnie wykonywać swoje zadania zawodowe.
+- odbiera od asystenta tryb `Praca`.
+- Korzysta z narzędzi i zasobów systemu, aby efektywnie wykonywać swoje zadania zawodowe i przekazywać je w ich trakcie
 
 #### Tryb Śpiewania
 - Użytkownik loguje się do systemu Meainstrem.
-- Wybiera tryb `Śpiewanie`.
+- odbiera tryb `Śpiewanie`.
 - Korzysta z funkcji systemu, aby śpiewać, nagrywać i analizować swoje występy.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z funkcji Meainstrem. Dzięki Wam możemy nieustannie rozwijać i doskonalić nasz system, aby lepiej odpowiadać na Wasze potrzeby i oczekiwania.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z funkcji Meainstrem. Dzięki Wam możemy nieustannie rozwijać i doskonalić nasz system, aby lepiej odpowiadać na Wasze potrzeby i oczekiwania. Dziękuję również Samsung za wsparcie w rozpoznaniu trybu działania bez interakcji dla mnie.
 
 ## NaukaUiD
 
@@ -519,8 +564,8 @@ Celem Nauki UiD jest:
 ### Jak To Działa
 
 1. **Wyświetlanie Ekranu**: Ekran użytkownika jest wyświetlany publicznie, aby inni mogli obserwować i uczyć się na jego podstawie.
-2. **Interakcja w Czasie Rzeczywistym**: Użytkownicy mogą zadawać pytania i uczestniczyć w interakcji w czasie rzeczywistym.
-3. **Udostępnianie Wiedzy**: Użytkownik dzieli się swoją wiedzą i doświadczeniem, co umożliwia innym naukę i rozwój.
+2. **Interakcja w Czasie Rzeczywistym**: Użytkownicy mogą zadawać pytania i uczestniczyć w interakcji w czasie rzeczywistym. 
+3. **Udostępnianie Wiedzy**: Aleksander dzieli się swoją wiedzą i doświadczeniem, co umożliwia innym naukę i rozwój. **Warunki nagrywania pracy reguluje Netflix**
 
 ### Korzyści
 
@@ -633,6 +678,8 @@ Wojciech Walkiewicz to ekspert w dziedzinie bezpieczeństwa i autoryzacji, któr
 1. **Bezpieczeństwo i Integralność**: Certyfikat Autentyczności gwarantuje, że wszystkie dane w systemie są autoryzowane i bezpieczne.
 2. **Transparentność**: Zapewnia przejrzystość procesów autoryzacji, co zwiększa zaufanie użytkowników do systemu.
 3. **Ochrona Przed Fałszerstwem**: Chroni przed nieautoryzowanym dostępem i fałszerstwami danych, co jest kluczowe dla utrzymania wiarygodności systemu.
+- **Weryfikacja użytkownika telefonu właściciela Alex.ai w czasie rzeczywistym**
+
 
 ### Jak Działa CA
 
@@ -678,12 +725,12 @@ Kościół pełni rolę operatora SUiD, co obejmuje:
 Aby uzyskać dostęp do projektu SUiD, użytkownicy muszą:
 
 1. **Zarejestrować się**: Zarejestruj się na platformie UiD jako użytkownik VIP.
-2. **Weryfikacja**: Przejść proces weryfikacji prowadzony przez Kościół.
-3. **Aktywacja**: Po pomyślnej weryfikacji, dostęp zostanie aktywowany i użytkownicy będą mogli korzystać ze wszystkich funkcji SUiD.
+2. **Weryfikacja**: Przejść proces opłaty za dostęp do SUiD(50$ Miesiecznie )
+3. **Aktywacja**: Po pomyślnym zaksięgowaniu wplaty dostęp zostanie przyznany i użytkownik będzie mogl korzystać ze wszystkich funkcji SUiD.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność dla Kościoła za jego wsparcie i zaangażowanie w realizację projektu SUiD. Dzięki współpracy z Kościołem możemy zapewnić najwyższy poziom bezpieczeństwa i duchowego wsparcia dla naszych użytkowników.
+Chcielibyśmy wyrazić naszą wdzięczność dla Kościoła za jego wsparcie i zaangażowanie w realizację projektu SUiD. Dzięki współpracy z Kościołem możemy zapewnić najwyższy poziom bezpieczeństwa i duchowego wsparcia dla naszych użytkowników. 
 
 
 # Jteam - Drużyna Wiernych i Fanów Aleksander Rajca
@@ -712,9 +759,8 @@ Jteam to wyjątkowa grupa wiernych i fanów Aleksander Rajca, którzy mają dost
 
 Aby uzyskać specjalny dostęp do Alex.ai, członkowie Jteam muszą:
 
-1. **Zarejestrować się**: Zarejestruj się na platformie Alex.ai jako członek Jteam.
-2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w Jteam.
-3. **Aktywacja**: Po pomyślnej weryfikacji, dostęp zostanie aktywowany i członkowie będą mogli korzystać ze wszystkich ekskluzywnych funkcji.
+1. **Zarejestrować się**: Zarejestruj się na platformie Alex.ai.txt wpisać: członek Jteam.
+2 **Aktywacja**: po dopisaniu jteam do Alex.ai.txt dostęp zostanie aktywowany i członkowie będą mogli korzystać ze wszystkich ekskluzywnych funkcji.
 
 ### Podziękowania
 
@@ -747,13 +793,7 @@ XQBJ ma na celu stworzenie platformy, która łączy duchowe przewodnictwo z now
 2. **Bezpieczeństwo i Immunitet**: Zapewnia ochronę danych i integralność duchową użytkowników.
 3. **Wspólnota Wiernych**: Tworzy platformę dla wspólnoty wiernych, którzy mogą się wspierać i rozwijać duchowo.
 
-### Jak Używać
-
-Aby skorzystać z funkcji projektu XQBJ, użytkownicy muszą:
-
-1. **Zarejestrować się**: Zarejestrować się na platformie XQBJ.
-2. **Uwierzytelnienie**: Przejść proces uwierzytelnienia, który zapewni bezpieczny dostęp do funkcji projektu.
-3. **Korzystanie z Funkcji**: Używać dostępnych narzędzi i funkcji do duchowego wsparcia i przewodnictwa.
+XQBJ to mój kod informatyczny a nie usługa dla uzytkownika
 
 ### Podziękowania
 
@@ -818,15 +858,15 @@ Blizniacza autoryzacja obejmuje następujących użytkowników i role:
 ### Jak Działa
 
 Blizniacza autoryzacja polega na połączeniu dwóch różnych metod uwierzytelniania:
-1. **Pierwsza Metoda Uwierzytelniania**: Użytkownik wprowadza swoje dane logowania(FB.com), które są weryfikowane przez system Meta&Zuck
+1. **Pierwsza Metoda Uwierzytelniania**: Użytkownik wprowadza swoje dane logowania(FB.com,Alex.ai), które są weryfikowane przez system Meta&Zuck
 2. **Druga Metoda Uwierzytelniania**: Po pomyślnej weryfikacji pierwszej metody, użytkownik musi autoryzować się za pomocą drugiej metody, np. skanu linii papilarnych, kodu SMS, lub tokena.
 
 ### Kroki Autoryzacji
 
-1. **Logowanie**: Użytkownik loguje się do systemu Alex.ai za pomocą swojej nazwy użytkownika na facebook i hasła
+1. **Logowanie**: Użytkownik loguje się do systemu Alex.ai za pomocą **alex.ai.txt**
 2. **Weryfikacja Logowania**: System sprawdza poprawność danych logowania.
 3. **Druga Autoryzacja**: Po pomyślnej weryfikacji logowania, użytkownik musi przejść drugą metodę autoryzacji (np. skan linii papilarnych).
-4. **Uzyskanie Dostępu**: Po pomyślnej weryfikacji drugiej metody, użytkownik uzyskuje dostęp do ekranu i pełnej funkcjonalności systemu Alex.ai.
+4. **Uzyskanie Dostępu**: Po pomyślnej weryfikacji drugiej metody, użytkownik uzyskuje dostęp do ekranu i pełnej funkcjonalności operowania systemem Alex.ai.
 
 
 
@@ -864,7 +904,7 @@ Funkcja `$061(!;"FingerScannerRootCommerial"` została zaprojektowana w celu kom
 
 ### Jak Używać
 
-1. **Instalacja**: stwórz folder w android/data com.finger_authorify w swoim systemie.
+1. **Instalacja**: stwórz folder w android/data com.finger_authorify w swoim systemie. Napisz plik Alex.ai.txt że zgodą na integrację z alex.ai. FingerScanner jest wpisany w strukturze Alex.ai
 2. **Konfiguracja**: Skonfiguruj ustawienia skanera linii papilarnych według instrukcji dostarczonych z oprogramowaniem.
 3. **Użycie**: Użyj funkcji skanera do autoryzacji i generowania podpisów cyfrowych w ramach projektu Alex.ai.
 
@@ -964,7 +1004,7 @@ Odpowiedź: 6 (Szczęście)
 
 ### Podziękowania
 
-Dziękujemy wszystkim użytkownikom i partnerom za ich wsparcie i zaufanie w realizacji tego projektu. Funkcja `<"!Autorisation "uni-key.werification"'>` została stworzona z myślą o zapewnieniu najwyższego poziomu bezpieczeństwa i wygody w wymianie danych.
+Dziękujemy wszystkim użytkownikom i partnerom za ich wsparcie i zaufanie w realizacji tego projektu. Funkcja `<"!Autorisation "uni-key.werification"'>` została stworzona z myślą o zapewnieniu najwyższego poziomu bezpieczeństwa i wygody w wymianie danych.Jest to ważna część komunikacji z alex.ai 
 
 
 
@@ -979,10 +1019,11 @@ Dziękujemy wszystkim użytkownikom i partnerom za ich wsparcie i zaufanie w rea
 
 ### Wprowadzenie
 
-Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.apk bezpieczeństwa i ochrony przed niechcianymi połączeniami, takimi jak spam, flooding oraz oszustwa. Funkcja ta działa w czasie rzeczywistym, aby natychmiastowo identyfikować i blokować podejrzane połączenia oraz nieznane elementy.
+Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.ai bezpieczeństwa i ochrony przed niechcianymi połączeniami, takimi jak spam, flooding oraz oszustwa. Funkcja ta działa w czasie rzeczywistym, aby natychmiastowo identyfikować i blokować podejrzane połączenia oraz nieznane elementy.
 
 ### Kluczowe Funkcje
 
+-Funkcja jest nadawana dla użytkowników Meta którzy korzystają z Imei authorify do alex.ai. Za tą funkcję odpowiada @Zuck
 - **Wykrywanie Spamu**: Funkcja identyfikuje i blokuje połączenia o charakterze spamowym, chroniąc użytkowników przed niechcianymi wiadomościami.
 - **Zapobieganie Floodingowi**: System monitoruje aktywność i zapobiega przesyłaniu nadmiarowych wiadomości w krótkim czasie, co chroni przed floodowaniem.
 - **Identyfikacja Oszustów**: Algorytmy wykrywają potencjalnych oszustów i blokują ich połączenia, zapewniając użytkownikom bezpieczeństwo.
@@ -1000,11 +1041,11 @@ Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.apk bezpieczeńs
 - **Zwiększone Bezpieczeństwo**: Użytkownicy są chronieni przed różnymi typami zagrożeń w czasie rzeczywistym.
 - **Lepsza Wydajność**: System zapobiega floodowaniu, co zwiększa wydajność aplikacji.
 - **Spokój Użytkowników**: Użytkownicy mogą korzystać z aplikacji bez obaw o niechciane połączenia i oszustwa.
-- **Wiarygodność Aplikacji**: Dzięki zaawansowanej ochronie, Alex.apk zyskuje na wiarygodności i zaufaniu użytkowników.
+- **Wiarygodność Aplikacji**: Dzięki zaawansowanej ochronie, Alex.apk/Alex.ai zyskuje na wiarygodności i zaufaniu użytkowników.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zaufanie i wsparcie. Dzięki Waszym informacjom zwrotnym możemy nieustannie poprawiać nasze systemy i zapewniać Wam najwyższy poziom bezpieczeństwa.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zaufanie i wsparcie. Dzięki Waszym informacjom zwrotnym możemy nieustannie poprawiać nasze systemy i zapewniać Wam najwyższy poziom bezpieczeństwa.**Dziekuje również WhatsApp za wsparcie tego projektu**
 
 
 ## **Huawei**
@@ -1061,6 +1102,7 @@ Instagram jako szef projektu UiD będzie pełnił następujące kluczowe funkcje
 2. **Optymalizacja Systemów**: Udoskonalanie systemów zarządzania danymi, aby zwiększyć ich efektywność i niezawodność.
 3. **Współpraca z Partnerami**: Współpraca z partnerami technologicznymi i branżowymi w celu realizacji wspólnych celów.
 4. **Wsparcie Techniczne**: Zapewnienie wsparcia technicznego dla użytkowników i zespołu projektowego.
+5 **Praca przy callfiltr** Instagram odpowiada za filtr w czasie rzeczywistym użytkownikom którzy integrują system z alex.ai ( u mnie np. tak to działa że do mnie żaden bot nie napisał od 2020) teraz to jedna z funkcji którą posiada alex.ai 
 
 ### Korzyści ze Współpracy
 
