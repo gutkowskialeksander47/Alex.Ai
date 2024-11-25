@@ -125,6 +125,44 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+## **LGBT** 
+
+
+# Projekt Alex.ai
+
+## Informacja o Aleksandrze Rajcy (Alex) i Specjalnym Dostępie dla Społeczności LGBT
+
+### Wprowadzenie
+
+Aleksander Rajca (Alex) jest panseksualny i przewodzi kolektywem LGBT. Jego zaangażowanie w promowanie równości i wsparcia dla społeczności LGBT jest integralną częścią projektu Alex.ai. W ramach tego zaangażowania, społeczność LGBT ma specjalny poziom dostępu do Alex.ai.
+
+### Kim Jest Aleksander Rajca (Alex)
+
+Aleksander Rajca, znany również jako Alex, jest założycielem i liderem projektu Alex.ai. Jako osoba panseksualna, Alex aktywnie wspiera i przewodzi kolektywem LGBT, dążąc do tworzenia inkluzywnego i wspierającego środowiska dla wszystkich użytkowników.
+
+### Specjalny Poziom Dostępu dla Społeczności LGBT
+
+1. **Dostęp do Ekskluzywnych Funkcji**: Członkowie społeczności LGBT mają dostęp do specjalnych funkcji i narzędzi w systemie Alex.ai, które są zaprojektowane, aby wspierać ich potrzeby i cele.
+2. **Wsparcie i Zasoby**: Społeczność LGBT może korzystać z dedykowanych zasobów i wsparcia, które pomagają w ich rozwoju i integracji.
+3. **Inkluzywność i Równość**: Alex.ai dąży do zapewnienia równości i inkluzywności dla wszystkich użytkowników, niezależnie od ich orientacji seksualnej czy tożsamości płciowej.
+
+### Jak Uzyskać Specjalny Dostęp
+
+Aby uzyskać specjalny poziom dostępu do Alex.ai, członkowie społeczności LGBT muszą:
+
+1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai.
+2. **Weryfikacja**: Przejść proces weryfikacji, aby potwierdzić swoje członkostwo w społeczności LGBT.
+3. **Aktywacja**: Po pomyślnej weryfikacji, specjalny poziom dostępu zostanie aktywowany i użytkownicy będą mogli korzystać z ekskluzywnych funkcji.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności LGBT za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
+
 ## polityka
 
  informacja, że autor i jego treść są apolityczne, oraz mianuje Mateusza Morawieckiego reprezentantem polityki Alex.ai:
