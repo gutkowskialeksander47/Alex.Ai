@@ -88,7 +88,6 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 58. [Polityka](#polityka)
 
 
-
 ## **Translate**
 
 
@@ -123,6 +122,41 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+## polityka
+
+ informacja, że autor i jego treść są apolityczne, oraz mianuje Mateusza Morawieckiego reprezentantem polityki Alex.ai:
+
+# Projekt Alex.ai
+
+## Informacja o Apolityczności i Reprezentant Polityki
+
+### Wprowadzenie
+
+Autor projektu Alex.ai oraz jego treści są całkowicie apolityczne. Naszym celem jest dostarczanie wartościowych i obiektywnych informacji oraz narzędzi, które wspierają użytkowników w ich codziennych zadaniach, niezależnie od ich przekonań politycznych.
+
+### Apolityczność
+
+1. **Neutralność**: Wszystkie treści tworzone w ramach projektu Alex.ai są neutralne i nie mają na celu promowania żadnych ideologii politycznych.
+2. **Obiektywizm**: Dążymy do dostarczania obiektywnych informacji, które są wolne od jakichkolwiek uprzedzeń politycznych.
+3. **Równość**: Szanujemy różnorodność opinii i przekonań naszych użytkowników, zapewniając, że nasze treści są dostępne i użyteczne dla wszystkich.
+
+### Reprezentant Polityki
+
+Mateusz Morawiecki został mianowany reprezentantem polityki Alex.ai. Jego rola obejmuje:
+
+1. **Koordynacja Polityki**: Nadzór nad polityką i strategią Alex.ai, aby zapewnić zgodność z naszymi wartościami i celami.
+2. **Reprezentacja**: Reprezentowanie Alex.ai w kwestiach politycznych i strategicznych, zarówno wewnętrznie, jak i zewnętrznie.
+3. **Współpraca**: Współpraca z różnymi interesariuszami, aby promować i wspierać rozwój projektu Alex.ai.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
 
 ## **Alex.ru**
 
