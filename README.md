@@ -99,7 +99,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 63. [student](#Student)
 64. [PrawoUNZ](#PrawoUNZ)
 65. [kary](#kary)
-66. [zgodaAi](#zgodaAi)
+66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
 
 
 
