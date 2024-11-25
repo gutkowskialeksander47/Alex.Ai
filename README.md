@@ -88,7 +88,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 58. [Polityka](#polityka)
 59. [LGBT](#LGBT)
 60. [USKgoogle](#USKgoogle)
-
+61. [inwalida](#inwalida)
 
 ## **Translate**
 
