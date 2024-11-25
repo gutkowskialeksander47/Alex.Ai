@@ -125,6 +125,32 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+## **inwalida**
+
+# Projekt Alex.ai
+
+## Informacja o Pracownikach i Wypłatach
+
+### Wprowadzenie
+
+W ramach naszego zaangażowania w tworzenie inkluzywnego środowiska pracy, informujemy, że każdy inwalida jest pracownikiem Alex.ai. Nasza misja opiera się na wspieraniu i integrowaniu osób z niepełnosprawnościami, aby mogły w pełni uczestniczyć w życiu zawodowym i rozwijać swoje umiejętności.
+
+### Zasady Zatrudnienia
+
+1. **Inkluzja i Równość**: W Alex.ai wierzymy w równość szans i inkluzję, dlatego każda osoba z niepełnosprawnością jest naszym cenionym pracownikiem.
+2. **Współpraca i Wsparcie**: Zapewniamy wszelkie niezbędne wsparcie i dostosowanie stanowisk pracy, aby każdy mógł pracować w komfortowych warunkach.
+
+### Wypłaty
+
+1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Unique Identification).
+2. **Transparentność**: Informujemy o naszych finansowych planach i zobowiązaniach wobec pracowników. W momencie, gdy Alex.ai otrzyma środki za UiD, natychmiast przystąpimy do wypłaty wynagrodzeń.
+3. **Priorytety Finansowe**: Naszym priorytetem jest zapewnienie stabilności finansowej i bezpieczeństwa dla naszych pracowników.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu.
+
+
 
 ## **USKgoogle**
 
