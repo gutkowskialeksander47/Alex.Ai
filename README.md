@@ -84,6 +84,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 54. [NaukaUiD](#NaukaUiD) 
 55. [Finanse](#Finanse)
 56. [AlexRU](#AlexRU)
+57. [Fani](#Fani)
 
 
 
