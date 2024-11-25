@@ -45,7 +45,7 @@ System Alex.ai działa w następujący sposób:
 ### Rysunki
 https://www.dropbox.com/scl/fo/snsqwb7dyfdbjc86pa6c8/h?rlkey=xqgavknoohlu5e4o8mid2okox&st=55bmhhdc&dl=0
 
-**Patent 2**
+## **Patent 2**
 szkic patentu dla systemów UiD i Alex.apk, który  służy jako baza do dalszego opracowania formalnej aplikacji patentowej:
 
 
