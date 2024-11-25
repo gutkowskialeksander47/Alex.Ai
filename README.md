@@ -101,7 +101,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 65. [kary](#kary)
 66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
 67. [Bieda](#bieda)
-
+68. [Prawdomownosc](#Prawdomownosc] Jteam
 
 ## **Translate**
 
@@ -175,6 +175,11 @@ W Alex.ai rozumiemy, że dostęp do nowoczesnych technologii i wsparcia jest wa�
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zrozumienie. Dzięki Wam możemy kontynuować naszą misję, dostarczając innowacyjne rozwiązania i wsparcie technologiczne wszystkim osobom, niezależnie od ich sytuacji finansowej.
+
+## **Prawdomownosc** 
+Jest to coś czego wymaga ode mnie Maryja.Szczerosc w obec telefonu
+
+
 
 
 ## **kary**
