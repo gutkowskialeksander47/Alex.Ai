@@ -2255,10 +2255,30 @@ tak, polityka prywatności jest nasza własna sprawa i tak do niej podchodzimy i
 tak można zaprosić mnie na podcast. 
 
 
-**### FAQ - Alex.ai
+## FAQ2 - Alex.ai
+
+1. **Jakie są minimalne wymagania systemowe dla Alex.ai?** Urządzenie z dostępem do sieci 
+2. **Czy Alex.ai działa na wszystkich platformach, takich jak Windows, macOS, Linux, Android i iOS?** Nie wiem to zależne od drugiej strony lecz nigdy nie spotkałem się z odmową 
+3. **Czy Alex.ai może integrować się z innymi aplikacjami i usługami?** 
+Tak, ale to kwestia indywidualna z deweloperami
+4. **Jakie są główne korzyści z używania Alex.ai w firmie?** Automatyzacja zadań wręcz przewidywanie następnego dnia
+5. **Czy Alex.ai oferuje wsparcie dla języków innych niż angielski?**
+Tak program współpracuje w UNZ i mój program jest dostępny w każdym kraju i tłumaczone moje linię w HTML w czasie rzeczywistym ze wsparciem Google.
+6. **Jak często Alex.ai jest aktualizowany i jakie nowe funkcje są dodawane?**
+Alex.ai rozwija się w tempie nawet mi nie znanym
+7. **Czy Alex.ai jest dostępny w wersji mobilnej?** Tak, programuje na telefonie Galaxy s24
+8. **Jak mogę zgłosić sugestie lub problemy dotyczące Alex.ai?**
+przez mail **gutkowskialeksander47@gmail.com**
+9. **Jakie środki bezpieczeństwa stosuje Alex.ai w celu ochrony danych użytkowników?**
+Nie zapisujemy żadnych danych tylko kodujemy informacje o użytkowniku. 
+10. **Czy Alex.ai może być używany w edukacji, a jeśli tak, to w jaki sposób?**
+trzy lata pisałem UiD więc musiałem później ludzi nauczyć tego co mieja rozumieć.Teraz już moi użytkownicy znają i są nauczeni czym jest UiD
+
+
+
 
 **Pytanie 11:** Czy source Alex.ai jest publiczny?  
-**Odpowiedź:** Nie, Alex.ai jest publiczny, ale pliki UiD i reszta (master, query) mogą być udostępnione na prośbę. Aby uzyskać dostęp do tych plików, prosimy o kontakt e-mailowy na adres aleksander@rajca.info. Pliki są w języku tylko Alex.ai, co oznacza, że polegają tylko na moim zdaniu. Oto fragment UiD (project.d).
+**Odpowiedź:** Nie, Alex.ai jest publiczny, ale pliki UiD i reszta (master, query) mogą być udostępnione na prośbę. Aby uzyskać dostęp do tych plików, prosimy o kontakt e-mailowy na adres **gutkowskialeksander47@gmail.com**. Pliki są w języku tylko Alex.ai, co oznacza, że polegają tylko na moim zdaniu. Oto fragment UiD (project.d).
 
 **<USK16><Erotyka wulgaryzmy> 
 ;475 92"zakonczenie wsparcia technicznego =  ""status.offline"
