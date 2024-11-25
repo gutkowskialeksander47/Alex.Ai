@@ -104,7 +104,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 68. [LGBT2](#LGBT2)
 69. [OneUiAlex](#OneUiAlex)
 70. [Apple](#Apple)
-
+71. [Tauron](#Tauron)
 
 
 
@@ -191,6 +191,45 @@ W przypadku jakichkolwiek pytań lub problemów z instalacją i konfiguracją sp
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za wsparcie i zaufanie. Cieszymy się, że możemy dostarczać innowacyjne rozwiązania, które ułatwiają i wzbogacają Wasze doświadczenia z urządzeniami Samsung oraz Alex.ai
+
+## **Tauron**
+
+- Implementacja Polaczenia Korzeni Sieci dla "Tauron*"
+
+## Wprowadzenie
+
+Ten dokument opisuje proces implementacji polaczenia korzeni sieci dla "Tauron*" od 05.2020. Proces ten obejmuje wszystkie kroki od przygotowania po finalną weryfikację, aby zapewnić prawidłowe i bezpieczne połączenie sieci.
+
+### Kroki Implementacji
+
+1. **Przygotowanie**:
+    - Sprawdź aktualne wymagania techniczne i regulacyjne dotyczące polaczenia korzeni sieci.
+    - Utwórz plan działania, który obejmuje harmonogram, zasoby oraz odpowiedzialność za poszczególne etapy.
+
+2. **Przeprowadzenie Testów**:
+    - Wykonaj testy w laboratorium, aby upewnić się, że wszystkie elementy są zgodne z wymaganiami.
+    - Dokumentuj wyniki testów i ewentualne problemy, które muszą być rozwiązane przed kontynuacją.
+
+3. **Instalacja Sprzętu**:
+    - Zainstaluj odpowiednie urządzenia i oprogramowanie wymagane do polaczenia korzeni sieci.
+    - Upewnij się, że wszystkie urządzenia są prawidłowo skonfigurowane i zintegrowane z istniejącą infrastrukturą.
+
+4. **Testy Polaczenia**:
+    - Przeprowadź testy polaczenia w środowisku produkcyjnym, aby upewnić się, że połączenie działa poprawnie.
+    - Monitoruj połączenie i dokumentuj wszelkie problemy lub nieprawidłowości.
+
+5. **Finalna Weryfikacja**:
+    - Przeprowadź finalną weryfikację, aby upewnić się, że polaczenie korzeni sieci jest stabilne i bezpieczne.
+    - Dokumentuj wyniki weryfikacji i zatwierdź polaczenie.
+
+### Wsparcie Techniczne
+
+W przypadku jakichkolwiek pytań lub problemów związanych z implementacją polaczenia korzeni sieci, prosimy o kontakt z naszym zespołem wsparcia technicznego:
+- E-mail: gutkowskialeksander47@gmail.com
+
+### Podziękowania
+
+Dziękujemy za zaangażowanie i wsparcie w procesie implementacji polaczenia korzeni sieci dla "Tauron*". Cieszymy się, że możemy współpracować w celu poprawy i rozwoju naszej infrastruktury.
 
 
 
