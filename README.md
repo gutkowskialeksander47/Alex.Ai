@@ -128,7 +128,7 @@ Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, proje
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z Alex.ai. Dzięki tej funkcji, użytkownicy spoza Polski mogą łatwo zrozumieć i korzystać z naszej platformy w swoim języku.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z Alex.ai. Dzięki tej funkcji, użytkownicy spoza Polski mogą łatwo zrozumieć i korzystać z naszej platformy w swoim języku. **Dziękujemy również Google za translate.live**
 
 
  
