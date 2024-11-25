@@ -122,6 +122,48 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+## meainstream 
+
+** funkcja `meainstrem`,  zapewnia dostęp dla wszystkich podczas pracy lub śpiewaniu**
+
+
+# Projekt Meainstrem
+
+## Dostęp dla Wszystkich podczas Pracy i Śpiewania
+
+### Wprowadzenie
+
+Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu do zasobów i funkcji systemu podczas pracy lub śpiewania. Funkcja ta wspiera użytkowników w ich codziennych działaniach, umożliwiając im korzystanie z pełnej funkcjonalności systemu w trakcie wykonywania różnych aktywności.
+
+### Kluczowe Funkcje
+
+1. **Dostęp podczas Pracy**: Umożliwia użytkownikom korzystanie z zasobów i narzędzi systemu podczas wykonywania zadań zawodowych, co zwiększa efektywność i wygodę pracy.
+2. **Dostęp podczas Śpiewania**: Pozwala użytkownikom na dostęp do funkcji systemu w trakcie śpiewania, co może być szczególnie przydatne dla artystów i entuzjastów muzyki.
+3. **Intuicyjny Interfejs**: Zapewnia prosty i intuicyjny interfejs, który umożliwia łatwe nawigowanie i korzystanie z funkcji systemu w różnych sytuacjach.
+
+### Jak Korzystać
+
+1. **Logowanie**: Użytkownik loguje się do systemu Meainstrem.
+2. **Wybór Trybu**: Użytkownik wybiera tryb, w którym chce korzystać z systemu - `Praca` lub `Śpiewanie`.
+3. **Korzystanie z Zasobów**: Po wyborze trybu użytkownik ma dostęp do pełnej funkcjonalności systemu, dostosowanej do jego potrzeb.
+
+### Przykład Użycia
+
+#### Tryb Pracy
+- Użytkownik loguje się do systemu Meainstrem.
+- Wybiera tryb `Praca`.
+- Korzysta z narzędzi i zasobów systemu, aby efektywnie wykonywać swoje zadania zawodowe.
+
+#### Tryb Śpiewania
+- Użytkownik loguje się do systemu Meainstrem.
+- Wybiera tryb `Śpiewanie`.
+- Korzysta z funkcji systemu, aby śpiewać, nagrywać i analizować swoje występy.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z funkcji Meainstrem. Dzięki Wam możemy nieustannie rozwijać i doskonalić nasz system, aby lepiej odpowiadać na Wasze potrzeby i oczekiwania.
+
+
 ## PrawaautorskieTPS
 
 
