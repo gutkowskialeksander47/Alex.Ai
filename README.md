@@ -125,6 +125,48 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
 
+
+## **USKgoogle**
+
+**to Google nakłada ograniczenie wiekowe (USK) na projekty Alex.ai oraz program Alex.apk
+
+# Projekt Alex.ai
+
+## Informacja o Ograniczeniu Wiekowym (USK)
+
+### Wprowadzenie
+
+Projekty Alex.ai oraz program Alex.apk podlegają ograniczeniom wiekowym (USK) nałożonym przez Google. Ograniczenia te mają na celu zapewnienie, że treści i funkcje dostępne w naszych projektach są odpowiednie dla użytkowników w odpowiednich grupach wiekowych.
+
+### Ograniczenia Wiekowe (USK)
+
+1. **Nałożone przez Google**: Ograniczenia wiekowe są określone przez Google, aby zapewnić zgodność z międzynarodowymi standardami bezpieczeństwa i ochrony młodych użytkowników.
+2. **Kategoryzacja Treści**: Każdy projekt i aplikacja Alex.ai jest oceniany i kategoryzowany zgodnie z wytycznymi USK, co pozwala na kontrolę dostępu do treści odpowiednich dla różnych grup wiekowych.
+3. **Dostosowanie do Wieków**: Nasze treści są dostosowane do określonych grup wiekowych, aby zapewnić bezpieczeństwo i odpowiedniość dla użytkowników.
+
+### Jak To Działa
+
+1. **Ocena i Kategoryzacja**: Projekty i aplikacje Alex.ai są oceniane i kategoryzowane przez Google zgodnie z wytycznymi USK.
+2. **Ograniczenia Dostępu**: Treści i funkcje są udostępniane użytkownikom w odpowiednich grupach wiekowych, zgodnie z oceną i kategoryzacją USK.
+3. **Aktualizacje i Zmiany**: Regularnie aktualizujemy i dostosowujemy nasze treści, aby zachować zgodność z wytycznymi USK i zapewnić bezpieczeństwo użytkowników.
+
+### Jak Uzyskać Dostęp
+
+Aby uzyskać dostęp do odpowiednich treści i funkcji, użytkownicy muszą:
+1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai lub zainstalować program Alex.apk.
+2. **Potwierdzenie Wiekowe**: Przejść proces weryfikacji wieku, aby zapewnić zgodność z ograniczeniami USK.
+3. **Korzystanie z Treści**: Po pomyślnej weryfikacji, użytkownicy będą mieli dostęp do treści i funkcji odpowiednich dla ich grupy wiekowej.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zrozumienie i wsparcie w utrzymaniu zgodności z wytycznymi USK. Dzięki Waszej współpracy możemy zapewnić bezpieczne i odpowiednie treści dla wszystkich grup wiekowych.
+
+---
+
+Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+
+
+
 ## **LGBT** 
 
 
