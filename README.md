@@ -101,7 +101,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 65. [kary](#kary)
 66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
 67. [Bieda](#bieda)
-
+68. [FAQ2](#FAQ2)
 
 
 ## **Translate**
