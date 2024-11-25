@@ -78,6 +78,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 46. [twince](#twince)
 
 47.[translate](#translate)
+
 48.[JTeam](#Jteam)
 
 ## **Translate**
