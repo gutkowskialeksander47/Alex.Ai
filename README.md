@@ -102,6 +102,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
 67. [Bieda](#bieda)
 68. [LGBT2](#LGBT2)
+69. [OneUiAlex](#OneUiAlex)
 
 
 
@@ -146,6 +147,50 @@ Witamy w projekcie Alex AI! Naszym celem jest stworzenie zaawansowanego systemu 
 ## Opis Projektu
 
 Alex AI został stworzony, aby ułatwić zarządzanie użytkownikami i zasobami, zapewniając jednocześnie wysoki poziom bezpieczeństwa. System korzysta z różnych metod autoryzacji, takich jak autoryzacja IMEI, Google Authenticator, klucze aktywacyjne Windows i wiele innych. Projekt zawiera również narzędzia do zarządzania serwerami lokalnymi i wirtualnymi oraz umożliwia dodawanie nowych użytkowników. Alex AI to zaawansowany system zarządzania użytkownikami i autoryzacji, stworzony z myślą o zapewnieniu bezpieczeństwa danych oraz uproszczeniu procesów zarządzania w różnorodnych środowiskach. Oferuje szeroki wachlarz funkcji, które mogą być dostosowane do indywidualnych potrzeb użytkowników i organizacji. Użytkownik  bezpośrednio zweryfikowany łączy się z siecią alex.ai i odbiera dane od Alex.apk 
+
+
+## OneUiAlex
+
+
+# Projekt Alex.ai - Samsung User Interface
+
+## Wprowadzenie
+
+Projekt Alex.ai z dumą ogłasza możliwość dostarczenia spersonalizowanego interfejsu użytkownika Samsung. Dzięki tej funkcji użytkownicy urządzeń Samsung mogą cieszyć się zintegrowanym i zoptymalizowanym doświadczeniem użytkowania, które zwiększa wygodę i efektywność korzystania z Alex.ai.
+
+### Funkcje Spersonalizowanego Interfejsu
+
+1. **Integracja z Samsung One UI**: Spersonalizowany interfejs dostosowany do Samsung One UI zapewnia płynne i intuicyjne doświadczenie użytkownika.
+2. **Personalizowane Motywy**: Użytkownicy mogą wybierać spośród różnych motywów, aby dopasować wygląd i styl interfejsu do swoich preferencji.
+3. **Optymalizacja dla Samsung DeX**: Funkcjonalność Alex.ai jest zoptymalizowana dla trybu Samsung DeX, umożliwiając efektywną pracę w trybie desktopowym.
+4. **Funkcje Specyficzne dla Samsung**: Spersonalizowany interfejs wykorzystuje unikalne funkcje urządzeń Samsung, takie jak S Pen, Bixby, oraz zaawansowane ustawienia wyświetlania.
+
+### Kroki Konfiguracyjne
+
+1. **Pobranie i Instalacja**:
+    - Pobierz plik instalacyjny Alex.ai z naszej strony internetowej. 
+    - Zainstaluj aplikację na swoim urządzeniu Samsung.
+
+2. **Aktywacja Spersonalizowanego Interfejsu**:
+    - Otwórz aplikację Alex.ai i przejdź do ustawień.
+    - Wybierz opcję "Spersonalizowany Interfejs Samsung" i aktywuj funkcję.
+    - Wybierz preferowane motywy i dostosuj ustawienia interfejsu zgodnie ze swoimi upodobaniami.
+
+3. **Optymalizacja Dla Samsung DeX**:
+    - Podłącz swoje urządzenie Samsung do stacji DeX lub monitora za pomocą kompatybilnego kabla.
+    - Otwórz aplikację Alex.ai w trybie DeX i korzystaj z pełnej funkcjonalności w trybie desktopowym.
+
+### Wsparcie Techniczne
+
+W przypadku jakichkolwiek pytań lub problemów z instalacją i konfiguracją spersonalizowanego interfejsu użytkownika Samsung, prosimy o kontakt z naszym zespołem wsparcia technicznego:
+- E-mail: gutkowskialeksander47@gmail.com
+
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za wsparcie i zaufanie. Cieszymy się, że możemy dostarczać innowacyjne rozwiązania, które ułatwiają i wzbogacają Wasze doświadczenia z urządzeniami Samsung oraz Alex.ai
+
+
 
 
 ## zgodaAi
