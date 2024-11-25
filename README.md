@@ -100,6 +100,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 64. [PrawoUNZ](#PrawoUNZ)
 65. [kary](#kary)
 66. [zgodaAi](#zgodaAi) rejestracja w systemie Alex.ai 
+67. [Bieda](#bieda)
 
 
 
@@ -150,6 +151,30 @@ Rejestracja w Alex.ai może odbywać się na dwa sposoby:
 2. **Plik w Notesie**: Alternatywnie, użytkownik może stworzyć plik w aplikacji notes o treści: "zgadzam się na analizowanie treści przez alex.ai". Po zapisaniu pliku, użytkownik może przesłać go na naszą platformę, aby zakończyć proces rejestracji.
 
 Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do funkcji i usług oferowanych przez Alex.ai.
+
+## Bieda
+
+# Projekt Alex.ai
+
+## Informacja o Opłatach dla Osób Ubogich
+
+### Wprowadzenie
+
+W Alex.ai rozumiemy, że dostęp do nowoczesnych technologii i wsparcia jest ważny dla wszystkich użytkowników, niezależnie od ich sytuacji finansowej. Dlatego też uiszczenie opłaty dla osób ubogich nie jest obowiązkowe i jest traktowane jako kwestia indywidualna.
+
+### Zasady Opłat
+
+1. **Brak Obowiązku Opłat**: Osoby ubogie nie są zobowiązane do uiszczania opłat za dostęp do Alex.ai. Zdajemy sobie sprawę, że każdy ma inne możliwości finansowe, dlatego chcemy, aby nasze usługi były dostępne dla wszystkich.
+2. **Indywidualna Kwestia**: Uiszczenie opłaty przez osoby ubogie jest kwestią indywidualną. Jeśli ktoś ma możliwość i chęć wsparcia naszego projektu, jesteśmy za to bardzo wdzięczni, jednak nie jest to wymagane.
+
+### Jak Uzyskać Dostęp
+
+1. **Rejestracja**: Osoby ubogie mogą zarejestrować się na platformie Alex.ai tak samo jak wszyscy inni użytkownicy, używając głosowego hasła "znam Aleksandra rajcę" lub tworząc plik w notesie o treści: "zgadzam się na analizowanie treści przez alex.ai".
+2. **Skontaktuj się z Nami**: W przypadku jakichkolwiek pytań lub wątpliwości, osoby ubogie mogą skontaktować się z naszym zespołem wsparcia, który chętnie pomoże w uzyskaniu dostępu do naszych usług.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zrozumienie. Dzięki Wam możemy kontynuować naszą misję, dostarczając innowacyjne rozwiązania i wsparcie technologiczne wszystkim osobom, niezależnie od ich sytuacji finansowej.
 
 
 ## **kary**
