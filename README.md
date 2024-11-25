@@ -206,7 +206,7 @@ Celem Nauki UiD jest:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za udział w procesie Nauki UiD. Dzięki Waszemu zaangażowaniu możemy wspólnie rozwijać i doskonalić nasze umiejętności.
 
-##finanse 
+## finanse 
 
 # Projekt Alex.ai
 
