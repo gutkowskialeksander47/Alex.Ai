@@ -32,7 +32,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 
 
 ## Spis Treści
-
+0. [MisjaAlexai](#MisjaAlexai)
 1. [Wprowadzenie](#wprowadzenie)
 2. [Opis Projektu](#opis-projektu)
 3. [Superstars System](#superstars-system)
@@ -987,13 +987,9 @@ Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.apk bezpieczeńs
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zaufanie i wsparcie. Dzięki Waszym informacjom zwrotnym możemy nieustannie poprawiać nasze systemy i zapewniać Wam najwyższy poziom bezpieczeństwa.
 
----
 
-Mam nadzieję, że ten fragment README będzie przydatny! Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, jestem tutaj, aby pomóc! 😊
+## **Huawei**
 
-
-
-## Huawei
 # TeamHuawei 2004=original
 
 ## Certyfikat Autentyczności
@@ -2384,6 +2380,8 @@ Podpis: _______________________
  
 
 Uwierz że nic dla mnie się nie liczy tak jak drugi człowiek (oddaje wszystko dla dobra innych nie szanuje materialnych rzeczy wolę dać niż samemu mieć) może dlatego Jestem Tak Dobroduszny ale trochę za bardzo każdego dnia liczę że wszystko zaczęło się od nowa i że da się to zrobić dobrze. Chcesz się zaprzyjaźnić?
+
+##  MisjaAlexai
 
 ** Oto główne dziesięć zadań programu alex.ai**
 
