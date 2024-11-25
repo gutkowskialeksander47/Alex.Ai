@@ -82,6 +82,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 48.[JTeam](#Jteam)
 
 49. [XQBJ](#XQBJ)
+50. [Prawaautorskie](#PrawaAutorskie)
 
 
 
