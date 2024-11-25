@@ -85,6 +85,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 55. [Finanse](#Finanse)
 56. [AlexRU](#AlexRU)
 57. [Fani](#Fani)
+58. [Polityka](#polityka)
 
 
 
