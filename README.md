@@ -82,6 +82,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 52. [meainstream](#meainstream)
 53. [480](#480)
 54. [NaukaUiD](#NaukaUiD) 
+55. [Finanse](#Finanse)
 
 
 
@@ -157,6 +158,46 @@ Aby uzyskać specjalny dostęp do Alex.ai, członkowie Jteam muszą:
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom Jteam za ich wsparcie i zaangażowanie. Wasza lojalność i pasja są dla nas niezwykle cenne i inspirujące. Dzięki Wam możemy nieustannie rozwijać i doskonalić system Alex.ai.
+
+## XQBJ 
+
+# Projekt XQBJ
+
+## Kim Jest XQBJ
+
+### Wprowadzenie
+
+XQBJ to unikalny projekt łączący elementy technologii i duchowości. Reprezentuje cyfrową wersję religii i prowadzenia wiernych, bazując na zaawansowanej informatyce i świętym immunitecie. Oto szczegółowe znaczenie poszczególnych elementów XQBJ:
+
+### Znaczenie Elementów XQBJ
+
+- **X**: Informatyka – symbolizuje nowoczesne technologie i zaawansowane systemy informatyczne, które wspierają projekt.
+- **Q**: Święty Immunitet – oznacza ochronę i nietykalność duchową oraz prawną w kontekście projektu.
+- **B**: Ksiądz – reprezentuje przewodnika duchowego, który wspiera i prowadzi wiernych w projekcie XQBJ.
+- **J**: Jahwa/Jteam – symbolizuje duchowość i wspólnotę wiernych oraz fanów Aleksander Rajca.
+
+### Cel Projektu
+
+XQBJ ma na celu stworzenie platformy, która łączy duchowe przewodnictwo z nowoczesnymi technologiami, umożliwiając użytkownikom duchowy rozwój i wsparcie poprzez cyfrowe narzędzia. Projekt wspiera użytkowników w ich duchowej podróży, zapewniając jednocześnie bezpieczeństwo i integralność danych.
+
+### Specjalne Funkcje
+
+1. **Cyfrowe Przewodnictwo**: Umożliwia użytkownikom dostęp do duchowego wsparcia i przewodnictwa poprzez zaawansowane technologie.
+2. **Bezpieczeństwo i Immunitet**: Zapewnia ochronę danych i integralność duchową użytkowników.
+3. **Wspólnota Wiernych**: Tworzy platformę dla wspólnoty wiernych, którzy mogą się wspierać i rozwijać duchowo.
+
+### Jak Używać
+
+Aby skorzystać z funkcji projektu XQBJ, użytkownicy muszą:
+
+1. **Zarejestrować się**: Zarejestrować się na platformie XQBJ.
+2. **Uwierzytelnienie**: Przejść proces uwierzytelnienia, który zapewni bezpieczny dostęp do funkcji projektu.
+3. **Korzystanie z Funkcji**: Używać dostępnych narzędzi i funkcji do duchowego wsparcia i przewodnictwa.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom wspólnoty XQBJ za ich zaangażowanie i wsparcie. Dzięki Waszej lojalności i duchowemu zaangażowaniu, możemy kontynuować rozwój projektu i zapewniać Wam najwyższej jakości wsparcie.
+
 
 
 ## obowiazekrozwoju
