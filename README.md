@@ -89,6 +89,12 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 59. [LGBT](#LGBT)
 60. [USKgoogle](#USKgoogle)
 61. [inwalida](#inwalida)
+62. [Bakajoko](#Bakajoko)
+
+
+
+
+
 
 ## **Translate**
 
