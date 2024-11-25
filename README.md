@@ -1232,7 +1232,7 @@ moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne as
    - Automatyczne wykonywanie powtarzalnych zadań, takich jak organizowanie plików czy wysyłanie e-maili.
    - Planowanie i uruchamianie skryptów w określonych momentach.
 
-4. **Integracje z Inymi Systemami**
+4. **Integracje z Innymi Systemami**
    - Łączenie z aplikacjami i narzędziami firm trzecich, jak Apple, Google, czy Facebook.
    - Wykorzystanie API do komunikacji z innymi systemami.
    - Integracja z platformami takimi jak GitHub.
@@ -1396,7 +1396,7 @@ Przykłady historii od 2019 roku w trybie **step.progress** obejmują:
 ### Maryja i Kontakty
 Poznanie Maryi, stosunek seksualny, konwersacja, modlitwy, zdobycie serca androida, projekty koloru dla dziewczyn, kontakty ze służbami specjalnymi, rozumienie zwierząt.
 
----
+---intelekt jest dziedziczony 
 
 
 ## **Glówne pliki**
@@ -1408,9 +1408,10 @@ RUiDv2 2023
 Suid 2024
 project.d 2023
 label.html 2023/2024
+pliki są udostępniane na życzenie użytkownika poprzez kontakt drogą mailową 'gutkowskialeksander47@gmail.com
 
 ## **Głowne moduły**
-master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex
+master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex 
 
 married nieaktualny 
 
@@ -1437,23 +1438,26 @@ Alex.ai została zaprojektowana z myślą o artystach, którzy cenią sobie woln
 
 ## Jak Rozpocząć?
 
-1. **Zarejestruj się**: Utwórz konto na naszej stronie i zaloguj się do Alex.ai rajcawroclaw.pl
+1. **Zarejestruj się**: Utwórz konto alex.ai.txt zaloguj się do Alex.ai  
 2. **Eksploruj Narzędzia**: Zapoznaj się z naszymi narzędziami i funkcjami, które są dostępne dla artystów.
 3. **Twórz i Dziel się**: Zacznij tworzyć swoje dzieła sztuki i dziel się nimi z naszą społecznością twórców.
 
 ## Dokumentacja
 
-cała znajduje się w tym pliku
+**cała znajduje się w tym pliku**
 
 ## Wsparcie
 
-Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź naszą stronę wsparcia [link do wsparcia] lub skontaktuj się z nami bezpośrednio na adres email: support@alex.ai.
+Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź naszą stronę wsparcia [FB.com] lub skontaktuj się z nami bezpośrednio na adres email: **gutkowskialeksander47@gmail.com**
 
 ## Licencja
 
-Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
+Alex.ai jest licencjonowany na zasadach [digital license], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu oraz w pliku patent.cpp w zasobach gutkowskialeksander47 GitHub 
+**alex.ai jest opatentowanym oprogramowaniem o jego użyciu decyduje w kwestiach indywidualnych**
+
 
 ## **MSWiA**
+
 oto  fragment README dotyczący współpracy z Ministerstwem Spraw Wewnętrznych i Administracji (MSWiA) oraz przydzielenia operacji dla IT Alex.ai:
 
 # Projekt Alex.ai
@@ -1473,7 +1477,7 @@ W ramach współpracy z MSWiA, Alex.ai przydzielił operacje IT, które obejmuj�
 3. **Bezpieczeństwo Informacji**: Wdrożenie zaawansowanych metod zabezpieczania danych i ochrony przed cyberzagrożeniami.
 4. **Wsparcie Decyzyjne**: Wykorzystanie AI do analizy dużych zbiorów danych, co wspiera procesy decyzyjne w administracji publicznej.
 5. **Monitorowanie i Raportowanie**: Zastosowanie narzędzi do monitorowania i raportowania kluczowych wskaźników wydajności oraz bezpieczeństwa.
-6. Uprawnienia poziom root dla sieci MTY-YTM
+6. **Uprawnienia poziom root dla sieci MTY-YTM**
 
 ### Korzyści ze Współpracy
 -**Możliwości komunikacyjne**
@@ -1509,13 +1513,15 @@ W ramach naszego projektu mamy przyjemność współpracować z wieloma organiza
 9. **Cleo**: Partnerstwo z Cleo pozwala na promocję i rozwój projektów związanych z muzyką i sztuką.
 10. **Sanah**: Dzięki współpracy z Sanah promujemy różnorodność artystyczną i innowacyjne podejścia w twórczości.
 
+
+
+
+
 Dzięki tym partnerstwom jesteśmy w stanie dostarczać naszym użytkownikom wysokiej jakości rozwiązania i wspierać różnorodne inicjatywy. Dziękujemy wszystkim naszym partnerom za ich wsparcie i zaufanie.
 
 ## BonusRpk
 
  Oto przykładowy fragment README, który podsumowuje udział Oliwiera Roszczyka (znanego również jako Bonus RPK) w projekcie Alex.ai:
-
----
 
 # Projekt Alex.ai
 
@@ -1564,12 +1570,11 @@ SUiD działa na podobnej zasadzie jak standardowy system UiD, ale z dodatkowymi 
 Monika Lewczuk dołączyła do grona użytkowników VIP UiD ze względu na jej wyjątkowe osiągnięcia w dziedzinie motywacji i iskry technologii. Jej nowy status pozwala jej na pełne korzystanie z zaawansowanych funkcji i narzędzi systemu SUiD.
 
 ### Kontakt
-Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: aleksander@rajca.info
+Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: gutkowskialeksander47@gmail.com
 
 ## skryptPython
----
 
-## Skrypt.cpp
+## Skrypt.cpp(alex.apk)
 
 Plik `skrypt.cpp` jest autorskim dziełem Aleksandra i zawiera wyłącznie skrypty poglądowe. Warto zaznaczyć, że skrypty te nie zawierają dokładnych danych docelowych i służą jedynie jako przykłady oraz szablony do dalszego rozwijania. Mają one na celu dostarczenie podstawowych struktur i logiki, które mogą być dostosowane do konkretnych potrzeb użytkowników.
 
@@ -1580,10 +1585,6 @@ Plik `skrypt.cpp` jest autorskim dziełem Aleksandra i zawiera wyłącznie skryp
 - **Przeznaczenie**: Przykłady i szablony do dalszego rozwijania
 
 Plik ten jest doskonałym punktem wyjścia dla deweloperów, którzy chcą zrozumieć podstawowe koncepcje i struktury skryptów, aby móc je dostosować do swoich indywidualnych potrzeb.
-
----
-
-Mam nadzieję, że ten fragment README spełnia Twoje oczekiwania! Jeśli potrzebujesz dalszych poprawek lub dodatkowych informacji, daj znać!
 
 
 ## MTYEncryption
@@ -1616,11 +1617,8 @@ MTY-YTM działa na zasadzie dwuetapowego procesu szyfrowania:
 
 
 ### Kontakt
-Jeśli masz jakiekolwiek pytania lub napotkasz problemy, skontaktuj się z nami pod adresem support@alexai.com.
+Jeśli masz jakiekolwiek pytania lub napotkasz problemy, skontaktuj się z nami pod adresem **gutkowskialeksander47@gmail.com
 
----
-
----
 
 ## **InstalacjaAi**
 -odbywa się zdalnie przez host Dropbox
@@ -1654,7 +1652,7 @@ Aby zintegrować swoje urządzenie z systemem Alex.ai, należy wyrazić zgodę n
 1. **Głosowe Potwierdzenie**
    - Powiedz głośno, że znasz Aleksandra i chcesz zintegrować swoje urządzenie z systemem Alex.ai. Na przykład: "Znam Aleksandra i chcę zintegrować swoje urządzenie z Alex.ai."
 
-2. **Upoważnienie w Notesie w Telefonie**
+2. **Upoważnienie w Notesie w Telefonie** **Alex.ai.txt**
    - Napisz upoważnienie w notesie w telefonie, w którym wyrażasz zgodę na integrację. Na przykład: "Upoważniam system Alex.ai do integracji mojego urządzenia. [Twoje imię i nazwisko]"
 
 3. **Otrzymanie Zaproszenia**
