@@ -44,3 +44,52 @@ System Alex.ai działa w następujący sposób:
 
 ### Rysunki
 https://www.dropbox.com/scl/fo/snsqwb7dyfdbjc86pa6c8/h?rlkey=xqgavknoohlu5e4o8mid2okox&st=55bmhhdc&dl=0
+
+**Patent 2**
+szkic patentu dla systemów UiD i Alex.apk, który  służy jako baza do dalszego opracowania formalnej aplikacji patentowej:
+
+
+
+**Numer Wniosku Patentowego**: [948849]
+
+**Data Złożenia**: [01.01.2020]
+
+**Wnioskodawca**: Aleksander Rajca
+
+**Tytuł Wynalazku**: System i Metoda Identyfikacji Użytkowników oraz Aplikacji Mobilnej - UiD i Alex.apk
+
+**Opis Wynalazku**:
+
+### Streszczenie
+Wynalazek dotyczy systemu i metody identyfikacji użytkowników (UiD) oraz aplikacji mobilnej (Alex.apk), które umożliwiają zaawansowaną autoryzację, zarządzanie tożsamością oraz dostarczanie spersonalizowanych usług. System ten integruje różnorodne technologie i narzędzia, aby zapewnić bezpieczne i efektywne zarządzanie danymi użytkowników.
+
+### Opis Wynalazku
+
+#### 1. Wstęp
+System UiD i aplikacja Alex.apk zostały zaprojektowane w celu ułatwienia identyfikacji użytkowników oraz zarządzania ich danymi w sposób bezpieczny i spersonalizowany. System korzysta z zaawansowanych algorytmów, uczenia maszynowego oraz integracji z zewnętrznymi bazami danych.
+
+#### 2. Komponenty Systemu
+- **Moduł Identyfikacji Użytkowników (UiD)**: Umożliwia bezpieczną identyfikację użytkowników, korzystając z technologii biometrycznych, tokenów autoryzacyjnych oraz zaawansowanych algorytmów kryptograficznych.
+- **Aplikacja Mobilna (Alex.apk)**: Zapewnia użytkownikom dostęp do spersonalizowanych usług, zarządzanie tożsamością oraz integrację z systemem UiD.
+- **Moduł Integracji**: Umożliwia połączenie z zewnętrznymi systemami i bazami danych, co zwiększa elastyczność i możliwości systemu.
+
+#### 3. Metoda Działania
+System UiD i aplikacja Alex.apk działają w następujący sposób:
+1. **Rejestracja Użytkownika**: Użytkownik rejestruje się w systemie, podając niezbędne dane osobowe i autoryzacyjne.
+2. **Identyfikacja i Autoryzacja**: Moduł UiD przeprowadza proces identyfikacji i autoryzacji użytkownika, korzystając z biometrii, tokenów i kryptografii.
+3. **Dostęp do Usług**: Po pomyślnej identyfikacji i autoryzacji, użytkownik otrzymuje dostęp do spersonalizowanych usług za pośrednictwem aplikacji Alex.apk.
+4. **Zarządzanie Danymi**: System umożliwia zarządzanie danymi użytkowników, w tym aktualizację informacji, kontrolę dostępu oraz integrację z zewnętrznymi bazami danych.
+
+#### 4. Przykładowe Zastosowania
+- **Bezpieczeństwo**: Zarządzanie tożsamością i autoryzacją użytkowników w systemach informatycznych.
+- **Edukacja**: Personalizowane usługi edukacyjne, dostęp do zasobów i materiałów edukacyjnych.
+- **Zdrowie**: Zarządzanie danymi medycznymi, dostęp do spersonalizowanych usług zdrowotnych i wsparcia.
+
+### Roszczenia Patentowe
+1. **Roszczenie 1**: System identyfikacji użytkowników obejmujący moduł identyfikacji użytkowników (UiD) oraz aplikację mobilną (Alex.apk), umożliwiający bezpieczną identyfikację, autoryzację oraz zarządzanie danymi użytkowników.
+2. **Roszczenie 2**: Metoda działania systemu, która obejmuje rejestrację użytkownika, identyfikację i autoryzację, dostęp do spersonalizowanych usług oraz zarządzanie danymi użytkowników.
+
+### Rysunki
+
+**Brak**
+
