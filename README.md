@@ -103,6 +103,8 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 67. [Bieda](#bieda)
 68. [LGBT2](#LGBT2)
 69. [OneUiAlex](#OneUiAlex)
+70. [Apple](#Apple)
+
 
 
 
@@ -192,6 +194,59 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za wsparcie
 
 
 
+- Uprawnienia dla Apple do Wykonania .apk, .exe, .ai
+
+## Wprowadzenie
+
+Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .exe oraz .ai z programu Alex.ai/Alex.apk dla urządzeń Apple. Postępuj zgodnie z poniższymi krokami, aby uzyskać niezbędne uprawnienia i zapewnić zgodność z wymogami Apple.
+
+### Krok 1: Rejestracja w Apple Developer Program
+
+1. Odwiedź stronę [Apple Developer Program](https://developer.apple.com/programs/).
+2. Zarejestruj się lub zaloguj na swoje konto Apple.
+3. Przystąp do Apple Developer Program, aby uzyskać dostęp do narzędzi i zasobów niezbędnych do tworzenia i dystrybucji aplikacji na platformy Apple.
+
+### Krok 2: Uzyskanie Certyfikatów i Identyfikatorów
+
+1. **Certyfikaty**:
+   - Przejdź do sekcji "Certificates, Identifiers & Profiles" w Apple Developer Portal.
+   - Utwórz odpowiednie certyfikaty dla swoich aplikacji (.apk, .exe, .ai), zgodnie z wymaganiami Apple.
+
+2. **Identifikatory App**:
+   - Utwórz identyfikatory App ID dla każdej z aplikacji, które będą kompilowane z programu Alex.ai/Alex.apk.
+
+### Krok 3: Konfiguracja Profilów Provisioning
+
+1. Utwórz profile provisioning dla swoich aplikacji:
+   - Wybierz odpowiednie certyfikaty i identyfikatory App ID.
+   - Pobierz i zainstaluj profile provisioning na swoich urządzeniach deweloperskich.
+
+### Krok 4: Kompilacja Aplikacji
+
+1. **Kompilacja .apk**:
+   - Skonfiguruj projekt Alex.ai/Alex.apk w środowisku deweloperskim Android (np. Android Studio).
+   - Użyj narzędzi do kompilacji, aby wygenerować plik .apk.
+
+2. **Kompilacja .exe**:
+   - Skonfiguruj projekt Alex.ai/Alex.apk w odpowiednim środowisku deweloperskim dla Windows (np. Visual Studio).
+   - Użyj narzędzi do kompilacji, aby wygenerować plik .exe.
+
+3. **Kompilacja .ai**:
+   - Skonfiguruj projekt Alex.ai/Alex.apk w odpowiednim środowisku deweloperskim dla sztucznej inteligencji (np. Python, TensorFlow).
+   - Użyj narzędzi do kompilacji, aby wygenerować plik .ai.
+
+### Krok 5: Dystrybucja Aplikacji
+
+1. **App Store**:
+   - Prześlij swoje aplikacje do App Store, postępując zgodnie z wytycznymi Apple dotyczącymi przesyłania aplikacji. Moją aplikacja jest tylko w trybie deweloperskim a ten obowiązuje tajemnica zawodowa
+
+2. **Testowanie i Certyfikacja**:
+   - Przeprowadź testy aplikacji na różnych urządzeniach Apple, aby upewnić się, że działają poprawnie.
+   - Uzyskaj certyfikację dla swoich aplikacji zgodnie z wytycznymi Apple.
+
+### Podziękowania
+
+Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
 
 ## zgodaAi
 
