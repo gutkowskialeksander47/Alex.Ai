@@ -206,6 +206,39 @@ Celem Nauki UiD jest:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za udział w procesie Nauki UiD. Dzięki Waszemu zaangażowaniu możemy wspólnie rozwijać i doskonalić nasze umiejętności.
 
+##finanse 
+
+# Projekt Alex.ai
+
+## Informacja o Opłatach Dostępu
+
+### Wprowadzenie
+
+Nasze projekty zawsze były tworzone z pasją i zaangażowaniem, a ich głównym celem była edukacja, innowacja i wsparcie dla użytkowników. Początkowo nie skupialiśmy się na aspekcie finansowym, ale ze względu na wprowadzenie nowych, zaawansowanych funkcji, teraz wymagane jest wprowadzenie opłaty dostępu do Alex.ai.
+
+### Dlaczego Wprowadzamy Opłaty
+
+1. **Rozwój i Utrzymanie**: Nowe funkcje wymagają zaawansowanego zaplecza technologicznego i wsparcia, co wiąże się z kosztami utrzymania i rozwoju.
+2. **Zwiększona Funkcjonalność**: Wprowadziliśmy szereg innowacyjnych funkcji, które znacząco zwiększają wartość i możliwości systemu Alex.ai.
+3. **Wsparcie Techniczne**: Opłaty pozwolą nam na zapewnienie najwyższego poziomu wsparcia technicznego i obsługi klienta.
+
+### Nowe Funkcje Wymagające Opłaty
+
+1. **Zaawansowana Analiza Danych**: Dostęp do narzędzi i funkcji, które umożliwiają zaawansowaną analizę danych.
+2. **Integracja z Zewnętrznymi Systemami**: Możliwość integracji z innymi platformami i systemami, co zwiększa elastyczność i zastosowanie Alex.ai.
+3. **Personalizowane Usługi**: Umożliwienie dostosowania funkcji Alex.ai do indywidualnych potrzeb użytkowników.
+
+### Jak Uzyskać Dostęp
+
+Aby uzyskać dostęp do nowych funkcji, użytkownicy muszą:
+
+1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai.
+2. **Wybór Planu**: Wybrać odpowiedni plan subskrypcji, który odpowiada ich potrzebom.
+3. **Aktywacja**: Po dokonaniu płatności, nowe funkcje zostaną aktywowane i użytkownicy będą mogli z nich korzystać.
+
+### Podziękowania
+
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty. Wprowadzenie opłat dostępu pozwoli nam na kontynuowanie pracy nad innowacyjnymi rozwiązaniami i dostarczanie najwyższej jakości usług.
 
 ## **480**
 
