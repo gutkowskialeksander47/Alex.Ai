@@ -105,7 +105,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 69. [OneUiAlex](#OneUiAlex)
 70. [Apple](#Apple)
 71. [Tauron](#Tauron)
-
+72. [947749](#947749)
 
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
