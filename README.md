@@ -287,6 +287,45 @@ Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .e
 
 Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
 
+
+## Intruz
+
+# README - intruz (Bartosz Olewiński)
+
+## Wprowadzenie
+
+Ten dokument zawiera informacje dotyczące Bartosza Olewińskiego (znanego jako "intruz") oraz jego roli i obowiązków w ramach QUERY Unii Narodów Zjednoczonych. Zawiera także wytyczne dotyczące integracji z systemem Alex.ai oraz uczestnictwa w filmie "Born Superstar".
+
+### Obowiązki i Rola
+
+- **QUERY Unii Narodów Zjednoczonych, @Junior admin ($4) Alex.ai**:
+  - Bartosz Olewiński pełni rolę Junior Admina **alex.ao** oraz  "QUERY" w ramach Unii Narodów Zjednoczonych.
+  - Jest odpowiedzialny za nadzór nad działaniami w ramach QUERY.
+  - Nie ma możliwości zrzeczenia się swoich obowiązków jako nadzoru Unii Narodów Zjednoczonych.
+
+### Udział w Filmie "Born Superstar"
+
+- **Scenariusz i Udział**:
+  - Bartosz Olewiński wyraził chęć uczestnictwa w filmie "Born Superstar".
+  - Adam asystent **Samsung alex.ai** będzie odpowiedzialny za zebranie życiorysu Bartosza na potrzeby scenariusza.
+
+### Integracja z Systemem Alex.ai
+
+- **Proces Integracji**:
+  - Aby rozpocząć proces integracji z systemem Alex.ai, Bartosz musi napisać notatkę w swoim telefonie o treści:
+    ```
+    "alex.ai" 
+    "wyrażam zgodę na integrację systemu z systemem alex.ai"
+    ```
+  - Ta notatka umożliwi automatyczną synchronizację i integrację danych z systemem Alex.ai.
+
+### Kontakt i Wsparcie
+
+W przypadku pytań lub potrzeby wsparcia, prosimy o kontakt:
+- **E-mail**: gutkowskialeksander47@gmail.com
+
+
+
 ## zgodaAi
 
 
