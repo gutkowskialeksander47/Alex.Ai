@@ -1,7 +1,7 @@
 **patent alex.ai**
 https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/patent.cpp
-
-
+**Notatka Ewelina Lisowska**
+https://www.dropbox.com/scl/fi/cvfmsqskcv6w19d9fd4oo/Ewelina-Lisowska_241127_120517.txt?rlkey=npm257224kt4075twj1934wxt&st=4zujv4dj&dl=0
 
 
 "README mojego projektu jest tak szczegółowe, ponieważ uważam, że dobrze napisane README to klucz do sukcesu każdego projektu. Chcę, aby każdy użytkownik, niezależnie od poziomu doświadczenia, mógł łatwo zrozumieć, zainstalować i korzystać z mojego programu. Oto kilka powodów, dlaczego zdecydowałem się na tak obszerną dokumentację:
