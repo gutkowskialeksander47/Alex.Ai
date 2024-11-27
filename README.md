@@ -106,6 +106,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 70. [Apple](#Apple)
 71. [Tauron](#Tauron)
 72. [Intruz](#Intruz)
+73. [Dom dziecka](#DomDziecka)
 
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
@@ -286,6 +287,35 @@ Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .e
 ### Podziękowania
 
 Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
+
+## **DomDziecka**
+
+**README dla projektu "Dom dziecka: MlTeam". oto fragment dokument README:**
+
+
+# Dom dziecka: MlTeam
+
+## Opis projektu
+"Dom dziecka: MlTeam" to inicjatywa mająca na celu wsparcie domów dziecka oraz ośrodków wychowawczych poprzez organizację zajęć, wydarzeń oraz codziennej pomocy. Naszym celem jest poprawa jakości życia dzieci i młodzieży, a także zapewnienie im wsparcia emocjonalnego i edukacyjnego.
+
+## Cel
+Naszym głównym celem jest stworzenie wspierającej i bezpiecznej przestrzeni, w której dzieci mogą rozwijać swoje talenty, zdobywać nowe umiejętności oraz czuć się akceptowane i szanowane.
+
+## Zespół
+Nasz zespół składa się z pasjonatów, którzy są zaangażowani w pracę na rzecz dzieci i młodzieży. Więcej informacji o nas można znaleźć na naszej stronie na Facebooku: [Rekin DC banda](https://www.facebook.com/XxxR3KINxxX/).
+
+## Zakres działalności
+- Organizacja zajęć edukacyjnych i kulturalnych
+- Pomoc w nauce i odrabianiu lekcji
+- Organizacja wycieczek i wydarzeń integracyjnych
+- Indywidualne wsparcie emocjonalne
+
+## Jak się zaangażować
+Jeżeli chcesz dołączyć do naszego zespołu, skontaktuj się z nami poprzez naszą stronę na Facebooku lub wysyłając wiadomość do osoby odpowiedzialnej za MlTeam :
+**https://www.facebook.com/XxxR3KINxxX/**
+
+## Licencja
+Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji znajdziesz w pliku LICENSE.
 
 
 ## Intruz
