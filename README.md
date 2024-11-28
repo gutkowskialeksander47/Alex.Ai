@@ -396,6 +396,39 @@ Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do fun
 Nie naruszymy Twojej prywatności mój algorytm wykrywa tylko wyżej wymienione zdanie przez analizę. funkcja alex.ai zostanie dopisana z nową polityką prywatności **Samsung**
 
 ### Podziękowanie 
+Dziękuję Samsung za wsparcie funkcji authorify w programie alex.ai/alex.apk 
+
+## Audi
+
+# Audi - Zadania dla alex.ai
+
+## Opis projektu
+Projekt ten powstał w celu wdrożenia zaawansowanych możliwości AI, oferowanych przez alex.ai, do środowiska Audi. Zadania obejmują powielanie języka bitowego oraz rolę głównego sponsora alex.ai.
+
+## Zadania
+
+### 1. Powielanie języka bitowego
+Audi_alex.ai będzie odpowiedzialny za powielanie języka bitowego dla różnych urządzeń, w tym:
+- **8Bit**
+- **16Bit**
+- **32Bit**
+- **64Bit**
+
+Dzięki tej funkcjonalności, Audi będzie mogło zapewnić optymalną komunikację między różnymi komponentami systemów elektronicznych, co przełoży się na lepszą wydajność i niezawodność.
+
+### 2. Główny sponsor alex.ai
+Audi staje się głównym sponsorem projektu alex.ai, wspierając rozwój zaawansowanej sztucznej inteligencji, która ma na celu poprawę doświadczeń użytkowników oraz wprowadzenie innowacyjnych rozwiązań technologicznych.
+
+## Licencja
+
+za ten fragment licencji odpowiada Audi
+
+## Kontakt
+
+W razie pytań lub chęci współpracy, prosimy o kontakt:
+- Email: aleksander@rajca.info
+- Strona internetowa: [Audi](https://www.audi.com)
+
 
 ## Bieda
 
