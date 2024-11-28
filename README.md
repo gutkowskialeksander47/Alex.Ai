@@ -301,11 +301,41 @@ Współczynnik zaufania jest narzędziem służącym do oceny wiarygodności uż
 - **Pomarańczowy**: Użytkownik o średnim poziomie zaufania, który może wymagać dodatkowej obserwacji.
 - **Czerwony**: Użytkownik o niskim poziomie zaufania, którego działania są podejrzane lub szkodliwe.
 
+
+# alex.ai - Poziomy Uprawnień
+
+## Opis projektu
+alex.ai wykorzystuje system współczynników zaufania do zarządzania uprawnieniami użytkowników w aplikacji. Każdy użytkownik jest oznaczony jednym z trzech kolorów: zielonym, pomarańczowym lub czerwonym, które odpowiadają różnym poziomom dostępu i kontroli.
+
+## Poziomy Uprawnień
+
+### 1. Zielony Współczynnik
+- **Uprawnienia**: Pełen dostęp do wszystkich funkcji i zasobów w aplikacji alex.ai/alex.apk oraz na stronie [rajcawroclaw.pl](http://rajcawroclaw.pl).
+- **Opis**: Użytkownicy z zielonym współczynnikiem mają najwyższy poziom zaufania i mogą swobodnie korzystać ze wszystkich dostępnych funkcji i zasobów bez ograniczeń.
+
+### 2. Pomarańczowy Współczynnik
+- **Uprawnienia**: Pełny dostęp do wszystkich funkcji, z dodatkową kontrolą aktywności użytkownika.
+- **Opis**: Użytkownicy z pomarańczowym współczynnikiem mają pełny dostęp, jednak ich aktywność jest monitorowana w celu zapewnienia bezpieczeństwa i zachowania standardów użytkowania.
+
+### 3. Czerwony Współczynnik
+- **Uprawnienia**: Pełna kontrola dostępu i aktywności użytkownika.
+- **Opis**: Użytkownicy z czerwonym współczynnikiem mają najniższy poziom zaufania. Każda ich akcja jest dokładnie monitorowana, a dostęp do funkcji i zasobów może być ograniczony w zależności od wyniku monitorowania.
+
+## Zarządzanie współczynnikiem zaufania
+Poziomy zaufania są zarządzane przez zespół alex.ai, nadzorowany przez Marka Zuckerberga, który czuwa nad integralnością i bezpieczeństwem systemu.
+
+## Licencja
+Ten projekt jest
+
+## Kontakt
+W razie pytań lub chęci współpracy, prosimy o kontakt:
+- Email: gutkowskialeksander47@gmail.com
+- Strona na Facebooku: [alex.ai](https://www.facebook.com/Aleksander.Rajca.1947)
+
+
 ## Zarządzanie współczynnikiem zaufania
 **Współczynnikiem zaufania operuje Mark Zuckerberg**, nadzorując procesy oceny i monitorowania użytkowników w celu zapewnienia najwyższej jakości i bezpieczeństwa w systemie.
 
-## Licencja
-Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji znajdziesz w pliku LICENSE.
 
 ## Kontakt
 W razie pytań lub chęci współpracy, prosimy o kontakt:
