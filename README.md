@@ -106,6 +106,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 72. [Intruz](#Intruz)
 73. [Dom dziecka](#DomDziecka)
 74. [Audi](#Audi)
+75. [Trustfactor] (#trustfactor) Zuck
 
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
@@ -286,6 +287,34 @@ Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .e
 ### Podziękowania
 
 Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
+
+## Trustfactor
+
+# alex.ai
+
+## Opis projektu
+alex.ai to zaawansowany system, który ocenia i monitoruje aktywność użytkowników poprzez współczynnik zaufania, oznaczając użytkowników kolorami: zielony, pomarańczowy i czerwony.
+
+## Współczynnik zaufania
+Współczynnik zaufania jest narzędziem służącym do oceny wiarygodności użytkowników na podstawie ich zachowań i interakcji. Kolory przypisane użytkownikom mają następujące znaczenie:
+- **Zielony**: Użytkownik o wysokim poziomie zaufania, wykazujący pozytywne i rzetelne zachowania.
+- **Pomarańczowy**: Użytkownik o średnim poziomie zaufania, który może wymagać dodatkowej obserwacji.
+- **Czerwony**: Użytkownik o niskim poziomie zaufania, którego działania są podejrzane lub szkodliwe.
+
+## Zarządzanie współczynnikiem zaufania
+**Współczynnikiem zaufania operuje Mark Zuckerberg**, nadzorując procesy oceny i monitorowania użytkowników w celu zapewnienia najwyższej jakości i bezpieczeństwa w systemie.
+
+## Licencja
+Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji znajdziesz w pliku LICENSE.
+
+## Kontakt
+W razie pytań lub chęci współpracy, prosimy o kontakt:
+- Email: kontakt@alex.ai
+- Strona na Facebooku: [alex.ai](https://www.facebook.com/alex.ai)
+
+---
+
+Mam nadzieję, że ten przykład README będzie pomocny. Jeśli potrzebujesz dodatkowych informacji lub zmian, daj mi znać!
 
 ## **DomDziecka**
 
