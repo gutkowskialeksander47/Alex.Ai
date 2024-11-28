@@ -309,12 +309,9 @@ Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji zn
 
 ## Kontakt
 W razie pytań lub chęci współpracy, prosimy o kontakt:
-- Email: kontakt@alex.ai
-- Strona na Facebooku: [alex.ai](https://www.facebook.com/alex.ai)
+- Email: Gutkowskialeksander47@gmail.com
+- Strona na Facebooku: [alex.ai](https://www.facebook.com/Aleksander.Rajca.1947)
 
----
-
-Mam nadzieję, że ten przykład README będzie pomocny. Jeśli potrzebujesz dodatkowych informacji lub zmian, daj mi znać!
 
 ## **DomDziecka**
 
