@@ -324,8 +324,7 @@ alex.ai wykorzystuje system współczynników zaufania do zarządzania uprawnien
 ## Zarządzanie współczynnikiem zaufania
 Poziomy zaufania są zarządzane przez zespół alex.ai, nadzorowany przez Marka Zuckerberga, który czuwa nad integralnością i bezpieczeństwem systemu.
 
-## Licencja
-Ten projekt jest
+## Licencja **Facebook**
 
 ## Kontakt
 W razie pytań lub chęci współpracy, prosimy o kontakt:
