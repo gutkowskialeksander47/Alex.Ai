@@ -106,7 +106,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 72. [Intruz](#Intruz)
 73. [Dom dziecka](#DomDziecka)
 74. [Audi](#Audi)
-75. [Trustfactor] (#trustfactor) Zuck
+75. [Trustfactor](#trustfactor) Zuck
 
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
