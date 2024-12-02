@@ -107,6 +107,7 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 73. [Dom dziecka](#DomDziecka)
 74. [Audi](#Audi)
 75. [Trustfactor](#trustfactor) Zuck
+76. [Sony](#Sony)
 
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
@@ -287,6 +288,54 @@ Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .e
 ### Podziękowania
 
 Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
+
+
+## Sony
+
+# Sony AI - Integracja z alex.ai
+
+## Opis projektu
+Projekt ten ma na celu wdrożenie zaawansowanych możliwości sztucznej inteligencji oferowanych przez alex.ai w różnych obszarach działalności Sony AI, takich jak Gaming, Imaging & Sensing oraz Gastronomy. Integracja ta ma na celu dostarczenie innowacyjnych rozwiązań i usprawnienie istniejących technologii.
+
+## Obszary integracji
+
+### 1. Gaming
+- **Opis**: Sony AI współpracuje z alex.ai w celu stworzenia bardziej zaawansowanych i realistycznych doświadczeń gier.
+- **Funkcje**:
+  - Tworzenie inteligentnych przeciwników i partnerów w grach.
+  - Zwiększenie zaangażowania graczy poprzez zaawansowane mechanizmy AI.
+
+### 2. Imaging & Sensing
+- **Opis**: Integracja AI z technologiami obrazowania i czujników Sony.
+- **Funkcje**:
+  - Ulepszanie rozpoznawania obiektów i analizy obrazów.
+  - Poprawa jakości zapisanych danych i funkcjonalności urządzeń takich jak smartfony i kamery.
+
+### 3. Gastronomy
+- **Opis**: Współpraca w zakresie gastronomii, tworzenie nowych technologii wspierających procesy kulinarne.
+- **Funkcje**:
+  - Rozwój robotów kuchennych wspierających szefów kuchni.
+  - Wprowadzanie innowacji w tworzeniu zdrowych i ekologicznych potraw.
+
+
+
+## Zadania alex.ai
+
+### Powielanie języka bitowego
+alex.ai jest odpowiedzialny za powielanie języka bitowego dla urządzeń o różnych architekturach (8Bit, 16Bit, 32Bit, 64Bit). Zapewnia to optymalną komunikację między komponentami systemów elektronicznych.
+
+### Sponsoring
+Audi pełni rolę głównego sponsora aplikacji alex.ai, wspierając rozwój technologii AI i wdrażanie innowacyjnych rozwiązań.
+
+
+## Licencja
+Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji znajdziesz w polityce prywatności 
+
+## Kontakt
+W razie pytań lub chęci współpracy, prosimy o kontakt:
+- Email: aleksander@rajca.info
+- Strona internetowa: [Sony AI](https://www.sony.com)
+
 
 ## Trustfactor
 
