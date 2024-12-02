@@ -361,6 +361,68 @@ def main():
 if __name__ == "__main__":
     main()
    
+import os #apple
+import json #2Fa authorify
+from apple_auth.auth import AppleAuth
+
+# Ustawienia Apple Auth
+CLIENT_ID = os.getenv("APPLE_CLIENT_ID")
+TEAM_ID = os.getenv("APPLE_TEAM_ID")
+KEY_ID = os.getenv("APPLE_KEY_ID")
+PRIVATE_KEY = os.getenv("APPLE_PRIVATE_KEY")
+
+apple_auth = AppleAuth(client_id=CLIENT_ID,
+                       team_id=TEAM_ID,
+                       key_id=KEY_ID,
+                       private_key=PRIVATE_KEY)
+
+def generate_auth_url():
+    # Generowanie URL do autoryzacji Apple
+    auth_url = apple_auth.get_authorization_url()
+    return auth_url
+
+def exchange_code_for_token(auth_code):
+    # Wymiana kodu autoryzacyjnego na token
+    token_response = apple_auth.get_access_token(auth_code)
+    return token_response
+
+def verify_apple_id_token(id_token):
+    # Weryfikacja tokenu ID uzyskanego od Apple
+    user_info = apple_auth.verify_id_token(id_token)
+    return user_info
+
+def authenticate_user(authorization_code):
+    # Główna funkcja autoryzacji użytkownika z użyciem Apple ID
+    token_response = exchange_code_for_token(authorization_code)
+    id_token = token_response["id_token"]
+
+    user_info = verify_apple_id_token(id_token)
+    user_id = user_info["sub"]
+
+    # Zapisanie lub aktualizacja danych użytkownika w bazie danych
+    save_user_in_database(user_id, user_info)
+    return user_id
+
+def save_user_in_database(user_id, user_info):
+    # Implementacja zapisu danych użytkownika w bazie danych
+    with open("users_db.json", "r+") as file:
+        users = json.load(file)
+        users[user_id] = user_info
+        file.seek(0)
+        json.dump(users, file)
+
+# Przykład użycia
+if __name__ == "__main__":
+    # Generowanie linku autoryzacyjnego
+    print("Visit this URL to authenticate:", generate_auth_url())
+
+    # Przyjęcie kodu autoryzacyjnego od użytkownika
+    auth_code = input("Enter the authorization code provided by Apple: ")
+    
+    # Autoryzacja użytkownika
+    user_id = authenticate_user(auth_code)
+    print("User authenticated with ID:", user_id)
+
 import json # Android Activity in value/ aktywnosc android w wartosci
 import androidhelper  # Ta biblioteka pozwala na interakcje z systemem Android
 
