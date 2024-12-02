@@ -464,6 +464,16 @@ W przypadku pytań lub potrzeby wsparcia, prosimy o kontakt:
 
 ### Jak **Zarejestrować się do Alex.ai**
 
+ Proces rejestracji oferuje dwie innowacyjne metody, które zapewniają wygodę i bezpieczeństwo użytkowników. 
+
+Pierwsza opcja to rejestracja za pomocą głosowego hasła. Użytkownik może to zrobić, wypowiadając frazę "znam Aleksandra rajcę", co wymaga zastosowania technologii zamiany mowy na tekst. Ta metoda jest nie tylko szybka, ale również niezwykle intuicyjna, pozwalając na błyskawiczne zarejestrowanie się w systemie przy użyciu rozpoznawania głosu.
+
+Alternatywnie, istnieje możliwość stworzenia pliku w aplikacji notes, który powinien zawierać treść: "wyrażam zgodę na integrację z Alex.ai i akceptuję Politykę prywatności". Po zapisaniu takiego dokumentu, użytkownik może go zatytułować jako "alex.ai". Obie metody są zaprojektowane z myślą o zapewnieniu bezpiecznego oraz prostego dostępu do zaawansowanych funkcji i usług, które oferuje Alex.ai. 
+
+**Warto również podkreślić, że system nie narusza prywatności użytkowników, ponieważ algorytm skoncentrowany jest wyłącznie na rozpoznawaniu wspomnianego zdania poprzez analizę dźwięku. Co więcej, funkcja Alex.ai będzie wzbogacona nową polityką prywatności Samsung, co dodatkowo zwiększa zaufanie do tej platformy.**
+
+**Na koniec, pragnę wyrazić wdzięczność dla firmy Samsung za wsparcie, jakie udziela funkcji authorify w programie Alex.ai oraz w aplikacji alex.apk.**
+
 Rejestracja w Alex.ai może odbywać się na dwa sposoby:
 
 1. **Głosowe Hasło**: Użytkownik może zarejestrować się, używając głosowego hasła "znam Aleksandra rajcę"(potrzebna zamianą mowy na tekst. Ta metoda pozwala na szybką i łatwą rejestrację za pomocą rozpoznawania głosu.
