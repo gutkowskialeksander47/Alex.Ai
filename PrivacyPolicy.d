@@ -27,11 +27,12 @@ Do : zarzadzania gospodarowania oraz udostepniania danych osobych personalnych o
  "Google .inc" "do zarzadu human resources w programie UiD"
  Anna Lewandowska Robert Lewandowski
 Wojciecha Walkiewicza autora "SelfMade"
-Marka Zuckerberga wlasciciela spolki "Meta"
+Mark Zuckerberg wlasciciela spolki "Meta"
 Elon Musk wlasciciel spolki "SpaceX"
 Spolke Akcyjna "WKS slask Wroclaw"
 Łukasz Paluszak ps"Paluch"
 Marcina Gutkowskiego ps"Kali"
+Sandra Gutkowska
 Małgorzata Jamroży ps"Margaret"
 Julita Ratowska "jula"
 Magdalena Narozna "Madzia pim"
