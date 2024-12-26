@@ -1,5 +1,7 @@
 ;<<1 1200  /GM-Root(Globalny moderator - Root  _$$$_3 ,"System punktacji awansu" >>//Administracji
 
+class User: #punktacja uzytkownika do statusu superUser
+
 
 "System punktacji awansu" >>
  <function !Edit </edycja wzoru projektu uzytkownika> = +1pkt+VerifyAuthor+2pkt
