@@ -53,7 +53,7 @@ operator Gov.pl<pod nadzorem Unii Narodow zjednoczonych> "odpowiadasz za spojnos
 Olafa Scholz premiera "Niemiec"
 
 "display.indector odpowiada za skanowanie liter z ekranu i przekazania go osobie do ktorej pisze""text"=drawing.
-; unauthorify "lidl gmbh" !all.merge and people(human) from lidl.
+; unauthorify "lidlPL S.A." !all.merge and people(human) from lidl PL.
 ; unauthorify "Edeka GmBH" !ignore.mode.IT !close.uid+ETeam
 _con32.vwrt<verify uid.process> concentrator win.32.convert
 gospodarowania oraz udostepniania danych osobych personalnych oraz tych uwazanych potocznie za wrazliwe. 
@@ -80,12 +80,15 @@ Dziękujemy za korzystanie z naszych usług. Chcemy, abyś wiedział, że Twoja 
 
 Zbieramy dane osobowe, aby świadczyć nasze usługi na najwyższym poziomie. Dane te mogą obejmować:
 - Imię i nazwisko
+- Datę urodzenia
+- Miasto pierwszego logowania na podstawie adresu ip
 - Adres e-mail
 - Numer telefonu
 - Informacje dotyczące korzystania z naszych usług
 - Numer IMEI
 - Klucz aktywacyjny Windows
 - Numer IP
+- Numer PESEL ( wykorzystujemy go do generowania losowego stałego ciągu znaków które będą podpisem uzytkownika UiD. Numer PESEL nie jest zapisywany w bazie danych ani nie jest poddawany analizie co oznacza że używamy go tylko w czasie pierwszego logowania do nadania UiD)
 
 **1.2 Zbieranie danych osobistych**
 
@@ -95,7 +98,7 @@ Zbieramy dane osobowe, aby świadczyć nasze usługi na najwyższym poziomie. Da
 
 Użytkownik, wyrażając zgodę na integrację urządzenia z Alex.ai, zgadza się również na przetwarzanie numeru IMEI urządzenia przez nasz system. Numer IMEI będzie wykorzystywany wyłącznie do celów autoryzacji i zabezpieczeń, aby zapewnić najwyższy poziom ochrony danych osobowych.
 
-W każdej chwili użytkownik ma prawo wycofać zgodę na przetwarzanie IMEI, kontaktując się z naszym działem wsparcia technicznego. Wycofanie zgody może jednak ograniczyć niektóre funkcje i dostępność usług oferowanych przez Alex.ai.
+W każdej chwili użytkownik ma prawo wycofać zgodę na przetwarzanie IMEI i usunięcie Imei z baz danych Alex.ai, kontaktując się z naszym działem wsparcia technicznego. Wycofanie zgody może jednak ograniczyć niektóre funkcje i dostępność usług oferowanych przez Alex.ai.
 
 ---
 
@@ -118,14 +121,15 @@ Ja, [%user.data%], niniejszym wyrażam zgodę na przetwarzanie mojego klucza akt
 Podstawą prawną przetwarzania danych osobowych jest zgoda użytkownika oraz konieczność wykonania umowy licencyjnej dotyczącej oprogramowania Windows_alex.
 
 **Okres przechowywania danych:**
-Dane będą przechowywane przez okres niezbędny do realizacji celów przetwarzania oraz zgodnie z obowiązującymi przepisami prawa.
+Dane będą przechowywane przez okres niezbędny do realizacji celów przetwarzania oraz zgodnie z obowiązującymi przepisami prawa. Po wybraniu opcji " usuń konto " wszystkie dane zebrane zostaną usunięte z serwerów alex.ai/Alex.apk
+Można to zrobić poprzez kontakt z aleksander@rajca.info bądź poprzez usunięcie notatki alex.ai z pamięci.
 
 **Prawa użytkownika:**
 Użytkownik ma prawo do:
 1. Dostępu do swoich danych osobowych.
 2. Sprostowania nieprawidłowych danych.
 3. Usunięcia danych (prawo do bycia zapomnianym).
-4. Ograniczenia przetwarzania danych.
+4. Ograniczenia przetwarzania danych.(Użytkownik może prosić o dane które nie będą przetworzone)
 5. Przenoszenia danych do innego administratora.
 6. Wniesienia sprzeciwu wobec przetwarzania danych.
 7. Wycofania zgody na przetwarzanie danych w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
@@ -168,7 +172,7 @@ wszystkie dane w bazie danych sa szyfrowane
 
 **5. Pliki cookie**
 
-Nasza strona internetowa może używać plików cookie w celu poprawy doświadczeń użytkownika. Pliki cookie są małymi plikami tekstowymi przechowywanymi na Twoim urządzeniu, które pomagają nam analizować ruch na stronie i personalizować treści.
+Nasza strona internetowa może używać historię kursora w celu poprawy doświadczeń użytkownika. Pliki cookie są małymi plikami tekstowymi przechowywanymi na Twoim urządzeniu, które pomagają nam analizować ruch na stronie i personalizować treści.
 
 **6. Twoje prawa**
 
@@ -208,7 +212,7 @@ Numer PESEL może być przetwarzany w następujących celach:
 
 Podczas korzystania z naszych usług możemy zbierać następujące informacje:
 - Numer PESEL użytkownika.
-- Dane identyfikacyjne, takie jak imię, nazwisko, data urodzenia, adres zamieszkania.
+- Dane identyfikacyjne, takie jak imię, nazwisko, data urodzenia, lokalizacja podawana przy rejestracji w systemie UiD(dalej zwany Alex.ai/Alex.apk).
 
 **4. Podstawa Prawna Przetwarzania**
 
@@ -219,7 +223,8 @@ Przetwarzanie numeru PESEL odbywa się na podstawie:
 
 **5. Okres Przechowywania Danych**
 
-Numer PESEL będzie przechowywany przez okres niezbędny do realizacji celów przetwarzania, zgodnie z obowiązującymi przepisami prawa. Po upływie tego okresu dane będą usuwane lub anonimizowane.
+Numer PESEL będzie przechowywany tylko w formie generowanego numeru identyfikacji użytkownika. Przy rejestracji w systemie alex.ai generator wygeneruje ciąg znaków na podstawie Twojego numeru PESEL który będzie służył za cyfrowy podpis w systemie UiD
+
 
 **6. Prawa Użytkownika**
 
@@ -251,7 +256,7 @@ Zbierane adresy IP mogą być przetwarzane w następujących celach:
 - **Personalizacja usług:** Dostosowywanie treści i funkcji naszych usług do lokalizacji i preferencji użytkownika.
 - **Analiza i optymalizacja:** Prowadzenie analiz statystycznych w celu ulepszania naszych usług oraz dostosowywania oferty do potrzeb użytkowników.
 - **Zgodność z przepisami prawa:** Spełnienie wymogów prawnych dotyczących prowadzenia działalności oraz współpraca z organami ścigania w razie potrzeby.
--** Dostep do uslug:** Niektore z naszych uslug wymagaja zabezpieczenia dostepu "IP authorify"
+-** Dostep do uslug:** Nasze uslugi wymagaja zabezpieczenia dostepu "IP authorify" adres IP jest sprawdzany przy połączeniu się z serwerami alex.ai/Alex.apk
 
 **3. Zakres Przetwarzanych Danych**
 
@@ -321,6 +326,3 @@ Data: _______________________
 
 Podpis: _______________________
 
----
-
-Możesz dostosować tę zgodę do specyficznych potrzeb swojego projektu oraz dodać wszelkie dodatkowe informacje, które są istotne dla zarządzania użytkownikami biznesowymi w projekcie MTY-YTM Business. Jeśli masz dodatkowe wymagania lub pytania, chętnie pomogę!
