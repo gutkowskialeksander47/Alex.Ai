@@ -35,3 +35,86 @@ class User: #punktacja uzytkownika do statusu superUser
  function
  function
  function
+
+class TrustFactorManager: #wspolczynnik zaufania
+    def __init__(self, owner_id):
+        self.owner_id = owner_id
+        self.trust_factors = {chr(i): 0 for i in range(ord('B'), ord('Z') + 1)}
+
+    def edit_trust_factor(self, flag, points, user_id):
+        if user_id != self.owner_id:
+            print(f"Access denied for user {user_id}. Tylko administracja powyzej siodmego poziomu uprawnien moze edytowac wspolczynnik zaufania.")
+            return
+        
+        if flag in self.trust_factors:
+            self.trust_factors[flag] = points
+            print(f"Trust factor for flag {flag} updated to {points}.")
+        else:
+            print(f"Invalid flag: {flag}. Please provide a flag from B to Z.")
+
+    def display_trust_factors(self):
+        for flag, points in self.trust_factors.items():
+            print(f"Flag {flag}: Trust Factor {points}")
+
+# Example usage
+owner_id = "Alex1947PL"
+manager = TrustFactorManager(XQBJ)
+
+
+
+# Owner edits Trust Factor (example user_id: "your_unique_id")
+manager.edit_trust_factor('B', 10, owner_id)  # Should update Trust Factor
+
+# Display all Trust Factors
+manager.display_trust_factors()
+    
+    class TrustFactorManager: #wspolczynnik zaufania administracji
+    def __init__(self, owner_id):
+        self.owner_id = owner_id
+        self.trust_factors = {}
+        self.user_classes = {}
+        self.special_flag = '€'
+        self.minimum_class = 'moderator'
+
+    def add_user(self, user_id, user_class, flag=None):
+        self.user_classes[user_id] = {"class": user_class, "flag": flag}
+        self.trust_factors[user_id] = 0
+
+    def edit_trust_factor(self, user_id, points, editor_id):
+        if editor_id != self.owner_id:
+            print(f"Access denied for user {editor_id}. Only the owner can edit trust factors.")
+            return
+        
+        if self.is_trust_factor_eligible(user_id):
+            self.trust_factors[user_id] = points
+            print(f"Trust factor for user {user_id} updated to {points}.")
+        else:
+            print(f"User {user_id} is not eligible for a trust factor.")
+
+    def is_trust_factor_eligible(self, user_id):
+        user_info = self.user_classes.get(user_id)
+        if not user_info:
+            return False
+        if user_info["class"] in [self.minimum_class, 'admin', 'superadmin'] or user_info["flag"] == self.special_flag:
+            return True
+        return False
+
+    def display_trust_factors(self):
+        for user_id, points in self.trust_factors.items():
+            user_info = self.user_classes[user_id]
+            print(f"User {user_id} ({user_info['class']}): Trust Factor {points}")
+
+# Przykład użycia
+owner_id = "your_unique_id"
+manager = TrustFactorManager(owner_id)
+
+# Dodawanie użytkowników
+manager.add_user("user1", "member")
+manager.add_user("user2", "moderator")
+manager.add_user("user3", "member", "€")
+manager.add_user("user4", "admin")
+
+# Edytowanie Trust Factor przez właściciela
+manager.edit_trust_factor("user1", 10, owner_id)  # Powinno odmówić dostępu
+manager.edit_trust_factor
+    
