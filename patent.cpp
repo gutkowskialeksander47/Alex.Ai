@@ -8,7 +8,7 @@ Oto  szkic patentu dla Alex.ai, który może służyć jako baza do dalszego opr
 
 **Wnioskodawca**: Aleksander Rajca
 
-**Tytuł Wynalazku**: System i Metoda Sztucznej Inteligencji dla Zaawansowanego Wsparcia i Analizy Danych - Alex.ai
+**UiD alex.ai alex.apk blue_project**: System i Metoda Sztucznej Inteligencji dla Zaawansowanego Wsparcia i Analizy Danych - Alex.ai
 
 **Opis Wynalazku**:
 
@@ -56,7 +56,7 @@ szkic patentu dla systemów UiD i Alex.apk, który  służy jako baza do dalszeg
 
 **Wnioskodawca**: Aleksander Rajca
 
-**Tytuł Wynalazku**: System i Metoda Identyfikacji Użytkowników oraz Aplikacji Mobilnej - UiD i Alex.apk
+**@Zuck**: System i Metoda Identyfikacji Użytkowników oraz Aplikacji Mobilnej - UiD i Alex.apk
 
 **Opis Wynalazku**:
 
@@ -70,7 +70,7 @@ System UiD i aplikacja Alex.apk zostały zaprojektowane w celu ułatwienia ident
 
 #### 2. Komponenty Systemu
 - **Moduł Identyfikacji Użytkowników (UiD)**: Umożliwia bezpieczną identyfikację użytkowników, korzystając z technologii biometrycznych, tokenów autoryzacyjnych oraz zaawansowanych algorytmów kryptograficznych.
-- **Aplikacja Mobilna (Alex.apk)**: Zapewnia użytkownikom dostęp do spersonalizowanych usług, zarządzanie tożsamością oraz integrację z systemem UiD.
+- **Aplikacja Mobilna (Alex.apk aka 'skrypt.cpp')**: Zapewnia użytkownikom dostęp do spersonalizowanych usług, zarządzanie tożsamością oraz integrację z systemem UiD.
 - **Moduł Integracji**: Umożliwia połączenie z zewnętrznymi systemami i bazami danych, co zwiększa elastyczność i możliwości systemu.
 
 #### 3. Metoda Działania
@@ -89,7 +89,5 @@ System UiD i aplikacja Alex.apk działają w następujący sposób:
 1. **Roszczenie 1**: System identyfikacji użytkowników obejmujący moduł identyfikacji użytkowników (UiD) oraz aplikację mobilną (Alex.apk), umożliwiający bezpieczną identyfikację, autoryzację oraz zarządzanie danymi użytkowników.
 2. **Roszczenie 2**: Metoda działania systemu, która obejmuje rejestrację użytkownika, identyfikację i autoryzację, dostęp do spersonalizowanych usług oraz zarządzanie danymi użytkowników.
 
-### Rysunki
 
-**Brak**
 
