@@ -1,5 +1,5 @@
 ﻿przydzial default2.pdf
-@Query'Annonymus'  "Opieka Srodowiska technologicznego"
+@Query'Annonymus' [ $10] "Opieka Srodowiska technologicznego"
 -kontrola danych wykonawczych
 -korekta walidacji<rzeczywiste stale zmienione zmienne> wartosci
 -bezpieczenstwo wykonawcze i katologowanych
@@ -8,16 +8,16 @@
 -Szyfrowanie na poziomie peerTopeer
 -kodowanie wszelkiej naszej dzialalnosci
 
-; "CS"="Ciemna Strefa"(Bonus RPK)
+; "CS"="Ciemna Strefa"(Bonus RPK) [$10]
 -Me To Us - Us to Me
 -kontakt przyjacielski
 -promocja
 -Dozor danych out,in
 -muzyka
 -@Artist
+-globalna dystrybucja 
 
-
-;"ZBK"="Zabka S.A."
+;"ZBK"="Zabka S.A." 
 -Me To You You to Me
 life/live Assistance Play 
 -Dieta
