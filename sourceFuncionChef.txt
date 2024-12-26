@@ -26,7 +26,7 @@ life/live Assistance Play
 
 
 przydzial default2.pdf
-"@W"'Annonymus'
+"@Wlasciciel"'Annonymus'
 -kontrola danych wykonawczych
 -korekta walidacji<rzeczywiste stale zmienione zmienne> wartosci
 -bezpieczenstwo wykonawcze i katologowanych
@@ -35,24 +35,24 @@ przydzial default2.pdf
 -Szyfrowanie na poziomie peerTopeer
 -kodowanie wszelkiej naszej dzialalnosci
 
-1BielanyWroclawskieC.H_Korona!!"H@" 'Decathlon' <odziez sportowo/wyczynowa/sprzet wyczynowy> <zarzad dzialu sportowego>
+[$5]"H@" 'Decathlon' <odziez sportowo/wyczynowa/sprzet wyczynowy> <zarzad dzialu sportowego>
 -Odziez termiczna
 -Odziez sportowa
 -Sprzet sportowy
 -Serwis urzadzen sportowych
 -zaopatrzenie w zapotrzebowanie wyczynowe
 
-3Wroclaw2Dolnyslask1Polska"Query@"! '.gov.pl' 17.08.1998 Aleksander Sebastian DCX609759 Rajca  
+[$10]"Chief security oficer"! '.gov.pl' 17.08.1998 Aleksander Sebastian DCX609759 Rajca  
 Orzeczenie odpowiedzialnosci karnej za dzialania na szkode polski i jej obywateli.
 !Kasa wspolnoty mieszkalnej obywateli
 <zus/nfz/kasa chorych>
 
-"@J"{Ma AM} %Jeronimo Martines *[Biedronka]%
+"@J"{Ma AM} %Jeronimo Martines *[Biedronka]% [$4]
 
-1pasazgrunwaldzki2galeria_dominikanska3magnoliapark"@H" '{"'Q(doswiadczenie na rynku struktury technologicznej/technicznej)"'}Saturn/Mediamarkt < Zarzad zasobu elektronicznego>"
+[$5]"@H" '{"'Q(doswiadczenie na rynku struktury technologicznej/technicznej)"'}Saturn/Mediamarkt < Zarzad zasobu elektronicznego>"
 - zapotrzebowanie zasobu elektronicznego 
 
-1Bielany"H@",'Q' %"Obi"% <Zarzad terenow zielonych>     //%_%=FreeSpaceMoreexperience
+"H@",'Q' %"Obi"% <Zarzad terenow zielonych>     //%_%=FreeSpaceMoreexperience
 
 "H@" 'Q' %"Adidas*running%" <Zarzad treningu personalnego>   //%_%=FreeSpaceMoreexperience
 
