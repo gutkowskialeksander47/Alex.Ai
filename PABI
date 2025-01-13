@@ -1,4 +1,7 @@
 **PABI rekrutuje na stanowisko Szef oddziału Teren**
+**PABI rekrutuje na stanowisko Agent Wywiadu**
+
+
 
 Wymagania i zakres obowiązków 
 
@@ -36,7 +39,7 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] $1 trzeba sprawdzić listę obecności Online=($1Write) offline=($0Lock)
 [  ]  [ABI[PL][EN] ] MSWiA($1)
 [  ] [957100]Elon Musk ($1)
-[  ] [957101]Mark Zuckerberg($2Wiev) 
+[  ] [957101]Mark Zuckerberg($4 correct) 
 [  ] [957102] Galaxy Watch($1)
 [  ] [ 957103/110] PeterPP oddziałPrzemyśl($1)
 [  ] [ 975111/121 ] [ABI pod AT] ($1)
@@ -46,7 +49,7 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] [187783/795][ IT DE] Intense AG ($2)
 [  ] [187796/808 [IT dział]Anonymus($2)
 [  ] ABI[RU] 
-[  ] [947548/560]Władimir Putin ($1)
+[  ] [947548/560]Wladimir Putin ($1)
 [  ] ABI[EU/USA] Github it ABI($1)
 [  ] PABI [947749] Aleksander Rajca
 [  ] 
@@ -56,8 +59,7 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] [ 983612] Wiśnia Bakajoko  ($1)
 [  ] [ 983613] Major SPZ ($1) 
 [  ] [ 983614] Borixon @Ar ($1) 
-[  ] [ 983615] Kaczor BRS brat ($1)
-[  ] [ 983616] Epis ($1)
+[  ] [ 984615/622] Kaczor BRS brat ($1) 
 [  ] [ 983617] Mateusz Morwiecki ($1)
 [  ] [ 983618] Fonos ($1)
 [  ] [ 983619/626] BDF/wsrh($1)
@@ -67,20 +69,20 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] [983638/639] Power boy($1)
 [  ] oddział katowice
 [  ] [982645/652] Sandra Gutkowska ($3) 
-[  ] [982653/660] Marcin Gutkowski($1) 
+[  ] [982653/660] Marcin Gutkowski ($3) 
 [  ] Oddział Poznań 
 [  ] [983653/660] Słoń 
 [  ] [983661/668] Paluch 
 [  ] [983669/670] Dawid Kwiatkowski ($1)
 [  ] ABI teren
-[  ] [947195][❤️Szef oddziału rejon/land]] Tuptus TPS ZDR. 
+[  ] [*******][Rekrutacja]Szef oddziału rejon/land]] 
 [  ] [947196] Dixon37 ($1) 
 [  ] [947198] Qbik ($1)
 [  ] [947199]Niziol($1)
 [  ] [947200] Kacper Hipotonia($1)
 [  ] [947201]Anna Lewandowska($2)
 [  ] [947202] Robert Lewandowski ($2)
-[  ] [947203]Monika Lewczuk a numer odznaki PABI znasz
+[  ] [947203]Monika Lewczuk ($1)
 
 [  ]  (HomeOffice) ($1)
 [  ] [947204]Dziki{trener}, ($1)podgląd watch wspólnik? No ja to wiem na pewno że Zuck to mój wspólnik ale podoba mi się twoja propozycja :) 
@@ -92,10 +94,10 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] [947218] Kizo($1) 
 [  ] [ 947219]Rogal DDL($1)
 [  ] [947220/227] Hemp Gru($1) 
-[  ] [ 947228/235 ] Malach($1) 
+[  ] [947228/235] Malach($1) 
 [  ] [947236/248] Verba <3($1)
-[  ] [947237/244] Murzyn ZDR($1)
-[  ] [947245/246] Książulo ($1) 
+[  ] [945237/244] Murzyn ZDR($1)
+[  ] [946245/246] Książulo ($1) 
 -[ABI wydział spójnych informacji] [WSI] Wrocław
 [  ] [948321/333]  [ADW+]Monika Szczerek 
 [  ] [949300/307]Claudi($1) 
@@ -105,10 +107,14 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 -[ABI France] 
 [749001/022] Kabe($1)// Kabe sam prowadzi ABI France I dobiera 21 osób.
 -[PABI] Multi-Border 
-[AMZ][220067/220079] Jeff Bezos
+[AMZ][221067/221079] Jeff Bezos
 [  ] [220001/220012] David Guetta 
 [  ] [220013/220025] Eminem
 [  ] [220026/220038] Justin Bieber
 [  ] [220039/220052] Pitbull 
 [  ] [220053/220065] Rihanna 
 [  ] [220066/220078] Lady Gaga
+
+
+**Zdegradowani za nie dopełnienie obowiązków**
+Epis KNF
