@@ -141,7 +141,7 @@ log_level = DEBUG
 smtp_server = ionos.com
 smtp_port = 587
 smtp_user = aleksander@rajca.info
-smtp_password = Legendarnics.pl6
+smtp_password = **Censored**
 from_email = no-reply@rajca.info
 
 [FAMILY]
