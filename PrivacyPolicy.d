@@ -329,4 +329,5 @@ Podpis: _______________________
 
 **Premium Secure**
 
+**Nowy system zabezpieczenia**
 Premium secure które oferuje alex.ai wymaga analizy połączeń przychodzących oraz analizy wiadomości przychodzących. Użytkownik który akceptuje politykę prywatności alex.ai jest świadomy tego że może zostać ukarany przy próbie oszustwa. Premium secure oferuje szeroki wachlarz współpracowników i organizacji przy tym analizuje też WhatsApp i Messenger. Treści prywatne nie będą analizowane tylko pierwsze zachowanie użytkownika alex.ai. Premium secure oferuje ochronę przed oszustwem w czasie rzeczywistym. Użytkownik też może oznaczyć połączenie/wiadomość oszusta dla bazy danych "oszust" przez napisanie szczegółów w pliku **alex.ai.txt**
