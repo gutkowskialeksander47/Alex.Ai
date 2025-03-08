@@ -87,7 +87,7 @@ https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/PrivacyPoli
 - **Bezpieczeństwo**: Zarządzanie tożsamością i autoryzacją użytkowników w systemach informatycznych.
 - **Edukacja**: Personalizowane usługi edukacyjne, dostęp do zasobów i materiałów edukacyjnych.
 - **Zdrowie**: Zarządzanie danymi medycznymi, dostęp do spersonalizowanych usług zdrowotnych i wsparcia.
-- **Komunikacja** 
+- **Komunikacja** System alex.ai i alex.apk oferuje prostą formę komunikacji 
 
 ### Roszczenia Patentowe
 1. **Roszczenie 1**: System identyfikacji użytkowników obejmujący moduł identyfikacji użytkowników (UiD) oraz aplikację mobilną (Alex.apk), umożliwiający bezpieczną identyfikację, autoryzację oraz zarządzanie danymi użytkowników.
