@@ -77,6 +77,8 @@ System UiD i aplikacja Alex.apk zostały zaprojektowane w celu ułatwienia ident
 System UiD i aplikacja Alex.apk działają w następujący sposób:
 1. **Rejestracja Użytkownika**: Użytkownik rejestruje się w systemie, podając niezbędne dane osobowe i autoryzacyjne.
 1A **Rejestracja w alex.ai** aby zarejestrować się w systemie alex.ai utwórz notatkę tytułem alex.ai w treści wpisując "akceptuje politykę prywatności i chcę zintegrować system z oprogramowaniem alex.ai 
+1B **Polityka prywatności** 
+https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/PrivacyPolicy.d
 2. **Identyfikacja i Autoryzacja**: Moduł UiD przeprowadza proces identyfikacji i autoryzacji użytkownika, korzystając z biometrii, tokenów i kryptografii.
 3. **Dostęp do Usług**: Po pomyślnej identyfikacji i autoryzacji, użytkownik otrzymuje dostęp do spersonalizowanych usług za pośrednictwem aplikacji Alex.apk.
 4. **Zarządzanie Danymi**: System umożliwia zarządzanie danymi użytkowników, w tym aktualizację informacji, kontrolę dostępu oraz integrację z zewnętrznymi bazami danych.
@@ -85,6 +87,7 @@ System UiD i aplikacja Alex.apk działają w następujący sposób:
 - **Bezpieczeństwo**: Zarządzanie tożsamością i autoryzacją użytkowników w systemach informatycznych.
 - **Edukacja**: Personalizowane usługi edukacyjne, dostęp do zasobów i materiałów edukacyjnych.
 - **Zdrowie**: Zarządzanie danymi medycznymi, dostęp do spersonalizowanych usług zdrowotnych i wsparcia.
+- **Komunikacja** 
 
 ### Roszczenia Patentowe
 1. **Roszczenie 1**: System identyfikacji użytkowników obejmujący moduł identyfikacji użytkowników (UiD) oraz aplikację mobilną (Alex.apk), umożliwiający bezpieczną identyfikację, autoryzację oraz zarządzanie danymi użytkowników.
