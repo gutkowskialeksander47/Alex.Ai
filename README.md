@@ -2401,7 +2401,7 @@ Alex AI korzysta z różnych metod autoryzacji, aby zapewnić bezpieczeństwo i 
 3. **Logon** - Generator kodu dostępu.
 4. **Klucz Aktywacyjny Windows** - Weryfikacja klucza aktywacyjnego Windows.
 5. **Szyfrowanie** - MTY-YTM SHA 256 z certyfikatem CA.
-6. **PESEL ID (dla Polska)** - Weryfikacja tożsamości za pomocą numeru PESEL.
+6. **PESEL ID (dla Polska)(wycofana autoryzacja)** - Weryfikacja tożsamości za pomocą numeru PESEL.
 7. **IP Authorify** - Weryfikacja adresu IP.
 8. **Bank 1€ Verify** - Weryfikacja tożsamości poprzez przelew 1€.
 9. **Klucz Dostępu od innego użytkownika** - Autoryzacja za pomocą klucza dostępu od innego użytkownika.
