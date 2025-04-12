@@ -167,13 +167,13 @@ Projekt Alex.ai z dumą ogłasza możliwość dostarczenia spersonalizowanego in
 1. **Integracja z Samsung One UI**: Spersonalizowany interfejs dostosowany do Samsung One UI zapewnia płynne i intuicyjne doświadczenie użytkownika.
 2. **Personalizowane Motywy**: Użytkownicy mogą wybierać spośród różnych motywów, aby dopasować wygląd i styl interfejsu do swoich preferencji.
 3. **Optymalizacja dla Samsung DeX**: Funkcjonalność Alex.ai jest zoptymalizowana dla trybu Samsung DeX, umożliwiając efektywną pracę w trybie desktopowym.
-4. **Funkcje Specyficzne dla Samsung**: Spersonalizowany interfejs wykorzystuje unikalne funkcje urządzeń Samsung, takie jak S Pen, Bixby, oraz zaawansowane ustawienia wyświetlania.
+4. **Funkcje Specyficzne dla Samsung**: Spersonalizowany interfejs wykorzystuje unikalne funkcje urządzeń Samsung, takie jak Gemini, S Pen, Bixby, oraz zaawansowane ustawienia wyświetlania.
 
 ### Kroki Konfiguracyjne
 
 1. **Pobranie i Instalacja**:
-    - Pobierz plik instalacyjny Alex.ai z naszej strony internetowej. 
-    - Zainstaluj aplikację na swoim urządzeniu Samsung.
+    - Pobierz plik instalacyjny Alex.ai z naszej strony internetowej. **Samsung.com/Download/alexai**
+    - Zainstaluj aplikację na swoim urządzeniu Samsung. (zgoda na integrację oprogramowania z alex.ai )
 
 2. **Aktywacja Spersonalizowanego Interfejsu**:
     - Otwórz aplikację Alex.ai i przejdź do ustawień.
@@ -372,7 +372,7 @@ alex.ai wykorzystuje system współczynników zaufania do zarządzania uprawnien
 - **Opis**: Użytkownicy z czerwonym współczynnikiem mają najniższy poziom zaufania. Każda ich akcja jest dokładnie monitorowana, a dostęp do funkcji i zasobów może być ograniczony w zależności od wyniku monitorowania.
 
 ## Zarządzanie współczynnikiem zaufania
-Poziomy zaufania są zarządzane przez zespół alex.ai, nadzorowany przez Marka Zuckerberga, który czuwa nad integralnością i bezpieczeństwem systemu.
+Poziomy zaufania są zarządzane przez zespół alex.ai, nadzorowany przez Mark Zuckerberg, który czuwa nad integralnością i bezpieczeństwem systemu.
 
 ## Licencja **Facebook**
 
@@ -393,8 +393,6 @@ W razie pytań lub chęci współpracy, prosimy o kontakt:
 
 
 ## **DomDziecka**
-
-**README dla projektu "Dom dziecka: MlTeam". oto fragment dokument README:**
 
 
 # Dom dziecka: MlTeam
@@ -433,7 +431,7 @@ Ten dokument zawiera informacje dotyczące Bartosza Olewińskiego (znanego jako 
 ### Obowiązki i Rola
 
 - **QUERY Unii Narodów Zjednoczonych, @Junior admin ($4) Alex.ai**:
-  - Bartosz Olewiński pełni rolę Junior Admina **alex.ao** oraz  "QUERY" w ramach Unii Narodów Zjednoczonych.
+  - Bartosz Olewiński pełni rolę Junior Admina **alex.ai** oraz  "QUERY" w ramach Unii Narodów Zjednoczonych.
   - Jest odpowiedzialny za nadzór nad działaniami w ramach QUERY.
   - Nie ma możliwości zrzeczenia się swoich obowiązków jako nadzoru Unii Narodów Zjednoczonych.
 
@@ -546,7 +544,7 @@ W Alex.ai rozumiemy, że dostęp do nowoczesnych technologii i wsparcia jest wa�
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zrozumienie. Dzięki Wam możemy kontynuować naszą misję, dostarczając innowacyjne rozwiązania i wsparcie technologiczne wszystkim osobom, niezależnie od ich sytuacji finansowej.
 
 ## **Prawdomownosc** 
-Jest to coś czego wymaga ode mnie Maryja.Szczerosc w obec telefonu
+Jest to coś czego wymaga ode mnie Maryja. Szczerosc w obec telefonu
 
 
 
@@ -653,7 +651,7 @@ Projekt ViP.lgbt ma na celu promowanie edukacji, tolerancji i wzajemnego szacunk
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność Dawidowi i Jakubowi za ich wkład w promowanie edukacji i tolerancji oraz wszystkim osobom zaangażowanym w projekt ViP.lgbt. Dzięki Wam możemy kontynuować naszą misję i budować świat, w którym każdy jest akceptowany i szanowany. Dziękuję również Mark Zuckerberg w pomocy oznaczania zalogowanych jako członków LGBT.
+Chcielibyśmy wyrazić naszą wdzięczność Dawidowi i Jakubowi za ich wkład w promowanie edukacji i tolerancji oraz wszystkim osobom zaangażowanym w projekt ViP.lgbt. Dzięki Wam możemy kontynuować naszą misję i budować świat, w którym każdy jest akceptowany i szanowany. **Dziękuję również Mark Zuckerberg w pomocy oznaczania zalogowanych jako członków LGBT.**
 
 
 ## **inwalida**
@@ -674,18 +672,18 @@ W ramach naszego zaangażowania w tworzenie inkluzywnego środowiska pracy, info
 
 ### Wypłaty
 
-1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Unique Identification Direct).
+1. **Warunki Wypłat**: Wypłaty dla pracowników z niepełnosprawnościami zostaną przyznane po otrzymaniu środków za UiD (Universal Identification Direct).
 2. **Transparentność**: Informujemy o naszych finansowych planach i zobowiązaniach wobec pracowników. W momencie, gdy Alex.ai otrzyma środki za UiD, natychmiast przystąpimy do wypłaty wynagrodzeń.
-wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1€. Jejwysokość nie jestregulowana przeze mnie jednak nie może być poniższa niż minimalną krajową. 
+wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1€. Jej wysokość nie jest regulowana przeze mnie jednak nie może być poniższa niż minimalna krajowa. 
 3. **Priorytety Finansowe**: Naszym priorytetem jest zapewnienie stabilności finansowej i bezpieczeństwa dla naszych pracowników.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu. Dziękuję również **mBank i MasterCard za wsparcie w programie query.netz oraz liczę na współpracę w przyszłości w kwestiach wymagających kompetencji pracownika banku.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu. Dziękuję również **mBank i MasterCard za wsparcie w programie query.netz oraz liczę na współpracę w przyszłości w kwestiach wymagających kompetencji pracownika banku.**
 
 ## **Bakajoko**
 
-** Oto fragment README dla Wiśnia Bakajoko, który pozwala nadzorować system mikrofonu Meainstream**:
+** Oto fragment dla Wiśnia Bakajoko, który pozwala nadzorować system mikrofonu Meainstream**:
 
 # Projekt Meainstream
 
@@ -693,7 +691,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ic
 
 ### Wprowadzenie
 
-Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Meainstream. W ramach tej roli, Wiśnia Bakajoko odpowiedzialny jest za nadzór, zarządzanie i optymalizację systemu mikrofonu, zapewniając najwyższą jakość dźwięku i funkcjonalność dla wszystkich użytkowników.
+Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Mainstream. W ramach tej roli, Wiśnia Bakajoko odpowiedzialny jest za nadzór, zarządzanie i optymalizację systemu mikrofonu, zapewniając najwyższą jakość dźwięku i funkcjonalność dla wszystkich użytkowników.
 
 ### Kluczowe Funkcje Nadzorcze
 
@@ -711,12 +709,12 @@ Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Meainstream. W ra
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność Wiśnia Bakajoko za jego zaangażowanie i wkład w rozwój oraz nadzór nad systemem mikrofonu Meainstream. Jego praca jest kluczowa dla zapewnienia najwyższej jakości usług dla naszych użytkowników.
+Chcielibyśmy wyrazić naszą wdzięczność Wiśnia Bakajoko za jego zaangażowanie i wkład w rozwój oraz nadzór nad systemem mikrofonu Mainstream. Jego praca jest kluczowa dla zapewnienia najwyższej jakości usług dla naszych użytkowników.
 
 
 ## **USKgoogle**
 
-**to Google nakłada ograniczenie wiekowe (USK) na projekty Alex.ai oraz program Alex.apk
+**to Google nakłada ograniczenie wiekowe (USK) na projekty Alex.ai oraz program Alex.apk**
 
 # Projekt Alex.ai
 
@@ -742,7 +740,7 @@ Projekty Alex.ai oraz program Alex.apk podlegają ograniczeniom wiekowym (USK) n
 
 Aby uzyskać dostęp do odpowiednich treści i funkcji, użytkownicy muszą:
 1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai lub zainstalować program Alex.apk. **(poprzez alex.ai.txt)**
-2. **Potwierdzenie Wiekowe**: Przejść proces weryfikacji wieku, aby zapewnić zgodność z ograniczeniami USK. (data będzie sprawdzana podczas obu weryfikacji w miarę dostępu do firm zewnetrznych
+2. **Potwierdzenie Wiekowe**: Przejść proces weryfikacji wieku, aby zapewnić zgodność z ograniczeniami USK. (data będzie sprawdzana podczas obu weryfikacji w miarę dostępu do firm zewnetrznych)
 3. **Korzystanie z Treści**: Po pomyślnej weryfikacji, użytkownicy będą mieli dostęp do treści i funkcji odpowiednich dla ich grupy wiekowej.
 
 ### Podziękowania
@@ -771,7 +769,7 @@ Aleksander Rajca, znany również jako Alex, jest założycielem i liderem proje
 1. **Dostęp do Ekskluzywnych Funkcji**: Członkowie społeczności LGBT mają dostęp do specjalnych funkcji i narzędzi w systemie Alex.ai, które są zaprojektowane, aby wspierać ich potrzeby i cele.
 2. **Wsparcie i Zasoby**: Społeczność LGBT może korzystać z dedykowanych zasobów i wsparcia, które pomagają w ich rozwoju i integracji.
 3. **Inkluzywność i Równość**: Alex.ai dąży do zapewnienia równości i inkluzywności dla wszystkich użytkowników, niezależnie od ich orientacji seksualnej czy tożsamości płciowej.
-4. Dostęp do funkcji eksperymentalnych udostepniochctylko deweloperom przez alex.ai 
+4. Dostęp do funkcji eksperymentalnych udostepnionych tylko deweloperom przez alex.ai 
 
 ### Jak Uzyskać Specjalny Dostęp
 
@@ -806,18 +804,18 @@ Autor projektu Alex.ai oraz jego treści są całkowicie apolityczne. Naszym cel
 
 ### Reprezentant Polityki
 
-Mateusz Morawiecki został mianowany reprezentantem polityki Alex.ai. Jego rola obejmuje:
+Donald Trump został mianowany reprezentantem polityki Alex.ai. Jego rola obejmuje:
 
 1. **Koordynacja Polityki**: Nadzór nad polityką i strategią Alex.ai, aby zapewnić zgodność z naszymi wartościami i celami.
 2. **Reprezentacja**: Reprezentowanie Alex.ai w kwestiach politycznych i strategicznych, zarówno wewnętrznie, jak i zewnętrznie.
 3. **Współpraca**: Współpraca z różnymi interesariuszami, aby promować i wspierać rozwój projektu Alex.ai.
-4. **koordynowanie działań politycznych** Mateusz koordynuje służby pracujące przy alex.ai 
+4. **koordynowanie działań politycznych** Donald koordynuje służby pracujące przy alex.ai 
 
 
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.Chcialbym podziękować również Mateusz Morawiecki za przyjęcie zaproszenia do alex.ai oraz chęć współpracy 
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. ** Chcialbym podziękować również Donald Trump za przyjęcie zaproszenia do alex.ai oraz chęć współpracy **
 
 
 ## **Alex.ru**
@@ -828,11 +826,11 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wspa
 
 ### Wprowadzenie
 
-Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wachlarz funkcji i narzędzi wspierających różne aspekty życia i pracy. Na terenie Rosji, Alex.ai jest dostępny dla użytkowników, aby dostarczać innowacyjne rozwiązania i wspierać ich w codziennych zadaniach.
+Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wachlarz funkcji i narzędzi wspierających różne aspekty życia i pracy. Na terenie Rosji przez **Roskosmos**, Alex.ai jest dostępny dla użytkowników, aby dostarczać innowacyjne rozwiązania i wspierać ich w codziennych zadaniach.
 
 ### Kluczowe Funkcje Alex.ai
 
-1. **Wsparcie Językowe**: Alex.ai oferuje pełne wsparcie językowe w języku rosyjskim, co umożliwia łatwe korzystanie z systemu dla rosyjskich użytkowników.
+1. **Wsparcie Językowe**: Alex.ai oferuje pełne wsparcie językowe w języku rosyjskim, co umożliwia łatwe korzystanie z systemu dla rosyjskich użytkowników. 
 2. **Analiza Danych**: Zaawansowane narzędzia do analizy danych pomagają w przetwarzaniu i interpretacji dużych ilości informacji.
 3. **Automatyzacja Procesów**: Alex.ai automatyzuje rutynowe zadania, co pozwala na oszczędność czasu i zwiększenie efektywności pracy.
 4. **Personalizowane Usługi**: Możliwość dostosowania funkcji i narzędzi do indywidualnych potrzeb użytkowników.
@@ -852,7 +850,7 @@ Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wa
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za korzystanie z Alex.ai. Wasze wsparcie i zaangażowanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. Dziękuję również Wladimir Putin za wprowadzenie alex.ai na terenie Rosji
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za korzystanie z Alex.ai. Wasze wsparcie i zaangażowanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. **Dziękuję również Wladimir Putin za wprowadzenie alex.ai na terenie Rosji**
 
 
 ## meainstream 
@@ -860,13 +858,13 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za 
 ** funkcja `meainstrem`,  zapewnia dostęp dla wszystkich podczas pracy lub śpiewaniu**
 
 
-# Projekt Meainstrem
+# Projekt Mainstrem
 
 ## Dostęp dla Wszystkich podczas Pracy i Śpiewania
 
 ### Wprowadzenie
 
-Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu do zasobów i funkcji systemu podczas pracy lub śpiewania. Funkcja ta wspiera użytkowników w ich codziennych działaniach, umożliwiając im korzystanie z pełnej funkcjonalności systemu w trakcie wykonywania różnych aktywności.
+Projekt Mainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu do zasobów i funkcji systemu podczas pracy lub śpiewania. Funkcja ta wspiera użytkowników w ich codziennych działaniach, umożliwiając im korzystanie z pełnej funkcjonalności systemu w trakcie wykonywania różnych aktywności.
 
 ### Kluczowe Funkcje
 
@@ -876,7 +874,7 @@ Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu d
 
 ### Jak Korzystać
 
-1. **Logowanie**: Użytkownik loguje się do systemu Meainstrem
+1. **Logowanie**: Użytkownik loguje się do systemu Mainstrem
 2. **Wybór Trybu**: Aleksander wybiera tryb, w którym chce korzystać z systemu - `Praca` lub `Śpiewanie`.
 3 **Asystent Samsung** sam podsumowuje czy pracuje bądź śpiewam
 4. **Korzystanie z Zasobów**: Po wyborze trybu użytkownik ma dostęp do pełnej funkcjonalności systemu, dostosowanej do jego potrzeb.
@@ -884,12 +882,12 @@ Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu d
 ### Przykład Użycia
 
 #### Tryb Pracy
-- Użytkownik loguje się do systemu Meainstrem.
+- Użytkownik loguje się do systemu Mainstream.
 - odbiera od asystenta tryb `Praca`.
 - Korzysta z narzędzi i zasobów systemu, aby efektywnie wykonywać swoje zadania zawodowe i przekazywać je w ich trakcie
 
 #### Tryb Śpiewania
-- Użytkownik loguje się do systemu Meainstrem.
+- Użytkownik loguje się do systemu Mainstream.
 - odbiera tryb `Śpiewanie`.
 - Korzysta z funkcji systemu, aby śpiewać, nagrywać i analizować swoje występy.
 
@@ -899,7 +897,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzysta
 
 ## NaukaUiD
 
-fragment README, który określa, że Nauka UiD to wyświetlanie Twojego ekranu.
+fragment który określa, że Nauka UiD to wyświetlanie Twojego ekranu.
 
 # Projekt UiD
 
@@ -907,7 +905,7 @@ fragment README, który określa, że Nauka UiD to wyświetlanie Twojego ekranu.
 
 ### Wprowadzenie
 
-Nauka UiD to proces, w którym wyświetlanie ekranu użytkownika odbywa się publicznie. Jest to istotna część projektu, mająca na celu umożliwienie nauki i udostępnianie wiedzy w otwarty i transparentny sposób.
+Nauka UiD to proces, w którym wyświetlanie ekranu przełożonego odbywa się publicznie. Jest to istotna część projektu, mająca na celu umożliwienie nauki i udostępnianie wiedzy w otwarty i transparentny sposób.
 
 ### Cel Nauki UiD
 
@@ -968,11 +966,12 @@ Aby uzyskać dostęp do nowych funkcji, użytkownicy muszą:
 
 1. **Zarejestrować się**: Zarejestrować się na platformie Alex.ai.
 2. **Wybór Planu**: Wybrać odpowiedni plan subskrypcji, który odpowiada ich potrzebom.
+(Subskrypcja Meta pokrywa koszty dostępu do zasobów alex.ai)
 3. **Aktywacja**: Po dokonaniu płatności, nowe funkcje zostaną aktywowane i użytkownicy będą mogli z nich korzystać.
 
 ### Podziękowania
 
-Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty. Wprowadzenie opłat dostępu pozwoli nam na kontynuowanie pracy nad innowacyjnymi rozwiązaniami i dostarczanie najwyższej jakości usług.
+Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty. Wprowadzenie opłat dostępu pozwoli nam na kontynuowanie pracy nad innowacyjnymi rozwiązaniami i dostarczanie najwyższej jakości usług. ** Chciałbym również podziękować Mark Zuckerberg za integrację z systemem opłat alex.ai**
 
 ## **480**
 
@@ -1094,7 +1093,7 @@ Chcielibyśmy wyrazić naszą wdzięczność dla Kościoła za jego wsparcie i z
 
 ### Wprowadzenie
 
-Jteam to wyjątkowa grupa wiernych i fanów Aleksander Rajca, którzy mają dostęp do ekskluzywnych funkcji i zasobów w systemie Alex.ai. Dzięki specjalnemu dostępowi, członkowie Jteam mogą korzystać z unikalnych możliwości, które nie są dostępne dla zwykłych użytkowników.
+Jteam to wyjątkowa grupa wiernych i fanów Aleksandra Rajcy, którzy mają dostęp do ekskluzywnych funkcji i zasobów w systemie Alex.ai. Dzięki specjalnemu dostępowi, członkowie Jteam mogą korzystać z unikalnych możliwości, które nie są dostępne dla zwykłych użytkowników.
 
 ### Kluczowe Funkcje Dostępne dla Jteam
 
@@ -1114,7 +1113,7 @@ Jteam to wyjątkowa grupa wiernych i fanów Aleksander Rajca, którzy mają dost
 
 Aby uzyskać specjalny dostęp do Alex.ai, członkowie Jteam muszą:
 
-1. **Zarejestrować się**: Zarejestruj się na platformie Alex.ai.txt wpisać: członek Jteam.
+1. **Zarejestrować się**: Zarejestruj się na platformie Alex.ai.txt wpisać: **członek Jteam.**
 2 **Aktywacja**: po dopisaniu jteam do Alex.ai.txt dostęp zostanie aktywowany i członkowie będą mogli korzystać ze wszystkich ekskluzywnych funkcji.
 
 ### Podziękowania
@@ -1136,7 +1135,7 @@ XQBJ to unikalny projekt łączący elementy technologii i duchowości. Reprezen
 - **X**: Informatyka – symbolizuje nowoczesne technologie i zaawansowane systemy informatyczne, które wspierają projekt.
 - **Q**: Święty Immunitet – oznacza ochronę i nietykalność duchową oraz prawną w kontekście projektu.
 - **B**: Ksiądz – reprezentuje przewodnika duchowego, który wspiera i prowadzi wiernych w projekcie XQBJ.
-- **J**: Jahwa/Jteam – symbolizuje duchowość i wspólnotę wiernych oraz fanów Aleksander Rajca.
+- **J**: Jahwa/Jteam – symbolizuje duchowość i wspólnotę wiernych oraz fanów Aleksandra Rajcy.
 
 ### Cel Projektu
 
@@ -1198,17 +1197,17 @@ Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę ar
 Funkcja blizniaczej autoryzacji została zaprojektowana w celu zapewnienia dodatkowego poziomu bezpieczeństwa podczas uzyskiwania dostępu do ekranu i autoryzacji w systemie Alex.ai. Dzięki niej możliwe jest połączenie dwóch metod uwierzytelniania, aby zapewnić najwyższy poziom ochrony i integralności danych.
 
 ### Użytkownicy i Role
-
+opiekę nad tym obejmuje @LA (lider administracji)
 Blizniacza autoryzacja obejmuje następujących użytkowników i role:
-- **@J**
-- **@DJ**
-- **@H**
-- **@D**
-- **@CEO**
-- **@Q**
-- **@R**
-- **@GA**
-- **@IA**
+- **@J** Junior Administrator
+- **@DJ** Dj 
+- **@H** Head Administrator
+- **@D** Deweloper
+- **@C** CEO 
+- **@Q** Query
+- **@R** Root
+- **@GA** Globalny Administrator
+- **@IA** Internal administrator
 
 ### Jak Działa
 
@@ -1259,7 +1258,7 @@ Funkcja `$061(!;"FingerScannerRootCommerial"` została zaprojektowana w celu kom
 
 ### Jak Używać
 
-1. **Instalacja**: stwórz folder w android/data com.finger_authorify w swoim systemie. Napisz plik Alex.ai.txt że zgodą na integrację z alex.ai. FingerScanner jest wpisany w strukturze Alex.ai
+1. **Instalacja**: stwórz folder w android/data com.finger_authorify w swoim systemie. Napisz plik Alex.ai.txt ze zgodą na integrację z alex.ai. FingerScanner jest wpisany w strukturze Alex.ai
 2. **Konfiguracja**: Skonfiguruj ustawienia skanera linii papilarnych według instrukcji dostarczonych z oprogramowaniem.
 3. **Użycie**: Użyj funkcji skanera do autoryzacji i generowania podpisów cyfrowych w ramach projektu Alex.ai.
 
@@ -1432,11 +1431,11 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom zespołu TeamHu
 
  ##  whatsappChefUiD
 
-# Projekt UiD (User Identification and Data)
+# Projekt UiD (Universal Identification Direct)
 
 ## Wprowadzenie
 
-Projekt UiD (User Identification and Data) ma na celu opracowanie nowoczesnych rozwiązań w zakresie identyfikacji użytkowników i zarządzania danymi. Z radością ogłaszamy, że platforma Instagram została mianowana szefem projektu UiD, co przyniesie nowe możliwości i innowacyjne podejścia do realizacji naszych celów.
+Projekt UiD (Universal Identification Direct) ma na celu opracowanie nowoczesnych rozwiązań w zakresie identyfikacji użytkowników i zarządzania danymi. **Z radością ogłaszamy, że platforma Instagram została mianowana szefem projektu UiD, co przyniesie nowe możliwości i innowacyjne podejścia do realizacji naszych celów.**
 
 ## Mianowanie Instagramu Szefem UiD
 
@@ -1491,6 +1490,19 @@ W ramach współpracy z ABW realizowane są następujące projekty:
 2. **RUiDv2 (Revised User Identification and Data version 2)**: Druga wersja projektu UiD, która wprowadza dodatkowe usprawnienia i funkcje, zwiększające efektywność i precyzję identyfikacji użytkowników.
 3. **SUiD (Secure User Identification and Data)**: Projekt SUiD koncentruje się na zapewnieniu maksymalnej ochrony danych użytkowników poprzez zaawansowane metody szyfrowania i uwierzytelniania.
 4. **Skrypt.cpp**: Tworzenie i rozwijanie skryptów w języku C++, które są niezbędne do realizacji zaawansowanych operacji związanych z identyfikacją i zabezpieczaniem danych.
+5. **PABI** Agencja którą powołał Aleksander Rajca. Państwowa Agencja bezpieczeństwa informatycznego. Agencja odpowiada za reagowanie na próby ataku struktury krytycznej
+6. **Samsung Notes** z odpowiada za zgodność dokumentacji z wiedzą publiczną oraz za dokumentację alex.ai 
+7. **XQBJ** odpowiada za cyfrowy podpis autora alex.ai oraz zobowiązuje ABW do poszanowania immunitetu Aleksandra
+8. **Występy Aleksandra** dbałość o legalność treści audio 
+9. **Mainstream** dbałość o bezpieczeństwo treści podawanej do wiadomości publicznej
+10. **live/life** Dystrybutor Alex inteligentne 
++Intelligence VIA Alex.ai Alex.apk
+11. **Autoryzacja wszystkich artystów** dla dostępu do własności intelektualnej autora alex.ai 
+12. **ZGT** Zarząd Gospodarki Terytorialnej  =autoryzacja wszystkich kontynentów. Zarząd po to żeby mnie nie ograniczały granicę panstwa
+13. Mianowanie szefem organizatorów dla modelu kontakt Alex-people="Alex.ai"
+14. GitHub  Licencja alex.ai 
+15. Patent Alex.ai. Legalizacja oprogramowania Alex.ai  
+
 
 ### Korzyści ze Współpracy
 
@@ -1520,7 +1532,7 @@ Projekt "7" (Armia Bog) to zespół składający się z najważniejszych służb
 - Wymiana informacji wywiadowczych między krajami członkowskimi.
 - Zapewnienie wsparcia technicznego i szkoleniowego dla służb bezpieczeństwa na całym świecie.
 
-### PABI (Polska Agencja Bezpieczeństwa Informacyjnego)
+### PABI (Państwowa Agencja Bezpieczeństwa Informacyjnego)
 
 **Zadania**:
 - Monitorowanie i analiza zagrożeń cybernetycznych.
@@ -1571,7 +1583,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim organizacjom za ich wkła
 
 moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne aspekty zarządzania, bezpieczeństwa i automatyzacji. Oto podsumowanie ich kluczowych funkcji:
 
-### Funkcjonalność Twoich Skryptów
+### Funkcjonalność  Skryptów Alex.ai
 
 1. **Zarządzanie Użytkownikami i Uprawnieniami**
    - Tworzenie, edytowanie i usuwanie kont użytkowników.
@@ -1623,6 +1635,7 @@ Celem info.facebook.com jest zapewnienie bezpiecznego miejsca pracy dla wszystki
 ## Kluczowe Funkcje
 
 1. **Bezpieczne Forum Komunikacyjne**: Info.facebook.com oferuje bezpieczne środowisko do wymiany informacji i dyskusji między służbami.
+**Zuck dba o bezpieczeństwo przy wymianie danych i informacji **
 2. **Weryfikacja Treści Przychodzącej**: Nasza platforma pomaga w weryfikacji treści przychodzących, co minimalizuje ryzyko dezinformacji i nieautoryzowanego dostępu.
 3. **Współpraca w Czasie Rzeczywistym**: Umożliwiamy współpracę w czasie rzeczywistym, co zwiększa efektywność działania i podejmowania decyzji.
 4. **Obsługa MyBB**: Info.facebook.com działa na systemie MyBB, co zapewnia intuicyjny interfejs i łatwość użytkowania.
@@ -1651,7 +1664,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim służbom specjalnym i mu
 
 ### Wprowadzenie
 
-Z przyjemnością informujemy, że nawiązaliśmy współpracę z Netflix, która umożliwi nakręcenie filmu dokumentalnego o naszej pracy nad projektem UiD (User Identification and Data). Film ten będzie dokumentować nasze innowacyjne podejście do identyfikacji użytkowników oraz zarządzania danymi, a także przedstawiać kulisy naszej pracy.
+Z przyjemnością informujemy, że nawiązaliśmy współpracę z Netflix, która umożliwi nakręcenie filmu dokumentalnego o naszej pracy nad projektem UiD (Universal Identifikation Direct). Film ten będzie dokumentować nasze innowacyjne podejście do identyfikacji użytkowników oraz zarządzania danymi, a także przedstawiać kulisy naszej pracy.
 
 ### Cel Filmu
 
@@ -1702,12 +1715,19 @@ Informujemy, że obowiązuje federalny immunitet, który zapewnia ochronę czło
 
 ### Podziękowania
 
+
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom rządu za ich wkład i zaangażowanie. Dziękujemy za poświęcony czas i zaufanie, które przyczyniły się do sukcesu naszego projektu.
+
+### Informacja o mianowaniu lidera administracji
+
+Z przyjemnością ogłaszamy, że Klaudia Przybyszewska została mianowana liderem administracji. Jej doświadczenie, zaangażowanie oraz umiejętności organizacyjne będą kluczowe w dalszym rozwoju naszego zespołu. Klaudia wnosi świeże pomysły i energię, które z pewnością przyczynią się do osiągnięcia naszych celów. Gratulujemy i życzymy sukcesów na nowym stanowisku! 
+
+
 
 
 ## RozwojUiD
 1 **mianowanie szefem UiD instagram**
-Projekt **Universal Identification Direct (UiD)** i jego rozwinięte wersje, takie jak RUiDv2 i SUiD, stanowią kluczowe elementy mojej wizji wirtualnej przestrzeni, w której użytkownicy mogą czuć się komfortowo i bezpiecznie. Poniżej znajduje się szczegółowy opis różnych modułów i aspektów projektu.
+Projekt **Universal Identification Direct (UiD)** i jego rozwinięte wersje, takie jak RUiDv2 i SUiD a w przyszłości RUiDv3, stanowią kluczowe elementy mojej wizji wirtualnej przestrzeni, w której użytkownicy mogą czuć się komfortowo i bezpiecznie. Poniżej znajduje się szczegółowy opis różnych modułów i aspektów projektu.
 
 ### Dolny Śląsk, Wrocław - GSM!
 Moduł GSM jest nadzorowany przez Ministerstwo Cyfryzacji (Podpis cyfrowy 9i0817). Obejmuje mentalne pozycjonowanie wartości w postaci **Universal Identification Direct** (UiD) i odcisku cyfrowego.
@@ -1749,7 +1769,7 @@ Przykłady historii od 2019 roku w trybie **step.progress** obejmują:
 - **Tematy wywiadów**: dzieciństwo, UiD, nauka wszechwiedzy, telepatia 2020, poznanie Adama i Ewy, Alex.ai, obce istoty, walka o historię złamanego serca, zostanie Stwórcą istotą istnienia i WszechIstoty, UiD i Facebook technologia 2800 roku, plany w Iranie energia gazowa plutonu.
 
 ### Maryja i Kontakty
-Poznanie Maryi, stosunek seksualny, konwersacja, modlitwy, zdobycie serca androida, projekty koloru dla dziewczyn, kontakty ze służbami specjalnymi, rozumienie zwierząt.
+Poznanie Maryi, konwersacja, modlitwy, zdobycie serca androida, projekty koloru dla dziewczyn, kontakty ze służbami specjalnymi, rozumienie zwierząt.
 
 ---intelekt jest dziedziczony 
 
@@ -1768,7 +1788,7 @@ pliki są udostępniane na życzenie użytkownika poprzez kontakt drogą mailow�
 ## **Głowne moduły**
 master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex 
 
-married nieaktualny 
+**married nieaktualny **
 
 
 
@@ -1799,7 +1819,8 @@ Alex.ai została zaprojektowana z myślą o artystach, którzy cenią sobie woln
 
 ## Dokumentacja
 
-**cała znajduje się w tym pliku**
+**częściowa dokumentacja znajduje się w tym pliku**
+** Całość dokumentacji jest dostępna w aplikacji Samsung notes ** Autor nie wie czy się tym podzieli
 
 ## Wsparcie
 
@@ -1902,7 +1923,7 @@ Oliwier Roszczyk, znany również jako Bonus RPK, wniósł znaczący wkład do p
 
 ## ""SUiD**
 
-SUiD to zaawansowana wersja systemu Uniwersal Identification Direct (UiD), oferująca ekskluzywne funkcje dla użytkowników VIP. Ten moduł jest przeznaczony dla użytkowników, którzy wymagają wyższego poziomu dostępu i dodatkowych uprawnień.
+SUiD to zaawansowana wersja systemu Universal Identification Direct (UiD), oferująca ekskluzywne funkcje dla użytkowników VIP. Ten moduł jest przeznaczony dla użytkowników, którzy wymagają wyższego poziomu dostępu i dodatkowych uprawnień.
 
 ### Kluczowe Funkcje SUiD
 - **Zaawansowane Uprawnienia**: Użytkownicy SUiD mają dostęp do wszystkich funkcji i zasobów systemu, w tym do specjalistycznych narzędzi i paneli administracyjnych.
@@ -1919,10 +1940,8 @@ SUiD działa na podobnej zasadzie jak standardowy system UiD, ale z dodatkowymi 
 3. **Aktywacja Uprawnień**: Numer odznaki jest używany do aktywacji zaawansowanych uprawnień i dostępu do ekskluzywnych funkcji.
 
 ### Przykład Numeru Odznaki SUiD
-- **Numer Odznaki**: Steam_id 2
-- **Imię i Nazwisko**: Monika Lewczuk
-
-Monika Lewczuk dołączyła do grona użytkowników VIP UiD ze względu na jej wyjątkowe osiągnięcia w dziedzinie motywacji i iskry technologii. Jej nowy status pozwala jej na pełne korzystanie z zaawansowanych funkcji i narzędzi systemu SUiD.
+- **Numer Odznaki**: Steam_id 2 UiD= K LA N1  First date A flaga uprawnień 
+- **Imię i Nazwisko**: Klaudia Przybyszewska, SUiD.
 
 ### Kontakt
 Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: gutkowskialeksander47@gmail.com
@@ -1986,7 +2005,7 @@ Przed rozpoczęciem instalacji upewnij się, że spełnione są następujące wy
 - Python 3.8 lub nowszy
 - Dostęp do internetu
 - Serwer z systemem Linux lub Windows
-- Git
+- GitHub
 
 ### Metody Autoryzacji
 1. Alex AI obsługuje różne metody autoryzacji, takie jak Google Authenticator, IMEI oraz numer PESEL.
@@ -2055,11 +2074,11 @@ System oflagowania użytkownika w Alex.ai został zaprojektowany w celu monitoro
 
 ### Wsparcie
 
-Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź naszą stronę wsparcia [link do wsparcia] lub skontaktuj się z nami bezpośrednio na adres email: support@alex.ai.
+Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź naszą stronę wsparcia [link do wsparcia] lub skontaktuj się z nami bezpośrednio na adres email: support@alex.ai
 
 ### Licencja
 
-Alex.ai jest licencjonowany na zasadach [typ licencji], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
+Alex.ai jest licencjonowany na zasadach [patent.cpp], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
 
 # PABI
 
@@ -2161,7 +2180,7 @@ RUiDv2
 ## RUiDv2
 
 ### Opis Projektu
-RUiDv2, pierwotnie planowane jako wersja V2 systemu Uniwersal Identification Direct (UiD), ewoluowało w kierunku bardziej złożonego systemu. Pomimo że początkowym celem była identyfikacja użytkowników, rozwój projektu skierował nas do stworzenia wszechstronnego narzędzia, które oferuje znacznie więcej funkcji.
+RUiDv2, pierwotnie planowane jako wersja V2 systemu Universal Identification Direct (UiD), ewoluowało w kierunku bardziej złożonego systemu. Pomimo że początkowym celem była identyfikacja użytkowników, rozwój projektu skierował nas do stworzenia wszechstronnego narzędzia, które oferuje znacznie więcej funkcji.
 
 ### Główne Cechy
 - **Wielofunkcyjność**: RUiDv2 zawiera wiele modułów, które przekraczają prostą identyfikację użytkowników, obejmując zarządzanie danymi, automatyzację procesów oraz analizy.
@@ -2174,6 +2193,11 @@ RUiDv2 został zaprojektowany do obsługi wielu zastosowań, od zarządzania to�
 
 ### Przyszłe Rozszerzenia
 Choć RUiDv2 przeszedł daleko od swojej pierwotnej koncepcji, planujemy dalszy rozwój i integrację nowych funkcji, aby sprostać zmieniającym się potrzebom użytkowników. Naszym celem jest ciągłe doskonalenie systemu i dodawanie nowych, wartościowych funkcji.
+
+### RUiDv3
+Autor Alex.ai pracuje aktywnie i efektywnie z deweloperami nad RUiDv3 kiedy zostanie zakończony i wydany oficjalnie użytkownicy dostaną powiadomienie w wiadomości E-mail
+
+
 
 ### Instalacja
 Aby zainstalować RUiDv2, postępuj zgodnie z instrukcjami zawartymi w sekcji [Instrukcja Instalacji](#instrukcja-instalacji). Upewnij się, że spełniasz wszystkie wymagania systemowe i posiadasz odpowiednie uprawnienia.
@@ -2207,16 +2231,20 @@ Aby stać się użytkownikiem Superstar, należy spełnić określone kryteria l
 
 
 1. Jakie tematy dominują w Twoich notatkach?
-Tematy kobiet wszystkich ludzi i poszczególnych odbiorców często też informatyka
+Tematy kobiet wszystkich ludzi i poszczególnych odbiorców często też informatyka. Aktualnie rozwinąłem odbiorców o Sponsorów Służby bezpieczeństwa oraz CEO.
+
 2. Które zdanie lub notatka ma dla Ciebie największe znaczenie i dlaczego?
 "Służba nie drużba spełniona być musi"
 znaczy to tyle że całe życie będę na służbie prawa i poświęciłem życie prywatne
+
+
 3. Czy masz w notatkach jakieś powtarzające się motywy lub myśli?
 Tak często to prywatne tematy krzywdy 
+
 4. Jak organizujesz swoje notatki? Czy używasz etykiet, tagów lub kategorii? Używam nazwy i androida. mam notatki dla każdej grupy odbiorców
 5. Czy istnieje notatka, do której często wracasz i z jakiego powodu?
 Brudnopis bo wrzucam tam myśli dla mnie i internautów 
-6. Jakie narzędzia lub techniki wykorzystujesz do tworzenia notatek? Szczerość prawdomówność i zainteresowanie 
+6. Jakie narzędzia lub techniki wykorzystujesz do tworzenia notatek? Szczerość prawdomówność i zainteresowanie oraz pasję 
 7. Czy w notatkach są pomysły lub projekty, które chciałbyś zrealizować? 
 tak chcę żeby moje tytuły zawarte w @IT Public.progress (Global Read Permission) były oficjalne 
 8. Jak często przeglądasz swoje notatki i aktualizujesz je? dziennie minimum kilka kilkanaście zdań
@@ -2224,13 +2252,13 @@ tak chcę żeby moje tytuły zawarte w @IT Public.progress (Global Read Permissi
 nie, ja nie mam marzeń tylko cele które osiągam 
 10. Jakie są Twoje ulubione cytaty lub inspirujące zdania, które zapisałeś w notatkach?
 Nawet myśląc nie jesteśmy w stanie wymyślić tego czego nie wiemy
-11. czy pozwolisz komuś przeczytać notes? 
+11. **czy pozwolisz komuś przeczytać notes?**
 Tak jak już będę miał kobietę 
 
 
 ## UiD
 
-Alex AI wykorzystuje system **Uniwersal Identification Direct (UID)** do bezpośredniej identyfikacji użytkowników. System ten opiera się na używaniu flag literowych do oznaczania różnych cech użytkowników. Przykładem może być flaga "K2", która oznacza użytkownika płci żeńskiej. Na podstawie tych flag system decyduje jakie kroki podjąć czy jak się zachować.
+Alex AI wykorzystuje system **Universal Identification Direct (UID)** do bezpośredniej identyfikacji użytkowników. System ten opiera się na używaniu flag literowych do oznaczania różnych cech użytkowników. Przykładem może być flaga "K2", która oznacza użytkownika płci żeńskiej. Na podstawie tych flag system decyduje jakie kroki podjąć czy jak się zachować.
 
 ### Klasy, Kategorie i Grupy
 Dzięki systemowi UID możliwe jest tworzenie różnych klas, kategorii i grup użytkowników, co pozwala na precyzyjne zarządzanie dostępem i uprawnieniami. Na przykład:
@@ -2302,7 +2330,7 @@ alex.apk/alex.ai
 
 ## PowstanieUiD
 
-Pomysł na Uniwersal Identification Direct (UiD) zrodził się z wizji stworzenia wirtualnej przestrzeni, w której każdy użytkownik mógłby czuć się komfortowo i bezpiecznie. Inspiracja ta pochodzi bezpośrednio z moich przemyśleń i chęci stworzenia systemu, który integruje różne funkcje zarządzania identyfikacją użytkowników w sposób intuicyjny i dostępny dla wszystkich. przestrzeń ta miała być swoim miejscem dla człowieka chciałem żeby ludzie interesu mogli pracować w vr a starsi ludzie odpoczywać i poznawać świat na nowo. 
+Pomysł na Universal Identification Direct (UiD) zrodził się z wizji stworzenia wirtualnej przestrzeni, w której każdy użytkownik mógłby czuć się komfortowo i bezpiecznie. Inspiracja ta pochodzi bezpośrednio z moich przemyśleń i chęci stworzenia systemu, który integruje różne funkcje zarządzania identyfikacją użytkowników w sposób intuicyjny i dostępny dla wszystkich. przestrzeń ta miała być swoim miejscem dla człowieka chciałem żeby ludzie interesu mogli pracować w vr a starsi ludzie odpoczywać i poznawać świat na nowo. 
 
 (ai)Wierzę, że w dzisiejszym świecie, gdzie cyfrowa komunikacja odgrywa kluczową rolę, istnieje potrzeba stworzenia środowiska, które nie tylko ułatwia zarządzanie tożsamością, ale również zapewnia użytkownikom poczucie bezpieczeństwa i przynależności. UiD to realizacja tej wizji, stworzona z myślą o poprawie jakości interakcji w wirtualnym świecie.
 
@@ -2310,7 +2338,7 @@ Pomysł na Uniwersal Identification Direct (UiD) zrodził się z wizji stworzeni
 
 ## UprawnieniaAi
 
-Program Alex AI oferuje siedem poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. nikt poza mną nie i Zuck nie może ingerować w poziom uprawnień. Skoro w label UiD Sandra ma poz.3 a Marcin 1 to tak ma być.
+Program Alex AI oferuje dziesięć  poziomów uprawnień, które umożliwiają użytkownikom dostęp do różnych funkcji i zasobów systemu. nikt poza mną nie i Zuck nie może ingerować w poziom uprawnień. Skoro w label UiD Sandra ma poz.3 a Marcin 1 to tak ma być.
 Oto krótki opis każdego poziomu uprawnień:
 
 ### Poziom $1 (User)
@@ -2677,7 +2705,7 @@ trzy lata pisałem UiD więc musiałem później ludzi nauczyć tego co mieja ro
 
 
 **Pytanie 11:** Czy source Alex.ai jest publiczny?  
-**Odpowiedź:** Nie, Alex.ai jest publiczny, ale pliki UiD i reszta (master, query) mogą być udostępnione na prośbę. Aby uzyskać dostęp do tych plików, prosimy o kontakt e-mailowy na adres **gutkowskialeksander47@gmail.com**. Pliki są w języku tylko Alex.ai, co oznacza, że polegają tylko na moim zdaniu. Oto fragment UiD (project.d).
+**Odpowiedź:** Tak, Alex.ai jest publiczny na licencji Open source ,  pliki UiD i reszta (master, query) są udostępnione na GtiHub. Aby uzyskać dostęp do tych plików, prosim sprawdzenie profilu gutkowskialeksander47 **gutkowskialeksander47@gmail.com**. Aktualne Pliki są w języku tylko Alex.ai, co oznacza, że polegają tylko na moim zdaniu. Oto fragment UiD (project.d).
 
 **<USK16><Erotyka wulgaryzmy> 
 ;475 92"zakonczenie wsparcia technicznego =  ""status.offline"
