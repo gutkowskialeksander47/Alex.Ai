@@ -786,7 +786,7 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności 
 
 ## polityka
 
- informacja, że autor i jego treść są apolityczne, oraz mianuje Mateusza Morawieckiego reprezentantem polityki Alex.ai:
+ informacja, że autor i jego treść są apolityczne, oraz mianuje Donald Trump reprezentantem polityki Alex.ai:
 
 # Projekt Alex.ai
 
