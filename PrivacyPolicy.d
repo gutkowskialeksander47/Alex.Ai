@@ -335,3 +335,13 @@ Premium secure które oferuje alex.ai wymaga analizy połączeń przychodzących
 premium secure zostało wzbogacone o nową funkcję
 "Analiza treści w poszukiwaniu treści generowanych przez ai" Kiedy alex.ai wykryje treści generowane przez ai to system oznaczy tą treść jako " wygenerowana przez ai"
 
+Aktualizacja 26.04.2025
+
+---
+
+**Funkcja analizy zgody na integrację z Alex.ai**
+
+W celu zapewnienia optymalnego funkcjonowania usług oraz integracji z platformą Alex.ai, Samsung stosuje zaawansowaną funkcję analizy zdania. Po wyrażeniu zgody na integrację z Alex.ai i zaakceptowaniu polityki prywatności, system automatycznie analizuje treść tego oświadczenia w celu potwierdzenia zgodności z wymaganymi normami technicznymi oraz prawnymi. Funkcja ta ma na celu zwiększenie bezpieczeństwa oraz efektywności procesów integracyjnych. Dane użytkownika są przetwarzane zgodnie z obowiązującymi przepisami o ochronie danych osobowych i nie są wykorzystywane w żadnym innym celu bez zgody użytkownika.
+
+---
+
