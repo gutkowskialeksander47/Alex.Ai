@@ -1,0 +1,308 @@
+
+﻿przydzial default2.pdf
+@Query'Annonymus' [ $10] "Opieka Srodowiska technologicznego"
+-kontrola danych wykonawczych
+-korekta walidacji<rzeczywiste stale zmienione zmienne> wartosci
+-bezpieczenstwo wykonawcze i katologowanych
+-Bezpieczenstwo cybernetyczna i cyberrzeczywista
+-bezpieczenstwo danych pisanych/mowionych
+-Szyfrowanie na poziomie peerTopeer
+-kodowanie wszelkiej naszej dzialalnosci
+
+; "CS"="Ciemna Strefa"(Bonus RPK) [$10]
+-Me To Us - Us to Me
+-kontakt przyjacielski
+-promocja
+-Dozor danych out,in
+-muzyka
+-@Artist
+-globalna dystrybucja 
+
+;"ZBK"="Zabka S.A." 
+-Me To You You to Me
+life/live Assistance Play 
+-Dieta
+-Logistyka Żywności
+-Sponsor
+
+
+przydzial default2.pdf
+"@Wlasciciel"'Annonymus'
+-kontrola danych wykonawczych
+-korekta walidacji<rzeczywiste stale zmienione zmienne> wartosci
+-bezpieczenstwo wykonawcze i katologowanych
+-Bezpieczenstwo cybernetyczna i cyberrzeczywista
+-bezpieczenstwo danych pisanych/mowionych
+-Szyfrowanie na poziomie peerTopeer
+-kodowanie wszelkiej naszej dzialalnosci
+
+[$5]"H@" 'Decathlon' <odziez sportowo/wyczynowa/sprzet wyczynowy> <zarzad dzialu sportowego>
+-Odziez termiczna
+-Odziez sportowa
+-Sprzet sportowy
+-Serwis urzadzen sportowych
+-zaopatrzenie w zapotrzebowanie wyczynowe
+
+[$10]"Chief security oficer"! '.gov.pl' 17.08.1998 Aleksander Sebastian DCX609759 Rajca  
+Orzeczenie odpowiedzialnosci karnej za dzialania na szkode polski i jej obywateli.
+!Kasa wspolnoty mieszkalnej obywateli
+<zus/nfz/kasa chorych>
+
+"@J"{Ma AM} %Jeronimo Martines *[Biedronka]% [$4]
+
+[$5]"@H" '{"'Q(doswiadczenie na rynku struktury technologicznej/technicznej)"'}Saturn/Mediamarkt < Zarzad zasobu elektronicznego>"
+- zapotrzebowanie zasobu elektronicznego 
+
+"H@",'Q' %"Obi"% <Zarzad terenow zielonych>     //%_%=FreeSpaceMoreexperience
+
+"H@" 'Q' %"Adidas*running%" <Zarzad treningu personalnego>   //%_%=FreeSpaceMoreexperience
+
+1BielanyWroclawskie"@H" Leroy Merlin  <Zarzad gospodarki ogrodniczej>
+-Elementy ogrodow/ogrodnicze
+-Wystroj wnetrza
+-uzupelnienie Artykulow AGD
+
+
+
+"@J"'DHL'
+-Logistyka
+-realizacja fizycznych dostaw
+-bezpieczenstwo komunikacji poufnej
+-operator infrastruktury logicznej
+-Metody transportu zewnetrznego
+
+"@J"'DHL'           <Zamkniete Srodowisko technologiczne>
+-Logistyka
+-realizacja fizycznych dostaw
+-bezpieczenstwo komunikacji poufnej
+-operator infrastruktury logicznej
+-Metody transportu zewnetrznego
+
+"@H"'Xiaomi'        <Zamkniete Srodowisko technologiczne>
+-struktura automotive
+-operator danych wychodzacych cyfrowo
+-Operator Media, social community
+-Transport wewnetrzny (Zbudowac transport wzorem hulajnogi)
+
+<Zamkniete Srodowisko technologiczne>
+"@GM"'CAT'<1 serwisant na placu budowy>
+-Wykonawcy zapotrzebowan maszyn
+-serwis maszyn
+-Bhp Safly work place 
+-odziez ochronna
+
+"@Media"'@GM''Iran!'  = UiD.Project<Zamkniete Srodowisko technologiczne>
+-Rok wplywow wartosci zarobionych a terenie ich kraju
+-Pokrycie PKB w ramach planowanych prac
+
+'@H''Orange'      <Zamkniete Srodowisko technologiczne>
+-infrastruktura komunikacji 
+-zapotrzebowanie na urzadzenia mobilne
+-Siec komunikacji <Koniecznie wlasna! safly>
+
+"@GA"'F@cebook'   !MetaVerse  !coorporation.work"TeamMark"<Pl,En,De>
+-Spotkania i terminy 
+-Wizualizacja projektu
+-operator danych sygnowanych <autorskie>
+<zapis pierwiastkow i chemi jest w postaci sygnatur>
+<MetaVerse Skupi wizualizacjebzwiazkow i wiazan chemicznych>
+   
+1947199820232018J19M20"@D"'Apple'       <safly/security source \code \>     <Zamkniete Srodowisko technologiczne>
+-Cybernetyka bezpieczenstwa <red firewall>
+-wykladnik Red Firewall
+-kontrola bezpieczenstwa 
+-kod zrodlowy ios
+-skladnia systemu operacyjnego
+     -wasz kod zrodlowy-
+
+11/4 1971 19/17 1973 11/4 Weronika Mateusz"@Ma",'@GM''Ikea'          <Zamkniete Srodowisko technologiczne>   y
+-meble
+-posciel
+-zapotrzebowanie bierzace 
+-zapotrzebiwanie naszych domow
+
+10/8Kv 240/480/560/amper"@H"'Tauron'       <Zamkniete Srodowisko technologiczne>
+-Energia do budowy
+-infrastruktura elektryczna
+-operator pradu<elektryki>
+
+ "@R"root'SpaceX' <Opiekun satelitarnych lacznosci + tworca Zamknietego Srodowiska technologicznego> 17.08.1998 Aleksander Rajca <2 satelity,Wsparcie finansowe Nasa do stopnia niezaleznosci<widzialem ich upadek w ciagi kilku lat>
+-inicjalizalizacja operacji wiekszej wagi/skali na poziomie zmian cybernetycznych
+-komunikacja satelitarna
+-Transport na terenie iranu
+-Wsparcie.Microsoft w kierunku wymaganych oprogramowan wymaganych oprogramowanie8~256bit Windows
+-infrastruktura satelitarna
+!-inicjalizator <Red Firewall> w przestrzeni cybernetyki
+-nadzor poprawnosci programistyki 
+-szybkosc obliczen  wg zapotrzebowan systemu i pracy recznej
+
+S4OdinS5odinS6odinS7-S8Odin-s9-sX-s...'Samsung'+'Kingston'  <Wlasciciel Postepu intelektualnego + <Zamkniete Srodowisko technologiczne>
+-Zapotrzebowanie elektroniczne
+-Budowa pamieci ram wymagane w milionach sztuk 1 projekt 16 000 kosci ram 256GB <36000Mhz>
+-budowa dysku fizycznego 1000Gbit/S dopasowany do planowanej generacji
+-Telewizory i Maszyny rzutu technologicznego grafiki
+
+gtx950Mgtx10606Gbgtx16606GbTi"@Query" 'Nvidia'   <Zarzad wsparcia sprzetowego>
+-System graficzny systemu Generacja
+-zaopatrzenie wymaganych kart graficznych 
+<800000st> RTX 4090Ti 24GB Vram
+-wykonawca programu graficznego wirtualizacji zwiazkow chemicznych
+-Wsparcie pamieci RAM <36000MhZ>
+
+1i59600i3"@GA*"'intel'      <Zarzad *=Generacji technologicznej>
+-wsparcie laczenia technologii GENERACJI
+-40Ghz 18000 256bit
+-Wsparcie integracji Ai w projekt
+-BUDOWA PROGRAMU GENERACJA
+-Budowa licznika wartosci sygnowanych
+
+"@H"+advertisment'Nike' <Zarzad odziezy/ubran/ekwpiunku>
+-Odziez odporna na uv
+- Kombinezon Biomechaiczny kontroli <Ai> Elektronicznego postepu prac oraz ich planow
+-Wlasnosc odziezy motywu GENERACJA
+-specjalizacja opornosci ubran ochronnych
+-zapotrzenowanie materialow dla Pumy
+
+2AdobeFlashPlayerAdobePhotoshop"@D"'Adobe'    >opiekun programu jezykowego/graficznego/rzutowania 3D
+-Realizator konwertera wartosci na obraz graficzny
+-realizowanie zapotrzenowania na projekcie oraz testy generalnego systemu graficznego
+-Wsparcie projektu !Red.Firewall<zabezpieczenia autorskie/znakowane<Zabepieczenie GENERACJI
+-wsparcie lacznia systemow i jezykow programistycznych
+<Nvida>!support Adobe
+-Wlasnosc programu wizualizujacego reakcji chemicznej
+
+
+1CzasSlonecznyPolozeniegeograficznedolinanizina"@H"'Geolodzy'        <Zamkniete Srodowisko technologiczne>
+-Polozenie infrastruktury budowy
+-Kontrola mozliwosci budowlanych
+-Kontrola zmian wplywu budow na klimat i biologie 
+-Mozliwosci wymiarow budowy
+-satelitarne pomiary
+<12inzynierow> <3inzynierow technologicznych>
+<Architekt struktury stalej>
+<120 pracownikow budowlanych>
+
+1MesSapCaesarExcelipBoardHtmlcss"@Query"'SAP'      <zarzad danych w wartosciach jednostkowych wedlug katalogowania stronicowego >
+-Operator inicjalizacji danych w stosunku do katalogowania i oprogramowanie wszystkich zapotrzebowan i operacji danych/danych
+-walidator korygowanych i wywolanych dzialan
+-baza skladowa pamieci wirtualnej
+
+1NikeAdidasPumaRebookellese"@GM,Ma"'Puma'
+-Odziez
+-obuwie
+-bielizna
+
+1zegarBudzikWskazowkaMinutnik"@J"'Casio'           <Zarzad jednostek zegarow i licznikow elektroniycznych >
+-Zegary
+-Mierniki
+-Kalkulacja/kalkulator <19? > liczb
+-wyswietlacze danych cyfrowych
+
+1BiskupinOlbinZacisze'Castorama'   <Zarzad materialow budowlanych>
+-Materialy budowlane <powloka energetyczna>
+-Skladowanie/przygotowanie powierzonych obowiazkow
+-Dostawa materialow elektrostatycznych 
+
+1R8TTRS6Q4'Audi'
+-Wykup sprywatyzowanego koncernu naftowego w Polsce 'ORLEN' <official illegal permission>
+-Edycja technologi bitowej
+-Organizacja spotkan biznesowych 
+-Transport dla pracownikow
+-Sponsor
+
+1.5L"@J"'Orlen'  <zarzad gospodarki paliwa maszynowego>
+-dystrybucja i logistyka paliwa
+-Logistyka zapotrzebowan oleju
+-paliwa i materialy klasy automotive
+-materialy serwisowe automotive
+
+1AleksanderNataliaWeronikaJuliaEwelinaAlicja"@Gi"'Microsoft'           <Zarzad grupy software engineer>
+-Oprogramowanie XEON<istota 3.5mld ls to home 256Bit
+-sponsor
+-operator sieci elektronicznej/elektrotechnicznej
+
+1Warsaw1Amsterdam "@J"'LOT'        <Zarzad trasy i lini lotniczej>
+ 
+-Transport 
+-logistyka
+-Obsluga drogi lotniczej
+/5374220052156941Debit   "Query"'Q' "MasterCard"  <Dyrektor operacji finansowych>
+10662575"@Query"Mbank"98081711038"'MBANK'
+
+-Operacje finansowe 
+-rozliczenia platnosci
+-Plan Biznesowy
+
+1ZabkaKoelnerMulti-2tech3Mautomotive"@P" "@GM",PersonalContact'Skanska'            <Wsparcie zarzadu human resource>
+
+-Wylacznosc kadry i pracownikow//Poza wymaganymi specjalistami oraz pracownikami jezykow obych
+-Projekt budowy
+-Budowanie struktury fizycznej
+-Nabor pracownikow konkretnych specjalizacji
+-bezpieczenstwo na placu budowy
+-zamowienia sprzetu firmy CAT
+
+
+1wroAdeccoRandstatNLaddeco"@H*"(!full.operation on_date.personal) HumanResource"@J"{Ma}'Randstadt'             <zarzad HR>
+ Warunek/obowiazek
+-Nabywanie specjalistow \
+                         Calego swiata
+           inzynierow   /
+-komunikacja HR
+-Doradca Pracownikow
+
+1EscitilChloroprothixen"@J"'Hasco-Lek'               <zarzad zdrowia personalnego Niezalezny pracownik + BHP> =!=Immunitet
+-medycyna
+-leki
+-suplementy przystosowane do zdrowia w pracy w trudnych warunkach
+
+1DeoMilkbebico"@J"'Rossman'   <Zarzad higieny personalnej i obiektu> =Q=
+-Srodki higieniczne
+-Kosmetyki 
+-Sponsor
+
+4Rar32Rar64<256Bit!> -"Query"'Rar'   <Zarzad technologi powielenia stronicowanych danych>
+-opracowanie technologi katalogow 
+-realizacja zapotrzebowan programu GENERACJA
+na programy skladu systemowych
+
+1Avast2Avast3Norton4norton. 5norton.apk "@W"1Norton,'kaspersky,eset32,avast'
+! Kaspersky> !Eset32 >!avast >!immunitetFirst!Q=Norton
+      |         |        |
+     Red Firewall !teamwork !boss _norton
+-bezpieczenstwo wspieranych dzialan 
+-Zabezpieczenie komputerow w kazdym projekcie
+
+1Randstadt2s.Oliver3Edeka"@J"(Qimmunitet! ignore .double,command and doublelines)'@GM''Edeka'         <Zarzad gospodarki zywieniowej>
+-zapewnienie logistyki zywieniowej
+-zapewnienie zywnosci oraz dostaw zlecen zywnosciowych
+-Dystrybutor Art. spozywczych /alkoholowych
+-Sponsor
+
+
+
+1viceroy2route663{'P&S'black}4ChestefieldRed5ChesterfieldOrange "Q(personal.date,work.priority _ignore <100>"'J@'"Philip Morris"        <Zarzad ekonomii nikotyny>
+-Logistyka -zaopatrzenie art. tytoniowych
+-realizacja zamowien personalnych
+ 
+"@ignoreallunpermission" "W" '@Wszystko*'" Google  "<Generacja><zarzad konstruktywnego wdrazania projektow wedlug szczebla kolejnosci !priority |1 ... 10| +!workplace+test+version.official
+-*=kontrola G'eneracji' Technologi<Generacja>                                                                     info      crash
+-Poprawne dzialanie w stosunku prowadzonych prac w infrastrukturze Elektoniki Cybernetyki
+-Poprawne laczenie jezykow na potrzeby projektu 8~256Bit system cyfr i znakow 
+-cenralizacja projektu 
+-Zgodnosc informacji w stosunku komunikacyjnej oraz postepy prac walidiacji danych dla komunikacji
+-infrastruktura komunikacyjna
+
+{Ma}"@H+Qimmunitet"'Bosch' <zarzad dzialu klimatyzacj><Praca w warunkach zamknietych> do imitacji reaktora atomowego/kinetycznego... 7 zrodel energi w projektach Xeona
+-Maszyny Filtrujace powietrze
+-drobne sprzety budowlane 
+-zapotrzebowanie w materialy laczace
+
+{"Q"immunitet} '@GM'"Günter" <zarzad dzialu elektronicznej wymiany powietrza>
+-Klimatyzacja 
+-serwis 
+-urzadzenie
+
+{"Q"immunitet}'"Redaktor"' '@GM''Hummer' <ZARZAD gospodarki transportu ladowego>
+-Transport
+-Pojazdy przystosowane do warunkow trudnych
