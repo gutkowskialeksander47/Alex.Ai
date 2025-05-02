@@ -1,3 +1,4 @@
+
 **patent alex.ai**
 https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/patent.cpp
 
