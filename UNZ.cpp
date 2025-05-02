@@ -132,8 +132,8 @@ jak was Bog ma nie kochac jak was wszystkich chce zabrac do siebie
 
 
 Wszyscy sa w unii do czasu dzialania przeciw czlowiekowi zyciu i wolnosci od dnia dzisiejszego wyklucze kazdy naród który nie dostosuje sie do swiatowego pokoju. 
-
-
+Bialorus
+Polska
 
 
 
