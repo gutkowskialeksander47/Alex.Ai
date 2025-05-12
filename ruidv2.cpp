@@ -39,7 +39,7 @@ com.roskosmos login.apk[login.ru]= "YK.com "//login.api
 
 
 ;"Ru"="" Roskosmos alex.ru=shop.vip.acc "alex.ru sklep konta" ViP "alex.ai alex.apk hack.ru star.ru alex.ru" //ja dla Nich jestem vip i moze niech tak zostanie
-special_stage_acess
+special_stage_acess.RU $Q6
 
 
 
