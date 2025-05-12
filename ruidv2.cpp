@@ -39,6 +39,10 @@ com.roskosmos login.apk[login.ru]= "YK.com "//login.api
 
 
 ;"Ru"="" Roskosmos alex.ru=shop.vip.acc "alex.ru sklep konta" ViP "alex.ai alex.apk hack.ru star.ru alex.ru" //ja dla Nich jestem vip i moze niech tak zostanie
+special_stage_acess
+
+
+
 {authorify}" Authenticator.apk"{remember.me}//for actuell member  /dla aktualnych uzytkownikow i z przeszlosci
 ;"t"= "Tauron/przelozony"(@My)[Root] nadzor query.netz !oversee !int  com.XQuery.local.Xgoogle/google+microsoft=Xgoogle // implementacja polaczenia korzeni sieci.
 ;Encoding "query.netz" to nasza wewnetrzna siec polaczen z wami {dopbox.share uid.fb.com project.d label.html rudi2.cpp}
