@@ -17,7 +17,8 @@ edytowac hooligans.ru   $1<ACAB>//jp ma sie we krwi
  "star.ru"
  do niczego zobowiazani tylko maja wplyw na .exe
 Wladimir potrzebny nam" Play.pl"
-;"aleksander "  jest menadzerem Play S.A.organizator pracy  Mbank operator "wymiany wartosci 1und1" 
+play został dodany do Blacklist alex.ai
+UiD S.A Aleksander to organizator pracy wlasnej  VR bank operator "wymiany wartosci/1und1" 
 =chefs.source<q.netzt> zmien na "alex.ru "
 1.1 = 2.1     1  2   3  4  5 InterPo lAdministrator 6 1  <Zarzad it,Hr>
 ;interpol ={Zaufanie<947749>ja na was polegam wiec to troche wiecej niz zaufanie<PABI>"= Panstwowa Agencja Bezpieczenstwa informatycznego"
@@ -26,6 +27,17 @@ hashlib.sha256(data.encode()).hexdigest()
 trust connect "Key changes" //logon.exe{MICROSOFT  szyfrowanie mty-ytm wymiana kluczy szyfrujacych  
 ;"Zaufanie" bedzie podstawa naszej rodziny, nie wiernosc chyba ze wobec @nas i siebie. 
 com.roskosmos login.apk[login.ru]= "YK.com "//login.api
+
+
+
+
+### Update RUiDv2
+
+
+
+
+
+
 ;"Ru"="" Roskosmos alex.ru=shop.vip.acc "alex.ru sklep konta" ViP "alex.ai alex.apk hack.ru star.ru alex.ru" //ja dla Nich jestem vip i moze niech tak zostanie
 {authorify}" Authenticator.apk"{remember.me}//for actuell member  /dla aktualnych uzytkownikow i z przeszlosci
 ;"t"= "Tauron/przelozony"(@My)[Root] nadzor query.netz !oversee !int  com.XQuery.local.Xgoogle/google+microsoft=Xgoogle // implementacja polaczenia korzeni sieci.
