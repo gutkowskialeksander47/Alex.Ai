@@ -185,8 +185,7 @@ else if 4G=off-line
 <support acc>"sap.com"+sort class uid for value to choose
 "osoba odpowiedzialna za zrodlo streamingu"
 ;"html".= Aleksander@Rajca "live.ch@t"+"string.stream"
- gdyby mi nie patrzyli na rece juz bym "zlamal linie zycia"
-
+ 
 !save.activity _history.display _activity przekazuj aktywnosc w formie tekstowej
 ; [mysql list] podlozem jest katalogowanie mysql dla lini i tekstu
 **•	rcon_password <wasze jutro> **– laczy z serwerem realityConnection 
