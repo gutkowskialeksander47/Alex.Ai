@@ -1,5 +1,5 @@
-﻿{First_Class <!%$%%%$> Female  $ 
-  {Artist_Date %$$=Aleksander% l
+﻿{First_Class <!%$%Ewelina Lisowska%$> Female  $ 
+  {Artist_Date %$$=Aleksander Gutkowski
  class.junior {Twince_Artist !$,$$,$$$ > 
 class.query   {Twince_Class !Full_date<$%Aleksander_Sebastian_Rajca%>$$$
         {Third_int %Peronal_Male% Aleksander_Rajca$$
