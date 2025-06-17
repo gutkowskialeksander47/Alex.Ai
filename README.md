@@ -2698,6 +2698,7 @@ wroclaw71.exe<ja wam relacjonuje swoje zycie>
 
 
 
+
 1. **Czym jest Uniwersal Identification Direct (UiD)?** Jest to algorytm który w czasie rzeczywistym analizuje treści do przekazywania na String/live/public i przekazuje je w moim imieniu
 2. **Jakie są główne cele i funkcje systemu UiD?** UiD miało służyć do nałożenia dziesięciu klas wybranych przez użytkownika i dziesięć wyeliminowanych klas których nie chcieli w VR 
 3. **Jakie są korzyści z korzystania z systemu UiD dla użytkowników?** Rozwój postęp i możliwości to są rzeczy które dostarczam uśmiechem. kolejny priorytet to że bliski w UiD jest bliskim w programie
