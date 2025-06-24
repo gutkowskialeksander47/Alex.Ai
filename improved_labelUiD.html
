@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <title>Improved Label UiD - MasterUiD.project</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        h1, h2, h3 { color: #333; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+        th { background: #f4f4f4; }
+    </style>
+</head>
+<body>
+    <h1>Improved Label UiD</h1>
+    <p><strong>Label UiD</strong> to system rang i uprawnień w projekcie <strong>MasterUiD.project</strong> i ekosystemie <strong>Alex.AI</strong>. Został stworzony, aby każdy uczestnik (artysta, sponsor, admin, inwestor) wiedział, jakie ma prawa, obowiązki i dostęp do zasobów.</p>
+
+    <h2>🔑 Struktura organizacyjna</h2>
+    <ul>
+        <li><strong>Przewodniczący G40:</strong> Aleksander Rajca</li>
+        <li><strong>Główny Mówca:</strong> Dorota Rabczewska</li>
+        <li><strong>Zarząd:</strong> Bonus RPK, TPS, Paluch, Ewelina Lisowska, Natalia Nykiel, Rihanna, Mark Zuckerberg, Elon Musk, Donald Trump, Karol Nawrocki, Julia Ratowska i inni.</li>
+    </ul>
+
+    <h2>📊 Tabela rang i uprawnień</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Ranga</th>
+                <th>Opis</th>
+                <th>Dla kogo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>$1</td><td>Podstawowy użytkownik, dostęp do treści publicznych</td><td>Wszyscy nowi</td></tr>
+            <tr><td>$2</td><td>Moderator, zgłaszanie nadużyć</td><td>Zaufani fani</td></tr>
+            <tr><td>$3</td><td>Globalny Moderator, wsparcie techniczne</td><td>Wybrani członkowie</td></tr>
+            <tr><td>$4</td><td>Junior Admin, zarządza kontami</td><td>Pomocnicy adminów</td></tr>
+            <tr><td>$5</td><td>Senior Admin, pełny panel administracyjny</td><td>Główna administracja</td></tr>
+            <tr><td>$6</td><td>Manager Labelu, współpraca z artystami i sponsorami</td><td>Menadżerowie</td></tr>
+            <tr><td>$7</td><td>Dyrektor Operacyjny, decyduje o wydatkach i projektach</td><td>Zarząd</td></tr>
+            <tr><td>$8</td><td>Główny Deweloper, nadzoruje kod, XQuery, bazy SQL</td><td>Tech lead</td></tr>
+            <tr><td>$9</td><td>Security Officer (PABI), kontrola bezpieczeństwa i Red Firewall</td><td>Szefowie bezpieczeństwa</td></tr>
+            <tr><td>$10</td><td>Przewodniczący G40 / CEO Alex.AI</td><td>Aleksander Rajca, Dorota Rabczewska</td></tr>
+        </tbody>
+    </table>
+
+    <h2>💶 Związek z finansowaniem</h2>
+    <p>Każdy od rangi <strong>$3</strong> w górę ma wkład finansowy, techniczny lub sponsorski w rozwój Alex.AI i Label UiD. Sponsoring obejmuje integrację API, współpracę z Koalicją Zjednoczonych Korporacji (KZK) i artystami.</p>
+
+    <h2>📜 Jak korzystać</h2>
+    <ol>
+        <li>Sprawdź swoją rangę.</li>
+        <li>Jeśli chcesz zmienić rangę — skontaktuj się z <strong>Managerem Labelu</strong> lub <strong>Liderem Administracji</strong>.</li>
+        <li>Przestrzegaj zasad i zgłaszaj nadużycia moderatorom.</li>
+        <li>Wszelkie wątpliwości zgłaszaj do <strong>Natalia Szroeder</strong> lub <strong>VERBA</strong> (Opiekun Administracji).</li>
+    </ol>
+
+    <h2>🎙️ Oficjalni mówcy G40</h2>
+    <p>Lista mówców (pełna w dokumentacji G40):</p>
+    <ul>
+        <li>Dorota Rabczewska</li>
+        <li>Bonus RPK</li>
+        <li>TPS</li>
+        <li>Paluch</li>
+        <li>Murzy ZDR</li>
+        <li>Oska 030</li>
+        <li>Rihanna</li>
+        <li>Elon Musk</li>
+        <li>Mark Zuckerberg</li>
+        <li>Donald Trump</li>
+    </ul>
+
+    <p><strong>Ostatnia aktualizacja:</strong> czerwiec 2025</p>
+</body>
+</html>
