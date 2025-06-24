@@ -130,6 +130,7 @@ Użytkownik ma prawo do:
 3. Usunięcia danych (prawo do bycia zapomnianym).
 4. Ograniczenia przetwarzania danych.(Użytkownik może prosić o dane które nie będą przetworzone)
 5. Przenoszenia danych do innego administratora.
+(tylko po wcześniejszym ustaleniu warunków przenoszenia danych)
 6. Wniesienia sprzeciwu wobec przetwarzania danych.
 7. Wycofania zgody na przetwarzanie danych w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
 
@@ -167,11 +168,11 @@ Nazwy i funkcje baz danych sa ogolnie dostepne dla uzytkownika.
  bazy danych Alex.ai/alex.apk:
 ;>[MySQL]=User from SUID="ViP" acess !managment SQL
  [sql rca]=Rajca[sql zuck]=Zuckerberg [isql]=Apple [XSQL spaceX] MarketingZoneDB [sqlmz] 
-wszystkie dane w bazie danych sa szyfrowane
+wszystkie dane w bazie danych sa szyfrowane więc nawet w wyniku wycieku nikt nie będzie miał dostępu do odszyfrowania danych. Tylko CEO (Julia Ratowska Joanna Klepko i Sandra Gutkowska) mają dostęp do klucza odszyfrowywującego.
 
 **5. Pliki cookie**
 
-Nasza strona internetowa może używać historię kursora w celu poprawy doświadczeń użytkownika. Pliki cookie są małymi plikami tekstowymi przechowywanymi na Twoim urządzeniu, które pomagają nam analizować ruch na stronie i personalizować treści.
+Nasz serwis Alex.Ai może używać historię kursora w celu poprawy doświadczeń użytkownika. Pliki cookie są małymi plikami tekstowymi przechowywanymi na Twoim urządzeniu, które pomagają nam analizować ruch na stronie i personalizować treści.
 
 **6. Twoje prawa**
 
@@ -198,7 +199,7 @@ Jeśli masz jakiekolwiek pytania dotyczące naszej polityki prywatności, skonta
 
 **1. Informacje o Przetwarzaniu Numeru PESEL**
 
-W ramach korzystania z naszych usług, możemy zbierać i przetwarzać informacje dotyczące numeru PESEL (Powszechny Elektroniczny System Ewidencji Ludności) użytkowników w celu weryfikacji tożsamości i zapewnienia bezpieczeństwa naszych usług.
+W ramach korzystania z naszych usług na terenie Polski, możemy zbierać i przetwarzać informacje dotyczące numeru PESEL (Powszechny Elektroniczny System Ewidencji Ludności) użytkowników w celu weryfikacji tożsamości i zapewnienia bezpieczeństwa naszych usług.
 
 **2. Cele Przetwarzania**
 
@@ -222,7 +223,7 @@ Przetwarzanie numeru PESEL odbywa się na podstawie:
 
 **5. Okres Przechowywania Danych**
 
-Numer PESEL będzie przechowywany tylko w formie generowanego numeru identyfikacji użytkownika. Przy rejestracji w systemie alex.ai generator wygeneruje ciąg znaków na podstawie Twojego numeru PESEL który będzie służył za cyfrowy podpis w systemie UiD
+Numer PESEL będzie przechowywany tylko w formie generowanego numeru identyfikacji użytkownika. Przy rejestracji w systemie alex.ai generator wygeneruje ciąg znaków na podstawie Twojego numeru PESEL, który będzie służył za część cyfrowego podpisu w systemie UiD
 
 
 **6. Prawa Użytkownika**
@@ -299,11 +300,11 @@ Użytkownik ma prawo do:
    - Dane nie będą udostępniane osobom trzecim bez mojej zgody, z wyjątkiem sytuacji wymaganych przez prawo.
 
 3. **Bezpieczeństwo Danych**:
-   - Rozumiem, że Apple stosuje odpowiednie środki techniczne i organizacyjne w celu ochrony moich danych osobowych przed nieautoryzowanym dostępem, utratą, modyfikacją lub zniszczeniem.
+   - **Rozumiem, że Apple stosuje odpowiednie środki techniczne i organizacyjne w celu ochrony moich danych osobowych przed nieautoryzowanym dostępem, utratą, modyfikacją lub zniszczeniem.**
 
 4. **Prawa Użytkownika**:
    - Mam prawo dostępu do moich danych osobowych, ich poprawiania, usuwania oraz ograniczenia przetwarzania.
-   - W celu skorzystania z tych praw mogę skontaktować się z administratorem danych poprzez podany adres e-mail.
+   - W celu skorzystania z tych praw mogę skontaktować się z administratorem danych poprzez podany adres e-mail. gutkowskialeksander47@gmail.com  aleksander@rajca.info
 
 5. **Zgoda na Warunki Licencji**:
    - Wyrażam zgodę na przestrzeganie warunków licencji określonych przez Apple w związku z korzystaniem z MTY-YTM w celach biznesowych.
