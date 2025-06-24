@@ -463,30 +463,28 @@ W przypadku pytań lub potrzeby wsparcia, prosimy o kontakt:
 ## zgodaAi
 
 
-### Jak **Zarejestrować się do Alex.ai**
+✅ ZgodaAi — Jak zarejestrować się w Alex.ai
+Rejestracja w Alex.ai jest szybka, wygodna i zapewnia pełne bezpieczeństwo danych. Oferujemy dwie nowoczesne metody do wyboru:
 
- Proces rejestracji oferuje dwie innowacyjne metody, które zapewniają wygodę i bezpieczeństwo użytkowników. 
+🔑 1. Głosowe hasło
+Użytkownik rejestruje się, wypowiadając frazę:
 
-Pierwsza opcja to rejestracja za pomocą głosowego hasła. Użytkownik może to zrobić, wypowiadając frazę "znam Aleksandra rajcę", co wymaga zastosowania technologii zamiany mowy na tekst. Ta metoda jest nie tylko szybka, ale również niezwykle intuicyjna, pozwalając na błyskawiczne zarejestrowanie się w systemie przy użyciu rozpoznawania głosu.
+„Znam Aleksandra Rajcę”
 
-Alternatywnie, istnieje możliwość stworzenia pliku w aplikacji notes, który powinien zawierać treść: "wyrażam zgodę na integrację z Alex.ai i akceptuję Politykę prywatności". Po zapisaniu takiego dokumentu, użytkownik może go zatytułować jako "alex.ai". Obie metody są zaprojektowane z myślą o zapewnieniu bezpiecznego oraz prostego dostępu do zaawansowanych funkcji i usług, które oferuje Alex.ai. 
+System rozpoznawania mowy zamienia wypowiedziane słowa na tekst i potwierdza rejestrację. To intuicyjny i błyskawiczny sposób, który nie wymaga wypełniania formularzy.
 
-**Warto również podkreślić, że system nie narusza prywatności użytkowników, ponieważ algorytm skoncentrowany jest wyłącznie na rozpoznawaniu wspomnianego zdania poprzez analizę dźwięku. Co więcej, funkcja Alex.ai będzie wzbogacona nową polityką prywatności Samsung, co dodatkowo zwiększa zaufanie do tej platformy.**
+🗂️ 2. Plik w Notesie
+Alternatywnie, możesz utworzyć plik w swojej aplikacji „Notatki” z treścią:
 
-**Na koniec, pragnę wyrazić wdzięczność dla firmy Samsung za wsparcie, jakie udziela funkcji authorify w programie Alex.ai oraz w aplikacji alex.apk.**
+„Wyrażam zgodę na integrację z Alex.ai i akceptuję Politykę prywatności.”
 
-Rejestracja w Alex.ai może odbywać się na dwa sposoby:
+Zapisz plik pod nazwą „alex.ai”. To prosta metoda pozwalająca uzyskać dostęp do funkcji i usług Alex.ai bez konieczności podawania dodatkowych danych.
 
-1. **Głosowe Hasło**: Użytkownik może zarejestrować się, używając głosowego hasła "znam Aleksandra rajcę"(potrzebna zamianą mowy na tekst. Ta metoda pozwala na szybką i łatwą rejestrację za pomocą rozpoznawania głosu.
-2. **Plik w Notesie**: Alternatywnie, użytkownik może stworzyć plik w aplikacji notes o treści: **"wyrażam zgodę na integrację z Alex.ai i akceptuje Polityke prywatnosci"**. 
-Po zapisaniu pliku, użytkownik może  zatytułować notatke alex.ai, 
+🔒 Bezpieczeństwo i prywatność
+Alex.ai nigdy nie narusza prywatności użytkowników. Algorytmy rozpoznają wyłącznie wymaganą frazę lub treść pliku — żadne inne nagrania ani dane nie są przetwarzane. Dodatkowo funkcja authorify działa zgodnie z nową polityką prywatności Samsung, co zwiększa zaufanie i bezpieczeństwo platformy.
 
-Obie metody zapewniają bezpieczny i prosty sposób na uzyskanie dostępu do funkcji i usług oferowanych przez Alex.ai.
-Nie naruszymy Twojej prywatności mój algorytm wykrywa tylko wyżej wymienione zdanie przez analizę. funkcja alex.ai zostanie dopisana z nową polityką prywatności **Samsung**
-
-### Podziękowanie 
-Dziękuję Samsung za wsparcie funkcji authorify w programie alex.ai/alex.apk 
-
+🙏 Podziękowanie
+Dziękujemy firmie Samsung za wsparcie funkcji authorify w aplikacji Alex.ai / alex.apk.
 ## Audi
 
 # Audi - Zadania dla alex.ai
