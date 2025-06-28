@@ -201,7 +201,37 @@ def apply_penalty(admin, username, penalty, reason):
     if username not in users_data:
         users_data[username] = {"ostrzezenia": 0
 
+# Lista użytkowników i ich statusów
+users = {
+    "anna.nowak": "student",
+    "jan.kowalski": "admin",
+    "magda.karp": "student",
+    "arek.lewandowski": "student",
+    "marta.gutkowska": "gość"
+}
 
+# Słownik przechowujący role dodatkowe
+user_roles = {}
+
+def assign_teacher_status():
+    """Przypisuje status 'Nauczyciel' każdemu studentowi."""
+    for username, status in users.items():
+        if status.lower() == "student":
+            user_roles[username] = "Nauczyciel"
+            print(f"✅ {username} otrzymał status 'Nauczyciel'.")
+
+def show_roles():
+    """Wyświetla listę użytkowników z przypisanymi rolami."""
+    print("\n📋 Lista ról użytkowników:")
+    for user, role in user_roles.items():
+        print(f"- {user}: {role}")
+
+if __name__ == "__main__":
+    print("🔁 Rozpoczynam przypisywanie statusów...\n")
+    assign_teacher_status()
+    show_roles()
+
+    print("\n🙏 Dziękujemy wszystkim studentom za ich wkład, zaangażowanie i rozwój społeczności Alex.ai.")
 
 
 ### Poziom $1 (User)
