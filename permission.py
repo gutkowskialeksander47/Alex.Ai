@@ -562,6 +562,78 @@ if __name__ == "__main__":
     # Podziękowania
     system.thank_you_message()
 
+class AlexAIPolitics: #Autor Alex.ai jest apolityczny
+    def __init__(self):
+        # Informacja o apolityczności
+        self.apolitical = True
+        self.description = (
+            "Projekt Alex.ai oraz jego treści są apolityczne, "
+            "neutralne i obiektywne. Szanujemy różnorodność opinii użytkowników."
+        )
+
+        # Reprezentant polityki
+        self.political_representative = "Mateusz Morawiecki"
+
+        # Lista decyzji podjętych przez reprezentanta
+        self.political_decisions = []
+
+        # Koordynacja służb przy Alex.ai - status
+        self.services_coordinated_by = self.political_representative
+
+    def show_political_status(self):
+        print("=== Status Polityczny Alex.ai ===")
+        print(f"Apolityczność: {self.apolitical}")
+        print(f"Opis: {self.description}")
+        print(f"Reprezentant Polityki: {self.political_representative}")
+        print(f"Koordynuje służby: {self.services_coordinated_by}")
+        print()
+
+    def make_decision(self, decision_text):
+        """
+        Pozwala reprezentantowi polityki podejmować decyzje dotyczące polityki Alex.ai.
+        """
+        if not decision_text.strip():
+            print("Decyzja nie może być pusta.")
+            return False
+        self.political_decisions.append({
+            "representative": self.political_representative,
+            "decision": decision_text,
+            "timestamp": self._current_time()
+        })
+        print(f"Decyzja polityczna została podjęta przez {self.political_representative}:")
+        print(f"-> {decision_text}")
+        return True
+
+    def list_decisions(self):
+        if not self.political_decisions:
+            print("Brak podjętych decyzji politycznych.")
+            return
+        print("=== Lista decyzji politycznych ===")
+        for i, d in enumerate(self.political_decisions, start=1):
+            print(f"{i}. [{d['timestamp']}] {d['decision']} (podjęta przez {d['representative']})")
+        print()
+
+    @staticmethod
+    def _current_time():
+        import datetime
+        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+
+if __name__ == "__main__":
+    alex_politics = AlexAIPolitics()
+
+    # Pokazanie statusu politycznego
+    alex_politics.show_political_status()
+
+    # Mateusz podejmuje decyzję
+    alex_politics.make_decision("Zachowanie apolityczności projektu i neutralności treści.")
+    alex_politics.make_decision("Wspieranie dialogu i współpracy ze wszystkimi grupami użytkowników.")
+
+    # Lista decyzji
+    alex_politics.list_decisions()
+
+    # Podziękowania
+    print("Dziękujemy Mateuszowi Morawieckiemu za koordynację polityki i współpracę w Alex.ai.")
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
 - Podgląd danych i zasobów.
