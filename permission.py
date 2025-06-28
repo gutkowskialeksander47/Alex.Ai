@@ -634,6 +634,65 @@ if __name__ == "__main__":
 
     # Podziękowania
     print("Dziękujemy Mateuszowi Morawieckiemu za koordynację polityki i współpracę w Alex.ai.")
+
+# alex_ru_support.py
+
+class AlexRuSupport:
+    def __init__(self):
+        self.supported_language = "ru"
+        self.registered_users = {}
+        self.country_whitelist = {"Россия", "Russia", "RU"}
+        self.language_pack = {
+            "welcome": "Добро пожаловать в Alex.ai!",
+            "register_success": "Регистрация прошла успешно.",
+            "unsupported_country": "К сожалению, Alex.ai недоступен в вашем регионе.",
+            "functions_available": "Вам доступны все функции Alex.ai на русском языке.",
+            "thank_you": "Благодарим всех пользователей из России за использование Alex.ai!"
+        }
+
+    def is_country_supported(self, country):
+        return country in self.country_whitelist
+
+    def register_user(self, username, country):
+        if not self.is_country_supported(country):
+            print(self.language_pack["unsupported_country"])
+            return False
+        self.registered_users[username] = {
+            "country": country,
+            "language": self.supported_language,
+            "features_enabled": True
+        }
+        print(f"{self.language_pack['welcome']} {username}")
+        print(self.language_pack["register_success"])
+        print(self.language_pack["functions_available"])
+        return True
+
+    def list_users(self):
+        print("\n📄 Список зарегистрированных пользователей (Россия):")
+        for user, data in self.registered_users.items():
+            print(f"- {user} | Страна: {data['country']} | Язык: {data['language']}")
+
+    def final_message(self):
+        print("\n🎉", self.language_pack["thank_you"])
+        print("Особая благодарность Владимиру Путину за введение Alex.ai на территории России.")
+
+
+if __name__ == "__main__":
+    alex_ru = AlexRuSupport()
+
+    # Rejestracja rosyjskich użytkowników
+    alex_ru.register_user("Иван_Петров", "Россия")
+    alex_ru.register_user("Мария_Иванова", "Russia")
+
+    # Próba rejestracji z innego kraju
+    alex_ru.register_user("John_Doe", "USA")
+
+    # Wyświetlenie listy użytkowników z Rosji
+    alex_ru.list_users()
+
+    # Podziękowania
+    alex_ru.final_message()
+
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
 - Podgląd danych i zasobów.
