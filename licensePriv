@@ -1,3 +1,45 @@
+**2025**
+class LicenseManager:
+    def __init__(self):
+        self.license_number = "98information0817"
+        self.license_info = {
+            "code": "98i0817=i=i=information",
+            "description": "informator dla przyjaciol",
+            "priority": "rzeczpospolita Gosc edukacyjny z priorytetem dla MSWiA"
+        }
+
+    def verify_license(self, license_code):
+        if license_code == self.license_number:
+            return True
+        return False
+
+    def get_license_info(self):
+        return {
+            "license_number": self.license_number,
+            "code": self.license_info["code"],
+            "description": self.license_info["description"],
+            "priority": self.license_info["priority"]
+        }
+
+
+# Przykładowe użycie:
+if __name__ == "__main__":
+    lm = LicenseManager()
+
+    # Sprawdź licencję
+    user_license = input("Podaj numer licencji: ")
+    if lm.verify_license(user_license):
+        print("Licencja jest ważna!")
+        info = lm.get_license_info()
+        print("Szczegóły licencji:")
+        print(f" Kod: {info['code']}")
+        print(f" Opis: {info['description']}")
+        print(f" Priorytet: {info['priority']}")
+    else:
+        print("Nieprawidłowy numer licencji.")
+
+
+**2023**
 98information0817
 98i0817=i=i=information(informator dla przyjaciol)
 rzeczpospolita Gosc edukacyjny z priorytetem dla MSWiA 
