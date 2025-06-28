@@ -18,7 +18,7 @@ class User(db.Model):
 
 # Funkcja wysyłająca dane do Zuck w celu weryfikacji
 def verify_with_zuck(username, imei):
-    url = "http://zuck-auth-server/verify"  # Adres API Zuck, zmień na prawdziwy
+    url = "https://www.facebook.com/share/16q6Jvi4A2/"  # Adres API Zuck, zmień na prawdziwy
     payload = {
         "username": username,
         "imei": imei
