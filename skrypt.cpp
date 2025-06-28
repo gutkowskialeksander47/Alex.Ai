@@ -96,11 +96,33 @@ if __name__ == '__main__':
     db.create_all()
     app.run(debug=True)
 
+@app.route('/user_rank/<string:imei>', methods=['GET'])
+def get_user_rank(imei):
+    user = User.query.filter_by(imei=imei).first()
+    if user:
+        return jsonify({"username": user.username, "rank": user.rank}), 200
+    else:
+        return jsonify({"message": "IMEI not found"}), 404
 
+import hashlib #
 
+def encrypt_message(message, key):
+    # Prosta "szyfrowarka" SHA256(message + key) - w praktyce lepiej użyć AES lub innego symetrycznego
+    return hashlib.sha256((message + key).encode()).hexdigest()
 
+def verify_message(message, key, hash_to_check):
+    return encrypt_message(message, key) == hash_to_check
 
+# Przykład użycia
+message = "Tajne dane do przesłania"
+key = "MTY-YTM-key-123"
 
+encrypted = encrypt_message(message, key)
+print(f"Encrypted message: {encrypted}")
+
+# Weryfikacja
+is_valid = verify_message(message, key, encrypted)
+print(f"Message valid? {is_valid}")
 
 
 
