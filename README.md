@@ -50,7 +50,7 @@ Alex AI to wielowarstwowy system sztucznej inteligencji stworzony do:
 | 2–7    | Moderatorzy i Administratorzy |
 | 8      | CEO / Operator Globalny     |
 
-Uprawnienia przyznawane przez `CEO Alex AI oraz xquery ` i `SUiD`. System opiera się na zasadzie: _"1 < dostęp tylko z rekomendacji poziomu 8"_.
+Uprawnienia przyznawane przez `CEO Alex AI oraz xquery . 
 
 ---
 
@@ -96,7 +96,7 @@ Uprawnienia przyznawane przez `CEO Alex AI oraz xquery ` i `SUiD`. System opiera
 > Wszystkie skrypty, pliki i systemy są własnością Aleksandra Rajcy i służą do realizacji misji Alex AI. Projekt powstaje z pasji do technologii, a jego celem jest rozwój otwartego i bezpiecznego świata cyfrowego.  
 > — *„Tworzę coś, co ma sens – nie tylko techniczny, ale też ludzki.”*
 
----
+
 
 
 
@@ -265,7 +265,7 @@ Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, proje
 ### Jak Działa
 
 1. **Wykrywanie Lokalizacji**: System Alex.ai wykrywa lokalizację użytkownika podczas logowania.
-2. **Sprawdzenie Lokalizacji**: Jeśli użytkownik loguje się spoza Polski, następuje automatyczne przekierowanie do strony tłumaczenia.
+2. **Sprawdzenie Lokalizacji**: Jeśli użytkownik loguje się spoza Polski, następuje automatyczne przekierowanie do strony tłumaczenia. 
 3. **Przekierowanie**: Użytkownik jest przekierowywany do odpowiedniej wersji językowej strony, aby zapewnić dostęp do treści w jego języku.
 
 
