@@ -1,3 +1,11 @@
+from superstars_system import SuperstarSystem, Uzytkownik
+
+u = Uzytkownik("Lady Gaga", poziom=6)
+s = SuperstarSystem()
+s.aktywuj(u)
+
+
+
 
 Deklaracja własności i dystrybucji oprogramowania Alex.ai
 
