@@ -1,68 +1,66 @@
-#include <iostream>
-#include <string>
-#include <unordered_map>
-
-using namespace std;
-
-// Poziomy zaufania
-enum TrustLevel {
-    GREEN,      // Wysokie zaufanie
-    ORANGE,     // Średnie zaufanie
-    RED         // Niskie zaufanie
-};
-
-// Struktura użytkownika
-struct User {
-    string username;
-    TrustLevel level;
-};
-
-// Mapa użytkowników
-unordered_map<string, User> users;
-
-// Funkcja pomocnicza: konwersja poziomu zaufania na tekst
-string trustLevelToString(TrustLevel level) {
-    switch (level) {
-        case GREEN: return "Zielony";
-        case ORANGE: return "Pomarańczowy";
-        case RED: return "Czerwony";
-        default: return "Nieznany";
-    }
+# Lista osób z uprawnieniami do edycji trustfactor (Xquery)
+AUTHORIZED_EDITORS = {
+    "Sylwia Dąbrowska Przybysz",
+    "Jan Dąbrowski",
+    "Anna Lewandowska",
+    "Robert Lewandowski",
+    "Marcin Gutkowski",   # CEO
+    "Sandra Gutkowska",   # CEO
+    "Bartosz Olewiński",  # query I Z
+    "Dorota Rabczewska"   # przewodnicząca G40
 }
 
-// Dodaj użytkownika
-void addUser(const string& username, TrustLevel level) {
-    users[username] = User{username, level};
-    cout << "Dodano użytkownika: " << username << " z poziomem zaufania: " << trustLevelToString(level) << endl;
+# Dostępne poziomy trustfactor
+TRUST_LEVELS = {"zielony", "pomarańczowy", "czerwony"}
+
+# Przykładowa baza użytkowników i ich trustfactor (zielony, pomarańczowy, czerwony)
+users_trustfactor = {
+    "user1": "zielony",
+    "user2": "pomarańczowy",
+    "user3": "czerwony",
 }
 
-// Zmień poziom zaufania
-void updateTrustLevel(const string& username, TrustLevel newLevel) {
-    if (users.find(username) != users.end()) {
-        users[username].level = newLevel;
-        cout << "Zaktualizowano poziom zaufania dla " << username << " na " << trustLevelToString(newLevel) << endl;
-    } else {
-        cout << "Użytkownik nie istnieje." << endl;
-    }
-}
+def can_edit(editor_name):
+    """Sprawdza czy dana osoba ma uprawnienia do edycji trustfactor"""
+    return editor_name in AUTHORIZED_EDITORS
 
-// Wyświetl wszystkich użytkowników
-void listUsers() {
-    cout << "\nLista użytkowników:" << endl;
-    for (const auto& [key, user] : users) {
-        cout << "- " << user.username << " | Poziom zaufania: " << trustLevelToString(user.level) << endl;
-    }
-}
+def update_trustfactor(editor_name, user_name, new_trustfactor):
+    """Aktualizuje trustfactor użytkownika jeśli editor jest uprawniony"""
+    if not can_edit(editor_name):
+        print(f"[BŁĄD] Użytkownik '{editor_name}' nie ma uprawnień do zmiany współczynnika zaufania.")
+        return False
+    
+    if user_name not in users_trustfactor:
+        print(f"[BŁĄD] Użytkownik '{user_name}' nie istnieje w systemie.")
+        return False
+    
+    if new_trustfactor not in TRUST_LEVELS:
+        print(f"[BŁĄD] Niepoprawna wartość współczynnika zaufania '{new_trustfactor}'. Wybierz: zielony, pomarańczowy lub czerwony.")
+        return False
 
-int main() {
-    // Przykładowe operacje
-    addUser("jan_kowalski", GREEN);
-    addUser("anna_nowak", ORANGE);
-    addUser("adam_malinowski", RED);
+    old_value = users_trustfactor[user_name]
+    users_trustfactor[user_name] = new_trustfactor
+    print(f"[SUKCES] Współczynnik zaufania użytkownika '{user_name}' zmieniono z '{old_value}' na '{new_trustfactor}' przez '{editor_name}'.")
+    return True
 
-    updateTrustLevel("anna_nowak", GREEN);
+def list_users():
+    print("\nAktualny stan trustfactor użytkowników:")
+    for user, trust in users_trustfactor.items():
+        print(f" - {user}: {trust}")
 
-    listUsers();
-
-    return 0;
-}
+# Przykład użycia
+if __name__ == "__main__":
+    # Próba edycji przez nieuprawnioną osobę
+    update_trustfactor("Jan Kowalski", "user1", "czerwony")
+    
+    # Próba edycji przez uprawnioną osobę
+    update_trustfactor("Anna Lewandowska", "user2", "zielony")
+    
+    # Próba błędnej wartości trustfactor
+    update_trustfactor("Sandra Gutkowska", "user3", "niebieski")
+    
+    # Próba edycji nieistniejącego użytkownika
+    update_trustfactor("Robert Lewandowski", "user999", "zielony")
+    
+    # Wyświetlenie aktualnego stanu
+    list_users()
