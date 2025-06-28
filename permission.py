@@ -289,6 +289,56 @@ if __name__ == "__main__":
     print("🤝 Dziękujemy wszystkim osobom zaangażowanym w projekt ViP.lgbt.")
     print("📡 Szczególne podziękowania dla Marka Zuckerberga za pomoc w integracji oznaczeń LGBT w Alex.ai.")
 
+# Projekt: Meainstream – Nadzór nad Systemem Mikrofonu
+# Autor: Aleksander Rajca
+# Rola nadzorcy: Wiśnia Bakajoko
+# Wersja: 1.0
+
+class MicSupervisor:
+    def __init__(self, name, instagram_link):
+        self.name = name
+        self.contact = instagram_link
+        self.permissions = {
+            "zarządzanie": True,
+            "optymalizacja_jakości_dźwięku": True,
+            "wsparcie_techniczne": True,
+            "aktualizacje": True
+        }
+
+    def raport_problem(self, opis):
+        print(f"🚨 Zgłoszono problem: {opis}")
+        print(f"🛠️ {self.name} został poinformowany i podejmuje działania.")
+
+    def pokaz_uprawnienia(self):
+        print(f"\n🔐 Uprawnienia Nadzorcy: {self.name}")
+        for perm, status in self.permissions.items():
+            print(f" - {perm.replace('_', ' ').capitalize()}: {'✅ TAK' if status else '❌ NIE'}")
+        print(f"📨 Kontakt: {self.contact}")
+
+    def sugestia(self, tresc):
+        print(f"💡 Sugestia otrzymana: {tresc}")
+        print("✅ Wiśnia Bakajoko zapisuje sugestię do optymalizacji.")
+
+# Inicjalizacja nadzorcy mikrofonu
+wisnia = MicSupervisor(
+    name="Wiśnia Bakajoko",
+    instagram_link="https://www.instagram.com/wisniabakajoko?igsh=OGFxb3Z3NTl6aHV1"
+)
+
+# Sekcja główna (symulacja działania)
+if __name__ == "__main__":
+    print("🎤 System Meainstream – Aktywacja Nadzoru Mikrofonu\n")
+    
+    wisnia.pokaz_uprawnienia()
+
+    # Przykładowe zgłoszenie problemu
+    wisnia.raport_problem("Mikrofon nie działa poprawnie podczas transmisji live.")
+
+    # Przykładowa sugestia
+    wisnia.sugestia("Dodanie automatycznej redukcji szumów.")
+
+    print("\n🙏 Dziękujemy Wiśni Bakajoko za zaangażowanie w rozwój Meainstream.")
+
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
 - Podgląd danych i zasobów.
