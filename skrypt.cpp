@@ -1,3 +1,73 @@
+**2025**
+
+
+Struktura projektu Alex AI / UiD / alex.apk
+
+1. Konfiguracja środowiska (config.py)
+
+SECRET_KEY = "supersecret" SQLALCHEMY_DATABASE_URI = "sqlite:///zuckerberg.db" NOTES_FOLDER = "notes" APK_VERSION = "1.6.7"
+
+2. Flask app do zarządzania notatkami i użytkownikami (app.py)
+
+from flask import Flask, request, jsonify, render_template, redirect from flask_sqlalchemy import SQLAlchemy from datetime import datetime import os
+
+app = Flask(name) app.config.from_pyfile('config.py') db = SQLAlchemy(app)
+
+if not os.path.exists(app.config['NOTES_FOLDER']): os.makedirs(app.config['NOTES_FOLDER'])
+
+class User(db.Model): id = db.Column(db.Integer, primary_key=True) username = db.Column(db.String(100), unique=True, nullable=False) imei = db.Column(db.String(20), unique=True, nullable=False) status = db.Column(db.String(20), default='inactive') last_login = db.Column(db.DateTime, default=datetime.utcnow)
+
+@app.route('/') def index(): notes = [] for filename in os.listdir(app.config['NOTES_FOLDER']): with open(os.path.join(app.config['NOTES_FOLDER'], filename)) as f: notes.append(f.read()) return render_template('index.html', notes=notes)
+
+@app.route('/add_note', methods=['POST']) def add_note(): content = request.form['content'] note_id = len(os.listdir(app.config['NOTES_FOLDER'])) + 1 filename = f"note_{note_id}.txt" with open(os.path.join(app.config['NOTES_FOLDER'], filename), 'w') as f: f.write(content) return redirect('/')
+
+@app.route('/register', methods=['POST']) def register(): data = request.json if User.query.filter_by(imei=data['imei']).first(): return jsonify({"message": "IMEI already registered"}), 400 user = User(username=data['username'], imei=data['imei']) db.session.add(user) db.session.commit() return jsonify({"message": "User registered"}), 201
+
+@app.route('/login', methods=['POST']) def login(): data = request.json user = User.query.filter_by(imei=data['imei']).first() if user: user.status = 'active' user.last_login = datetime.utcnow() db.session.commit() return jsonify({"message": "Login successful", "user": user.username}) return jsonify({"message": "IMEI not found"}), 404
+
+@app.route('/logout', methods=['POST']) def logout(): data = request.json user = User.query.filter_by(imei=data['imei']).first() if user: user.status = 'inactive' db.session.commit() return jsonify({"message": "Logout successful"}) return jsonify({"message": "IMEI not found"}), 404
+
+@app.route('/status/<imei>') def status(imei): user = User.query.filter_by(imei=imei).first() if user: return jsonify({"username": user.username, "status": user.status, "last_login": user.last_login}) return jsonify({"message": "IMEI not found"}), 404
+
+if name == 'main': db.create_all() app.run(debug=True)
+
+3. HTML (templates/index.html)
+
+"""
+
+<!DOCTYPE html><html>
+<head><title>Samsung Notes - Admin Chat</title></head>
+<body>
+<h1>Admin Chat</h1>
+<ul>{% for note in notes %}<li>{{ note }}</li>{% endfor %}</ul>
+<h2>Dodaj nową notatkę</h2>
+<form action="/add_note" method="POST">
+<textarea name="content" required></textarea><br>
+<input type="submit" value="Dodaj">
+</form>
+</body>
+</html>
+"""4. Plik requirements.txt
+
+flask flask_sqlalchemy
+
+5. Uruchamianie
+
+python app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+**2023**
 
 from datetime import datetime, timedelta #day zero
 'miejsce na komentarz dla informatykow' nie umiem zrobic sam biblioteki pip plyer dlatego chce zeby ona byla instalowana zdalnie przy polaczeniu z serwerem alex.ai 
