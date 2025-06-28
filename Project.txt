@@ -73,6 +73,84 @@ app.get('/profile', auth(10), (req, res) => {
 app.listen(3000, () => {
   console.log('Serwer działa na http://localhost:3000');
 });
+// Przykładowe dane użytkownika (normalnie pobierane z bazy/danych sesji)
+const user = {
+  lock: false,          // czy konto jest zablokowane
+  ban: false,           // czy konto jest zbanowane
+  stayToLang: false,    // czy użytkownik pozostaje na stronie językowej
+  ignore: false,        // czy ignorujemy ten użytkownik (np. bot, admin)
+  connect: {
+    Id: '12345',
+    nick: 'Alex',
+    winkey: 'abc123',
+    uid: 'uid001',
+    version: '1.0'
+  },
+  warnings: 0,          // liczba ostrzeżeń
+  role: 1,              // rola użytkownika (1=admin, 10=użytkownik)
+  permissions: {
+    read: true,
+    write: false,
+    modify: false
+  },
+  suspiciousActivity: false // podejrzenie szkodliwych działań
+};
+
+// Funkcja sprawdzająca uprawnienia i ostrzeżenia
+function checkUserAccess(user) {
+  // Sprawdzamy podstawowe blokady
+  if (user.lock) {
+    return { allowed: false, message: "Twoje konto jest zablokowane." };
+  }
+  if (user.ban) {
+    return { allowed: false, message: "Twoje konto jest zbanowane." };
+  }
+  if (user.stayToLang) {
+    return { allowed: false, message: "Pozostań na stronie językowej." };
+  }
+  
+  // Jeśli użytkownik jest ignorowany (np. bot lub admin), omijamy dalsze kontrole
+  if (user.ignore) {
+    return { allowed: true, message: "Ignorowany użytkownik - pełny dostęp." };
+  }
+  
+  // Sprawdzamy połączenie - czy są podstawowe dane
+  if (!user.connect.Id || !user.connect.nick) {
+    return { allowed: false, message: "Brak wymaganych danych połączenia." };
+  }
+  
+  // Kontrola ostrzeżeń i podejrzanej aktywności
+  if (user.warnings > 2 || user.suspiciousActivity) {
+    return {
+      allowed: false,
+      message: "Twoje działania zostały sklasyfikowane jako szkodliwe. Zgodnie z regulaminem kara zostanie zastosowana."
+    };
+  }
+  
+  // Kontrola uprawnień i ról
+  if (user.role > 7) {
+    // Użytkownik ma niskie uprawnienia, ograniczamy dostęp
+    return { allowed: false, message: "Brak wystarczających uprawnień do tej operacji." };
+  }
+  
+  if (!user.permissions.read) {
+    return { allowed: false, message: "Brak uprawnień do odczytu." };
+  }
+  
+  // Dostęp przyznany
+  return { allowed: true, message: "Dostęp przyznany." };
+}
+
+// Przykładowe użycie:
+const access = checkUserAccess(user);
+
+if (access.allowed) {
+  console.log("User allowed:", access.message);
+  // Tutaj dalsza logika dla dozwolonego użytkownika
+} else {
+  console.log("User denied:", access.message);
+  // Blokowanie, wyświetlanie ostrzeżeń, etc.
+}
 
 
 
