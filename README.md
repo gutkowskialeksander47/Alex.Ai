@@ -46,9 +46,9 @@ Alex AI to wielowarstwowy system sztucznej inteligencji stworzony do:
 
 | Poziom | Rola                        |
 |--------|-----------------------------|
-| 1      | Deweloper                   |
-| 2–7    | Moderatorzy i Administratorzy |
-| 8      | CEO / Operator Globalny     |
+| 6      | Deweloper                   |
+| 2–5    | Moderatorzy i Administratorzy |
+| 8/10      | CEO / Operator Globalny     |
 
 Uprawnienia przyznawane przez `CEO Alex AI oraz xquery . 
 
@@ -87,7 +87,7 @@ Uprawnienia przyznawane przez `CEO Alex AI oraz xquery .
 
 **E-mail:** gutkowskialeksander47@gmail.com  
 **Backup:** aleksander@rajca.info
-**Strona prywatna:** [Mail.rajca.info](https://mail.rajca.info)
+**Strona prywatna:** [UiD.info](https://UiD.info)
 
 ---
 
