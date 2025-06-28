@@ -51,7 +51,8 @@ Mają dostęp do: ✔️ Statystyk współpracy
 
 📌 4. Administratorzy & Techniczni
 
-Mają pełny dostęp do: ✔️ Zarządzania bazami danych
+Mają pełny dostęp do: 
+✔️ Zarządzania bazami danych
 ✔️ Nadzoru bezpieczeństwa (PABI)
 ✔️ Konfiguracji i rozwoju systemu
 ✔️ Wdrażania polityk prywatności i bezpieczeństwa
@@ -90,9 +91,9 @@ Dostęp do baz danych i konfiguracji mają tylko osoby z uprawnieniem admin lub 
 
 ✅ Jak sprawdzić swoje powiązania?
 
-1️⃣ Wejdź w Twój profil Alex.AI
-2️⃣ Sprawdź Twoje UID i rangę
-3️⃣ Sprawdź, do jakiej grupy należysz (user, artist, partner, admin)
+1️⃣ Wejdź w Twój profil Alex.AI (notatka ze zgodą na integrację z Alex AI)
+2️⃣ Sprawdź Twoje UID i rangę (każdy uid jest unikatowy i tylko ja mogę uid odszyfrować)
+3️⃣ zgłoś do jakiej grupy należysz (user, artist, partner, admin)
 4️⃣ W razie wątpliwości — skontaktuj się z opiekunem Twojej grupy.
 
 
@@ -114,10 +115,4 @@ Każdy nowy członek labelu lub współpracownik musi zapoznać się z tym dokum
 ✍️ Autor:
 
 Aleksander Rajca — Alex.AI Founder & Chief Visionary
-
-
----
-
-Jeśli chcesz, mogę przygotować gotowy plik przydzial.md i wrzucić draft jako pull request do Twojego repo.
-Chcesz? 🚀
 
