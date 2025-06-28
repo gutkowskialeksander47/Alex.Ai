@@ -110,6 +110,26 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 75. [Trustfactor](#trustfactor) Zuck
 76. [Sony](#Sony)
 
+## 🔧 Getting Started – kluczowe informacje
+
+1. **🔐 Struktura uprawnień ($0–$10)** – poziomy od User do Chief Security Officer, funkcje i zakres odpowiedzialności.
+2. **✅ Role UID / SUiD / RUiD v2–v4** – jak działa system identyfikacji i nadawanie rang Label UiD.
+3. **🧭 CEO i XQuery** – rola zarządu technologicznego, nadzór nad AI i systemem.
+4. **⚙️ Architektura systemu** – frontend (Notes, web, APK) i backend (bazy, integracje, logika).
+5. **🌐 Partnerstwa i integracje** – z Samsung, Microsoft, Meta, Google, Intel i innymi, z opisem poziomów dostępu.
+6. **💰 Model finansowy** – sponsoring, subskrypcje, inwestycje i nadawanie rang płatnych.
+7. **🛡️ Bezpieczeństwo danych** – Red Firewall, Premium Secure, szyfrowanie Me To You.
+8. **✍️ Emocje i personalizacja** – pamiętniki, voice‑password, emocjonalne interakcje.
+9. **📈 Roadmapa i rozwój** – plany na RUiDv4, technologię Generacja, grę IRG i integracje AI.
+10. **💬 FAQ & Support** – jak zgłosić błąd, poprosić o nową rangę, uzyskać dostęp do XQuery i API.
+
+---
+
+Jeśli chcesz, mogę od razu wygenerować też FAQ, instrukcję adoptowania nowych użytkowników lub strukturę CSV/XML/JSON. Daj znać!
+
+
+
+
 
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
 
