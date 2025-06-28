@@ -1,3 +1,60 @@
+# intruz.py
+"""
+Skrypt zarządzający zadaniami Bartosza Olewińskiego (intruz) w systemie Alex.ai i QUERY.
+"""
+
+class Intruz:
+    def __init__(self, name="Bartosz Olewiński", role="Junior Admin w alex.ai i QUERY UNZ"):
+        self.name = name
+        self.role = role
+        self.integrated_with_alex = False
+        self.bio_collected = False
+
+    def nadzoruj_query(self):
+        print(f"{self.name} pełni nadzór nad działaniami QUERY w Unii Narodów Zjednoczonych.")
+        print("Nie ma możliwości zrzeczenia się obowiązków nadzoru.")
+
+    def uczestnictwo_w_filmie(self):
+        print(f"{self.name} wyraził chęć uczestnictwa w filmie 'Born Superstar'.")
+        print("Adam (asystent Samsung alex.ai) jest odpowiedzialny za zebranie życiorysu.")
+
+    def integracja_alex_ai(self, note_text):
+        # Sprawdzamy treść notatki
+        required_lines = [
+            "alex.ai",
+            "wyrażam zgodę na integrację systemu z systemem alex.ai"
+        ]
+        # Prosta weryfikacja czy notatka zawiera wymagane frazy
+        if all(line in note_text for line in required_lines):
+            self.integrated_with_alex = True
+            print(f"{self.name} pomyślnie zintegrował się z systemem Alex.ai.")
+        else:
+            print(f"Notatka nie spełnia wymagań integracji z Alex.ai. Proszę poprawić treść.")
+
+    def status(self):
+        print(f"Status {self.name}:")
+        print(f" - Rola: {self.role}")
+        print(f" - Integracja z Alex.ai: {'TAK' if self.integrated_with_alex else 'NIE'}")
+        print(f" - Bio zebrane: {'TAK' if self.bio_collected else 'NIE'}")
+
+
+if __name__ == "__main__":
+    intruz = Intruz()
+    intruz.nadzoruj_query()
+    intruz.uczestnictwo_w_filmie()
+
+    # Przykładowa notatka Bartosza do integracji
+    notatka_bartosza = """
+    alex.ai
+    wyrażam zgodę na integrację systemu z systemem alex.ai
+    """
+
+    intruz.integracja_alex_ai(notatka_bartosza.strip().split('\n'))
+
+    intruz.status()
+
+
+
 # Przykładowy skrypt do integracji domów dziecka z Alex AI
 
 # Lista domów dziecka do podłączenia
