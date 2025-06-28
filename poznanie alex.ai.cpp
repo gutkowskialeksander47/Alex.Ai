@@ -1,7 +1,7 @@
 Autor Alex.ai
 
 Nazywam się Aleksander Rajca]
-. Jestem pasjonatem technologii informacyjnych z 4 latami doświadczenia w branży IT. Specjalizuję się w programowaniu, administracji systemami, analizie danych, a moją misją jest tworzenie innowacyjnych rozwiązań technologicznych, które przynoszą wartość i ułatwiają życie użytkownikom.
+. Jestem pasjonatem technologii i informatyki z 5 latami doświadczenia w branży IT. Specjalizuję się w programowaniu, administracji systemami, analizie danych, a moją misją jest tworzenie innowacyjnych rozwiązań technologicznych, które przynoszą wartość i ułatwiają życie użytkownikom.
 
 
 // POZNANIE ALEX AI – manifest filozoficzny systemu poznania
@@ -53,7 +53,7 @@ int main() {
     dodajOsobe("julka", "Julia Ratowska", ZGODA, "core.team", true);
 
     for (auto const& [id, osoba] : poznani) {
-        std::cout << "🔎 " << osoba.imie << ": " 
+        std::cout << " " << osoba.imie << ": " 
                   << (czyPoznaje(id) ? "POZNAJE mnie" : "nie zna mnie") << "\n";
     }
 
