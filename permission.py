@@ -53,7 +53,68 @@ if __name__ == "__main__":
 
     intruz.status()
 
+"""
+Skrypt do zarządzania dostępem do Alex.ai dla osób ubogich.
+Julia Ratowska jest odpowiedzialna za dodawanie ich do systemu.
+"""
 
+# Lista użytkowników uprawnionych do bezpłatnego dostępu (dodawanych przez Julię)
+free_access_users = set()
+
+# Osoba odpowiedzialna za dodawanie kont – Julia Ratowska
+AUTHORIZED_MANAGER = "Julia Ratowska"
+
+
+def add_user_free_access(manager_name, username):
+    """
+    Dodaje użytkownika do listy zwolnionych z opłat, jeśli operację wykonuje Julia Ratowska.
+    """
+    if manager_name != AUTHORIZED_MANAGER:
+        print(f"[Błąd] {manager_name} nie ma uprawnień do dodawania kont bezpłatnych.")
+        return False
+    
+    if username in free_access_users:
+        print(f"[Info] Użytkownik '{username}' już ma bezpłatny dostęp.")
+        return True
+
+    free_access_users.add(username)
+    print(f"[Sukces] Dodano użytkownika '{username}' do listy zwolnionych z opłat.")
+    return True
+
+
+def is_user_exempt(username):
+    """
+    Sprawdza, czy użytkownik jest zwolniony z opłat.
+    """
+    return username in free_access_users
+
+
+def show_exempt_list():
+    """
+    Wyświetla listę użytkowników z bezpłatnym dostępem.
+    """
+    print("\n📋 Lista użytkowników zwolnionych z opłat:")
+    if not free_access_users:
+        print(" - (brak)")
+    for user in free_access_users:
+        print(f" - {user}")
+
+
+# Przykładowe użycie
+if __name__ == "__main__":
+    # Próba dodania użytkownika przez osobę nieuprawnioną
+    add_user_free_access("Adam Nowak", "user_biedny_1")
+
+    # Dodanie przez Julię Ratowską
+    add_user_free_access("Julia Ratowska", "user_biedny_1")
+    add_user_free_access("Julia Ratowska", "user_biedny_2")
+
+    # Sprawdzenie statusu
+    print("\nCzy 'user_biedny_1' musi płacić?")
+    print("Nie" if is_user_exempt("user_biedny_1") else "Tak")
+
+    # Wyświetlenie całej listy
+    show_exempt_list()
 
 # Przykładowy skrypt do integracji domów dziecka z Alex AI
 
