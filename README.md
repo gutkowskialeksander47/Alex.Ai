@@ -1,3 +1,116 @@
+ Ten plik dokumentuje, czym jest Alex AI, kto za nim stoi, jakie komponenty zawiera oraz jaka jest jego struktura. W razie potrzeby możesz go rozwinac według swojego uznania.
+
+
+---
+
+# 🌐 Alex AI – Centralna Dokumentacja Projektu
+
+## 📌 Informacje ogólne
+
+**Projekt:** Alex AI  
+**Autor:** Aleksander Rajca  
+**Repozytorium:** `MasterUiD.project`  
+**Lata aktywności:** 2019–obecnie  
+**Główne komponenty:** UiD (Universal identification), Alex.apk, Dropbox, Red Firewall, RUID, SUiD
+
+---
+
+## 🎯 Cel Projektu
+
+Alex AI to wielowarstwowy system sztucznej inteligencji stworzony do:
+- zarządzania użytkownikami i uprawnieniami w czasie rzeczywistym,
+- szyfrowanej wymiany danych między urządzeniami i kontami,
+- współpracy z zewnętrznymi usługami (Dropbox, Google, Meta, Microsoft),
+- ochrony własności intelektualnej za pomocą nowoczesnych metod autoryzacji i struktury uprawnień.
+
+---
+
+## 🧠 Kluczowe Technologie i Składniki
+
+| Komponent            | Opis                                                                 |
+|----------------------|----------------------------------------------------------------------|
+| `UiD`                | Uniwersalny system identyfikacji użytkownika                         |
+| `alex.apk`           | Mobilny klient AI (Android)                                          |
+
+| `Dropboxshare`       | Współdzielony system plików, integracja z chmurą Dropbox             
+
+| `SUiD`               | Scentralizowany system uprawnień i poziomów dostępu                  |
+| `RUID`               | Rozszerzony identyfikator użytkownika (obecnie prace nad `RUIDV4`)   |
+| `Red Firewall`       | Kolaboracja: Norton, Kaspersky, ESET, Avast (rozszerzenie w chmurze) |
+| `BigPoint`           | Wersja UI dla graczy, zintegrowana z systemem uprawnień              |
+| `invite_to_alex_ai`  | System zaproszeń i autoryzacji członków zespołu                      |
+
+---
+
+## 🔐 System Uprawnień (SUiD)
+
+| Poziom | Rola                        |
+|--------|-----------------------------|
+| 1      | Deweloper                   |
+| 2–7    | Moderatorzy i Administratorzy |
+| 8      | CEO / Operator Globalny     |
+
+Uprawnienia przyznawane przez `CEO Alex AI oraz xquery ` i `SUiD`. System opiera się na zasadzie: _"1 < dostęp tylko z rekomendacji poziomu 8"_.
+
+---
+
+## 🌍 Upoważnienia i dostęp globalny
+
+**Upoważnione regiony do korzystania z Alex AI i własności intelektualnej:**
+
+- Europa, Azja, Afryka, Ameryki, Australia
+- UK, USA, Granica Schengen, Słowianie, Bałkany
+- Meta, Google, Microsoft, Nvidia – z odpowiednim NDA
+
+---
+
+## 📦 Integracje i partnerzy
+
+- 📁 **Dropbox** – system chmurowy i backup danych
+- 🌐 **Google Inc.** – dostęp do AI, API, usług
+- 💼 **Meta Platforms Inc.** – integracja z platformami społecznościowymi
+- 🛰️ **SpaceX / NASA** – komunikacja satelitarna (planowane)
+- 💳 **Mbank / MasterCard VR Bank** – operacje finansowe
+
+---
+
+## 🧪 Eksperymenty i funkcje testowe
+
+- `ankieta_sprawdzająca_wiedzę.cpp` – ankieta do testowania umiejętności IT
+- `banned.cfg` – odseparowanie czarnej listy IP, użytkowników i kluczy
+- `DigitalSignatureManagementBoardAuthorization` – autoryzacja własności
+- `Change.html` – historia zmian interfejsu od 2019 do 2023
+
+---
+
+## 📬 Kontakt
+
+**E-mail:** gutkowskialeksander47@gmail.com  
+**Backup:** aleksander@rajca.info
+**Strona prywatna:** [Mail.rajca.info](https://mail.rajca.info)
+
+---
+
+## 📌 Notatka końcowa
+
+> Wszystkie skrypty, pliki i systemy są własnością Aleksandra Rajcy i służą do realizacji misji Alex AI. Projekt powstaje z pasji do technologii, a jego celem jest rozwój otwartego i bezpiecznego świata cyfrowego.  
+> — *„Tworzę coś, co ma sens – nie tylko techniczny, ale też ludzki.”*
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **patent alex.ai**
 https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/patent.cpp
