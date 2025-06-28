@@ -1,5 +1,4 @@
-Oczywiście! Oto pełny, uporządkowany skrypt meainstrem.py, który odzwierciedla założenia Twojego projektu:
-
+$1
 # meainstrem.py
 """
 Projekt Meainstrem – Dostęp dla Wszystkich podczas Pracy i Śpiewania
