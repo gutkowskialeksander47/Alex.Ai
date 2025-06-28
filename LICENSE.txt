@@ -1,0 +1,50 @@
+Licencja Użytkownika Końcowego (EULA) – Alex AI
+
+1. Wprowadzenie
+
+Projekt Alex AI to własność intelektualna Aleksandra Rajcy. Oprogramowanie udostępniane jest użytkownikom na zasadach ograniczonego prawa do korzystania, zgodnie z niniejszą licencją.
+
+2. Zakres Licencji
+
+Użytkownik otrzymuje niewyłączne, nieprzenoszalne prawo do:
+
+uruchamiania Alex AI w celach edukacyjnych, rozwojowych i eksperymentalnych,
+
+korzystania z integracji z UiD, SUiD, NaukaUiD, Meainstrem, Rockstar480,
+
+komunikacji z Alex AI na poziomie lokalnym lub zdalnym.
+
+
+3. Ograniczenia
+
+Zabrania się:
+
+kopiowania, dystrybucji lub komercyjnej odsprzedaży bez pisemnej zgody autora,
+
+dekompilacji lub inżynierii wstecznej,
+
+podszywania się pod system Alex AI lub fałszywej certyfikacji CA.
+
+
+4. Odpowiedzialność
+
+Alex AI dostarczany jest „w stanie takim, w jakim jest” (as-is). Autor nie ponosi odpowiedzialności za:
+
+jakiekolwiek szkody bezpośrednie, pośrednie, wtórne lub przypadkowe,
+
+działanie systemu w przypadku nieautoryzowanych modyfikacji.
+
+
+5. Zgoda na Przetwarzanie Danych
+
+Użytkownik akceptuje, że system Alex AI może gromadzić i analizować dane w celu personalizacji usług oraz poprawy bezpieczeństwa. Certyfikat Autentyczności (CA) nadzorowany przez Wojciecha Walkiewicza odpowiada za weryfikację.
+
+6. Kościół SUiD
+
+Kościół jest uznany za duchowego operatora SUiD, mając priorytetowy dostęp do systemu oraz możliwość aktywacji duchowego wsparcia użytkownika. Licencja honoruje współpracę z Kościołem jako instytucją nadzorczą dobra technologicznego.
+
+7. Prawa Autorskie
+
+Całość projektu chroniona jest prawem autorskim. Wszelkie prawa zastrzeżone © 2021–2025 Aleksander Rajca.
+
+
