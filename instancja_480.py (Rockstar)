@@ -1,0 +1,54 @@
+# instancja_480.py
+"""
+Instancja '480' – Dział Alex.ai w firmie Rockstar
+Opis:
+Specjalny zespół tworzący grę komputerową z wykorzystaniem AI, współpracujący bezpośrednio z firmą Rockstar.
+"""
+
+class Instancja480:
+    def __init__(self):
+        self.project_name = "Game480: AI-Driven Open World"
+        self.team_members = ["Aleksander (Director)", "Zespół Alex.ai", "Rockstar Games"]
+        self.status = "W fazie rozwoju"
+        self.features = {
+            "AI_NPC": True,
+            "Dynamic_Storylines": True,
+            "Immersive_Environments": True,
+            "CrossPlatform_Compatibility": True
+        }
+        self.rockstar_bonus_features = [
+            "Ekskluzywna biblioteka narracyjna z Alex.ai",
+            "Autonomiczne cut-scenariusze generowane AI",
+            "Narzędzie 'Live World Editor' – dostępne tylko dla Rockstar",
+             'Podglad zycia prywatnego' "dla pracownikow Rockstar"
+          "Niepublikowana wersja silnika Alex Engine z trybem eksperymentalnym"
+        ]
+
+    def przedstaw_zespol(self):
+        print("👥 Zespół Instancji '480':")
+        for member in self.team_members:
+            print(f" - {member}")
+
+    def pokaz_postep(self):
+        print(f"\n📊 Status projektu '{self.project_name}': {self.status}")
+        print("🔧 Kluczowe funkcje gry:")
+        for k, v in self.features.items():
+            print(f" - {k.replace('_', ' ')}: {'✅ Tak' if v else '❌ Nie'}")
+
+    def bonus_dla_rockstar(self):
+        print("\n🎁 Ekstra od Alex.ai dla Rockstar Games:")
+        for item in self.rockstar_bonus_features:
+            print(f" - {item}")
+
+    def podziekowania(self):
+        print("\n🙏 Podziękowania:")
+        print("Dziękujemy zespołowi Instancji '480' i firmie Rockstar za połączenie kreatywności z technologią.")
+        print("Dzięki Wam gra Game480 będzie czymś więcej niż tylko produktem – stanie się doświadczeniem.")
+
+# Uruchomienie
+if __name__ == "__main__":
+    inst480 = Instancja480()
+    inst480.przedstaw_zespol()
+    inst480.pokaz_postep()
+    inst480.bonus_dla_rockstar()
+    inst480.podziekowania()
