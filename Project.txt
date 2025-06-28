@@ -1,3 +1,42 @@
+**2025**
+const express = require('express'), jwt = require('jsonwebtoken');
+const app = express();
+app.use(express.json());
+
+const SECRET = 'tajny_klucz';
+
+// Middleware autoryzacji z rolami (mniejsze numery = większe uprawnienia)
+const auth = (role = 10) => (req, res, next) => {
+  const token = req.headers.authorization?.split(' ')[1];
+  if (!token) return res.status(401).send('Brak tokena');
+  try {
+    const user = jwt.verify(token, SECRET);
+    if (user.role > role) return res.status(403).send('Brak dostępu');
+    req.user = user;
+    next();
+  } catch {
+    res.status(401).send('Nieprawidłowy token');
+  }
+};
+
+// Demo: rejestracja - tu tylko potwierdzenie
+app.post('/register', (req, res) => res.send('Zarejestrowano'));
+
+// Demo: logowanie - zawsze ta sama "demo" osoba z rolą 5
+app.post('/login', (req, res) => {
+  const user = { id: 1, username: 'user1', role: 5 };
+  res.json({ token: jwt.sign(user, SECRET) });
+});
+
+// Endpoint admina, wymaga roli <=1 (admin)
+app.get('/admin', auth(1), (req, res) => res.send('Dostęp dla admina'));
+
+app.listen(3000, () => console.log('Serwer działa na porcie 3000'));
+
+
+
+
+**2023**
    //Upowaznienie Google.inc do dostepu mentalnej wlasnosci intelektualnej oraz zastrzezenie praw prywatnosci przez kontrole wzgledem pracu postepu i osiagniec
 ; =href!Google.com
 { google.@GlobalAdministrator !Authorify[a,b...xyz flags]
