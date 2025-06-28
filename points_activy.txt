@@ -1,3 +1,100 @@
+**2025**
+
+📄 punkty_aktywności_alex_ai.txt
+
+** SYSTEM PUNKTÓW AKTYWNOŚCI – ALEX AI **
+
+
+
+1. Punkty Startowe
+
+Nowy użytkownik: +10 pkt
+
+Rejestracja przez link zaproszenia: +5 pkt
+
+Autoryzacja UID: +15 pkt
+---
+
+2. Aktywności codzienne
+
+Zalogowanie: +1 pkt (raz dziennie)
+
+Odpowiedź na wiadomość: +2 pkt
+
+Zadanie pytania w systemie: +3 pkt
+
+Udział w głosowaniu/spisie społeczności: +5 pkt
+---
+
+3. Tworzenie treści
+
+Dodanie posta / wpisu: +4 pkt
+
+Publikacja nagrania audio/wideo: +7 pkt
+
+Wysłanie prywatnej wiadomości: +1 pkt
+
+Komentarz na wpis innego użytkownika: +2 pkt
+
+
+
+---
+
+4. Aktywność premium
+
+Udział w wydarzeniu (event): +15 pkt
+
+Zgłoszenie błędu systemowego: +10 pkt
+
+Udostępnienie systemu innym (polecenie): +8 pkt
+
+Integracja konta (HBO/Spotify/YouTube): +12 pkt
+
+
+
+---
+
+5. Straty punktów (kary)
+
+Ignorowanie wiadomości systemowej: -2 pkt
+
+Nadużycie systemu (spam, flood): -10 pkt
+
+Zgłoszenie fałszywego błędu: -8 pkt
+
+Brak aktywności przez 7 dni: -5 pkt
+
+
+
+---
+
+6. Poziomy zaufania wg punktów
+
+0–19 pkt: Obserwator
+
+20–49 pkt: Zaufany
+
+50–99 pkt: Partner
+
+100–149 pkt: VIP
+
+150+ pkt: Core User
+
+
+
+---
+
+7. Uwagi
+
+Punkty są powiązane z UID i nie podlegają wymianie.
+
+Każdy punkt to mikrohistoria – aktywność jest zapisywana w systemie.
+
+System działa automatycznie w połączeniu z Query.netz i Label.uid.
+
+
+
+**2023**
 
 "System punktacji awansu" >>
  <function !Edit </edycja wzoru projektu uzytkownika> = +1pkt+VerifyAuthor+2pkt
