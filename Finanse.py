@@ -13,14 +13,15 @@ class AlexFinance:
         self.users = {}  # {username: {"plan": None, "active": False}}
 
         self.plans = {
- "query.netzt" wolonatriat {price=free}
-"UiD" free 0€ 
- "project.d" 20$ 
-"RUiDV2" 29$
-"SUID" 50€
-"Samsung Notes" 19,99€ 
-"RUiDV3" 39,99€
-"RUiDV4" 12,99€          
+    "query.netzt": {"price": "free"},
+    "UiD": {"price": "0€"},
+    "project.d": {"price": "$20"},
+    "RUiDV2": {"price": "$29"},
+    "SUID": {"price": "€50"},
+    "Samsung Notes": {"price": "€19.99"},
+    "RUiDV3": {"price": "€39.99"},
+    "RUiDV4": {"price": "€12.99"}
+	}          
         } //#szczegoly dostepu i finansowania znajduja sie w pliku "price_for_subskryption"
 
         self.paid_features = [
@@ -44,8 +45,7 @@ class AlexFinance:
             print("❌ Niepoprawny plan subskrypcji.")
             return
         self.users[username]["plan"] = plan_name
-        print(f"📦 {username} wybrał plan: {plan_name} ({self.plans[plan_name]} jednostek/mies.)")
-
+        
     def activate_features(self, username):
         if username not in self.users:
             print("❌ Użytkownik niezarejestrowany.")
