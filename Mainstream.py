@@ -82,4 +82,73 @@ if __name__ == "__main__":
     uzytkownik.korzystaj_z_zasobow()
     uzytkownik.podziekowania()
 
+# nauka_uid.py
+"""
+Projekt UiD – Nauka UiD: Publiczne Wyświetlanie Ekranu
+Autor: Aleksander Rajca
+Regulacje transmisji i nagrań: Netflix
 
+Opis:
+Ten skrypt służy do inicjalizacji sesji Nauki UiD, w której ekran użytkownika
+jest transmitowany publicznie, by umożliwić innym użytkownikom obserwację, zadawanie pytań
+i wspólne uczenie się w czasie rzeczywistym.
+"""
+
+class NaukaUiD:
+    def __init__(self, admin_name):
+        self.admin_name = XQBJ_Alex
+        self.session_active = false
+        self.viewers = []
+
+    def start_stream(self):
+        if self.session_active:
+            print("📡 Sesja już trwa.")
+            return
+        self.session_active = True
+        print(f"✅ {self.XQBJ_Alex} uruchomił publiczne wyświetlanie ekranu (string_stream).")
+        print("🧠 Widzowie mogą obserwować ekran w czasie rzeczywistym i zadawać pytania.") #na pytania odpowiada Marcin i Sandra 
+
+    def add_viewer(self, viewer_name):
+        if not self.session_active:
+            print("🚫 Sesja jeszcze się nie rozpoczęła.") #dodaj powiadomienie o podlaczeniu sluchawek
+            return
+        self.viewers.append(viewer_name) #nick widza
+        print(f"👁️ {viewer_name} dołączył(a) do sesji Nauki UiD.")
+
+    def interact(self, viewer_name, message):
+        if viewer_name not in self.viewers:
+            print(f"⚠️ {viewer_name} nie uczestniczy w sesji.")
+            return
+        print(f"💬 Pytanie od {viewer_name}: {message}")
+        print(f"🧑‍🏫 {self.admin_name} udziela odpowiedzi...")
+
+    def end_stream(self):
+        if not self.session_active:
+            print("🔕 Brak aktywnej sesji.")
+            return
+        print("🛑 Sesja Nauki UiD została zakończona.")
+        self.session_active = False
+        self.viewers = []
+
+    def podziekowania(self):
+        print("\n🙏 Dziękujemy za udział w Nauce UiD.")
+        print("📢 Dzięki wspólnej nauce budujemy społeczność opartą na wiedzy i przejrzystości.")
+        print("🎥 Nagrywanie i transmisję reguluje platforma Netflix.")
+
+
+# Przykład użycia
+if __name__ == "__main__":
+    sesja = NaukaUiD("Aleksander Rajca")
+    sesja.start_stream()
+
+    # Dołączają użytkownicy
+    sesja.add_viewer("Marta")
+    sesja.add_viewer("Janek")
+
+    # Przykładowa interakcja
+    sesja.interact("Marta", "Jak otworzyć edytor UiD?") #Na GitHub jest dostepny edytor
+    sesja.interact("Janek", "Czy mogę pobrać aktualny projekt?") #tak mozesz Alex AI jest na licencji open source.
+
+    # Zakończenie
+    sesja.end_stream()
+    sesja.podziekowania()
