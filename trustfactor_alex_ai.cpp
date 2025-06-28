@@ -1,4 +1,4 @@
-# Lista osób z uprawnieniami do edycji trustfactor (Xquery)
+# Lista osób z uprawnieniami do edycji trustfactor (Xquery)(CEO)(QueryUNZ)(Doda)
 AUTHORIZED_EDITORS = {
     "Sylwia Dąbrowska Przybysz",
     "Jan Dąbrowski",
