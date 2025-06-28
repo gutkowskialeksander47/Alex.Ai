@@ -337,7 +337,230 @@ if __name__ == "__main__":
     # Przykładowa sugestia
     wisnia.sugestia("Dodanie automatycznej redukcji szumów.")
 
+ 
     print("\n🙏 Dziękujemy Wiśni Bakajoko za zaangażowanie w rozwój Meainstream.")
+
+import datetime #USK google
+
+class USKgoogle:
+    def __init__(self):
+        # Przykładowa baza użytkowników: {username: birthdate}
+        self.users = {
+            "user1": datetime.date(2010, 5, 15),  # 15 lat
+            "user2": datetime.date(2005, 8, 30),  # 18 lat
+            "user3": datetime.date(2013, 11, 20), # 10 lat
+        }
+        
+        # Kategorie wiekowe USK i ich dopuszczalne treści (prosty przykład)
+        self.age_categories = {
+            0: ["ogólne"],          # dla wszystkich
+            12: ["ogólne", "umiarkowane"],  # powyżej 12 lat
+            16: ["ogólne", "umiarkowane", "zaawansowane"], # powyżej 16 lat
+            18: ["ogólne", "umiarkowane", "zaawansowane", "pełne"] # 18+
+        }
+        
+        # Przykładowe treści z przypisaną kategorią wiekową
+        self.contents = {
+            "content1": "ogólne",
+            "content2": "umiarkowane",
+            "content3": "zaawansowane",
+            "content4": "pełne",
+        }
+        
+        # Zgłoszone treści przez użytkowników {username: [content_id,...]}
+        self.reported_contents = {}
+
+    def get_user_age(self, username):
+        """Oblicza wiek użytkownika na podstawie daty urodzenia"""
+        if username not in self.users:
+            raise ValueError("Użytkownik nie zarejestrowany.")
+        today = datetime.date.today()
+        birthdate = self.users[username]
+        age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
+        return age
+
+    def allowed_content_categories(self, age):
+        """Zwraca listę kategorii dostępnych dla danego wieku"""
+        allowed = []
+        for age_limit in sorted(self.age_categories.keys()):
+            if age >= age_limit:
+                allowed = self.age_categories[age_limit]
+        return allowed
+
+    def can_access(self, username, content_id):
+        """Sprawdza czy użytkownik może mieć dostęp do danej treści"""
+        if content_id not in self.contents:
+            print(f"Treść {content_id} nie istnieje.")
+            return False
+        age = self.get_user_age(username)
+        allowed_categories = self.allowed_content_categories(age)
+        content_category = self.contents[content_id]
+        if content_category in allowed_categories:
+            return True
+        else:
+            return False
+
+    def censor_content(self, username, content_id):
+        """Zwraca treść lub komunikat o cenzurze, jeśli wiek nie pozwala na dostęp"""
+        if self.can_access(username, content_id):
+            return f"[Treść {content_id}] Dostępna dla użytkownika {username}."
+        else:
+            return f"[Treść {content_id}] Została zablokowana ze względu na ograniczenia wiekowe USK."
+
+    def report_content(self, username, content_id):
+        """Umożliwia użytkownikowi zgłoszenie nieodpowiedniej treści"""
+        if username not in self.reported_contents:
+            self.reported_contents[username] = []
+        self.reported_contents[username].append(content_id)
+        print(f"Użytkownik {username} zgłosił treść {content_id} jako nieodpowiednią do wieku.")
+
+    def get_reports(self):
+        """Zwraca wszystkie zgłoszone treści"""
+        return self.reported_contents
+
+
+# Przykład użycia
+
+if __name__ == "__main__":
+    usk = USKgoogle()
+    
+    # Sprawdzenie dostępu i cenzura
+    print(usk.censor_content("user1", "content1"))  # powinno być dostępne
+    print(usk.censor_content("user1", "content4"))  # powinno być zablokowane
+    
+    # Użytkownik zgłasza nieodpowiednią treść
+    usk.report_content("user1", "content4")
+    usk.report_content("user3", "content2")
+    
+    # Wyświetlenie zgłoszeń
+    print("\nZgłoszone treści przez użytkowników:")
+    for user, contents in usk.get_reports().items():
+        print(f"- {user}: {contents}")
+
+class AlexLGBTAccess: #lgbt
+    def __init__(self):
+        # Baza użytkowników: {username: {"is_lgbt":bool, "verified":bool, "role":str}}
+        self.users = {}
+
+        # Specjalne funkcje dostępne dla LGBT
+        self.lgbt_features = [
+            "Wsparcie i zasoby dedykowane społeczności LGBT",
+            "Ekskluzywne narzędzia i funkcje Alex.ai",
+            "Dostęp do kanałów wsparcia i integracji"
+        ]
+
+        # Funkcje eksperymentalne dostępne tylko dla deweloperów
+        self.experimental_features = [
+            "Funkcje eksperymentalne Alex.ai (tylko dla deweloperów)"
+        ]
+
+    def register_user(self, username):
+        if username in self.users:
+            print(f"Użytkownik {username} jest już zarejestrowany.")
+            return False
+        self.users[username] = {
+            "is_lgbt": False,
+            "verified": False,
+            "role": "user"  # możliwe role: user, developer, admin
+        }
+        print(f"Użytkownik {username} został zarejestrowany.")
+        return True
+
+    def set_role(self, username, role):
+        if username not in self.users:
+            print(f"Użytkownik {username} nie istnieje.")
+            return False
+        if role not in {"user", "developer", "admin"}:
+            print("Niepoprawna rola.")
+            return False
+        self.users[username]["role"] = role
+        print(f"Użytkownik {username} ma teraz rolę: {role}")
+        return True
+
+    def declare_lgbt(self, username):
+        """Użytkownik deklaruje przynależność do społeczności LGBT - bez wymogu weryfikacji"""
+        if username not in self.users:
+            print(f"Użytkownik {username} nie istnieje.")
+            return False
+        self.users[username]["is_lgbt"] = True
+        print(f"Użytkownik {username} zadeklarował przynależność do społeczności LGBT.")
+        return True
+
+    def verify_lgbt(self, username):
+        """Opcjonalna weryfikacja (może być dobrowolna i uproszczona)"""
+        if username not in self.users:
+            print(f"Użytkownik {username} nie istnieje.")
+            return False
+        if not self.users[username]["is_lgbt"]:
+            print(f"Użytkownik {username} nie zadeklarował przynależności do LGBT.")
+            return False
+        # Tutaj możesz dodać dowolną logikę weryfikacji lub zostawić jako zawsze True
+        self.users[username]["verified"] = True
+        print(f"Użytkownik {username} został zweryfikowany jako członek społeczności LGBT (dobrowolnie).")
+        return True
+
+    def has_lgbt_access(self, username):
+        """Sprawdza czy użytkownik ma specjalny poziom dostępu LGBT"""
+        if username not in self.users:
+            return False
+        user = self.users[username]
+        return user["is_lgbt"] and user["verified"]
+
+    def get_accessible_features(self, username):
+        if username not in self.users:
+            return []
+        user = self.users[username]
+        features = []
+
+        # Dostęp dla LGBT (tylko jeśli zadeklarowany i zweryfikowany)
+        if self.has_lgbt_access(username):
+            features.extend(self.lgbt_features)
+
+        # Deweloperzy mają dodatkowo funkcje eksperymentalne
+        if user["role"] == "developer":
+            features.extend(self.experimental_features)
+
+        return features
+
+    def thank_you_message(self):
+        print("Dziękujemy wszystkim członkom społeczności LGBT za wsparcie i zaangażowanie.")
+        print("Dziękujemy również Mark Zuckerbergowi za wkład w łączność społeczności LGBT.")
+
+# Przykład użycia
+
+if __name__ == "__main__":
+    system = AlexLGBTAccess()
+
+    # Rejestrujemy użytkowników
+    system.register_user("dawid")
+    system.register_user("jakub")
+    system.register_user("ela")
+
+    # Ustawiamy role
+    system.set_role("dawid", "developer")  # dawid jest developerem
+    system.set_role("jakub", "user")
+    system.set_role("ela", "user")
+
+    # Użytkownicy deklarują przynależność do LGBT
+    system.declare_lgbt("dawid")
+    system.declare_lgbt("jakub")
+
+    # Weryfikujemy dobrowolnie
+    system.verify_lgbt("dawid")
+    system.verify_lgbt("jakub")
+
+    # Sprawdzamy dostęp do funkcji
+    for user in ["dawid", "jakub", "ela"]:
+        features = system.get_accessible_features(user)
+        print(f"\nFunkcje dostępne dla użytkownika '{user}':")
+        if features:
+            for f in features:
+                print(f" - {f}")
+        else:
+            print(" Brak specjalnych funkcji.")
+
+    # Podziękowania
+    system.thank_you_message()
 
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
