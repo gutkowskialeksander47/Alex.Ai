@@ -147,7 +147,59 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
+System Ostrzeżeń i Kar - Alex.ai
+Autorzy egzekwujący: CEO, Xquery, Query I Z
+Każda kara wymaga uzasadnienia i jest rejestrowana.
+"""
 
+# Uprawnieni egzekutorzy kar i ostrzeżeń
+AUTHORIZED_ENFORCERS = {
+    "Marcin Gutkowski",  # CEO
+    "Sandra Gutkowska",  # CEO
+    "Bartosz Olewiński",  # Query I Z
+    "Sylwia Dąbrowska Przybysz",  # Xquery
+    "Jan Dąbrowski",  # Xquery
+    "Anna Lewandowska",  # Xquery
+    "Robert Lewandowski"  # Xquery
+}
+
+# Baza danych użytkowników
+users_data = {
+    "user1": {"ostrzezenia": 0, "kara": None},
+    "user2": {"ostrzezenia": 1, "kara": "czasowe zawieszenie"},
+}
+
+# Rejestr logów kar
+penalty_log = []
+
+
+def is_authorized(name):
+    """Sprawdza, czy osoba może nakładać lub usuwać kary."""
+    return name in AUTHORIZED_ENFORCERS
+
+
+def issue_warning(admin, username, reason):
+    """Wysyła ostrzeżenie użytkownikowi."""
+    if not is_authorized(admin):
+        print(f"❌ {admin} nie ma uprawnień do wystawiania ostrzeżeń.")
+        return
+
+    if username not in users_data:
+        users_data[username] = {"ostrzezenia": 0, "kara": None}
+
+    users_data[username]["ostrzezenia"] += 1
+    print(f"⚠️ Ostrzeżenie dla {username} od {admin}. Powód: {reason}")
+
+
+def apply_penalty(admin, username, penalty, reason):
+    """Nakłada karę na użytkownika."""
+    if not is_authorized(admin):
+        print(f"❌ {admin} nie ma uprawnień do nakładania kar.")
+        return
+
+    if username not in users_data:
+        users_data[username] = {"ostrzezenia": 0
 
 
 
