@@ -1,6 +1,50 @@
-**PABI rekrutuje na stanowisko Szef oddziału Teren** (Rekrutacja zakończona)
+# pabi_agencja.py
 
-Rekrutacja przebiegła pozytywnie nowym szefem oddziału teren zostaje **[741147] Bonus RPK **
+class PABI:
+    def __init__(self):
+        self.nazwa = "Państwowa Agencja Bezpieczeństwa Informatycznego"
+        self.skrot = "PABI"
+        self.data_powolania = "25 maja 2024"
+        self.cel = (
+            "Zapewnienie najwyższego poziomu ochrony danych i bezpieczeństwa "
+            "informatycznego na terenie kraju."
+        )
+
+    def misja(self):
+        return [
+            "Ochrona krajowej infrastruktury informatycznej.",
+            "Wsparcie organizacji rządowych i prywatnych w zakresie cyberbezpieczeństwa.",
+            "Przeciwdziałanie zagrożeniom cybernetycznym i reagowanie na incydenty.",
+            "Edukacja społeczeństwa w zakresie bezpiecznego korzystania z technologii."
+        ]
+
+    def informacje_o_powołaniu(self):
+        return (
+            f"{self.nazwa} została oficjalnie powołana w dniu {self.data_powolania}, "
+            "w odpowiedzi na rosnące zagrożenia w cyberprzestrzeni. "
+            "Agencja skupia najlepszych ekspertów z dziedzin: cyberbezpieczeństwa, inżynierii systemowej, "
+            "kryptografii i zarządzania ryzykiem IT. Jej zadaniem jest również opieka nad strukturą krytyczną kraju."
+        )
+
+    def przedstaw_siebie(self):
+        print(f"\n🏛️ {self.nazwa} ({self.skrot})")
+        print(f"📅 Data powołania: {self.data_powolania}")
+        print(f"🎯 Cel: {self.cel}\n")
+        
+        print("🧭 Misja:")
+        for punkt in self.misja():
+            print(f" - {punkt}")
+        
+        print("\n📜 Informacje o powołaniu:")
+        print(self.informacje_o_powołaniu())
+
+
+# Przykładowe użycie
+if __name__ == "__main__":
+    agencja = PABI()
+    agencja.przedstaw_siebie()
+
+
 
 
 **PABI wznawia rekrutację agentów państwowej agencji bezpieczeństwa informatycznego**
@@ -10,7 +54,9 @@ Aby zgłosić się do rekrutacji należy użyć emotikon serce w aplikacji Insta
 
 
 **PABI rekrutuje na stanowisko Agent Wywiadu**
+**PABI rekrutuje na stanowisko Szef oddziału Teren** (Rekrutacja zakończona)
 
+Rekrutacja przebiegła pozytywnie nowym szefem oddziału teren zostaje **[741147] Bonus RPK **
 
 
 
