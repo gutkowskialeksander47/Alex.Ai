@@ -1,4 +1,31 @@
-każdy rejon ma range poziomu uprawnień $6 Query
+
+**2025**
+# Przykładowa baza użytkowników (w praktyce będzie to baza danych)
+users = {
+    "user1": {"name": "Anna", "role": "artist"},
+    "user2": {"name": "Michał", "role": "moderator"},
+    "user3": {"name": "Daria", "role": "artist"},
+    "user4": {"name": "Kamil", "role": "developer"},
+}
+
+def can_access_alex_ai(user_id):
+    user = users.get(user_id)
+    if not user:
+        return False, "Nie znaleziono użytkownika."
+    if user['role'].lower() == "artist":
+        return True, f"Dostęp przyznany dla artysty: {user['name']}"
+    else:
+        return False, f"Brak dostępu - użytkownik {user['name']} nie jest artystą."
+
+# Przykład użycia
+for uid in users:
+    access, message = can_access_alex_ai(uid)
+    print(message) 
+
+**2023**
+
+**każdy rejon ma range poziomu uprawnień $2 moderator**
+
 
 ;"administracja"= <localhost> dev.fb.com Host 
 Host =    
