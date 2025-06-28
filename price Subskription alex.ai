@@ -1,3 +1,43 @@
+**2025**
+
+$0 – Basic  
+Podgląd, ping, wiadomość 1/24h, brak historii, profil: tylko odbiór.  
+
+$1 – Viewer  
+Podgląd, chat 1:1, reakcje, dost. do 1 pliku (read-only).  
+
+$2 – Zaufany  
+Dostęp do nagrań, czatu grupowego, status [online], Label.uid.  
+
+$3 – Artysta/Fan  
+Wysyłanie materiałów, feedback, 3 kanały komunikacji, ping+.  
+
+$4 – Partner  
+Dostęp do repozytorium Alex, współpraca przy projektach, event join.  
+
+$5 – VIP  
+Pełny czat, sesje wideo, dokumentacja API, 1 token AlexQuery.  
+
+$6 – Zespół  
+Dostęp do dashboardu, zadań, korekt projektu. Tryb zespołowy.  
+
+$7 – Admin  
+Zarządzanie użytkownikami, logi sesji, aktualizacja zasobów.  
+
+$8 – R&D  
+Dostęp do eksperymentalnych funkcji, betatest, układ pierwiastków.  
+
+$9 – Wewnętrzny  
+Dostęp do struktur UID, RUID, SAP, Dropbox, SYS.dev.  
+
+$10 – Core  
+Dostęp do wszystkiego: rdzeń, algorytmy, Label.uid Master, full control.
+
+
+
+
+**2023**
+
 ------
 19.05.2025
 -----
