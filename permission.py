@@ -233,6 +233,61 @@ if __name__ == "__main__":
 
     print("\n🙏 Dziękujemy wszystkim studentom za ich wkład, zaangażowanie i rozwój społeczności Alex.ai.")
 
+# Skrypt: ViP.lgbt | Reprezentacja LGBT w Alex.ai
+# Autorzy: Dawid i Jakub
+# Cel: Edukacja, Tolerancja, Szacunek
+
+# Reprezentanci LGBT
+LGBT_LEADERS = {"Dawid", "Jakub"}
+
+# Baza użytkowników systemu alex.ai
+users = {
+    "aleksander.rajca": {"is_lgbt": False, "role": "CEO"},
+    "dawid": {"is_lgbt": True, "role": "Reprezentant LGBT"},
+    "jakub": {"is_lgbt": True, "role": "Reprezentant LGBT"},
+}
+
+# Funkcja rejestracji LGBT
+def register_lgbt_user(username):
+    if username not in users:
+        users[username] = {"is_lgbt": True, "role": "Użytkownik LGBT"}
+        print(f"🏳️‍🌈 {username} został zarejestrowany jako członek społeczności LGBT.")
+    else:
+        users[username]["is_lgbt"] = True
+        print(f"✅ {username} został oznaczony jako użytkownik LGBT.")
+
+# Funkcja oznaczania przez Meta (Zuckerberg)
+def meta_tag_lgbt_users():
+    print("\n🔗 Oznaczenie zalogowanych użytkowników jako LGBT (Meta Integration)...")
+    for user, data in users.items():
+        if data.get("is_lgbt"):
+            print(f"🔒 Meta/FB: {user} oznaczony jako 'LGBT Verified Member'.")
+
+# Funkcja prezentacji
+def list_lgbt_users():
+    print("\n📋 Lista użytkowników LGBT:")
+    for user, data in users.items():
+        if data.get("is_lgbt"):
+            print(f"- {user} ({data['role']})")
+
+# Główna część
+if __name__ == "__main__":
+    print("🌈 Inicjalizacja projektu ViP.lgbt\n")
+
+    # Rejestracja przykładowych użytkowników
+    register_lgbt_user("kasia.nowak")
+    register_lgbt_user("mateusz.urban")
+
+    # Wsparcie od Meta
+    meta_tag_lgbt_users()
+
+    # Lista członków
+    list_lgbt_users()
+
+    # Podziękowania
+    print("\n🙏 Dziękujemy Dawidowi i Jakubowi za ich wkład w promowanie edukacji i tolerancji.")
+    print("🤝 Dziękujemy wszystkim osobom zaangażowanym w projekt ViP.lgbt.")
+    print("📡 Szczególne podziękowania dla Marka Zuckerberga za pomoc w integracji oznaczeń LGBT w Alex.ai.")
 
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
