@@ -1,3 +1,48 @@
+label_uid_werbunek.py
+
+class LabelUiDWerbunek: def init(self): self.nazwa_labelu = "Label UiD – Werbunek" self.dziedziny = { "Cyberbezpieczeństwo": [], "Analiza danych": [], "Inżynieria oprogramowania": [], "Zarządzanie ryzykiem IT": [] }
+
+def dodaj_kandydata(self, imie_i_nazwisko, dziedzina):
+    if dziedzina in self.dziedziny:
+        self.dziedziny[dziedzina].append(imie_i_nazwisko)
+        print(f"[✓] Dodano: {imie_i_nazwisko} do działu {dziedzina}")
+    else:
+        print(f"[!] Błąd: Nieznana dziedzina '{dziedzina}'.")
+
+def pokaz_kandydatow(self):
+    print(f"\n👥 Lista kandydatów do werbunku – {self.nazwa_labelu}:\n")
+    for dziedzina, kandydaci in self.dziedziny.items():
+        print(f"🔹 {dziedzina}:")
+        if kandydaci:
+            for osoba in kandydaci:
+                print(f"   - {osoba}")
+        else:
+            print("   (brak)")
+    print("\n📌 Rekrutujemy tylko najlepszych specjalistów w strategicznych dziedzinach bezpieczeństwa cyfrowego.")
+
+def usun_kandydata(self, imie_i_nazwisko):
+    for dziedzina in self.dziedziny:
+        if imie_i_nazwisko in self.dziedziny[dziedzina]:
+            self.dziedziny[dziedzina].remove(imie_i_nazwisko)
+            print(f"[–] Usunięto: {imie_i_nazwisko}")
+            return
+    print(f"[!] Nie znaleziono {imie_i_nazwisko} na liście werbunku.")
+
+if name == "main": werbunek = LabelUiDWerbunek()
+
+werbunek.dodaj_kandydata("Anna Zielińska", "Cyberbezpieczeństwo")
+werbunek.dodaj_kandydata("Krzysztof Nowak", "Analiza danych")
+werbunek.dodaj_kandydata("Jan Kowalski", "Inżynieria oprogramowania")
+werbunek.dodaj_kandydata("Ewa Tomaszewska", "Zarządzanie ryzykiem IT")
+
+werbunek.pokaz_kandydatow()
+
+werbunek.usun_kandydata("Jan Kowalski")
+werbunek.pokaz_kandydatow()
+
+
+
+
 ] 1=POPROWADZ 2 SUGERUJ 3WDROZENIE 4 AKCEPTACJA PRZEZ H@wzwyz
 [  ]  5 implementacja=int
 
