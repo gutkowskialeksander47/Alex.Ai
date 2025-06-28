@@ -1,38 +1,78 @@
 **2025**
-const express = require('express'), jwt = require('jsonwebtoken');
-const app = express();
-app.use(express.json());
+// Import bibliotek
+const express = require('express');
+const jwt = require('jsonwebtoken');
 
+const app = express();
+app.use(express.json()); // Middleware do parsowania JSON w ciele żądań
+
+// Sekretny klucz do podpisywania tokenów JWT — w praktyce trzymaj go w zmiennych środowiskowych!
 const SECRET = 'tajny_klucz';
 
-// Middleware autoryzacji z rolami (mniejsze numery = większe uprawnienia)
+// Middleware autoryzacji i kontroli dostępu na podstawie roli użytkownika
+// role - maksymalny dozwolony poziom roli (większa liczba oznacza większe uprawnienia)
 const auth = (role = 10) => (req, res, next) => {
-  const token = req.headers.authorization?.split(' ')[1];
-  if (!token) return res.status(401).send('Brak tokena');
+  // Pobieramy token z nagłówka Authorization (Bearer TOKEN)
+  const authHeader = req.headers.authorization;
+  if (!authHeader) return res.status(401).send('Brak tokena w nagłówku');
+
+  const token = authHeader.split(' ')[1];
+  if (!token) return res.status(401).send('Token jest wymagany');
+
   try {
+    // Weryfikujemy token JWT
     const user = jwt.verify(token, SECRET);
-    if (user.role > role) return res.status(403).send('Brak dostępu');
+
+    // Sprawdzamy, czy użytkownik ma odpowiednią rolę (np. rola 5 = admin, rola 1 = zwykły user)
+    if (user.role > role) {
+      return res.status(403).send('Brak dostępu - niewystarczające uprawnienia');
+    }
+
+    // Przypisujemy obiekt użytkownika do requestu, aby można było go używać dalej
     req.user = user;
-    next();
-  } catch {
-    res.status(401).send('Nieprawidłowy token');
+    next(); // Kontynuujemy przetwarzanie żądania
+  } catch (err) {
+    // Błędny lub przeterminowany token
+    return res.status(401).send('Nieprawidłowy lub wygasły token');
   }
 };
 
-// Demo: rejestracja - tu tylko potwierdzenie
-app.post('/register', (req, res) => res.send('Zarejestrowano'));
-
-// Demo: logowanie - zawsze ta sama "demo" osoba z rolą 5
-app.post('/login', (req, res) => {
-  const user = { id: 1, username: 'user1', role: 5 };
-  res.json({ token: jwt.sign(user, SECRET) });
+// Prosty endpoint rejestracji (na potrzeby demo - w praktyce dodaj walidację, zapisywanie użytkownika itd.)
+app.post('/register', (req, res) => {
+  // Tutaj powinno być dodanie użytkownika do bazy danych itd.
+  res.send('Rejestracja zakończona sukcesem (demo)');
 });
 
-// Endpoint admina, wymaga roli <=1 (admin)
-app.get('/admin', auth(1), (req, res) => res.send('Dostęp dla admina'));
+// Endpoint logowania - zwraca token JWT z danymi użytkownika i rolą
+app.post('/login', (req, res) => {
+  // Na potrzeby demo używamy statycznego użytkownika
+  const user = {
+    id: 1,
+    username: 'user1',
+    role: 5 // przykładowa rola użytkownika
+  };
 
-app.listen(3000, () => console.log('Serwer działa na porcie 3000'));
+  // Generujemy token JWT na podstawie danych użytkownika
+  const token = jwt.sign(user, SECRET, { expiresIn: '1h' });
 
+  // Wysyłamy token do klienta
+  res.json({ token });
+});
+
+// Przykładowy endpoint dostępny tylko dla administratorów (rola <= 1)
+app.get('/admin', auth(1), (req, res) => {
+  res.send(`Witaj adminie ${req.user.username}, masz dostęp do tego zasobu.`);
+});
+
+// Przykładowy endpoint dostępny dla wszystkich zalogowanych użytkowników (rola <= 10)
+app.get('/profile', auth(10), (req, res) => {
+  res.send(`Witaj ${req.user.username}, to jest Twój profil.`);
+});
+
+// Uruchamiamy serwer na porcie 3000
+app.listen(3000, () => {
+  console.log('Serwer działa na http://localhost:3000');
+});
 
 
 
