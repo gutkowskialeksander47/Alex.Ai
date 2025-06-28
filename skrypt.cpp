@@ -55,6 +55,46 @@ flask flask_sqlalchemy
 
 python app.py
 
+from flask import Flask, render_template, request, redirect, url_for, jsonify
+from flask_sqlalchemy import SQLAlchemy
+from datetime import datetime
+
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///zuckerberg.db'
+app.config['SECRET_KEY'] = 'secret!'
+db = SQLAlchemy(app)
+
+# Dodajemy pole 'rank' dla uprawnień od $1 do $10
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(100), unique=True, nullable=False)
+    imei = db.Column(db.String(20), unique=True, nullable=False)
+    status = db.Column(db.String(20), nullable=False, default='inactive')
+    rank = db.Column(db.Integer, default=1)  # domyślnie $1
+    last_login = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+
+# Strona z listą użytkowników i ich uprawnieniami
+@app.route('/admin')
+def admin_panel():
+    users = User.query.all()
+    return render_template('admin.html', users=users)
+
+# Endpoint do aktualizacji rangi
+@app.route('/update_rank', methods=['POST'])
+def update_rank():
+    user_id = request.form['user_id']
+    new_rank = int(request.form['rank'])
+    user = User.query.get(user_id)
+    if user and 1 <= new_rank <= 10:
+        user.rank = new_rank
+        db.session.commit()
+        return redirect(url_for('admin_panel'))
+    else:
+        return "Invalid rank or user", 400
+
+if __name__ == '__main__':
+    db.create_all()
+    app.run(debug=True)
 
 
 
