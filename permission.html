@@ -1,3 +1,39 @@
+# Przykładowy skrypt do integracji domów dziecka z Alex AI
+
+# Lista domów dziecka do podłączenia
+domy_dziecka = [
+    "Dom dziecka Nr 1",
+    "Dom dziecka Nr 2",
+    "Dom dziecka MlTeam - Wrocław",
+    "Dom dziecka MlTeam - Kraków",
+    "Dom dziecka Polska" - Polska
+    "Ośrodki wychowawcze" "MlTeam"
+]
+
+# Przykładowa funkcja symulująca wywołanie API Alex AI do dodania domu dziecka
+def add_to_alex_ai(entity_name, trustfactor="zielony"):
+    """
+    Funkcja symuluje dodanie encji do systemu Alex AI z ustawieniem trustfactor.
+    W rzeczywistości tutaj powinno być wywołanie API Alex AI.
+    """
+    # Tutaj byłoby np. requests.post("https://alex.ai/api/entities", json={...})
+    print(f"Dodano '{entity_name}' do Alex AI z trustfactorem '{trustfactor}'")
+    return True
+
+def main():
+    for dom in domy_dziecka:
+        # Dodajemy dom dziecka do Alex AI z domyślnym trustfactorem "zielony"
+        success = add_to_alex_ai(dom, trustfactor="zielony")
+        if not success:
+            print(f"Błąd podczas dodawania {dom}")
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
 ### Poziom $1 (User)
 **Podstawowy dostęp**:
 - Podgląd danych i zasobów.
