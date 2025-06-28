@@ -1,4 +1,4 @@
-# kazda tresc wychodzaca od Sandry i Marcina jest podpisana cyfrowo w iphone faceid w samsung finger scanner
+# kazda tresc wychodzaca od CEO jest podpisana cyfrowo w iphone faceid w samsung finger scanner
 
 
 import hashlib
