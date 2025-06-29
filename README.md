@@ -9,7 +9,7 @@
 
 **Projekt:** Alex AI  
 **Autor:** Aleksander Rajca  
-**Repozytorium:** `MasterUiD.project`  
+**Repozytorium:** `Alex.ai`  
 **Lata aktywności:** 2019–obecnie  
 **Główne komponenty:** UiD (Universal identification), Alex.apk, Dropbox, Red Firewall, RUID, SUiD
 
