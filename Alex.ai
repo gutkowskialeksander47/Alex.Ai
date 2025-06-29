@@ -1,3 +1,16 @@
+[ $6 ] 🔓-[RCA] Marcin Gutkowski @Wlasciciel (ping: dopuszczony tylko w trybie współtwórcy)
+
+if (user === "Marcin Gutkowski") {
+  allowPing = true;
+  pingType = "creative_request_with_sing";
+}
+
+if (user === "Sandra Gutkowska") {
+  allowPing = true;
+  pingType = "creative_friend_with Co-work";
+}
+
+
 from superstars_system import SuperstarSystem, Uzytkownik
 
 u = Uzytkownik("Lady Gaga", poziom=6)
