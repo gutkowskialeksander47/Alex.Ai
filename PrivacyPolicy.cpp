@@ -73,7 +73,7 @@ po czym są usunięte lub zanonimizowane.
 
 8. Zmiany w polityce
 
-Możemy aktualizować politykę. Wszystkie zmiany będą publikowane na stronie i, jeśli istotne – przekazywane mailowo.
+Możemy aktualizować politykę. Wszystkie zmiany będą publikowane na x.com Facebook i Threads  oraz jeśli istotne – przekazywane mailowo.
 
 9. Podpis cyfrowy
 
