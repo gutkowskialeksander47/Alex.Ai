@@ -1,4 +1,67 @@
-Oto  szkic patentu dla Alex.ai, który może służyć jako baza do dalszego opracowania formalnej aplikacji patentowej:
+
+**2025**
+
+**Komunikacja dla nowych użytkowników**
+
+patent.cpp to oficjalny dokument definiujący zakres prawny technologii Alex AI – napisany w prostym, komunikatywnym języku. Tłumaczy, jak działa system, jakie elementy są chronione patentem, oraz jakie są zasady korzystania. Został tak przygotowany, aby każdy, nawet bez wiedzy technicznej, mógł zrozumieć rolę i znaczenie patentu w kontekście ochrony projektu.
+
+
+📄 Patent – Alex AI Technology
+
+Nazwa pliku: patent.cpp
+Cel: Dokument określa zakres patentu dotyczącego technologii Alex AI oraz prezentuje podstawowy opis projektu – łatwy do zrozumienia i zgodny z wymaganiami formalnymi.
+
+
+**Wprowadzenie**
+
+Ten dokument wyjaśnia ochronę prawną technicznych rozwiązań opracowanych w ramach projektu Alex AI. Jest przeznaczony zarówno dla użytkowników technologii, jak i zainteresowanych stron zewnętrznych (np. partnerów, inwestorów, URzędy Patentowe).
+
+
+---
+
+🧩 Zakres patentu
+
+Obejmuje innowacyjne metody i algorytmy stosowane w Alex AI – m.in. procesy autoryzacji biometrycznej, zarządzania dostępem, integracji z urządzeniami.
+
+Zapewnia ochronę kodu źródłowego związanego z:
+
+skanowaniem linii papilarnych,
+
+dwuskładnikową autoryzacją (heartbeat + IMEI + PESEL),
+
+bezpieczną komunikacją między urządzeniami.
+
+
+
+
+---
+
+🛠️ Opis technologii
+
+1. Biometryczne skanowanie – mechanizm podpisu cyfrowego odciskiem palca, rejestrowany lokalnie na urządzeniu – bez przechowywania samego odcisku w chmurze.
+
+
+2. Dwuskładnikowa autoryzacja – połączenie logowania przez aplikację Alex.ai z dodatkowymi metodami bezpieczeństwa (np. kod SMS, pin, token sprzętowy).
+
+
+3. Zarządzanie kluczami dostępu – system nadawania i blokowania dostępu przypisanego do unikalnych identyfikatorów IMEI, limitowane do trzech urządzeń.
+
+
+4. Moduły integracyjne – obsługa komunikacji z innymi platformami (np. Facebook, Dropbox, Azure) przy użyciu dedykowanych tokenów dostępu.
+
+
+✅ Jak korzystać
+
+Użytkownicy mogą przeglądać patent.cpp w celach informacyjnych.
+
+Wszelkie działania komercyjne, integracje lub publikacje wymagają uzyskania zgody właściciela praw (Alex AI Solution Team).
+
+W razie wątpliwości związanych z wykorzystaniem technologii prosimy kontaktować się pod adresem: gutkowskialeksander47@gmail.com
+
+
+**2023-Currently**
+
+Oto  wzor patentu dla Alex.ai, który może służyć jako baza do dalszego opracowania formalnej aplikacji patentowej:
  
 **opiekun patentu** ADW. Monika Szczerek Wrocław 
 
@@ -92,3 +155,15 @@ https://github.com/gutkowskialeksander47/MasterUiD.project/blob/main/PrivacyPoli
 ### Roszczenia Patentowe
 1. **Roszczenie 1**: System identyfikacji użytkowników obejmujący moduł identyfikacji użytkowników (UiD) oraz aplikację mobilną (Alex.apk), umożliwiający bezpieczną identyfikację, autoryzację oraz zarządzanie danymi użytkowników.
 2. **Roszczenie 2**: Metoda działania systemu, która obejmuje rejestrację użytkownika, identyfikację i autoryzację, dostęp do spersonalizowanych usług oraz zarządzanie danymi użytkowników.
+
+
+
+🧾 Prawne zastrzeżenie
+
+/*  
+ * ® Copyright (c) 2025 Alex AI Solution Team
+ * Wszelkie prawa zastrzeżone.
+ * Alex AI to chroniona technologia objęta patentem.
+ * Zabronione jest kopiowanie, modyfikowanie oraz przekazywanie jej
+ * bez pisemnego zezwolenia właściciela patentu.
+ */
