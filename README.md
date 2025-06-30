@@ -238,15 +238,9 @@ Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułat
 
 ---
 
-Jeśli chcesz, mogę od razu wygenerować też FAQ, instrukcję adoptowania nowych użytkowników lub strukturę CSV/XML/JSON. Daj znać!
-
-
-
-
-
 (uszkodzone odnośniki pisałem bez poświęcenia mocnej uwagi i sprawdzenia każdego po kolei)
 
-
+---
 
 
 
