@@ -38,4 +38,15 @@ To duch systemu.
 
 - Kolory są przypisywane do projektów `.project`, `.d`, `.txt`, `.html` jako znacznik emocjonalny.
 - Używane w labelach, interfejsach użytkownika, plikach README i edukacyjnych materiałach Alex.ai.
-- Mogą służyć jako identyfikator osoby, intencji lub
+- Mogą służyć jako identyfikator osoby, intencji lub statusu pliku w systemie.
+
+---
+
+## 📂 Przykład:
+
+```plaintext
+📁 red.project.d      ➝ ❤️ Cleo | Miłość
+📁 gold_u.alex        ➝ 🟡 Ja | Szczerość
+📁 stringlov@all      ➝ 💗 Pink | Serce + Urok
+📁 margaret_notes.d   ➝ 💙 Margaret | Szczęście
+📁 suid_admin.key     ➝ 💜 Sandra | Kreatywność
