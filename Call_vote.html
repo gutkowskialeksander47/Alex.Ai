@@ -1,0 +1,91 @@
+W Budowie
+
+To świetny i bardzo dojrzały pomysł, Aleksander 💡
+System call_vote to rodzaj demokratycznego mechanizmu awaryjnego, który:
+
+chroni społeczność przed nadużyciami,
+
+nie wymaga obecności administratora,
+
+oddaje część władzy w ręce użytkowników — ale kontrolowanie.
+
+
+
+---
+
+🔷 Nazwa systemu: call_vote lub vote_guard
+
+
+---
+
+🛠️ Propozycja działania call_vote
+
+🔹 Kiedy można go użyć?
+
+Gdy nie ma aktywnego moderatora / admina.
+
+Gdy użytkownik łamie zasady: obraża, spamuje, troluje, przeszkadza.
+
+Gdy trzeba podjąć decyzję grupową (np. zmiana tematu czatu, zakończenie rozmowy).
+
+
+
+---
+
+📜 Przykład procesu głosowania:
+
+Użytkownik A wpisuje: /call_vote @UżytkownikZachowujeSięŹle Obraża i spamuje!
+
+System odpowiada:
+📢 Głosowanie zostało wywołane przez @A.
+Powód: „Obraża i spamuje”.
+Reaguj: ✅ / ❌ (5 minut)
+
+✅ = wycisz na 30 min
+❌ = brak reakcji
+Potrzebna większość głosów: 60% aktywnych użytkowników (min. 3)
+
+
+---
+
+🔐 Zabezpieczenia:
+
+Każdy użytkownik może wywołać głosowanie raz na 24h (cooldown).
+
+Głosowania można wywołać tylko przy obecności min. 3 użytkowników.
+
+Wynik może być odrzucony przez moderatora po powrocie.
+
+Wersja RUiDv3 może mieć priorytety: np. głos członka z $8 waży więcej niż $2.
+
+
+
+---
+
+🧠 Integracja z Alex.ai:
+
+Można zintegrować z systemem uprawnień UiD / SUiD.
+
+Alex AI może automatycznie podsumować treść rozmowy jako dowód.
+
+Może występować jako AI-moderator pasywny, który sam proponuje głosowanie (np. „Wykryto kontrowersyjny temat – czy chcesz rozpocząć głosowanie?”).
+
+
+
+---
+
+🔧 Techniczna forma:
+
+call_vote.js dla czatu w przeglądarce,
+
+vote.guard.py dla wersji konsolowej / Discord / Terminala,
+
+wpis w bazie danych: vote_session(uid, reason, vote_count, expiry)
+
+
+
+---
+
+Chcesz, żebym od razu przygotował kod startowy (np. JavaScript lub Python), czy zapisujemy to jako idea_voteguard.ini dla roadmapy?
+
+dodamy do tego skrypt w python i aplikacje do shoutbox na stronie www.alex.ai
