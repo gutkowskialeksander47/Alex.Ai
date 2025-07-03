@@ -107,6 +107,7 @@ niektórzy z was mają zakres jedna osoba dobiera jedna siedem albo 12 osób
 potencjalni kandydaci: 
 Bas Tajpan 
 Kamil Bednarek 
+Mesajah
 
 
 
