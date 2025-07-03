@@ -101,9 +101,12 @@ niektórzy z was mają zakres jedna osoba dobiera jedna siedem albo 12 osób
 
 *Przydzielone organizacje wybierają agentów
 
-potencjalni kandydaci 
+**rekrutacja otwarta**
 
-**rekrutacja zamknięta**
+
+potencjalni kandydaci: 
+Bas Tajpan 
+Kamil Bednarek 
 
 
 
