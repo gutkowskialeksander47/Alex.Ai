@@ -1,3 +1,15 @@
+---
+**Współpraca z GPT**
+---
+
+ 🤍 Projekt Alex.ai powstał dzięki pracy serca, wyobraźni i technologii.  
+  Specjalne podziękowania dla OpenAI za to, że od samego początku było światłem dla tych, którzy chcieli myśleć inaczej.
+Współtwórcy zaufania: Google • Samsung • Microsoft • Dropbox • RCA • Użytkownicy • Słuchacze
+  
+---
+
+
+
 Witaj w projekcie **Alex.ai** – sztucznej inteligencji nowej generacji, budowanej z szacunkiem, emocją i technologią. Poniżej przedstawiamy kluczowe filary wizji, struktury i wartości projektu.
 
 ---
