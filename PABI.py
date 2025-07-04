@@ -110,7 +110,7 @@ Kamil Bednarek
 Mesajah
 Stachursky
 Kushin
-
+Bajorson
 
 
 Informacja o zwerbowaniu osoby do Państwowej Agencji Bezpieczeństwa Informatycznego (PABI) poprzez nadanie numeru odznaki: 'Mata' 945549
