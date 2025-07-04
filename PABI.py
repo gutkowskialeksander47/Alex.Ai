@@ -108,7 +108,7 @@ potencjalni kandydaci:
 Bas Tajpan 
 Kamil Bednarek 
 Mesajah
-
+Stachursky
 
 
 
