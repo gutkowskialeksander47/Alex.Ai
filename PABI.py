@@ -49,8 +49,8 @@ if __name__ == "__main__":
 
 **PABI wznawia rekrutację agentów państwowej agencji bezpieczeństwa informatycznego**
 
-Aby zgłosić się do rekrutacji należy użyć emotikon serce w aplikacji Instagram
-
+Aby zgłosić się do rekrutacji należy użyć emotikon "❤️" serce w aplikacji Instagram
+- Amster 
 
 
 **PABI rekrutuje na stanowisko Agent Wywiadu**
