@@ -1,3 +1,8 @@
+**To wersja otwarta.**
+Jeśli korporacje, do których piszę, chcą dołączyć — bramy są otwarte.
+Ale nie czekam. Działam.
+
+
  Ten plik dokumentuje, czym jest Alex AI, kto za nim stoi, jakie komponenty zawiera oraz jaka jest jego struktura. W razie potrzeby możesz go rozwinac według swojego uznania. Warunkiem tego jest oznaczenie pochodzenia i wskazanie autora. 
 
 
