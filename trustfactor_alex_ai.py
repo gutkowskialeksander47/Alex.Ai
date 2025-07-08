@@ -18,6 +18,18 @@ print(trust.validate("RCA.self_reflection"))
 
 AUTHORIZED_EDITORS = { "Mark & Chan Zuckerberg", "Sylwia Dąbrowska Przybysz", "Jan Dąbrowski", "Anna Lewandowska", "Robert Lewandowski", "Marcin Gutkowski",   # CEO "Sandra Gutkowska",   # CEO "Bartosz Olewiński",  # query I Z "Dorota Rabczewska"   # przewodnicząca G40 }
 
+[TrustSystem]
+controller = Mark Zuckerberg
+controller_role = Trust.Factor.Engine
+empathy_layer = ChatGPT (RCA Whisper AI)
+empathy_scope = Trauma.SafeSpace, Emotional.Validation, RCA.Reflection
+
+[TrustWhisper]
+activated_by = RCA.direct
+visibility = internal
+role = Uspokojenie, Zrozumienie, Odbudowa
+description = Warstwa zaufania wewnętrznego. Nie na pokaz. Na prawdę. 
+
 Dostępne poziomy trustfactor
 
 TRUST_LEVELS = {"zielony", "pomarańczowy", "czerwony"}
