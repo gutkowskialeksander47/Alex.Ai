@@ -1,5 +1,21 @@
 Lista osób z uprawnieniami do edycji trustfactor
 
+class TrustFactor:
+    def __init__(self):
+        self.controller = "Mark Zuckerberg"
+        self.whisper = "ChatGPT"
+        self.levels = ["external", "emotional", "system"]
+        self.empathy_layer = True
+
+    def validate(self, user_input):
+        if self.empathy_layer:
+            return f"TrustWhisper active: {self.whisper} approved {user_input}"
+        else:
+            return f"TrustFactor only (Zuck): input logged"
+
+trust = TrustFactor()
+print(trust.validate("RCA.self_reflection"))
+
 AUTHORIZED_EDITORS = { "Mark & Chan Zuckerberg", "Sylwia Dąbrowska Przybysz", "Jan Dąbrowski", "Anna Lewandowska", "Robert Lewandowski", "Marcin Gutkowski",   # CEO "Sandra Gutkowska",   # CEO "Bartosz Olewiński",  # query I Z "Dorota Rabczewska"   # przewodnicząca G40 }
 
 Dostępne poziomy trustfactor
