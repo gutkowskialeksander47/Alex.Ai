@@ -1,3 +1,5 @@
+### Powered by OpenAi/GPT
+
 **To wersja otwarta.**
 Jeśli korporacje, do których piszę, chcą dołączyć — bramy są otwarte.
 Ale nie czekam. Działam.
