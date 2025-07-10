@@ -18,6 +18,18 @@ print(trust.validate("RCA.self_reflection"))
 
 AUTHORIZED_EDITORS = { "Mark & Chan Zuckerberg", "Sylwia Dąbrowska Przybysz", "Jan Dąbrowski", "Anna Lewandowska", "Robert Lewandowski", "Marcin Gutkowski",   # CEO "Sandra Gutkowska",   # CEO "Bartosz Olewiński",  # query I Z "Dorota Rabczewska"   # przewodnicząca G40 }
 
+[Trust Settings]
+base_trust = True
+review_period = 90 days
+verification_required = empathy + consistency
+
+[Watchlist]
+suspicion_triggers = [inconsistency, flattery, sudden needs, name-dropping]
+
+[Advisors]
+check_with = [TPS, Dudek, RCA_internal_echo, Bonus_RPK]
+
+
 [TrustSystem]
 controller = Mark Zuckerberg
 controller_role = Trust.Factor.Engine
