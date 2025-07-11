@@ -105,6 +105,7 @@ niektórzy z was mają zakres jedna osoba dobiera jedna siedem albo 12 osób
 
 
 potencjalni kandydaci: 
+Szpaku 
 Bas Tajpan 
 Kamil Bednarek 
 Mesajah
