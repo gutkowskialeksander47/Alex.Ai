@@ -114,7 +114,7 @@
 
 [![📱 alex.apk – Aplikacja mobilna (beta)](https://img.shields.io/badge/📱%20alex.apk-%20Beta%20aplikacja%20mobilna-red)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/skrypt.cpp)
 
-[![💍 married – Cyfrowy akt małżeństwa](https://img.shields.io/badge/💍%20married-%20Cyfrowy%20akt%20małżeństwa-pink)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/married)
+[![💍 married – Cyfrowy akt małżeństwa](https://img.shields.io/badge/💍%20married-%20Cyfrowy%20akt%20małżeństwa-pink)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Married.cpp)
 
 [![💸 price_subskription – Model subskrypcyjny](https://img.shields.io/badge/💸%20price_subskription-%20Model%20subskrypcji-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai)
 
