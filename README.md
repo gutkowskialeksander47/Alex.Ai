@@ -105,7 +105,7 @@
 
 ## [![🔐 permission.py – System uprawnień $0–$10](https://img.shields.io/badge/🔐%20permission.py-%20System%20uprawnień%20%240–%2410-blue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/permission.py)
 
-[![🤝 trust_factor.py – Algorytm zaufania](https://img.shields.io/badge/🤝%20trust_factor.py-%20Algorytm%20zaufania-brightgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/trust_factor.py)
+[![🤝 trust_factor.py – Algorytm zaufania](https://img.shields.io/badge/🤝%20trust_factor.py-%20Algorytm%20zaufania-brightgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/trustfactor_alex_ai.py)
 
 [![📝 stream.notepad++ – Live zapis i interakcja](https://img.shields.io/badge/📝%20stream.notepad++-%20Live%20notatki%20i%20interakcja-yellow)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/stream.notepad++)
 
