@@ -47,10 +47,9 @@
 
 ### 📚 FAQ i Dokumentacja Label
 
-[🟩 FAQ Alex AI](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ.html)  
-[🟨 FAQ2 Alex AI](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ2.html)  
-[🎖️ Label UiD](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex_label_UiD.html)
-
+[![📘 FAQ Alex AI](https://img.shields.io/badge/📘%20FAQ%20Alex%20AI-lightblue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ.html)
+[![📗 FAQ2 Alex AI](https://img.shields.io/badge/📗%20FAQ2%20Alex%20AI-green)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ2.html)
+[![🏷️ Label UiD](https://img.shields.io/badge/🏷️%20Label%20UiD-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex_label_UiD.html)
 ## 🔗 Integracje
 
 - ✅ **Samsung Notes** – źródło emocji i pamiętników
