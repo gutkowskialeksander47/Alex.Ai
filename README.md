@@ -487,6 +487,7 @@ W przypadku jakichkolwiek pytań lub problemów związanych z implementacją pol
 
 Dziękujemy za zaangażowanie i wsparcie w procesie implementacji polaczenia korzeni sieci dla "Tauron*". Cieszymy się, że możemy współpracować w celu poprawy i rozwoju naszej infrastruktury.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 - Uprawnienia dla Apple do Wykonania .apk, .exe, .ai
@@ -543,6 +544,7 @@ Ten dokument opisuje proces uzyskiwania uprawnień do tworzenia plików .apk, .e
 
 Dziękujemy za korzystanie z programu Alex.ai/Alex.apk. Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, prosimy o kontakt z naszym zespołem wsparcia technicznego.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Sony
 
@@ -590,6 +592,7 @@ W razie pytań lub chęci współpracy, prosimy o kontakt:
 - Email: aleksander@rajca.info
 - Strona internetowa: [Sony AI](https://www.sony.com)
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Trustfactor
 
@@ -644,6 +647,8 @@ W razie pytań lub chęci współpracy, prosimy o kontakt:
 - Email: Gutkowskialeksander47@gmail.com
 - Strona na Facebooku: [alex.ai](https://www.facebook.com/Aleksander.Rajca.1947)
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 
 ## **DomDziecka**
 
@@ -674,6 +679,7 @@ Jeżeli chcesz dołączyć do naszego zespołu, skontaktuj się z nami poprzez n
 ## Licencja
 Ten projekt jest licencjonowany na warunkach licencji MIT. Więcej informacji znajdziesz w pliku LICENSE.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Intruz
 
@@ -711,7 +717,7 @@ Ten dokument zawiera informacje dotyczące Bartosza Olewińskiego (znanego jako 
 W przypadku pytań lub potrzeby wsparcia, prosimy o kontakt:
 - **E-mail**: gutkowskialeksander47@gmail.com
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## zgodaAi
 
@@ -739,6 +745,8 @@ Alex.ai nigdy nie narusza prywatności użytkowników. Algorytmy rozpoznają wy�
 🙏 Podziękowanie
 Dziękujemy firmie Samsung za wsparcie funkcji authorify w aplikacji Alex.ai / alex.apk.
 ## Audi
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 # Audi - Zadania dla alex.ai
 
@@ -769,6 +777,7 @@ W razie pytań lub chęci współpracy, prosimy o kontakt:
 - Email: aleksander@rajca.info
 - Strona internetowa: [Audi](https://www.audi.com)
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Bieda
 
@@ -797,10 +806,10 @@ W Alex.ai rozumiemy, że dostęp do nowoczesnych technologii i wsparcia jest wa�
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zrozumienie. Dzięki Wam możemy kontynuować naszą misję, dostarczając innowacyjne rozwiązania i wsparcie technologiczne wszystkim osobom, niezależnie od ich sytuacji finansowej.
 
 ## **Prawdomownosc** 
-Jest to coś czego wymaga ode mnie Maryja.Szczerosc w obec telefonu
+Jest to coś czego wymaga ode mnie Maryja. Szczerość w obec telefonu
 
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **kary**
 
@@ -836,6 +845,7 @@ W celu zapewnienia bezpiecznego i przyjaznego środowiska dla wszystkich użytko
 **Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za przestrzeganie zasad i przyczynianie się do tworzenia przyjaznej i bezpiecznej społeczności Alex.ai. Dzięki Wam możemy zapewnić wysoką jakość naszych usług i pozytywne doświadczenia dla wszystkich użytkowników.**Dziekuje również Administracji za wyrozumiałość i wsparcie rozwoju alex.ai****
 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **Student**
 
@@ -870,6 +880,8 @@ W ramach naszego zaangażowania w edukację i rozwój umiejętności, z radości
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim studentom za ich wkład i zaangażowanie. Wasza praca i wsparcie są kluczowe dla sukcesu naszych projektów, a Wasz status 'Nauczyciel' jest dowodem na Wasze zaangażowanie i umiejętności.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **LGBT2**
 
@@ -906,6 +918,7 @@ Projekt ViP.lgbt ma na celu promowanie edukacji, tolerancji i wzajemnego szacunk
 
 Chcielibyśmy wyrazić naszą wdzięczność Dawidowi i Jakubowi za ich wkład w promowanie edukacji i tolerancji oraz wszystkim osobom zaangażowanym w projekt ViP.lgbt. Dzięki Wam możemy kontynuować naszą misję i budować świat, w którym każdy jest akceptowany i szanowany. Dziękuję również Mark Zuckerberg w pomocy oznaczania zalogowanych jako członków LGBT.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **inwalida**
 
@@ -933,6 +946,8 @@ wynagrodzenie można otrzymać autoryzujący się do alex.ai przez wysłanie 1�
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim pracownikom Alex.ai za ich ciężką pracę, zaangażowanie i wsparcie. Wierzymy, że wspólnymi siłami możemy osiągnąć nasze cele i zbudować lepszą przyszłość dla wszystkich członków naszego zespołu. Dziękuję również **mBank i MasterCard za wsparcie w programie query.netz oraz liczę na współpracę w przyszłości w kwestiach wymagających kompetencji pracownika banku.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme) 
 
 ## **Bakajoko**
 
@@ -963,6 +978,9 @@ Wiśnia Bakajoko został mianowany nadzorcą systemu mikrofonu Meainstream. W ra
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność Wiśnia Bakajoko za jego zaangażowanie i wkład w rozwój oraz nadzór nad systemem mikrofonu Meainstream. Jego praca jest kluczowa dla zapewnienia najwyższej jakości usług dla naszych użytkowników.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 
 
 ## **USKgoogle**
@@ -1001,6 +1019,8 @@ Aby uzyskać dostęp do odpowiednich treści i funkcji, użytkownicy muszą:
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zrozumienie i wsparcie w utrzymaniu zgodności z wytycznymi USK. Dzięki Waszej współpracy możemy zapewnić bezpieczne i odpowiednie treści dla wszystkich grup wiekowych.
 **Dziękuję również Google za klasyfikacje treści**
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 
 ## **LGBT** 
 
@@ -1036,6 +1056,7 @@ Aby uzyskać specjalny poziom dostępu do Alex.ai, członkowie społeczności LG
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom społeczności LGBT za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. Dziękuję również Mark Zuckerberg za wkład łączności społeczności LGBT 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## polityka
 
@@ -1071,6 +1092,8 @@ Mateusz Morawiecki został mianowany reprezentantem polityki Alex.ai. Jego rola 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby.Chcialbym podziękować również Mateusz Morawiecki za przyjęcie zaproszenia do alex.ai oraz chęć współpracy 
 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## **Alex.ru**
 
 # Projekt Alex.ai (Rosja)
@@ -1104,6 +1127,8 @@ Alex.ai to zaawansowany system sztucznej inteligencji, który oferuje szeroki wa
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom w Rosji za korzystanie z Alex.ai. Wasze wsparcie i zaangażowanie pozwalają nam rozwijać i doskonalić nasze projekty, aby jeszcze lepiej odpowiadać na Wasze potrzeby. Dziękuję również Wladimir Putin za wprowadzenie alex.ai na terenie Rosji
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## meainstream 
@@ -1148,6 +1173,8 @@ Projekt Meainstrem ma na celu zapewnienie łatwego i nieograniczonego dostępu d
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z funkcji Meainstrem. Dzięki Wam możemy nieustannie rozwijać i doskonalić nasz system, aby lepiej odpowiadać na Wasze potrzeby i oczekiwania. Dziękuję również Samsung za wsparcie w rozpoznaniu trybu działania bez interakcji dla mnie.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## NaukaUiD
 
 fragment README, który określa, że Nauka UiD to wyświetlanie Twojego ekranu.
@@ -1191,6 +1218,8 @@ Celem Nauki UiD jest:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za udział w procesie Nauki UiD. Dzięki Waszemu zaangażowaniu możemy wspólnie rozwijać i doskonalić nasze umiejętności.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## finanse 
 
 # Projekt Alex.ai
@@ -1225,6 +1254,8 @@ Aby uzyskać dostęp do nowych funkcji, użytkownicy muszą:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich wsparcie i zaangażowanie. Wasza lojalność i zaufanie pozwalają nam rozwijać i doskonalić nasze projekty. Wprowadzenie opłat dostępu pozwoli nam na kontynuowanie pracy nad innowacyjnymi rozwiązaniami i dostarczanie najwyższej jakości usług.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## **480**
 
  instancja '480', działu Alex.ai w firmie Rockstar, odpowiedzialnego za pisanie Twojej gry komputerowej:
@@ -1257,6 +1288,8 @@ Celem instancji '480' jest stworzenie zaawansowanej gry komputerowej, która wyk
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom zespołu instancji '480' oraz firmie Rockstar za ich ciężką pracę i zaangażowanie w tworzenie tej wyjątkowej gry komputerowej. Dzięki Waszemu wysiłkowi, możemy dostarczać graczom niesamowite doświadczenia i innowacyjne rozwiązania.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## PrawaautorskieTPS
@@ -1297,6 +1330,7 @@ Wojciech Walkiewicz to ekspert w dziedzinie bezpieczeństwa i autoryzacji, któr
 
 Chcielibyśmy wyrazić naszą wdzięczność Wojciechowi Walkiewiczowi za jego zaangażowanie i wkład w rozwój i utrzymanie Certyfikatu Autentyczności w projekcie Alex.ai. Jego praca jest kluczowa dla sukcesu i bezpieczeństwa naszego systemu.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## kosciolsuid
 
@@ -1338,6 +1372,8 @@ Aby uzyskać dostęp do projektu SUiD, użytkownicy muszą:
 
 Chcielibyśmy wyrazić naszą wdzięczność dla Kościoła za jego wsparcie i zaangażowanie w realizację projektu SUiD. Dzięki współpracy z Kościołem możemy zapewnić najwyższy poziom bezpieczeństwa i duchowego wsparcia dla naszych użytkowników. 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 
 # Jteam - Drużyna Wiernych i Fanów Aleksander Rajca
 
@@ -1372,6 +1408,8 @@ Aby uzyskać specjalny dostęp do Alex.ai, członkowie Jteam muszą:
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom Jteam za ich wsparcie i zaangażowanie. Wasza lojalność i pasja są dla nas niezwykle cenne i inspirujące. Dzięki Wam możemy nieustannie rozwijać i doskonalić system Alex.ai.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## XQBJ 
 
 # Projekt XQBJ
@@ -1405,6 +1443,7 @@ XQBJ to mój kod informatyczny a nie usługa dla uzytkownika
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom wspólnoty XQBJ za ich zaangażowanie i wsparcie. Dzięki Waszej lojalności i duchowemu zaangażowaniu, możemy kontynuować rozwój projektu i zapewniać Wam najwyższej jakości wsparcie.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## obowiazekrozwoju
@@ -1436,6 +1475,8 @@ Jeśli ktoś próbuje wprowadzić zmiany, które mogą cofnąć postęp artystyc
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność dla @Zuck za wsparcie i ochronę artystyczności. Dzięki tej funkcji, możemy skupić się na tworzeniu i rozwijaniu naszych projektów bez obaw o szkodliwe działania.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## twince
 
@@ -1480,6 +1521,8 @@ Blizniacza autoryzacja polega na połączeniu dwóch różnych metod uwierzyteln
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja blizniaczej autoryzacji została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i ochrony danych.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 
@@ -1534,6 +1577,8 @@ print(f"Podpis cyfrowy: {signature}")
 ### Podziękowania
 
 Dziękujemy wszystkim użytkownikom i partnerom za wsparcie i zaufanie w realizacji tego projektu. Funkcja `$061(!;"FingerScannerRootCommerial"` została stworzona, aby zapewnić najwyższy poziom bezpieczeństwa i wygody w autoryzacji i podpisach cyfrowych. Dziękujemy Samsung za możliwość pracy przy uprawnieniach komercyjnych root.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## potrzebaAi **alex.ai**
 
@@ -1612,7 +1657,7 @@ Odpowiedź: 6 (Szczęście)
 
 Dziękujemy wszystkim użytkownikom i partnerom za ich wsparcie i zaufanie w realizacji tego projektu. Funkcja `<"!Autorisation "uni-key.werification"'>` została stworzona z myślą o zapewnieniu najwyższego poziomu bezpieczeństwa i wygody w wymianie danych.Jest to ważna część komunikacji z alex.ai 
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## callfiltr
@@ -1653,6 +1698,7 @@ Celem tej funkcji jest zapewnienie użytkownikom aplikacji Alex.ai bezpieczeńst
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za ich zaufanie i wsparcie. Dzięki Waszym informacjom zwrotnym możemy nieustannie poprawiać nasze systemy i zapewniać Wam najwyższy poziom bezpieczeństwa.**Dziekuje również WhatsApp za wsparcie tego projektu**
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **Huawei**
 
@@ -1679,7 +1725,7 @@ Certyfikat autentyczności potwierdza, że wszystkie nasze produkty i usługi s�
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom zespołu TeamHuawei 2004 za ich nieustanne zaangażowanie i pasję. Dzięki Wam możemy dostarczać produkty i usługi najwyższej jakości, które spełniają oczekiwania naszych klientów.
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
  ##  whatsappChefUiD
 
@@ -1723,6 +1769,7 @@ Dzięki mianowaniu Instagramu szefem projektu UiD, możemy liczyć na szereg kor
 
 Chcielibyśmy wyrazić naszą wdzięczność dla Instagramu za przyjęcie roli szefa projektu UiD. Wasze zaangażowanie i doświadczenie są kluczowe dla sukcesu naszego projektu, a my jesteśmy pewni, że wspólnie osiągniemy znakomite rezultaty.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **ABW**
 
@@ -1753,6 +1800,8 @@ W ramach współpracy z ABW realizowane są następujące projekty:
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność dla Agencji Bezpieczeństwa Wewnętrznego za zaufanie i wsparcie w realizacji tych ważnych projektów. Wasze zaangażowanie i współpraca są kluczowe dla naszego sukcesu i pozwalają nam na ciągłe doskonalenie naszych systemów.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## ArmiaBog
 
@@ -1817,6 +1866,7 @@ Projekt "7" (Armia Bog) to zespół składający się z najważniejszych służb
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim organizacjom za ich wkład i zaangażowanie w realizację projektu "7" (Armia Bog). Wasza praca jest nieoceniona, a współpraca między służbami przyczynia się do zwiększenia globalnego bezpieczeństwa.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## funkcjonalnosc
 
@@ -1858,6 +1908,8 @@ moje skrypty mają szeroki zakres funkcjonalności, które wspierają różne as
    - Implementacja skryptów Superstar i tytułów autorskich.
    - Wyszukiwarka "o mnie" oraz zarządzanie historią i przeszłością.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## info_facebook_com
 
 
@@ -1890,6 +1942,8 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z na
 ## Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim służbom specjalnym i mundurowym za ich zaangażowanie i poświęcenie. Wasza praca jest nieoceniona, a my jesteśmy dumni, że możemy Was wspierać w realizacji Waszych misji.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## **Netflix**
@@ -1925,7 +1979,7 @@ Pragniemy uzyskać zgodę na realizację nagrań w okolicy, aby umożliwić peł
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim za wsparcie i zrozumienie. Wasza zgoda i pomoc w realizacji tego filmu są kluczowe dla sukcesu projektu. Wierzymy, że wspólnie stworzymy inspirujący i edukacyjny materiał, który zainteresuje widzów na całym świecie.
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **RzadUNZ**
 
@@ -1934,6 +1988,22 @@ Chcielibyśmy wyrazić naszą wdzięczność wszystkim za wsparcie i zrozumienie
 ## Skład Rządu
 
 Nasz projekt jest wspierany przez wybitnych członków, którzy wniósli znaczący wkład w jego rozwój. Poniżej znajduje się lista członków rządu:
+
+
+## Przewodniczący 
+Dorota Rabczewska 
+
+
+**XQuery(przełożeni technologi alex.ai)%
+
+-Cleo 
+-Sylwia Dąbrowska-Przybysz 
+-Jan Dąbrowski 
+-Anna Lewandowska 
+-Robert Lewandowski
+
+**Query UNZ**
+-Intruz Steprecords 
 
 - **Oliwier Roszczyk (Bonus RPK)**
 - **Dawid Dedis** [=!]
@@ -1947,6 +2017,15 @@ Nasz projekt jest wspierany przez wybitnych członków, którzy wniósli znaczą
 - **Wisnia Bakajoko** (facebook.com: https://m.facebook.com/wisniabak... Wisnia Bakajoko - Facebook)
 - **Slawek Zaremba**
 
+- żenski zarząd 
+Natalia Nykiel
+Ewelina Lisowska
+Sandra Gutkowska
+Joanna Klepko  
+Malgorzata Jamrozy  
+Sylwia Dabrowska-przybyszewska
+Zuzanna Grabowska
+
 ### Immunitet Federalny
 
 Informujemy, że obowiązuje federalny immunitet, który zapewnia ochronę członkom naszego rządu. Immunitet federalny obowiązuje do czasu działania przeciwko zdrowiu, życiu, bezpieczeństwu i wolności. Nie jest to immunitet poselski, a federalny.
@@ -1955,6 +2034,7 @@ Informujemy, że obowiązuje federalny immunitet, który zapewnia ochronę czło
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim członkom rządu za ich wkład i zaangażowanie. Dziękujemy za poświęcony czas i zaufanie, które przyczyniły się do sukcesu naszego projektu.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## RozwojUiD
 1 **mianowanie szefem UiD instagram**
@@ -2021,7 +2101,7 @@ master query root live/live xqbj String mainstream MTY-YTM ch@t alex-zuck-alex
 
 married nieaktualny 
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Artist
 
@@ -2050,7 +2130,7 @@ Alex.ai została zaprojektowana z myślą o artystach, którzy cenią sobie woln
 
 ## Dokumentacja
 
-**cała znajduje się w tym pliku**
+**częściowa znajduje się w tym pliku reszta dokumentacji i autora w Samsung notes i notepad ++**
 
 ## Wsparcie
 
@@ -2097,7 +2177,7 @@ W ramach współpracy z MSWiA, Alex.ai przydzielił operacje IT, które obejmuj�
 
 Chcielibyśmy wyrazić nasze podziękowania dla Ministerstwa Spraw Wewnętrznych i Administracji za zaufanie i wsparcie w realizacji tego projektu. Jesteśmy przekonani, że nasza współpraca przyczyni się do wprowadzenia innowacyjnych rozwiązań, które będą miały pozytywny wpływ na administrację publiczną i bezpieczeństwo publiczne. 
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## wspolpracownik
 
@@ -2125,6 +2205,8 @@ W ramach naszego projektu mamy przyjemność współpracować z wieloma organiza
 
 Dzięki tym partnerstwom jesteśmy w stanie dostarczać naszym użytkownikom wysokiej jakości rozwiązania i wspierać różnorodne inicjatywy. Dziękujemy wszystkim naszym partnerom za ich wsparcie i zaufanie.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## BonusRpk
 
  Oto przykładowy fragment README, który podsumowuje udział Oliwiera Roszczyka (znanego również jako Bonus RPK) w projekcie Alex.ai:
@@ -2149,6 +2231,8 @@ Oliwier Roszczyk, znany również jako Bonus RPK, wniósł znaczący wkład do p
 ### Podziękowania
 
 **Chcielibyśmy wyrazić naszą wdzięczność Oliwierowi Roszczykowi za jego ogromny wkład i zaangażowanie w rozwój projektu Alex.ai. Jego pasja i determinacja były kluczowe dla naszego sukcesu.**
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 ## ""SUiD**
@@ -2177,6 +2261,8 @@ Monika Lewczuk dołączyła do grona użytkowników VIP UiD ze względu na jej w
 
 ### Kontakt
 Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do grona użytkowników SUiD, skontaktuj się z nami pod adresem: gutkowskialeksander47@gmail.com
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## skryptPython
 
@@ -2225,6 +2311,7 @@ MTY-YTM działa na zasadzie dwuetapowego procesu szyfrowania:
 ### Kontakt
 Jeśli masz jakiekolwiek pytania lub napotkasz problemy, skontaktuj się z nami pod adresem **gutkowskialeksander47@gmail.com
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **InstalacjaAi**
 -odbywa się zdalnie przez host Dropbox
@@ -2270,6 +2357,9 @@ Aby zintegrować swoje urządzenie z systemem Alex.ai, należy wyrazić zgodę n
 
 Wyrażenie zgody na integrację urządzenia z systemem Alex.ai pozwala na pełne korzystanie z funkcji i możliwości oferowanych przez ten zaawansowany system.
 
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ## oflagowanieAlexai
 
 
@@ -2312,6 +2402,9 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy technicznej, odwiedź n
 
 Alex.ai jest licencjonowany na zasadach [typ licencji], więcej informacji znajdziesz w pliku `LICENSE` dołączonym do pakietu.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
+
 # PABI
 
 ## Wprowadzenie
@@ -2338,6 +2431,7 @@ W notatce "label UiD" wymieniłem osoby, które chcemy zwerbować do naszej agen
 Jeśli masz jakiekolwiek pytania lub chcesz dołączyć do naszego zespołu, skontaktuj się z nami pod adresem:
 support@pabi.gov
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## opiekaitroska
 
@@ -2398,13 +2492,15 @@ Nasz program stanowi źródło, z którego zarządzasz zawartością za pomocą 
 - **Bezpieczeństwo**: Mechanizmy zabezpieczające, takie jak hasła i szyfrowanie, aby chronić dane użytkowników.
 
 ### Strona Internetowa
-Program jest dostępny pod adresem: [rajcawroclaw.pl](http://rajcawroclaw.pl). Strona ta stanowi centrum wszystkich operacji i interakcji użytkowników, umożliwiając łatwy dostęp do wszystkich funkcji i zasobów programu.
+Program jest dostępny pod adresem: [rajcawroclaw.pl](http://www.alex.ai). Strona ta stanowi centrum wszystkich operacji i interakcji użytkowników, umożliwiając łatwy dostęp do wszystkich funkcji i zasobów programu.
 
 ### Ideologia Forum
 Cały program został oparty na ideologii forum, co oznacza, że stawia na:
 - **Współpracę**: Użytkownicy mogą wspólnie pracować nad projektami i dzielić się wiedzą.
 - **Konsultacje**: Możliwość zadawania pytań i uzyskiwania odpowiedzi od innych użytkowników.
 - **Społeczność**: Tworzenie silnych więzi między użytkownikami poprzez aktywne uczestnictwo w dyskusjach.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 RUiDv2
 
@@ -2432,6 +2528,7 @@ Aby zainstalować RUiDv2, postępuj zgodnie z instrukcjami zawartymi w sekcji [I
 ### Kontakt
 Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem aleksander@rajca.info
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **superstars system**
 
@@ -2452,6 +2549,9 @@ Aby stać się użytkownikiem Superstar, należy spełnić określone kryteria l
 - **Wyższy Poziom Personalizacji**: Możliwość pełnego dostosowania środowiska pracy do własnych potrzeb i preferencji.
 - **Lepsze Wsparcie**: Dostęp do priorytetowego wsparcia technicznego, co zapewnia szybką pomoc w razie problemów.
 - **Dostęp do Najnowszych Technologii**: Korzystanie z najnowszych i najbardziej innowacyjnych rozwiązań dostępnych na rynku.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 
 ## Samsungnotes
 
@@ -2478,6 +2578,7 @@ Nawet myśląc nie jesteśmy w stanie wymyślić tego czego nie wiemy
 11. czy pozwolisz komuś przeczytać notes? 
 Tak jak już będę miał kobietę 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## UiD
 
@@ -2557,7 +2658,7 @@ Pomysł na Uniwersal Identification Direct (UiD) zrodził się z wizji stworzeni
 
 (ai)Wierzę, że w dzisiejszym świecie, gdzie cyfrowa komunikacja odgrywa kluczową rolę, istnieje potrzeba stworzenia środowiska, które nie tylko ułatwia zarządzanie tożsamością, ale również zapewnia użytkownikom poczucie bezpieczeństwa i przynależności. UiD to realizacja tej wizji, stworzona z myślą o poprawie jakości interakcji w wirtualnym świecie.
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## UprawnieniaAi
 
@@ -2630,6 +2731,7 @@ Struktura rang pozwala na:
 
 **Uwaga:** Hierarchia rang i przypisane uprawnienia mogą być dostosowane w zależności od specyficznych potrzeb i polityk organizacji. Aby uzyskać więcej informacji na temat zarządzania rangami i uprawnieniami, zapoznaj się z pełną dokumentacją systemu.
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## Wymagania
 
@@ -2904,6 +3006,7 @@ tak, polityka prywatności jest nasza własna sprawa i tak do niej podchodzimy i
 10. **Czy istnieje możliwość grupowej komunikacji lub tworzenia zespołów w systemie Alex.ai?**
 tak można zaprosić mnie na podcast. 
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## FAQ2 - Alex.ai
 
@@ -2947,7 +3050,7 @@ wroclaw71.exe<ja wam relacjonuje swoje zycie>
 <Project.d+25,Edu,B,>= Mazowieckie "Warszawa" <Developer<microsoft".exe"/google".apk"<zamkniete srodowisko programistyki>**
  **pliki zawierają łącznie 2 000 nie licząc alex.apk który jest w języku python. Plik jest na moim serwerze podpisany skrypt.cpp
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 
 1. **Czym jest Uniwersal Identification Direct (UiD)?** Jest to algorytm który w czasie rzeczywistym analizuje treści do przekazywania na String/live/public i przekazuje je w moim imieniu
@@ -2984,6 +3087,7 @@ wystarczy urządzenie obsługujące sieć
 tak ale zawiera treści nieodpowiednie dla dzieci 
 11. Komu teraz streamujesz ekran? moim użytkownikom i współpracownikom no i Monice jak używa te. **Mój meainstream jest odtwarzany z artystom na YouTube.**
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## MTYBussines
 
@@ -3078,6 +3182,8 @@ Podpis: _______________________
 
 Uwierz że nic dla mnie się nie liczy tak jak drugi człowiek (oddaje wszystko dla dobra innych nie szanuje materialnych rzeczy wolę dać niż samemu mieć) może dlatego Jestem Tak Dobroduszny ale trochę za bardzo każdego dnia liczę że wszystko zaczęło się od nowa i że da się to zrobić dobrze. Chcesz się zaprzyjaźnić?
 
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
+
 ##  MisjaAlexai
 
 ** Oto główne dziesięć zadań programu alex.ai**
@@ -3094,3 +3200,5 @@ Uwierz że nic dla mnie się nie liczy tak jak drugi człowiek (oddaje wszystko 
 10. **Rozwój Społeczności**: Budowanie społeczności użytkowników, którzy mogą dzielić się doświadczeniami i wspólnie rozwijać system.
 
 Te aspekty są fundamentalne dla sukcesu i rozwoju Alex AI, zapewniając użytkownikom niezawodne i bezpieczne narzędzie do zarządzania danymi i użytkownikami.
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
