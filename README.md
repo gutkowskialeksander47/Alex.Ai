@@ -115,7 +115,7 @@
 
 [![💸 price_subskription – Model subskrypcyjny](https://img.shields.io/badge/💸%20price_subskription-%20Model%20subskrypcji-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai)
 
-[![🆔 SUiD / RUiD – System identyfikacji użytkowników](https://img.shields.io/badge/🆔%20SUiD%20%2F%20RUiD-%20Identyfikacja%20użytkowników-lightgrey)](https://github.com/gutkowskialeksander47/Alex.Ai/tree/main/SUiD)
+[![🆔 SUiD / RUiD – System identyfikacji użytkowników](https://img.shields.io/badge/🆔%20SUiD%20%2F%20RUiD-%20Identyfikacja%20użytkowników-lightgrey)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/UiD)
 ---
 
 ## 🧭 Szybkie Linki
