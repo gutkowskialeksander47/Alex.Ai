@@ -71,8 +71,8 @@
 
 📨 gutkowskialeksander47@gmail.com  
 📨 Aleksander@Rajca.info
-📱 Instagram [Aleksander Rajca] (https://www.instagram.com/aleksander_rajca?igsh=MW51Mm9ybWFvZ3I2aQ==)
-Facebook [Aleksander Rajca] (https://www.facebook.com/share/1Amsh1Rfr7/)
+📱 Instagram [Aleksander Rajca](https://www.instagram.com/aleksander_rajca?igsh=MW51Mm9ybWFvZ3I2aQ==)
+Facebook [Aleksander Rajca](https://www.facebook.com/share/1Amsh1Rfr7/)
 X: [Aleksander Rajca](https://x.com/Aleksander1947P?t=180YmNxJzhINERr759s0zw&s=09)
 🌐 Strona: [www.alex.ai](https://alex.ai) *(wkrótce)*
 
