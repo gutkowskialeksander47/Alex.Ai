@@ -40,7 +40,7 @@
   <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai"><img src="https://img.shields.io/badge/💸%20Subskrypcje%20i%20oplaty-green" /></a>
   </p>
 
-[![📖 Historia Alex AI](https://img.shields.io/badge/📖%20Historia%20Alex%20AI-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/README.md#historia-alex-ai)
+[![📖 Historia Alex AI](https://img.shields.io/badge/📖%20Historia%20Alex%20AI-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/tree/main/Alex.Ai%20historia%20powstania%20)
 
 ---
 
