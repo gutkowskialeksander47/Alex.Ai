@@ -103,18 +103,19 @@
 
 ---
 
-## 🧱 Struktura Projektu
+## [![🔐 permission.py – System uprawnień $0–$10](https://img.shields.io/badge/🔐%20permission.py-%20System%20uprawnień%20%240–%2410-blue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/permission.py)
 
-| Plik | Opis |
-|------|------|
-| `permission.py` | System uprawnień $0–$10 |
-| `trust_factor.py` | Algorytm zaufania |
-| `stream.notepad++` | Live zapis i interakcja z użytkownikiem |
-| `alex.apk` | Aplikacja mobilna (beta) |
-| `married` | Cyfrowy akt małżeństwa |
-| `price_subskription` | Model subskrypcyjny i dostępność |
-| `SUiD / RUiD` | System identyfikacji użytkowników (standard / ViP / artyści) |
+[![🤝 trust_factor.py – Algorytm zaufania](https://img.shields.io/badge/🤝%20trust_factor.py-%20Algorytm%20zaufania-brightgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/trust_factor.py)
 
+[![📝 stream.notepad++ – Live zapis i interakcja](https://img.shields.io/badge/📝%20stream.notepad++-%20Live%20notatki%20i%20interakcja-yellow)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/stream.notepad++)
+
+[![📱 alex.apk – Aplikacja mobilna (beta)](https://img.shields.io/badge/📱%20alex.apk-%20Beta%20aplikacja%20mobilna-red)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/skrypt.cpp)
+
+[![💍 married – Cyfrowy akt małżeństwa](https://img.shields.io/badge/💍%20married-%20Cyfrowy%20akt%20małżeństwa-pink)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/married)
+
+[![💸 price_subskription – Model subskrypcyjny](https://img.shields.io/badge/💸%20price_subskription-%20Model%20subskrypcji-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai)
+
+[![🆔 SUiD / RUiD – System identyfikacji użytkowników](https://img.shields.io/badge/🆔%20SUiD%20%2F%20RUiD-%20Identyfikacja%20użytkowników-lightgrey)](https://github.com/gutkowskialeksander47/Alex.Ai/tree/main/SUiD)
 ---
 
 ## 🧭 Szybkie Linki
