@@ -22,7 +22,7 @@
 
 
 
-## Spis Treści
+
  ## Spis Treści
 [![ Misja](https://img.shields.io/badge/%20Misja%20AlexAI-darkgreen)](#MisjaAlexai)
 [![ Wprowadzenie](https://img.shields.io/badge/%20Wprowadzenie-blue)](#wprowadzenie)
@@ -100,8 +100,9 @@
 [![ Dom Dziecka](https://img.shields.io/badge/%20Dom%20Dziecka-blue)](#DomDziecka)
 [![ Audi](https://img.shields.io/badge/%20Audi-darkred)](#Audi)
 [![ Trust Factor](https://img.shields.io/badge/%20trustfactor-darkblue)](#trustfactor)
-[![ Sony](https://img.shields.io/badge/%20Sony-black)](#Sony)Na tę kategorię : Świetnie! Oto uporządkowany i estetyczny układ przycisków nawigacyjnych do Twojego README.md dla Alex AI – podzieliłem je na tematyczne sekcje, by użytkownik mógł łatwo się odnaleźć:---
-
+[![ Sony](https://img.shields.io/badge/%20Sony-black)](#Sony)
+
+
 
 
 ---
