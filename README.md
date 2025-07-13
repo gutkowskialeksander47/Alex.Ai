@@ -391,7 +391,7 @@ Aby zapewnić użytkownikom spoza Polski dostęp do treści w ich języku, proje
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za korzystanie z Alex.ai. Dzięki tej funkcji, użytkownicy spoza Polski mogą łatwo zrozumieć i korzystać z naszej platformy w swoim języku. **Dziękujemy również Google za translate.live**
 
-
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
  
 
 Misja alex.ai i dziesięć głównych zadań **na końcu pliku Readme**
@@ -445,6 +445,8 @@ W przypadku jakichkolwiek pytań lub problemów z instalacją i konfiguracją sp
 ### Podziękowania
 
 Chcielibyśmy wyrazić naszą wdzięczność wszystkim użytkownikom za wsparcie i zaufanie. Cieszymy się, że możemy dostarczać innowacyjne rozwiązania, które ułatwiają i wzbogacają Wasze doświadczenia z urządzeniami Samsung oraz Alex.ai
+
+[![🔝 Wróć na górę](https://img.shields.io/badge/🔝%20Wróć%20na%20górę-grey)](https://github.com/gutkowskialeksander47/Alex.Ai#readme)
 
 ## **Tauron**
 
