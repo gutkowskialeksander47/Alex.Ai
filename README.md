@@ -8,7 +8,9 @@
 </p>
 
 ---
-# README dla Alex AI
+# 🌐 Alex AI – Centralna Dokumentacja Projektu
+
+## README dla Alex AI
 
 ## 🚀 Start
 
@@ -177,10 +179,6 @@ Ale nie czekam. Działam.
 
  Ten plik dokumentuje, czym jest Alex AI, kto za nim stoi, jakie komponenty zawiera oraz jaka jest jego struktura. W razie potrzeby możesz go rozwinac według swojego uznania. Warunkiem tego jest oznaczenie pochodzenia i wskazanie autora. 
 
-
----
-
-# 🌐 Alex AI – Centralna Dokumentacja Projektu
 
 ## 📌 Informacje ogólne
 
