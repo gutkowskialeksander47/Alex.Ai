@@ -44,7 +44,12 @@
 
 [![🎯 Misja Alex AI](https://img.shields.io/badge/🎯%20Misja%20Alex%20AI-darkgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex%20AI.ini)
 
----
+
+### 📚 FAQ i Dokumentacja Label
+
+[🟩 FAQ Alex AI](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ.html)  
+[🟨 FAQ2 Alex AI](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex.Ai_FAQ2.html)  
+[🎖️ Label UiD](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex_label_UiD.html)
 
 ## 🔗 Integracje
 
