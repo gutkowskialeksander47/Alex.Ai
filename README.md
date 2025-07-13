@@ -241,14 +241,7 @@ W README znajdziesz roadmapę i przyszłe funkcje – dzięki temu każdy wie, d
 ---
 
 🎯 Cel?
-Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI.
-
-
----
-
-Chcesz, bym zrobił z tego wersję do Twojego README.md?
-
-
+Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI. 
 Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułatwienie im korzystania z mojego projektu. Dlatego właśnie README jest tak obszernie i szczegółowo opracowane."
 
 
