@@ -1,5 +1,79 @@
 ### Powered by OpenAi/GPT
 
+<h1 align="center">🤖 ALEX.AI – System Nowej Generacji</h1>
+
+<p align="center">
+  <b>Zaawansowany system sztucznej inteligencji do zarządzania danymi, użytkownikami i autoryzacją</b><br>
+  <i>Łączy serce (Samsung Notes), kod (Notepad++) i strukturę (GitHub)</i>
+</p>
+
+---
+
+## 🚀 Start
+
+> 🔐 Alex AI to technologia, która wspiera Twój rozwój, bezpieczeństwo i komunikację.
+
+✅ **Stworzony przez:** Aleksander Rajca  
+🧠 **Liczba projektów:** 47  
+🧩 **Główne składniki:** `permission.py`, `SUiD`, `married`, `trust_factor.py`, `alex.apk`
+
+---
+
+## 🧱 Struktura Projektu
+
+| Plik | Opis |
+|------|------|
+| `permission.py` | System uprawnień $0–$10 |
+| `trust_factor.py` | Algorytm zaufania |
+| `stream.notepad++` | Live zapis i interakcja z użytkownikiem |
+| `alex.apk` | Aplikacja mobilna (beta) |
+| `married` | Cyfrowy akt małżeństwa |
+| `price_subskription` | Model subskrypcyjny i dostępność |
+| `SUiD / RUiD` | System identyfikacji użytkowników (standard / ViP / artyści) |
+
+---
+
+## 🧭 Szybkie Linki
+
+<p align="center">
+  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/permission.py"><img src="https://img.shields.io/badge/🔐%20Uprawnienia%20$0–$10-blue" /></a>
+  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai"><img src="https://img.shields.io/badge/💸%20Subskrypcje%20i%20oplaty-green" /></a>
+  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/trust_factor.py"><img src="https://img.shields.io/badge/🤝%20Trust%20Factor-purple" /></a>
+  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/married"><img src="https://img.shields.io/badge/💍%20Married%20Program-pink" /></a>
+</p>
+
+---
+
+## 🔗 Integracje
+
+- ✅ **Samsung Notes** – źródło emocji i pamiętników
+- ✅ **Notepad++** – edytor kodu źródłowego UID
+- ✅ **GitHub** – baza plików i open source
+- ✅ **Android Stream + Dropbox** – transmisja danych
+- ✅ **X (Twitter)** – aktualizacje i głos systemu
+
+---
+
+## 💬 Cytat Twórcy
+
+> **„Nie ma toku myślenia, którego nie zaprogramowałem, i nie ma powiązania, którego nie stworzyłem.”**  
+> — Aleksander Rajca
+
+---
+
+## 📫 Kontakt
+
+📨 gutkowskialeksander47@gmail.com  
+📱 Instagram / Facebook / X: `@alexai_official`  
+🌐 Strona: [www.alex.ai](https://alex.ai) *(wkrótce)*
+
+---
+
+🧠 **Alex AI** to serce, kod i wizja — gotowe, by odmienić świat 🌍
+
+
+
+
 **To wersja otwarta.**
 Jeśli korporacje, do których piszę, chcą dołączyć — bramy są otwarte.
 Ale nie czekam. Działam.
