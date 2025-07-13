@@ -38,7 +38,7 @@
 <p align="center">
   <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/permission.py"><img src="https://img.shields.io/badge/🔐%20Uprawnienia%20$0–$10-blue" /></a>
   <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai"><img src="https://img.shields.io/badge/💸%20Subskrypcje%20i%20oplaty-green" /></a>
-  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/trust_factor.py"><img src="https://img.shields.io/badge/🤝%20Trust%20Factor-purple" /></a>
+  <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/factor_alex_ai.py"><img src="https://img.shields.io/badge/🤝%20Trust%20Factor-purple" /></a>
   <a href="https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/married"><img src="https://img.shields.io/badge/💍%20Married%20Program-pink" /></a>
 </p>
 
