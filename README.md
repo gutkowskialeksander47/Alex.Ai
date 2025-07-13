@@ -42,6 +42,8 @@
 
 [![📖 Historia Alex AI](https://img.shields.io/badge/📖%20Historia%20Alex%20AI-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/tree/main/Alex.Ai%20historia%20powstania%20)
 
+[![🎯 Misja Alex AI](https://img.shields.io/badge/🎯%20Misja%20Alex%20AI-darkgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/README.md#misja-alex-ai)
+
 ---
 
 ## 🔗 Integracje
