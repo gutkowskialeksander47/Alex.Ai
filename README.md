@@ -115,8 +115,15 @@
 
 [![💸 price_subskription – Model subskrypcyjny](https://img.shields.io/badge/💸%20price_subskription-%20Model%20subskrypcji-orange)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/price%20Subskription%20alex.ai)
 
-[![🆔 SUiD / RUiD – System identyfikacji użytkowników](https://img.shields.io/badge/🆔%20SUiD%20%2F%20RUiD-%20Identyfikacja%20użytkowników-lightgrey)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/UiD)
----
+[![🆔 UiD – Universal Identification Direct](https://img.shields.io/badge/🆔%20UiD-%20Universal%20Identification%20Direct-blue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/UiD)
+
+[![💠 SUiD – Super Universal ID Direct](https://img.shields.io/badge/💠%20SUiD-%20Super%20Universal%20ID%20Direct-purple)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/SUiD.d)
+
+[![🔁 RUiD V2 – Revised UID v2](https://img.shields.io/badge/🔁%20RUiDV2-%20Revised%20UID%20v2-green)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/ruidv2.cpp)
+
+[![🔂 RUiD V3 – Revised UID v3](https://img.shields.io/badge/🔂%20RUiDV3-%20Revised%20UID%20v3-lightblue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/RUiDV3%20)
+
+[![📝 Samsung Notes – Notatka udostępniona](https://img.shields.io/badge/📝%20Samsung%20Notes-%20notatka%20z%20Alex.AI-yellow)](https://groupshare.samsungcloud.com/invitation/notecoedit/CDPmkx6kr9)
 
 ## 🧭 Szybkie Linki
 
