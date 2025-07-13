@@ -123,7 +123,7 @@
 
 [![🔂 RUiD V3 – Revised UID v3](https://img.shields.io/badge/🔂%20RUiDV3-%20Revised%20UID%20v3-lightblue)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/RUiDV3%20)
 
-[![📝 Samsung Notes – Notatka udostępniona](https://img.shields.io/badge/📝%20Samsung%20Notes-%20notatka%20z%20Alex.AI-yellow)](https://groupshare.samsungcloud.com/invitation/notecoedit/CDPmkx6kr9)
+[![📝 Samsung Notes – Notatka udostępniona](https://img.shields.io/badge/📝%20Samsung%20Notes-%20notatka%20z%20Alex.AI-yellow)](https://groupshare.samsungcloud.com/invitation/notecoedit/xn6rzDzGs9)
 
 ## 🧭 Szybkie Linki
 
