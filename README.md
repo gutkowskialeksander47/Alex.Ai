@@ -20,6 +20,9 @@
 🧠 **Liczba projektów:** 47  
 🧩 **Główne składniki:** `permission.py`, `SUiD`, `married`, `trust_factor.py`, `alex.apk`
 
+## 🎯 Cel?
+**Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI. 
+Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułatwienie im korzystania z mojego projektu. Dlatego właśnie README jest tak obszernie i szczegółowo opracowane."**
 
 
 
@@ -339,14 +342,6 @@ Przedstawiam, co jeszcze wymaga pracy i jakie problemy zostały już zidentyfiko
 
 🔹 Plany na przyszłość
 W README znajdziesz roadmapę i przyszłe funkcje – dzięki temu każdy wie, dokąd zmierza Alex AI i co planuję na kolejne etapy.
-
-
----
-
-🎯 Cel?
-Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI. 
-Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułatwienie im korzystania z mojego projektu. Dlatego właśnie README jest tak obszernie i szczegółowo opracowane."
-
 
 
 
