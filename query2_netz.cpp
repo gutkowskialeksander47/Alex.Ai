@@ -66,10 +66,10 @@ int main() {
 
     // Rejestracja użytkowników
     netz.registerUser("alex", "Aleksander Rajca", "CEO", ROOT);
-    netz.registerUser("sandra", "Sandra Gutkowska", "Admin", CEO);
+    netz.registerUser("Cleo", "Joanna Klepko", "Admin", CEO);
     netz.registerUser("julka", "Julia Ratowska", "Leader", SEND);
     netz.registerUser("monika", "Monika Lewczuk", "Artist", REPLY);
-    netz.registerUser("zuck", "Zuck", "Blocked", NONE);
+    netz.registerUser("Kali", "Marcin Gutkowski", "Blocked", NONE);
 
     netz.printUsers();
 
