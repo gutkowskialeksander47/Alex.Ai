@@ -23,4 +23,4 @@ class MisjaAlexAI:
              "Możesz zintegrować Alex.ai z różnymi systemami i urządzeniami, co daje Ci wszechstronne możliwości wykorzystania."),
 
             ("Łatwość Użycia", 
-             "Nasz interfejs jest intuicyjny i łatwy w obsłudze, więc nie musisz być ekspertem technic
+             "Nasz interfejs jest intuicyjny i łatwy w obsłudze, więc nie musisz być ekspertem technicznym zeby go obslugiwac.
