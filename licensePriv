@@ -1,7 +1,7 @@
 **2025**
 class LicenseManager:
     def __init__(self):
-        self.license_number = "98information0817"
+        self.license_number = "JRAR-1708-MAI"
         self.license_info = {
             "code": "98i0817=i=i=information",
             "description": "informator dla przyjaciol",
