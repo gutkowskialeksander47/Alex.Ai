@@ -24,3 +24,12 @@
 - [`logon.exe`](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/logon.exe) – Generator kodów dostępu (do wersji live)
 - [`stream.android`](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/stream.android) – Stream danych z urządzeń Android
 - [`uid-system.d`](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/uid-system.d) – System identyfikacji UID
+
+## Planowane funnkcje
+
+## 📝 Samsung Notes (Notatki emocjonalne)
+
+Moduł `samsungnotes_alexai.py` służy jako emocjonalna pamięć systemu. Działa na wewnętrznych kategoriach takich jak `brudnopis`, `społeczeństwo`, `dedykowane`. Pozwala też wyświetlać raporty publiczne i cytaty przewodnie autora.
+
+🔗 **Plik**: [W budowie)
+🔐 **Dostępność**: Tylko dla właściciela systemu lub kobiety wskazanej przez niego (po aktywacji `pozwol_przeczytac_kobiecie`)
