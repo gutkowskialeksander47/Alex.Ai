@@ -33,7 +33,7 @@ Witaj w projekcie **Alex.ai** – sztucznej inteligencji nowej generacji, budowa
 ---
 
 ## 💸 Cennik i Subskrypcje
-
+### Użytkownicy prywatni są zwolnieni z opłat.
 | Nazwa | Cena |
 |-------|------|
 | UiD Free | 0 € |
