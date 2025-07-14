@@ -1,9 +1,9 @@
 signer: Aleksander Rajca
-project: MasterUiD.project
+project: Alex AI
 timestamp: 2025-06-28T21:02:00Z
 hash_algorithm: SHA256
 document_hash: "f9d8c2e4c8f0a4b3...e5b3"
 signature: |
   MIIEogIBAAKCAQEA...
 key_fingerprint: "SHA256:19:A7:F4:..."
-verification_url: https://github.com/gutkowskialeksander47/MasterUiD.project
+verification_url: https://github.com/gutkowskialeksander47/alex.ai
