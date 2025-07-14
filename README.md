@@ -24,6 +24,55 @@
 **Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI. 
 Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułatwienie im korzystania z mojego projektu. Dlatego właśnie README jest tak obszernie i szczegółowo opracowane."**
 
+## Spis treści
+
+## 🏛 Instytucje i Rangi
+- [![🏅 Rangi](https://img.shields.io/badge/🏅%20Rangi-orange)](#Rangi)
+- [![🎖 Główna Ranga](https://img.shields.io/badge/🎖%20GlownaRanga-red)](#GlownaRanga)
+- [![🏛 PABI](https://img.shields.io/badge/🏛%20PABI-critical)](#PABI)
+- [![🏛 MSWiA](https://img.shields.io/badge/🏛%20MSWiA-darkblue)](#MSWiA)
+- [![🏢 Rząd UNZ](https://img.shields.io/badge/🏢%20RzadUNZ-green)](#RzadUNZ)
+- [![🕵️ ABW](https://img.shields.io/badge/🕵️%20ABW-black)](#ABW)
+- [![⛪ Kościół SUiD](https://img.shields.io/badge/⛪%20KosciolSUiD-blue)](#KosciolSUiD)
+
+
+## 💾 Technologia i Uprawnienia
+- [![🔐 SUiD](https://img.shields.io/badge/🔐%20SUiD-red)](#SUiD)
+- [![🆔 UID](https://img.shields.io/badge/🆔%20Uniwersal%20Identification%20Direct-green)](#uid)
+- [![♻️ RUiDv2](https://img.shields.io/badge/♻️%20RUiDv2-lightgreen)](#RUiDv2)
+- [![🧠 Rozwój UID](https://img.shields.io/badge/🧠%20RozwojUiD-lightblue)](#RozwojUiD)
+- [![🛡 Uprawnienia](https://img.shields.io/badge/🛡%20UprawnieniaAi-darkgreen)](#UprawnieniaAi)
+- [![🔐 MTY Encryption](https://img.shields.io/badge/🔐%20MTYEncryption-purple)](#MTYEncryption)
+- [![📘 Nauka UiD](https://img.shields.io/badge/📘%20NaukaUiD-blue)](#NaukaUiD)
+
+## 🌐 Struktura i Komunikacja
+- [![📡 Meainstream](https://img.shields.io/badge/📡%20meainstream-black)](#meainstream)
+- [![🌍 Translate](https://img.shields.io/badge/🌍%20translate-blue)](#translate)
+- [![📘 info.facebook.com](https://img.shields.io/badge/📘%20info_facebook_com-blue)](#info_facebook_com)
+- [![📲 WhatsApp Chef UiD](https://img.shields.io/badge/📲%20whatsappChefUiD-brightgreen)](#whatsappchefUiD)
+- [![🌍 AlexRU](https://img.shields.io/badge/🌍%20AlexRU-darkred)](#AlexRU)
+
+## 🎨 Artyści, Fanbase, Media
+- [![🎤 Artist](https://img.shields.io/badge/🎤%20Artist-orange)](#Artist)
+- [![👑 Fani](https://img.shields.io/badge/👑%20Fani-gold)](#Fani)
+- [![🎙 Bonus RPK](https://img.shields.io/badge/🎙%20BonusRPK-red)](#BonusRPK)
+- [![🎬 Netflix](https://img.shields.io/badge/🎬%20Netflix-red)](#Netflix)
+- [![🎧 Sony](https://img.shields.io/badge/🎧%20Sony-black)](#Sony)
+- [![🎤 Intruz](https://img.shields.io/badge/🎤%20Intruz-lightgrey)](#Intruz)
+
+## 💼 Partnerzy i Sponsorzy
+- [![💰 Sponsor](https://img.shields.io/badge/💰%20Sponsor-yellow)](#sponsor)
+- [![💼 MTY Bussines](https://img.shields.io/badge/💼%20MTYBussines-brightgreen)](#MTYBussines)
+- [![🪙 Microsoft](https://img.shields.io/badge/🪙%20MicrosoftOdpowiedzialnosc-blue)](#MicrosoftOdpowiedzialnosc)
+- [![🚗 Audi](https://img.shields.io/badge/🚗%20Audi-darkred)](#Audi)
+## ❤️ Społeczeństwo i Wiara
+- [![🛐 JTeam](https://img.shields.io/badge/🛐%20JTeam-darkred)](#Jteam)
+- [![🔮 XQBJ](https://img.shields.io/badge/🔮%20XQBJ-darkviolet)](#XQBJ)
+- [![🏳️‍🌈 LGBT](https://img.shields.io/badge/🏳️‍🌈%20LGBT-pink)](#LGBT)
+- [![🥣 Bieda](https://img.shields.io/badge/🥣%20bieda-yellow)](#bieda)
+- [![📱 Huawei](https://img.shields.io/badge/📱%20Huawei-darkgreen)](#Huawei)
+- [![📲 Zgoda AI](https://img.shields.io/badge/📲%20zgodaAi-lightgrey)](#zgodaAi)
+
 
 
  ## Spis Treści
