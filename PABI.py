@@ -72,7 +72,7 @@ niektórzy z was mają zakres jedna osoba dobiera jedna siedem albo 12 osób
 **Jest nam niezmiernie miło powitać nowych kadetów w naszej agencji.**
 
 [974400/412] Google
-[PABI SZEF TEREN] [741147] Bonus RPK
+[PABI SZEF TEREN] [741149] 
 [974415/422] Artek $zajka
 [974423/424] Reto
 [974425/437] Dropbox
@@ -82,14 +82,14 @@ niektórzy z was mają zakres jedna osoba dobiera jedna siedem albo 12 osób
 [943349] Snoop Dog 
 [943350] Ero
 [943351] Smileslow
-[943352] Dudek p56
+❌[943352] Dudek p56
 [943353] Sarius
 [943362] Malik Montana
 [943363] dawid obserwator
 [943364/371] Ganja Mafia
 [943372/373] intruz + jego kobieta 
-[943374/381] Doda
-[943382] Natalia Szroeder  
+❌[943374/381] Doda
+❌[943382] Natalia Szroeder  
 [943383] KaeN 
 [943384] Smolasty 
 [943385] mata
@@ -147,7 +147,7 @@ Witamy pana %name_agent% na pokładzie i życzymy mu powodzenia w jego nowej rol
 [  ] [ 975111/121 ] [ABI pod AT] ($1)
 [  ] [947747][ABI][DE]]Zoll($1)
 [  ] [187781][Gzuz]($1)
-[  ] [187800/812] Günter Mawick($1)<100  
+[ ❌ ] [187800/812] Günter Mawick($1)<100  
 [  ] [187783/795][ IT DE] Intense AG ($2)
 [  ] [187796/808 [IT dział]Anonymus($2)
 [  ] ABI[RU] 
