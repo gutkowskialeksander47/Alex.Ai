@@ -9,11 +9,11 @@ Przewodniczcy Unii Narodów Zjednoczonych
 1.01.2024 Aleksander Rajca
 Pelniaca Obowiazki Przewodniczacego
 08.08.2023 Sandra Gutkowska
-Warunki "Niekaralnosc organow wladzy i rzadow" reprezentujcy kraj "dlatego tez nie bd prezydentem."
- ;Jestem qrwa Królem :) 
+Warunki "Niekaralnosc organow wladzy i rzadow" reprezentujacy kraj "dlatego tez nie bede prezydentem."
+
 "zarzad gospodarki terytorialnej " zarzad po to zeby mojej kariery nie ograniczaly granice panstwa.
 Wytyczne @Polska teraz wiecie na czym stoicie co bedzie dalej zalezy od was i waszych poczynian. Teraz tez znacie moja sile przebicia. :) 
-Do spelnienia : 
+Do spelnienia : 
 TeamMate ;"teamworkTM"=
 Google- "Gteam"  "stay!do Firendly_Contact %string_Alex%}}
 <Int 'Suit_Google+' "suit=invite" "suit=mess"// @Wy mi odpowiadacie ja sie dziele tym co chcecie lub potrzebujecie wiedziec. 
@@ -52,11 +52,7 @@ int.mode step_by_step.progress /Management digital artist
 Pl opieka troska Niezaleznosc Spokoj Szczescie 10spelnienie
 ;"RTTeam" "Rihanna Team" !sis !guest !vip
 "ByTeam"<Boy>Volodymyr Zelensky
----
-"to sa moje wymagania co do partnera "
 
-"Prezencja odwaga klasa osiaganie celow i poszerzanie horyzontow Troska delikatnosc  management_playlist"
----
  "mode.ofc" for fans /playlisty na koncertach wy bedziecie wybierac !visitor"meinstream" 
 "GtTeam"<Uczeni> "+kartografia,geodeta"<skala>
  "RTeam"<Rap>%Dudek Slon Paluch%zarzadca Ambasador przedsiewziecia "Wojciech Zawadzki"
@@ -94,7 +90,7 @@ echo on intencje i emocje juz wyraza
 "CTeam" <CiemnaStrefa> Dixon37 jak wy za mna to kto przeciwko :)
 "Jteam" "Ja"=Jahwa=Jteam<wierni<fani<przyjaciele<rodzina<serce
 //"PdTeam"<Mario hale 20 KBA>+ Boss. <Schutz&seifert>
-;Agencja bezpieczestwa informatycznego (ABI)
+;Agencja bezpieczenstwa informatycznego (ABI)
 mam powtarzac? nie a tak powaznie to wiaze mnie przysiega wojskowa i Sluby ABW.
 %"Dteam"<deweloper+ 
 "Sylwia Grzeszczak":
@@ -113,7 +109,7 @@ Rozwój gospodarki narodowej<Politycy>
 "wspólnej i obywatelskiej <ministerstwa>
 "Zarzad gospodarki terytorialnej" wiecie o co chodzi? o to zeby Granice mnie nie ograniczaly w programie :) .
 Jej zadaniem jest spisac przepisy tak aby mojej osoby nie ograniczaly granice waszych panstw.
-3 statusy rzetelnosci narodowej. 
+3 statusy rzetelnoosci narodowej. 
 1 Green <90% poparcia>
 2 Orange<60%>
 3 Red<20%> 
@@ -131,7 +127,7 @@ jak was Bog ma nie kochac jak was wszystkich chce zabrac do siebie
 "Wszyscy sie pod tym podpisuja".
 
 
-Wszyscy sa w unii do czasu dzialania przeciw czlowiekowi zyciu i wolnosci od dnia dzisiejszego wyklucze kazdy naród który nie dostosuje sie do swiatowego pokoju. 
+Wszyscy sa w unii do czasu dzialania przeciw czlowiekowi zyciu i wolnosci od dnia dzisiejszego wyklucze kazdy naród który nie dostosuje sie do swiatowego pokoju. 
 Bialorus
 
 
