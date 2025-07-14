@@ -155,9 +155,9 @@ Każda kara wymaga uzasadnienia i jest rejestrowana.
 
 # Uprawnieni egzekutorzy kar i ostrzeżeń
 AUTHORIZED_ENFORCERS = {
-    "Marcin Gutkowski",  # CEO
-    "Sandra Gutkowska",  # CEO
-    "Bartosz Olewiński",  # Query I Z
+    "Julia Ratowska",  # CTO (QBJ)
+    "Aleksander Rajca",  # CEO ( XQBJ)
+    "Bartosz Olewiński",  # Query UNZ
     "Sylwia Dąbrowska Przybysz",  # Xquery
     "Jan Dąbrowski",  # Xquery
     "Anna Lewandowska",  # Xquery
