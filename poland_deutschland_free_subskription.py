@@ -1,7 +1,6 @@
-Oto podsumowanie i  przykładowy skrypt, który opisuje strukturę Poland Subskription i realizuje nakładanie darmowego UiD na obywatela Polski i Niemiec.
+opis struktury Poland Subskription i realizacja nakładania darmowego UiD na obywatela Polski i Niemiec.
 
 
----
 
 Opis struktury Poland Subskription
 
