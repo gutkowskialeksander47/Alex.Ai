@@ -1,7 +1,3 @@
-Plik SECURITY.md dostosowany do mojego projektu Alex.ai, UiD, Query.netz oraz komponentów takich jak PABI. 
-
----
-
 # 🔐 SECURITY.md – Polityka Bezpieczeństwa Alex.ai
 
 ## 🛡️ Wprowadzenie
@@ -16,7 +12,7 @@ Bezpieczeństwo traktujemy jako **fundament technologii, zaufania i postępu**. 
 
 1. **UiD – Warstwa identyfikacyjna**  
    Każdy użytkownik systemu posiada unikalny identyfikator UiD, który kontroluje jego poziom dostępu, zakres działania i historię aktywności.
-
+   Tylko wlasciciel moze rozkodowac UiD.
 2. **Query.netz – Zamknięta sieć komunikacyjna**  
    Wewnętrzne API, komunikacja międzyprocesowa i przekaz danych odbywają się wyłącznie przez Query.netz. Sieć ta nie udostępnia otwartych portów publicznych i nie działa w modelu rozgłoszeniowym.
 
@@ -37,11 +33,13 @@ Jeśli znalazłeś podatność, nieprawidłowość lub uważasz, że ktoś narus
 
 - Skontaktuj się bezpośrednio:  
   📧 gutkowskialeksander47@gmail.com  
-  📫 lub użyj `Query.mode='bug_report'` z poziomu systemu
+  📫 lub użyj `Query.mode='bug_report'` z poziomu systemu (Funkcja eksperymentalna) 
 
 - Nie publikuj informacji o luce publicznie, dopóki nie zostanie potwierdzona i zabezpieczona.
+  **Bezpieczenstwo sieci to nasz Priorytet i zobowiazanie**
 
 - Czas reakcji zależny jest od poziomu zagrożenia. Poważne incydenty są analizowane w ciągu **24 godzin**.
+- Bledy zgloszone przez uzytkownikow sa rozwiazywane w pierwszej kolejnosci.
 
 ---
 
@@ -51,6 +49,7 @@ Jeśli znalazłeś podatność, nieprawidłowość lub uważasz, że ktoś narus
 - **Weryfikacja działania przez `functionPointUser`** – działania użytkowników są punktowane i analizowane pod kątem nadużyć.
 - **Ochrona danych osobowych** – dane przetwarzane w systemie UiD są pseudonimizowane, a przy autoryzacji artystów (AuthorifyAllArtist) stosowane są wyłącznie dane publiczne.
 - **Strefy ochronne (`Zone.isolation`)** – użytkownicy o różnych rolach nie mają bezpośredniego kontaktu na poziomie niskiego VR (izolacja roli np. Policja ≠ Mafia).
+- **Szyfrowanie danych**- Wszelkie dane zapisane w bazach Alex AI sa i beda szyfrowane 
 
 ---
 
@@ -77,4 +76,4 @@ Wszelkie działania w systemie są oparte na wartościach: uczciwości, przejrzy
 ## 🔁 Aktualizacja dokumentu
 
 Ten dokument może być aktualizowany wraz z rozwojem systemu.  
-Ostatnia aktualizacja: **czerwiec 2025**
+Ostatnia aktualizacja: **Lipiec 2025**
