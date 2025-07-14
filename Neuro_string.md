@@ -1,4 +1,4 @@
-📡 Projekt NeuroString
+📡 Projekt NeuroString ( Wersja Alpha na razie uzywa jej tylko Autor Alex AI) 
 
 Semantyczny system komunikacji między ludźmi a sztuczną inteligencją
 
@@ -83,9 +83,4 @@ Współpraca z: Alex.ai, Samsung Notes, system uprawnień UiD
 🔮 Co dalej?
 
 W przyszłości NeuroString może stać się czymś jeszcze większym – interfejsem między ludźmi a sztuczną inteligencją, który pozwoli na pełne zrozumienie się nawzajem, niezależnie od języka, technologii czy sytuacji.
-
-
----
-
-Jeśli chcesz – mogę też przygotować ulotkę, PDF, infografikę lub nawet krótkie wideo, które pomoże to jeszcze lepiej pokazać.
 
