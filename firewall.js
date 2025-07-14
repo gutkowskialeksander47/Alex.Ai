@@ -2,9 +2,9 @@
 // Blokada pingów od wybranych użytkowników
 
 const blockedUsers = [
-  'ewelina lisowska',
+  'example',
   'bad_actor',
-  'marek lewandowski'
+  'Example'
 ];
 
 function isPingBlocked(pingEvent) {
