@@ -1,4 +1,4 @@
-// RedFirewall - Authorization Roles Structure // Author: Aleksander Rajca // License ID: 98information0817
+// RedFirewall - Authorization Roles Structure // Author: Aleksander Rajca // License ID: JRAR-1708MAI
 
 #include <string> #include <vector>
 
