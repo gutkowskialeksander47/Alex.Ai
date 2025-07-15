@@ -24,6 +24,8 @@
 **Stworzyć otwarty, rozumiany i przyszłościowy system zarządzania dostępem, emocjami, kreatywnością i pamięcią. Dlatego README to nie tylko instrukcja. To mapa świata Alex AI. 
 Moim celem jest zapewnienie użytkownikom jak najlepszego doświadczenia i ułatwienie im korzystania z mojego projektu. Dlatego właśnie README jest tak obszernie i szczegółowo opracowane."**
 
+[![📂 Opis Plików](https://img.shields.io/badge/📂%20Opis%20Plików-darkgreen)](https://github.com/gutkowskialeksander47/Alex.Ai/blob/main/Alex%20AI%20opis.txt)
+
 ## Spis treści
 
 ## 🏛 Instytucje i Rangi
