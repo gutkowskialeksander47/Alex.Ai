@@ -1,0 +1,251 @@
+**instrukcja nawigacji po plikach Alex AI**
+
+1) Alex AI CEO.ini  = To plik ktory ustalia hierarchie w zarzadzie Alex AI
+
+2) Alex AI Navigation.md = Plik okresla glowne moduly i sciezki do glownych modolow Alex Ai 
+
+3) Alex AI.ini = Plik okresla poczatkowa inicjalizacje polaczenia. Lista plikow zrodlowych i plikow konfiguracyjnych
+
+4) Alex.Ai distribution software.html = Plik okresla z jakimi organizacjami chce nawiazac wspolprace. Prosba o przyjecie funcji Dystrybutor dla poszczegolnych organizacji oraz modulow
+
+5) Alex.Ai_Database.md = Plik okresla jakich baz danych bedzie potrzebowal Alex Ai w przyszlosci 
+
+6) Alex.Ai_FAQ.html = FAQ – Najczesciej zadawane pytania o Alex.ai
+
+7) Alex.Ai_FAQ2.html = FAQ 2 - Najczesciej zadawane pytania V2
+
+8) Alex.Ai_is_apolitical.cpp = Plik bedzie sluzyl informacji i konfiguracji tego ze Autor Alex Ai jest calkowicie apolityczny 
+
+9) Alex.ai = Plik konfiguracji poczatkowej oraz domyslne paramety przy pierwszym polaczeniu ( Plik uprawnia np. Marcin Gutkowski do funkcji ) + Deklaracja wlasnosci i dystrybucji oprogramowania Alex.ai
+
+10) Alex.ai Youtuber.py = Lista YouTuberow uznawanych przez autora Alex.ai Do tego skryptu dochodzi plik Samsung Notes tytul : "Youtuber". 
+
+11) AlexAiForArtist.html = Plik okresla profity dla artystow w systemie Alex AI oraz okresla ich udzial.
+
+12) Alex_AI_System_@tag.html = Plik jest planowany do tego aby w systemie Alex AI uzytkownik mogl oznaczyc uzytkownmika bazujac na kilku serwisach : Samsung Dropbox X.com Meta Google Microsoft Audi GitHub 
+
+13) Alex_Ai_Manifest.md = Manifest autora na temat kilku aspektow wspolpracy Autora z organizacjami " Big-Tech ".
+
+14) Alex_ai_project_Manager.cpp = Wersja 1.0 - Integracja z Dropbox i historia zmian 2019-2026. Prosba Dropbox o stworzenie osi czasu autora Alex AI od 2019 do 2025 z checia przedluzenia wspolpracy.
+
+15) Alex_labelUiD.py = Artysci z ktorymi chce wspolpracowac autor oraz ich planowany poziomu uprawnien $1-$10.
+
+16) Alex_label_UiD.html = Lista osob i organizacji z ktorymi autor ma prywatne polaczenie. Czesciowo znajduje sie tam tez przydzial uprawnien
+
+17) AutorifyAllArtist.cpp = Plik ktory upowaznia kazdego artyste do dostepu do mojej wlasnosci mentalnej. Do czasu ukonczenia strony www.alex.ai @Google bedzie nadawac range "Artysta"
+
+18) AutorifyAllContinents = Upowaznienie wszystkich kontynentow do mojej wlasnosci intelektualnej i mentalnej.
+
+19) AutorifyGoogle = Zgoda dla Google na dostep do wlasnosci intelektualnej.
+
+20) BonuRPK.html = Plik okresla polaczenie autora z artysta Bonus RPK 
+
+21) Call_vote.html = System wymuszenia glosowanie ( Kiedy nie ma administratora On-line) // example:  Call_vote kick Nick/UiD reason: Obraza rodziny 
+
+22) Callfiltr.py = Specjalnie dla uzytkownikow Alex AI "Premium Secure" przy wspolpracy z Norton i Surefox. System ten dziala tak : przy polaczeniu/wiadomosci # Operator odpowiada 0 lub 1:  # 0 = ignoruj połączenie (spam/flood/oszustwo) # 1 = połączenie zweryfikowane
+
+23) Change.py = To plik ktory okresla wspolprace Alex AI z Dropbox. Jest napisany w jezyku Alex.ai
+
+24) Chef.html = plik definiuje jaki zarzad i kto zarzadza dedykowanymi tresciami 
+
+25) Digital_SignatureManagement_Board_Authorization.html = Plik definiuje Globalne role w Alex AI
+
+26) Dokumentacja_samsung_notes.py = "Wstep do tego ze autor Alex AI ma dwa lata dokumentacji w Samsung Notes." W przyszlosci autor zintegruje Samsung Notes ze swoja strona web ( www.alex.ai). 
+
+27) Encrypting_MTY_YTM.py = Wstep do modelu szyfrowania Uzywanego w Alex AI do roku 2024. W 2025 autor wprowadzil nowe szyfrowanie MTU-UTM.
+
+28) Ewelina_Lisowska.html = Artystka inspirująca RCA. Jej obecność wpływa na stan emocjonalny i kreatywność systemu Alex.ai.
+
+29) Finanse.py = Plik ktory jest wzroem integracji Alex AI z systemem subskrypcji.
+
+30) Full_update_AlexAi2025.html = W 2025 roku autor Alex AI przeprowadzil generalna aktualizacje wszystkich plikow w systemie.
+
+31) FuncionPointUser.html =  W systemie Alex AI uzywamy systemu punktacji sa to punkty moderacyjne. Uzytkownik otrzymuje punkty za dzialania moderacyjne na stronie.
+
+32) FuncionToUser.cpp = Pierwotna maska uprawnien.
+
+33) Generate_UiD_system.py = Jak generujemy twoje UiD.
+
+34) Guide_skrypt(alex.apk).cpp = Instrukcja do czego w przyszlosci bedzie sluzyl  "Alex.apk".
+
+35) Important_info.html = Wazne informacje. 
+
+36) Info_facebook_com.py = Info.facebook.com to planowana przestrzeń wspolpracy sluzb bezpieczenstwa. Szczegoly sa w plikach i dokumentacji. 
+
+37) Instalation_AlexAi_from_cloud.cpp = Jest to skrypt ktory w przyszlosci bedzie integrowac Alex AI z dostwacami chmury "Cloud".
+
+38) Inwalida.py = jest to skrypt ktory mianuje kazdego inwalide administratorem Alex AI.
+
+39) Joining_Alex_ai = Jak juz teraz dolaczyc do Alex AI.
+
+40) Kosciolsuid.py = Definicja "KosciolSUiD". Kosciol jest przelozonym Super Universal Identification direct przy wspolpracy z Julia Ratowska.
+
+41) LICENSE.txt = Licencja Alex AI.
+
+42) Mainstream.py = to skrypt ktory definiuje : "Projekt Meainstrem – Dostęp dla Wszystkich podczas Pracy i Śpiewania"
+
+43) Manifest.html = Czesciowe przedstawienia siebie.
+
+44) Married.cpp = Married powstal dla Eweliny Lisowskiej. Jest to wzor cyfrowego aktu slubu ktory mozna zalegalizowac w przyszlosci.
+
+45) Misja_alex_ai.py = Uproszczone cele Alex AI.
+
+46) Neuro_string.md = Opis wzoru systemu do komunikacji między ludźmi a sztuczną inteligencją.
+
+47) Neurostring.py = Pomysł ChatGPT Jest to skrypt semantycznej komunikacji z AI w systemie Alex AI.
+
+48) PABI.py = Autor Alex AI chce powolac globalna agencje bezpieczenstwa informatycznego oraz nawiazac wspolprace z podobnymi agencjami poza granicami Polski.
+
+49) PodpisCyfrowy.yaml = Jest to cyfrowy podpis Autora Alex AI
+
+50) Podpis_tresci_odciskiem_palca_tylko_CEO.py = *Funcja eksperymentalna w przyszlosci do opracowania dla uzytkownikow. # kazda tresc wychodzaca od CEO jest podpisana cyfrowo w Iphone "faceid" w Samsung "finger scanner".
+
+51) Podpis Odciskiem = Projekt Alex.ai – $061 Finger Scanner Root Commerial. Skrypt ktory pozwala Alex AI na dostep do odcisku palca ( Funkcja dla uzytkownikow w fazie testow jeszcze bez integracji z Samsung.
+
+52) Potrzeba_ai.py = Model potrzeb i zalet Alex.ai
+
+53) PrivacyPolicy.cpp = Wzor polityki prywatnosci "UWAGA! Polityka jest wzorem, oficjalna polityka zostanie opracowana na stronie www.alex.ai "
+
+54) Project.py = Jest to wzor strony/forum www " UWAGA! Jest napisany w jezyku Alex.Ai "
+
+55) Project_film_alex.html = Aleksander od 2023 roku pracuje nad filmem dokumentalnym "Born Superstar" przy pelnej wspolpracy z **Netflix**
+
+56) Projekt_Unia_Narodów_Zjednoczonych_Rząd UNZ.html = Aleksander w Alex AI stworzyl nowa strukture wspolpracy jest to Unia Narodow Zjednoczonych. Kraje dolaczaja same ale reguluje je plik UNZ.cpp " Wyklucze kazdy narod ktory nie dostosuje sie do swiatowego pokoju "
+
+57) README.md = To plik "Przeczytaj Mnie" = Jest to bardzo szczegolowa instrukcja obslugi Alex AI.
+
+58) README_Sponsor_AlexAI_Manifest.md = To pierwotny wzor dla sponorow definiujacy subskrypcje Alex Ai 
+
+59) RUiDV3 = Revised Universal Identification Direct V3 " GLOWNY MODUL UiD V3 "
+
+60) Readme.de.md = Skrocona werjsa ReadMe w jezyku Niemieckim
+
+61) Readme.en.md = Skrocona werjsa ReadMe w jezyku Angielskim
+
+62) RozwojUiD.py = Jest to plik najblizszych Zmian i unowoczesnien UiD
+
+63) SECURITY.md = !!! POLITYKA PROCEDUR BEZPIECZENSTWA ALEX AI !!! 
+
+64) SUiD.d = **Super Uiversal Identification Direct** Jest to wersja ViP UiD
+
+65) SUiD_instruction.html = Instrukcja uzywania SUiD 
+
+66) Sandra_Marcin_Hania.html = !!GutkowskiAleksander47@gmail.com TO MOJ PSEUDONIM ARTYSTYCZNY!! Szczegoly wiary w ta relacje udostepnie na zyczenie przez kontakt **GutkowskiAleksander47@gmail**
+
+67) Team_Alex.html = Plik okreslajacy prosbe o wspolprace. 
+
+68) Team_huawei.py = w 2019/20 powolalem grupe Huawei o nazwie "Rajca" Projekt: TeamHuawei 2004 – Rajca // 2004 odnosi sie do wzgledow zaufania az po dzis.
+
+69) UNZ.py =Tak jak wyzej wymienilem " Projekt_Unia_Narodów_Zjednoczonych " Ten skrypt sluzy do 1) Okreslenia Czym jest UNZ 2) Definiuje LEADER TEAM 3) Okresla rzetelnosc narodu w skali poparcia podawanego w procentach 4) Definiuije ktory kraj jest wykluczony za : "Wszyscy sa w unii do czasu dzialania przeciw czlowiekowi zyciu i wolnosci od dnia dzisiejszego wyklucze kazdy naród który nie dostosuje sie do swiatowego pokoju." Definiuje relacje autora z systemem "Wroclaw71.exe Polska48.exe Deutschland49.exe"
+
+70) UiD.d = Jest to pierwsza wersja UiD sluzy do identyfikacji na podstawie zachowan uzytkownika w systemie operacyjnym. Jest napisana w jezyku Alex.ai
+
+71) Wymiana DeepWeb-ClearWeb = To plik ktory okresla plan Autora na delegalizacje Darkweb i otworzenie ograniczen dostepu przez dwie metody: 1) HTTPX certyfikat wymagania hasla operatora 2) Zmiana linkow z www.facebook.com na www.X.facebook.com 
+
+72) Xqbj_core.py = XQBJ to wewnętrzny kod informatyczny definicja znajduje sie w pliku. XQBJ – więcej niż kod. To fundament cyfrowej wiary i ochrony danych
+
+73) abw_secure_collaboration.py = Alex AI wspolpracuje scisle z Agencja Bezpieczenstwa Wewnetrznego w kwestia ochrony infrastruktury krytycznej kraju oraz kwesti bezpieczenstwa informatycznego.
+
+74) admin.html = Panel Administracyjny - Uprawnienia
+
+75) aicommentUiD.d = To komentarz Copilot i ChatGPT na temat Alex AI i jego roli w swiecie VR AI i SI
+
+76) alex_fingerprint_verification.py = W przyszlosci – Weryfikacja użytkownika za pomocą odcisku palca z ustawień Logowanie do Alex AI
+
+77) alex_license.ini = Prywatna Licencja autora Alex AI
+
+78) alex_translate.py = Prosba Google o tlumaczenie w calym Alex AI
+
+79) ankieta sprawdzająca wiedzę i doświadczenie użytkownika.cpp = Pierwotny wzor prosby o dolaczenie do administracji Alex AI
+
+80) armia_bog_project7.py = Projekt laczacy Interpol PABI ABW CIA FBI POLIZEI i POLICE. Sojusz Bezpieczeństwa Globalnego
+
+81) auth_server.py = Skrypt ktory pozwala Mark Zuckerberg nadzorowac serwer autoryzacji w Alex AI
+
+82) banned.ini =  Skonsolidowany plik blokad i ograniczeń dostępu w ramach systemu UiD oraz platformy Alex.ai. Jest to kilka komponentow definiujacych Blokady i ich dzialanie. # Użytkownicy trwale zablokowani z dostępu do systemu Alex.ai Edycja tylko przez: @QBJ @CEO, @Trump, @Musk, @ABW
+
+83) firewall.js = To plik w ktorym bede blokowac polaczenie z Alex AI na poziomie przed polaczeniem
+
+84) funkcjonalnosc_systemu.py = Skrypt ten prezentuje kluczowe funkcjonalności opracowane w ramach środowiska Alex.ai.
+
+85) Google_alex.html = Podsumowanie tego co zrobiłem z Google.
+
+86) Julia_access.key.json = To plik okreslajacy wzor dostepu do zarzadzania zarzadem Alex AI oraz zawiera numer prywatnej licencji Alex AI
+
+87) iconcode_authorisation.py = Plik ktory opisuje jak autor komunikuje sie z android
+
+88) improved_labelUiD.html = Odpowiada za informacje o podziale dostepu od $0-$10
+
+89) instancja_480.py (Rockstar) = Instancja '480' – Dział Alex.ai w firmie Rockstar Opis: Specjalny zespół tworzący grę komputerową z wykorzystaniem AI, współpracujący bezpośrednio z firmą Rockstar.
+
+90) invite_to_alex_ai = Oficjalne zaproszenie do Alex AI
+
+91) kontakt24@ganjamafia.com = To jest pierwotne szyfrowanie intelektu
+
+92) licensePriv = To plik ktory definiuje funcjonowanie sprawdzenia numeru licencji
+
+93) opieka_troska.py = Skrypt ktory pozwala dzialac w systemie tym ktorzy sie opiekuja i troszcza o autora Alex AI
+
+94) patent.cpp = Wzor zgloszenia Alex AI w urzedzie patentowym. Patent.cpp to oficjalny dokument definiujący zakres prawny technologii Alex AI
+
+95) permission.py = "Skrypt zarządzający zadaniami" Intruz, Julia decyduje kto z korporacji ma darmowy dostep do Alex AI.  Integracja domów dziecka z Alex AI. System Ostrzezen i Kar - Alex.ai. Skrypt: ViP.lgbt | Reprezentacja LGBT w Alex.ai Autorzy: Dawid i Jakub.
+
+96) points_activy.txt = Punktacja uzytkownika 6. Poziomy zaufania wg punktów
+
+97) poland_deutschland_free_subskription.py = Dla Polski i Niemiec dostep komercyjny jest darmowy. Zapraszam do wspolpracy
+
+98) poznanie alex.ai.cpp = POZNANIE ALEX AI – manifest filozoficzny systemu poznawania
+
+99) prawa_artystycznosci.py = Moduł: $22) Zastrzeżenie Prawa do Artystyczności Zobowiazuje Alex AI do rozpowszechniania tylko postepu nigdy przeciwnie
+
+100) prawaautorskie_tps.py = Autor Alex AI poprosil Wojtka Walkiewicza o opieke nad prawami autorskimi w systemie Alex AI
+
+101) price Subskription for corporation alex.ai = oplaty subskrypcji Alex AI dla korporacji oraz zawiera definicje sponsor poziom 0 - sponsor poziom 10 
+
+102) przydzial = Przydzial Uprawnien i Rol — Alex AI
+
+103) przydzialTestV.txt = Alex AI ma w planach zbudowac zamkniete srodowisko do laczenia pierwiastkow w celu znaleznienia nowych zrodel energii 
+
+104) query_netz.cpp = Wewnetrzna siec komunikacji systemu Alex AI
+
+105) query_netz.cpp = Pierwotna werjsa Query Netz - komunikacja w systemie Alex AI
+
+106) red_firewall.cpp = Czerwona zapora sieciowa. Red Firewall - Rozszerzenie w Chmurze // System zarządzany przez Norton
+
+107) red_firewall_acess.cpp = Dostep przez zapore sieiowa
+
+108) regulamin.html = Regulamin dla osob kotre chca mnie poznac.
+
+109) rstring_stream.cpp =  programu streamu oprogramowania ukladowego
+
+110) ruidv2.cpp = Revised Uniwersal identification Direct V2
+
+111) skrypt.cpp = Wzor aplikacji Alex AI (Beta)
+
+112) sourceFuncionChef.txt = Zrodlo szefostwa Alex AI
+
+113) sponsor_podziekowania.py = Plik dla sponsorow.
+
+114) string_stream.d = Stara wersja Stream Android
+
+115) superstars_system.py = Autor Alex AI spiewa od dziewieciu lat follow up i od pieciu lat programuje dlatego nazwalem sie superstar
+
+116) top ten features of alex.ai = Top dziesiec Fukcji Alex AI 
+
+117) top_10_friends = Top dziesiec przyjaciol wedlug Alex AI 
+
+118) trustfactor_alex_ai.py = Wspolczynnik zaufania 
+
+119) twince_auth.py = Blizniacza autryzacja 2FA
+
+120) whatsapp_chef_uid.py = Mianowanie Instagram szefem UiD
+
+121) wzór umowy B2B.py = Jak juz skoncze www.alex.ai to bede podpisywal umowy dotyczace Alex AI
+
+122) zgodaAi.py = Zgoda na integracje oprogramowania ukladowego w systemie Alex AI
+
+123) zuck.py = plik definiuje fukcje Mark Zuckerberg
+
+
+
+ 
