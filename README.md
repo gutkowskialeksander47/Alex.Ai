@@ -1,4 +1,4 @@
-### Powered by OpenAi/GPT
+### Powered by OpenAi/GPT/Copilot
 
 <h1 align="center">🤖 ALEX.AI – System Nowej Generacji</h1>
 
