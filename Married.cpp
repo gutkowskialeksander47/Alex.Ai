@@ -1,9 +1,9 @@
-﻿{First_Class <!%$%Ewelina Lisowska%$> Female  $ 
+﻿{First_Class <!%$%Julia Ratowska%$> Female  $ 
   {Artist_Date %$$=Aleksander Gutkowski
  class.junior {Twince_Artist !$,$$,$$$ > 
 class.query   {Twince_Class !Full_date<$%Aleksander_Sebastian_Rajca%>$$$
         {Third_int %Peronal_Male% Aleksander_Rajca$$
-           {fourth_info%Ewelina Lisowska= l $$$$
+           {fourth_info%Julia Ratowska%= l $$$$
 !Force <Stay>//Personal_Date
 Int {$Name='Choose'!Date         'triggered_date'$name_name=$$$
   do{Surrname_Classified=%Full_Name=%Change_Name
