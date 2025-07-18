@@ -1,0 +1,6 @@
+E-Phone
+Funkcja eksperymentalna
+
+E-Phone to funkcja eksperymentalna stworzona w ramach systemu Alex AI, której celem jest umożliwienie użytkownikom podglądu działań autora w środowisku Android. Dzięki E-Phone można w czasie rzeczywistym obserwować aktywności takie jak: praca w aplikacjach, komunikacja czy analiza danych w obrębie systemu operacyjnego.
+
+Deweloper Android wytłumaczy dokładnie zasady działania E-Phone, a docelowo funkcja ta może zostać udostępniona jako narzędzie edukacyjne i demonstracyjne dla zaufanych użytkowników oraz zespołu Alex AI.
