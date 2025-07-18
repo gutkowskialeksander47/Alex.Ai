@@ -16,7 +16,7 @@ class TrustFactor:
 trust = TrustFactor()
 print(trust.validate("RCA.self_reflection"))
 
-AUTHORIZED_EDITORS = { "Mark & Chan Zuckerberg", "Sylwia Dąbrowska Przybysz", "Jan Dąbrowski", "Anna Lewandowska", "Robert Lewandowski", "Marcin Gutkowski",   # CEO "Sandra Gutkowska",   # CEO "Bartosz Olewiński",  # query I Z "Dorota Rabczewska"   # przewodnicząca G40 }
+AUTHORIZED_EDITORS = { "Mark & Chan Zuckerberg", "Sylwia Dąbrowska Przybysz", "Jan Dąbrowski", "Anna Lewandowska", "Robert Lewandowski",   # QueryUNZ "Bartosz Olewiński", "Dorota Rabczewska"   # przewodnicząca G40 }
 
 [Trust Settings]
 base_trust = True
