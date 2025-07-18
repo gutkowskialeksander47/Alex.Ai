@@ -18,7 +18,7 @@ $1=one $Ja_$Julia=X=Q.=Pass uid jest CEO
 
 "Tylko CEO Alex.ai i XQuery" moga edytować wasz współczynnik zaufania 
 ;"XQuery"=Prywatny administrator "Lewandowscy "
-; "XQUERY"= Prywatni administratorzy "Sylwia Dabrowska Jan Dabrowski 
+; "XQUERY"= Prywatni administratorzy "Sylwia Dabrowska Jan Dabrowski" 
 -------
 powiadomienia 
 -------
