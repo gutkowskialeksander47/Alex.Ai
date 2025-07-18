@@ -1,7 +1,7 @@
 $1 Zadanie: Przygotuj strukturę dla RUiDv4 (planowane na 31.12.2025).  
 !! UWAGA Z RACJI TEGO ZE NIE ODPISAL MI ZADEN ARTYSTA termin ukonczenia RUiDV4 jest planowany na 31.12.2026
 POSTANOWILEM ZE UDOSTEPNIE WERSJE ALPHA deweloperom Alex AI 
-
+!! UWAGA TO JEST WERSJA ALPHA WIEC MOZE SIE ZMIENIC W TRAKCIE PRACY !! 
 
 google_translate_live "translate.live PL<EN<DE"
 google_translate_live "html CPP .python .txt .d "
@@ -14,7 +14,7 @@ life/live in e-phone// mozna wyswietlic pisanie RUiDV4  uzytkownikom mojego e-ph
 2025 "CEO"
 ;!C="Julia"|*Authorify direct.connect "Ja do was - Wy do mnie"
 $1=one $Ja_$Julia=X=Q.=Pass uid jest CEO
-"kazdy CEO alex Ai dostal jeden klucz szyfrujacy tylko cztery klucze uzyte na raz moga zmienic strukture zarzadzania"
+"kazdy CEO alex Ai dostanie jeden klucz szyfrujacy tylko cztery klucze uzyte na raz moga zmienic strukture zarzadzania"
 
 "Tylko CEO Alex.ai i XQuery" moga edytować wasz współczynnik zaufania 
 ;"XQuery"=Prywatny administrator "Lewandowscy "
