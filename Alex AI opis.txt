@@ -246,6 +246,8 @@
 
 123) zuck.py = plik definiuje fukcje Mark Zuckerberg
 
+124) Alex AI Privacy and Security Module.py = Fragment ktory pozwala uzytkownikowi zarzadzac jego danymi w systemie Alex AI
+
 
 
  
