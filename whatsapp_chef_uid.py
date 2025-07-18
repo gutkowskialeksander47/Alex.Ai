@@ -13,7 +13,7 @@ class UiDProject:
     def __init__(self):
         self.project_name = "User Identification and Data"
         self.project_lead = "Instagram"
-        self.integrated_with = ["alex.ai", "Meta", "WhatsApp"]
+        self.integrated_with = ["alex.ai", "Meta", "WhatsApp","Instagram" ]
         self.features = [
             "Strategiczne Planowanie",
             "Zarządzanie Zespołem",
