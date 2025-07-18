@@ -43,8 +43,12 @@ Użytkownik akceptuje, że system Alex AI może gromadzić i analizować dane w 
 
 Kościół jest uznany za duchowego operatora SUiD, mając priorytetowy dostęp do systemu oraz możliwość aktywacji duchowego wsparcia użytkownika. Licencja honoruje współpracę z Kościołem jako instytucją nadzorczą dobra technologicznego.
 
+
 7. Prawa Autorskie
 
 Całość projektu chroniona jest prawem autorskim. Wszelkie prawa zastrzeżone © 2021–2025 Aleksander Rajca.
+
+8. Analiza tekstu Alex AI 
+Wyrazam zgode na analizowanie moich tresci przez OpenAI Meta AI Github i Copilot. W celu usprawnienia i poprawienia dzialania informacji o systemie Alex AI 
 
 
