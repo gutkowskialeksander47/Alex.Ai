@@ -1,4 +1,4 @@
-# 📁 Nawigacja po Plikach Alex.AI
+# 📁 Nawigacja po Plikach Alex.AI (Plik w budowie)
 
 > Główna struktura plików w repozytorium [Alex.AI](https://github.com/gutkowskialeksander47/Alex.Ai)
 
