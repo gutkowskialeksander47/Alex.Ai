@@ -25,11 +25,11 @@ Funkcja: Baza użytkowników polskich, integracja z systemami rządowymi. Polacy
 
 ---
 
-3. [sql zuck] – Meta / Zuckerberg
+3. [sql MSC] – Microsoft/ Bill_Gates
 
-Źródło: Integracja z platformami Meta (Facebook, Instagram, Messenger, WhatsApp)
+Źródło: Integracja z platformami Microsoft (Windows, Copilot, Azure)
 
-Funkcja: Synchronizacja użytkowników z Meta do systemu Alex AI
+Funkcja: Synchronizacja użytkowników z Microsoft do systemu Alex AI
 
 
 
