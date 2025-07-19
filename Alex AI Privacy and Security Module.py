@@ -1,4 +1,5 @@
 # --- Alex AI Privacy and Security Module ---
+# --- Uprawnienia uzytkownika do wgladu i edycji swoich danych w systemie Alex AI ---
 
 class PrivacySecurityModule:
     def __init__(self):
